@@ -1,5 +1,37 @@
 [
   {
+    "time": "2026-03-20T05:53:23Z",
+    "window_hours": 6,
+    "article_count": 4,
+    "overall_summary": "This batch of articles covers sports news and a climate-related lawsuit. The sports stories include a record-breaking NBA performance, a preview of the Women's Asian Cup final, and a report about an Iranian footballer's expulsion from the national team. The non-sports article details a lawsuit by Pakistani farmers against German companies over the 2022 floods.",
+    "articles": [
+      {
+        "title": "Luka Doncic scores 60 points as Lakers rally to defeat Heat in NBA | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/20/luka-doncic-scores-60-points-as-lakers-rally-to-defeat-heat-in-nba",
+        "published": "2026-03-20T03:22:03Z",
+        "summary": "Luka Doncic scored 60 points, setting a record for the most points ever scored against the Miami Heat, to lead the Los Angeles Lakers to a 134-126 road victory. The Lakers, who won their eighth straight game, also got a triple-double from LeBron James. The Heat, missing two key injured players, led early but were outscored in the second half."
+      },
+      {
+        "title": "Why Pakistani farmers are suing two German companies for deadly 2022 floods | Climate Crisis | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/20/why-pakistani-farmers-are-suing-two-german-companies-for-deadly-2022-floods",
+        "published": "2026-03-20T04:22:09Z",
+        "summary": "Thirty-nine Pakistani farmers from Sindh province are suing two German companies, RWE and Heidelberg Materials, alleging their greenhouse gas emissions contributed to the catastrophic 2022 floods. The floods, described as a climate-induced disaster, killed over 1,700 people and caused an estimated $40bn in damages. The farmers' case relates to the companies being among major industrial producers of historical carbon emissions."
+      },
+      {
+        "title": "Japan vs Australia: Women’s Asian Cup final – team news, start and lineups | AFC Asian Cup News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/20/japan-vs-australia-womens-asian-cup-final-team-news-start-and-lineups",
+        "published": "2026-03-20T04:45:40Z",
+        "summary": "Hosts Australia will face Japan in the AFC Women's Asian Cup final at Stadium Australia in Sydney. Australia, seeking their first major trophy and redemption after a 2023 World Cup semifinal loss at the same venue, has lost both previous Asian Cup finals to Japan. Japan, the highest-ranked team, has been dominant in the tournament with a perfect record and clean sheets leading to the final."
+      },
+      {
+        "title": "Iran footballer Azmoun kicked off national team for disloyalty, say reports | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports",
+        "published": "2026-03-20T04:59:37Z",
+        "summary": "Reports from Iranian media state that striker Sardar Azmoun has been expelled from the national team for a perceived act of disloyalty. The reports link the expulsion to an Instagram post showing Azmoun with Dubai's ruler, which drew criticism from state TV pundits. His absence would weaken Iran's squad ahead of the upcoming FIFA World Cup, though the national football federation has not officially commented."
+      }
+    ]
+  },
+  {
     "time": "2026-03-20T02:11:34Z",
     "window_hours": 6,
     "article_count": 8,
