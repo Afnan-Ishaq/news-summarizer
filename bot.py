@@ -15,6 +15,7 @@ from dotenv import load_dotenv
 # =========================
 BASE_DIR = Path(__file__).resolve().parent
 ENV_PATH = BASE_DIR / ".env"
+os.makedirs("data", exist_ok=True)
 
 # Explicitly load .env from the same folder as this script
 load_dotenv(dotenv_path=ENV_PATH)
@@ -27,7 +28,7 @@ HOURS_BACK = 6
 MAX_ARTICLES_PER_RUN = 30
 MAX_CHARS_PER_ARTICLE = 3000
 
-OUTPUT_DIR = BASE_DIR / "output"
+OUTPUT_DIR = BASE_DIR / "data"
 SUMMARIES_TXT_PATH = OUTPUT_DIR / "summaries.txt"
 SUMMARIES_JSON_PATH = OUTPUT_DIR / "summaries.json"
 SEEN_URLS_PATH = OUTPUT_DIR / "seen_urls.json"
