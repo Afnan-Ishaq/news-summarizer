@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-03-20T02:07:42Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last six hours, including military incidents in the US-Iran conflict, domestic US legal and political developments, FIFA disciplinary and financial news, ongoing violence in Gaza, a sports controversy in Africa, a cartel raid in Mexico, and a US commission approving a commemorative coin featuring Donald Trump.
+
+ARTICLE BREAKDOWN
+[1] US F-35 aircraft makes emergency landing after a combat mission over Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-19T21:01:22Z
+URL: https://www.aljazeera.com/news/2026/3/19/us-f-35-aircraft-makes-emergency-landing-after-a-combat-mission-over-iran
+Summary: A US F-35 fighter jet made an emergency landing at a Middle East airbase after a combat mission over Iran, with the pilot reported in stable condition. US Central Command confirmed the landing is under investigation, while CNN reported the aircraft may have been hit by Iran, and Iran's Revolutionary Guard Corps claimed it targeted a US aircraft. The article also provides context on US war objectives and casualty figures since the conflict began on February 28.
+
+[2] US states file lawsuit challenging Trump’s revocation of climate finding | Donald Trump News | Al Jazeera
+Published: 2026-03-19T21:07:29Z
+URL: https://www.aljazeera.com/news/2026/3/19/us-states-file-lawsuit-challenging-trumps-revocation-of-climate-finding
+Summary: A coalition of 23 US states, led by California and New York, has filed a legal petition challenging the Trump administration's revocation of the 'endangerment finding,' a key scientific determination that climate change threatens human health and the environment. The lawsuit, filed in the US Court of Appeals, also challenges the repeal of tailpipe emissions standards for certain vehicle model years. State officials accuse the administration of choosing 'Big Oil profits over our health' and denying the reality of climate change.
+
+[3] FIFA fines Israel FA citing racism and ‘multiple’ discrimination breaches | Football News | Al Jazeera
+Published: 2026-03-19T21:11:42Z
+URL: https://www.aljazeera.com/sports/2026/3/19/israel-fined-by-fifa-citing-racism-and-multiple-discrimination-breaches
+Summary: FIFA has fined the Israeli Football Association (IFA) 150,000 Swiss francs for multiple breaches of its anti-discrimination obligations, citing a failure to take meaningful action against club Beitar Jerusalem for 'persistent and well-documented racist behaviour.' The disciplinary committee highlighted racist slogans and chants by Beitar fans as part of a systemic pattern. In a separate investigation, FIFA took no action against the IFA regarding Israeli clubs based in the occupied West Bank participating in its leagues.
+
+[4] FIFA details Infantino’s $6m deal with 33% Club World Cup bonus increase | World Cup 2026 News | Al Jazeera
+Published: 2026-03-19T21:27:42Z
+URL: https://www.aljazeera.com/sports/2026/3/19/fifa-details-infantinos-6m-deal-with-33-club-world-cup-bonus-increase
+Summary: FIFA President Gianni Infantino received a 33% increase in his annual bonus in 2025, part of a $6 million pay package, following the first monthlong men's Club World Cup. His basic salary remained unchanged, but his bonus rose to 2.2 million Swiss francs. FIFA also published accounts targeting $14 billion in revenue for the 2027-30 cycle, which includes future World Cups and Club World Cup editions, with plans to allocate $2.7 billion in development funds.
+
+[5] Israel continues Gaza attacks amid regional war, kills several Palestinians | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-03-19T22:00:17Z
+URL: https://www.aljazeera.com/news/2026/3/19/israel-continues-gaza-attacks-amid-regional-war-kills-several-palestinians
+Summary: Israeli drone strikes in Gaza City killed at least three Palestinians and wounded others, according to doctors at al-Shifa Hospital. The attacks occurred as the Rafah border crossing with Egypt reopened for limited medical evacuations after a 19-day closure by Israel. The Palestinian Red Crescent Society stated only eight wounded Palestinians and 17 family members would be allowed into Egypt for treatment on Thursday.
+
+[6] Senegal and Morocco tied by religion and trade but divided by AFCON fallout | Africa Cup of Nations News | Al Jazeera
+Published: 2026-03-19T22:51:26Z
+URL: https://www.aljazeera.com/sports/2026/3/19/senegal-and-morocco-tied-by-religion-and-trade-but-divided-by-afcon-fallout
+Summary: The Confederation of African Football (CAF) overturned Senegal's Africa Cup of Nations victory and awarded the title to Morocco, a decision met with disbelief in Senegal. Senegal's government is pursuing legal avenues and called for an investigation into suspected corruption, while its football federation is preparing a case for the Court of Arbitration for Sport. The controversy strains the close ties between the two nations, which are built on shared religion, trade, and culture.
+
+[7] Mexican military says 11 killed in raid targeting Sinaloa cartel leader | Crime News | Al Jazeera
+Published: 2026-03-19T23:15:47Z
+URL: https://www.aljazeera.com/news/2026/3/19/mexican-military-says-11-killed-in-raid-targeting-sinaloa-cartel-leader
+Summary: Mexican naval forces killed 11 people during a raid in Culiacan that captured Omar Oswaldo Torres, leader of the Los Mayos faction of the Sinaloa Cartel. The navy stated its personnel were attacked and returned fire, seizing high-powered weapons at the scene. The operation is part of broader regional efforts against cartels, though experts warn such 'decapitation strategies' can increase long-term violence and fail to address root causes like poverty and corruption.
+
+[8] US arts commission approves gold coin stamped with Donald Trump’s face | Donald Trump News | Al Jazeera
+Published: 2026-03-19T23:54:22Z
+URL: https://www.aljazeera.com/news/2026/3/19/us-arts-commission-approves-gold-coin-stamped-with-donald-trumps-face
+Summary: The US Commission of Fine Arts, composed of Trump appointees, unanimously approved a commemorative gold coin featuring a portrait of Donald Trump. The coin may sidestep a federal law prohibiting living presidents on currency, as it is commemorative and not for circulation. Critics, including a US senator, denounced the move as unlawful and akin to actions by 'monarchs and dictators,' while the administration also plans to put Trump's face on a $1 coin.
+
+================================================================================
 RUN TIME UTC: 2026-03-20T01:36:01Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
