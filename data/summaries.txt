@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-03-20T20:35:13Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last six hours. Major themes include escalating tensions in the US-Israel war on Iran, with political statements and regional impacts. Other stories involve sports commentary, US domestic lawsuits, a celebrity death, and diplomatic refusals related to the conflict.
+
+ARTICLE BREAKDOWN
+[1] Guardiola sidesteps Arsenal League Cup final rivalry as ‘world collapses’ | Football News | Al Jazeera
+Published: 2026-03-20T15:47:05Z
+URL: https://www.aljazeera.com/sports/2026/3/20/guardiola-sidesteps-arsenal-rivalry-while-world-is-going-to-collapse
+Summary: Manchester City manager Pep Guardiola refused to engage in pre-match rivalry talk with Arsenal's Mikel Arteta ahead of the League Cup final, stating that 'the world is going to collapse' and there are more important issues. He referenced past tensions where City players accused Arsenal of using 'dark arts' but praised Arsenal as an 'exceptional team'. Arteta said his professional relationship with Guardiola had to change due to their rivalry, but his personal admiration remains.
+
+[2] ‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran | News | Al Jazeera
+Published: 2026-03-20T15:49:05Z
+URL: https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on
+Summary: US President Donald Trump called NATO allies 'COWARDS' on social media for not supporting the US-Israel war on Iran and helping to secure the Strait of Hormuz, which Iran has effectively closed. He accused them of complaining about high oil prices while avoiding military help. The UK announced it is allowing the US to use its bases for 'collective self-defence' operations in the region, while NATO said it is 'adjusting' its mission in Iraq, relocating personnel.
+
+[3] Iran’s Khamenei says enemy ‘defeated’ in written Nowruz message | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-20T16:38:53Z
+URL: https://www.aljazeera.com/news/2026/3/20/irans-khamenei-says-enemy-defeated-in-written-nowruz-message
+Summary: Iran's Supreme Leader Mojtaba Khamenei, in a written Nowruz (Persian New Year) message, said the country's enemies are being 'defeated' due to national unity amid ongoing US and Israeli attacks. He claimed the enemy expected the government to fall quickly but miscalculated. Khamenei also denied Iran was responsible for attacks in Turkiye and Oman, calling them 'false flag' incidents, and called for an end to fighting between Afghanistan and Pakistan.
+
+[4] Cuba ‘categorically’ rejects prospect of removing Diaz-Canel in US talks | Miguel Diaz-Canel News | Al Jazeera
+Published: 2026-03-20T18:10:24Z
+URL: https://www.aljazeera.com/news/2026/3/20/cuba-categorically-rejects-prospect-of-removing-diaz-canel-in-us-talks
+Summary: Cuban Vice Foreign Minister Carlos Fernandez de Cossio categorically denied that Cuba is negotiating with the US over the removal of President Miguel Diaz-Canel, stating the political system and its officials are not subject to negotiation. This was a response to reports that the Trump administration is seeking Diaz-Canel's ouster. The article notes Trump has implemented measures like a fuel blockade to weaken Cuba's government.
+
+[5] Trump administration seeks billions from Harvard in anti-Semitism lawsuit | Donald Trump News | Al Jazeera
+Published: 2026-03-20T18:28:44Z
+URL: https://www.aljazeera.com/news/2026/3/20/trump-administration-seeks-billions-from-harvard-over-anti-semitism-claims
+Summary: The Trump administration has filed a lawsuit against Harvard University, seeking billions in restitution for allegedly allowing anti-Semitism to flourish and neglecting the civil rights of Jewish and Israeli students. Harvard rejected the suit as 'pretextual and retaliatory,' stating it has taken steps to address anti-Semitism. The lawsuit suggests seeking to recoup federal grants awarded since October 2023, when protests over the war in Gaza erupted.
+
+[6] Iranians celebrate Persian New Year in first wartime Nowruz in decades | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-20T18:41:04Z
+URL: https://www.aljazeera.com/news/2026/3/20/iranians-celebrate-persian-new-year-in-first-wartime-nowruz-in-decades
+Summary: Iranians celebrated Nowruz, the Persian New Year, during wartime for the first time since the 1980s Iran-Iraq war, despite ongoing US and Israeli bombardment. In Tehran, people queued for flowers and exchanged greetings, with some air defence batteries firing celebratory shots at the new year. Residents reported the city felt more crowded as some people returned home, though life remains disrupted by attacks and a near-total internet shutdown.
+
+[7] Walker, Texas Ranger star and martial arts icon Chuck Norris dies at 86 | Obituaries News | Al Jazeera
+Published: 2026-03-20T18:58:52Z
+URL: https://www.aljazeera.com/news/2026/3/20/walker-texas-ranger-star-and-martial-arts-icon-chuck-norris-dies-at-86
+Summary: Martial arts icon and actor Chuck Norris has died at age 86, according to a family statement. Norris was a six-time karate champion who rose to fame in 1980s action films and the TV series 'Walker, Texas Ranger.' His family described his death as sudden and said he was surrounded by family and at peace.
+
+[8] Sri Lanka says it denied US request to land two aircraft at Mattala airport | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-20T19:21:09Z
+URL: https://www.aljazeera.com/news/2026/3/20/sri-lanka-says-it-denied-us-request-to-land-two-aircraft-at-mattala-airport
+Summary: Sri Lanka's President Anura Kumara Dissanayake said his government denied a US request to land two combat aircraft at Mattala Rajapaksa International Airport in early March to maintain neutrality in the US-Israel war on Iran. The request was made on February 26, two days before the war began. He also said Sri Lanka denied a concurrent request from Iran for naval vessels to visit, to avoid taking sides.
+
+[9] QatarEnergy CEO says warned US, industry officials against attack on energy | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-20T19:34:34Z
+URL: https://www.aljazeera.com/news/2026/3/20/qatarenergy-ceo-says-warned-us-industry-officials-against-attack-on-energy
+Summary: QatarEnergy CEO Saad al-Kaabi said he repeatedly warned US officials and energy executives about the 'negative consequences' of attacking Iranian energy infrastructure before Iran retaliated by striking Qatar's Ras Laffan LNG complex. He said the attack destroyed critical cooling units, impacting 17% of Qatar's export capacity, with full recovery taking years. A White House spokesperson said they were aware of potential short-term disruptions.
+
+================================================================================
 RUN TIME UTC: 2026-03-20T15:44:12Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
