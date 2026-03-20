@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Summaries</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f7fb;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    .page {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .container {
+      background: #ffffff;
+      padding: 32px;
+      border-radius: 16px;
+      box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+    }
+
+    h1 {
+      margin: 0 0 8px 0;
+      font-size: 2rem;
+    }
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 12px;
+      font-size: 1.4rem;
+    }
+
+    h3 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      font-size: 1.1rem;
+    }
+
+    .subtitle {
+      color: #6b7280;
+      margin-bottom: 28px;
+    }
+
+    .run-block {
+      margin-bottom: 32px;
+      padding: 24px;
+      border: 1px solid #e5e7eb;
+      border-radius: 14px;
+      background: #ffffff;
+    }
+
+    .latest-run {
+      border: 2px solid #2563eb;
+      background: #fcfdff;
+    }
+
+    .meta {
+      color: #4b5563;
+      margin-bottom: 18px;
+    }
+
+    .overall {
+      background: #eef4ff;
+      border-left: 4px solid #2563eb;
+      padding: 16px;
+      border-radius: 10px;
+      margin-bottom: 22px;
+    }
+
+    .articles-section {
+      margin-top: 10px;
+    }
+
+    .article-card {
+      margin-bottom: 14px;
+      border: 1px solid #e5e7eb;
+      border-radius: 10px;
+      background: #fff;
+      overflow: hidden;
+    }
+
+    .article-card summary {
+      list-style: none;
+      cursor: pointer;
+      padding: 16px;
+      font-weight: 600;
+    }
+
+    .article-card summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .summary-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: flex-start;
+    }
+
+    .article-title {
+      flex: 1;
+    }
+
+    .article-date {
+      color: #6b7280;
+      white-space: nowrap;
+      font-size: 0.92rem;
+    }
+
+    .article-body {
+      padding: 0 16px 16px 16px;
+      border-top: 1px solid #f0f0f0;
+    }
+
+    .previous-runs-wrapper {
+      margin-top: 10px;
+      border: 1px solid #dbe3f0;
+      border-radius: 12px;
+      background: #fafcff;
+      overflow: hidden;
+    }
+
+    .previous-runs-wrapper > summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 700;
+      background: #f3f7ff;
+      list-style: none;
+    }
+
+    .previous-runs-wrapper > summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .previous-runs-content {
+      padding: 20px;
+    }
+
+    .footer {
+      margin-top: 28px;
+      padding-top: 18px;
+      border-top: 1px solid #e5e7eb;
+      font-size: 0.95rem;
+      color: #6b7280;
+    }
+
+    .footer a {
+      margin-right: 16px;
+      color: #2563eb;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 700px) {
+      .summary-row {
+        flex-direction: column;
+      }
+
+      .article-date {
+        white-space: normal;
+      }
+
+      .container {
+        padding: 22px;
+      }
+
+      .run-block {
+        padding: 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <div class="container">
+      <h1>News Summaries</h1>
+      <div class="subtitle">Latest run first, with previous runs available below.</div>
+
+      
+    <section class="run-block latest-run">
+      <h2>Latest Run</h2>
+      <div class="meta">
+        <strong>Run time:</strong> 2026-03-20T02:11:34Z<br>
+        <strong>Window:</strong> Last 6 hours<br>
+        <strong>Articles used:</strong> 8
+      </div>
+
+      
+        <div class="overall">
+          <h3>Overall Summary</h3>
+          <p>The articles cover a range of international news from the last six hours, including military incidents in the US-Iran conflict, domestic US legal and political developments, FIFA disciplinary and financial news, ongoing violence in Gaza, a sports controversy in Africa, a cartel raid in Mexico, and a US commemorative coin approval.</p>
+        </div>
+        
+
+      <div class="articles-section">
+        <h3>Articles</h3>
+        
+        <details class="article-card">
+          <summary>
+            <div class="summary-row">
+              <span class="article-title">US F-35 aircraft makes emergency landing after a combat mission over Iran | US-Israel war on Iran News | Al Jazeera</span>
+              <span class="article-date">2026-03-19T21:01:22Z</span>
+            </div>
+          </summary>
+          <div class="article-body">
+            <p>A US F-35 fighter jet made an emergency landing at a Middle Eastern airbase after a combat mission over Iran, landing safely with the pilot in stable condition. US Central Command confirmed the incident is under investigation. CNN reported, citing anonymous sources, that the aircraft was likely hit by Iran, and Iran&#x27;s Revolutionary Guard Corps claimed it targeted a US aircraft, though the US has not confirmed the cause.</p>
+            <p><a href="https://www.aljazeera.com/news/2026/3/19/us-f-35-aircraft-makes-emergency-landing-after-a-combat-mission-over-iran" target="_blank" rel="noopener noreferrer">Read original article</a></p>
+          </div>
+        </details>
+        
+        <details class="article-card">
+          <summary>
+            <div class="summary-row">
+              <span class="article-title">US states file lawsuit challenging Trump’s revocation of climate finding | Donald Trump News | Al Jazeera</span>
+              <span class="article-date">2026-03-19T21:07:29Z</span>
+            </div>
+          </summary>
+          <div class="article-body">
+            <p>A coalition of 23 US states, led by California and New York, has filed a legal petition challenging the Trump administration&#x27;s revocation of the &#x27;endangerment finding,&#x27; a key scientific determination that climate change threatens human health and the environment. The lawsuit, filed in the US Court of Appeals, also challenges the repeal of tailpipe emissions standards for certain vehicle model years. The states argue the revocation unlawfully removes foundational protections for addressing climate change.</p>
+            <p><a href="https://www.aljazeera.com/news/2026/3/19/us-states-file-lawsuit-challenging-trumps-revocation-of-climate-finding" target="_blank" rel="noopener noreferrer">Read original article</a></p>
+          </div>
+        </details>
+        
+        <details class="article-card">
+          <summary>
+            <div class="summary-row">
+              <span class="article-title">FIFA fines Israel FA citing racism and ‘multiple’ discrimination breaches | Football News | Al Jazeera</span>
+              <span class="article-date">2026-03-19T21:11:42Z</span>
+            </div>
+          </summary>
+          <div class="article-body">
+            <p>FIFA has fined the Israeli Football Association (IFA) 150,000 Swiss francs for multiple breaches of its anti-discrimination obligations, citing a failure to take meaningful action against Beitar Jerusalem for persistent racist behavior. The disciplinary committee highlighted &#x27;deficient and substantively inadequate&#x27; sanctions against the club. In a separate investigation, FIFA announced no action would be taken against the IFA over allegations concerning Israeli clubs based in the occupied West Bank.</p>
+            <p><a href="https://www.aljazeera.com/sports/2026/3/19/israel-fined-by-fifa-citing-racism-and-multiple-discrimination-breaches" target="_blank" rel="noopener noreferrer">Read original article</a></p>
+          </div>
+        </details>
+        
+        <details class="article-card">
+          <summary>
+            <div class="summary-row">
+              <span class="article-title">FIFA details Infantino’s $6m deal with 33% Club World Cup bonus increase | World Cup 2026 News | Al Jazeera</span>
+              <span class="article-date">2026-03-19T21:27:42Z</span>
+            </div>
+          </summary>
+          <div class="article-body">
+            <p>FIFA President Gianni Infantino received a 33% increase in his annual bonus last year, part of a $6 million pay package, as detailed in FIFA&#x27;s latest accounts. His bonus rose to 2.2 million Swiss francs, linked to the first monthlong men&#x27;s Club World Cup. FIFA also set a budget target of $14 billion in revenue for the 2027-30 cycle, which includes future World Cups and development allocations.</p>
+            <p><a href="https://www.aljazeera.com/sports/2026/3/19/fifa-details-infantinos-6m-deal-with-33-club-world-cup-bonus-increase" target="_blank" rel="noopener noreferrer">Read original article</a></p>
+          </div>
+        </details>
+        
+        <details class="article-card">
+          <summary>
+            <div class="summary-row">
+              <span class="article-title">Israel continues Gaza attacks amid regional war, kills several Palestinians | Israel-Palestine conflict News | Al Jazeera</span>
+              <span class="article-date">2026-03-19T22:00:17Z</span>
+            </div>
+          </summary>
+          <div class="article-body">
+            <p>Israeli drone strikes in Gaza City killed at least three Palestinians and wounded others, according to doctors at al-Shifa Hospital. The attacks occurred as the Rafah border crossing with Egypt reopened for limited medical evacuations after a 19-day closure. The Palestinian Red Crescent Society stated only eight wounded Palestinians and 17 family members would be allowed into Egypt for treatment.</p>
+            <p><a href="https://www.aljazeera.com/news/2026/3/19/israel-continues-gaza-attacks-amid-regional-war-kills-several-palestinians" target="_blank" rel="noopener noreferrer">Read original article</a></p>
+          </div>
+        </details>
+        
+        <details class="article-card">
+          <summary>
+            <div class="summary-row">
+              <span class="article-title">Senegal and Morocco tied by religion and trade but divided by AFCON fallout | Africa Cup of Nations News | Al Jazeera</span>
+              <span class="article-date">2026-03-19T22:51:26Z</span>
+            </div>
+          </summary>
+          <div class="article-body">
+            <p>The Confederation of African Football (CAF) overturned Senegal&#x27;s Africa Cup of Nations victory and awarded the title to Morocco, a decision met with disbelief in Senegal. Senegal&#x27;s government says it will pursue legal avenues and called for an investigation into suspected corruption. The move strains the close ties between the two nations, which are built on shared religion, trade, and cultural exchanges.</p>
+            <p><a href="https://www.aljazeera.com/sports/2026/3/19/senegal-and-morocco-tied-by-religion-and-trade-but-divided-by-afcon-fallout" target="_blank" rel="noopener noreferrer">Read original article</a></p>
+          </div>
+        </details>
+        
+        <details class="article-card">
+          <summary>
+            <div class="summary-row">
+              <span class="article-title">Mexican military says 11 killed in raid targeting Sinaloa cartel leader | Crime News | Al Jazeera</span>
+              <span class="article-date">2026-03-19T23:15:47Z</span>
+            </div>
+          </summary>
+          <div class="article-body">
+            <p>Mexican authorities say 11 people were killed during a raid in Culiacan that resulted in the capture of Omar Oswaldo Torres, leader of the Los Mayos faction of the Sinaloa Cartel. The Mexican Navy stated its personnel were attacked and returned fire, killing the assailants, and seized high-powered weapons. The raid is part of broader regional efforts against cartels, though experts warn such &#x27;decapitation strategies&#x27; can increase long-term violence.</p>
+            <p><a href="https://www.aljazeera.com/news/2026/3/19/mexican-military-says-11-killed-in-raid-targeting-sinaloa-cartel-leader" target="_blank" rel="noopener noreferrer">Read original article</a></p>
+          </div>
+        </details>
+        
+        <details class="article-card">
+          <summary>
+            <div class="summary-row">
+              <span class="article-title">US arts commission approves gold coin stamped with Donald Trump’s face | Donald Trump News | Al Jazeera</span>
+              <span class="article-date">2026-03-19T23:54:22Z</span>
+            </div>
+          </summary>
+          <div class="article-body">
+            <p>The US Commission of Fine Arts, composed of Trump appointees, unanimously approved plans for a commemorative gold coin featuring a portrait of Donald Trump. The coin may sidestep federal law prohibiting living presidents on currency, as it is commemorative and not for circulation. The Trump administration has also advanced plans to put the president&#x27;s face on a $1 coin, which critics denounce as unlawful and inappropriate for a democracy.</p>
+            <p><a href="https://www.aljazeera.com/news/2026/3/19/us-arts-commission-approves-gold-coin-stamped-with-donald-trumps-face" target="_blank" rel="noopener noreferrer">Read original article</a></p>
+          </div>
+        </details>
+        
+      </div>
+    </section>
+    
+
+      
+
+      <div class="footer">
+        <a href="summaries.json" target="_blank" rel="noopener noreferrer">View JSON</a>
+        <a href="summaries.txt" target="_blank" rel="noopener noreferrer">View TXT</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
