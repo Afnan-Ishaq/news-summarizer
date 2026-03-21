@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-03-21T20:28:47Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+This batch of articles covers a range of international news from the last 6 hours, including geopolitical analysis on energy in the Middle East, military incidents in Bahrain, US domestic politics, the death of a former FBI director, severe flooding in Hawaii, humanitarian conditions in Gaza, and EU energy security concerns. The stories are largely connected to the ongoing regional conflict and its wider repercussions.
+
+ARTICLE BREAKDOWN
+[1] Arab states should beware of Israel’s hegemonic energy expansion | Energy | Al Jazeera
+Published: 2026-03-21T16:01:31Z
+URL: https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion
+Summary: This opinion piece argues that Israel is expanding its energy control in the region, which could advance a colonialist agenda. It details how Egypt and Jordan, which are increasingly dependent on Israeli gas imports, have recently signed agreements to supply gas to Syria and Lebanon. The article notes conflicting reports about whether the gas being exported is of Israeli origin.
+
+[2] Bahrain says Patriot system intercepted drone over homes | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-21T16:02:46Z
+URL: https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes
+Summary: A Bahraini official stated that a Patriot air defence system intercepted an Iranian drone over a residential area on March 9, preventing casualties. This account differs from the US military's statement on the same day, which said an Iranian drone struck a neighbourhood, injuring civilians. Bahrain's government has not addressed the discrepancy between the two accounts.
+
+[3] Trump threatens to deploy ICE to airports amid Homeland Security shutdown | Donald Trump News | Al Jazeera
+Published: 2026-03-21T16:57:54Z
+URL: https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown
+Summary: US President Donald Trump threatened to deploy Immigration and Customs Enforcement (ICE) agents to conduct airport security amid a partial government shutdown affecting the Department of Homeland Security. He blamed Democrats for the impasse and said ICE would focus on arresting undocumented immigrants, with 'heavy emphasis' on those from Somalia. Trump has repeatedly made derogatory statements about Somalis and Somali Americans.
+
+[4] Former FBI chief Robert Mueller, known for Trump investigation, dead at 81 | Politics News | Al Jazeera
+Published: 2026-03-21T17:42:27Z
+URL: https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81
+Summary: Robert Mueller, the former FBI director and special counsel who led the investigation into Russian interference in the 2016 US election, has died at age 81. His death was marked by an acrimonious post from former President Donald Trump, while Democratic figures remembered him as a public servant. Mueller's tenure included reforming the FBI after 9/11 but also overseeing controversial surveillance practices.
+
+[5] Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people | Weather News | Al Jazeera
+Published: 2026-03-21T18:01:23Z
+URL: https://www.aljazeera.com/news/2026/3/21/flash-flooding-swamps-hawaii-prompting-evacuation-orders-for-5500-people
+Summary: Heavy rains have caused the worst flooding in Hawaii in 20 years, prompting evacuation orders for about 5,500 people on Oahu's north shore. Officials warned of a high risk of road failure and expressed particular concern about the potential failure of the 120-year-old Wahiawa dam. No deaths have been reported, but at least 200 people have been rescued and 10 hospitalized with hypothermia.
+
+[6] Eid without toys: Israeli restrictions drive up prices in Gaza | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-03-21T18:03:20Z
+URL: https://www.aljazeera.com/features/2026/3/21/eid-without-toys-israeli-restrictions-drive-up-prices-in-gaza
+Summary: A feature story describes how Israeli restrictions on imports into Gaza have led to severe toy shortages and exorbitant prices ahead of the Eid holiday. It focuses on a displaced mother, Rania al-Saudi, who cannot afford dolls for her daughters due to prices that have quadrupled since before the war. The article illustrates the war's impact on daily life and children's experiences in Gaza.
+
+[7] EU urges members to start storing winter gas as Iran war causes price surge | Oil and Gas News | Al Jazeera
+Published: 2026-03-21T19:24:11Z
+URL: https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge
+Summary: The European Union has urged member states to start early on filling gas storage for next winter after attacks on energy facilities in the Gulf caused prices to surge. Energy Commissioner Dan Jorgensen suggested lowering the storage target to 80% and starting early to mitigate price pressure. The call follows an Iranian attack on Qatar's LNG facility, which has reduced global supply and increased competition, though the EU's direct supply from Qatar is limited.
+
+================================================================================
 RUN TIME UTC: 2026-03-21T15:27:44Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
