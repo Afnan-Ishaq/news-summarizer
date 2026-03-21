@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-03-21T02:03:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+The articles cover US military and legal actions in Latin America, a historic extradition from Costa Rica, a US investigation into Colombia's president, and a US court ruling on press freedom. The stories focus on drug enforcement, international justice, political tensions, and media rights.
+
+ARTICLE BREAKDOWN
+[1] US says it struck alleged drug trafficking vessel in Pacific, killing two | Donald Trump News | Al Jazeera
+Published: 2026-03-20T20:30:08Z
+URL: https://www.aljazeera.com/news/2026/3/20/us-says-it-struck-alleged-drug-trafficking-vessel-in-pacific-killing-two
+Summary: The US military announced it attacked an alleged drug trafficking vessel in the eastern Pacific, killing two people and recovering one survivor. This strike is part of Operation Southern Spear, a campaign that has killed at least 159 people in 46 incidents since September 2025. The Trump administration argues the strikes deter drug trafficking, but international legal scholars have denounced them as extrajudicial killings.
+
+[2] Ex-minister Gamboa targeted in Costa Rica’s first extradition to the US | Crime News | Al Jazeera
+Published: 2026-03-20T20:39:59Z
+URL: https://www.aljazeera.com/news/2026/3/20/ex-minister-gamboa-targeted-in-costa-ricas-first-extradition-to-the-us
+Summary: Costa Rica has extradited citizens to the US for the first time in recent history, including former Supreme Court justice Celso Gamboa, who is accused of using government connections to traffic cocaine. This follows a 2025 constitutional amendment that allowed extradition for drug-trafficking and terrorism suspects, with certain conditions. The extradition is seen as part of a broader regional trend of aggressive tactics to combat organized crime in Latin America.
+
+[3] Colombia’s President Gustavo Petro under investigation in US for drug ties | Donald Trump News | Al Jazeera
+Published: 2026-03-20T22:58:09Z
+URL: https://www.aljazeera.com/news/2026/3/20/colombias-president-gustavo-petro-under-investigation-in-us-for-drug-ties
+Summary: Colombian President Gustavo Petro is named in two separate US criminal investigations examining whether he met with drug traffickers and solicited campaign donations from them, according to a New York Times report. Petro has denied the claims, stating he has never spoken with a drug trafficker and that the investigations will exonerate him. The report's timing is noted as significant, coming months before Colombia's presidential election, with experts suggesting it could influence the political outcome.
+
+[4] US judge sides with New York Times against Pentagon journalism policies | Donald Trump News | Al Jazeera
+Published: 2026-03-20T23:07:20Z
+URL: https://www.aljazeera.com/news/2026/3/20/us-judge-sides-with-new-york-times-against-pentagon-journalism-policies
+Summary: A US federal judge blocked the Trump administration from enforcing a Pentagon policy that limited news reporters' access, siding with The New York Times which argued the rules were unlawful. Judge Paul Friedman ruled the policy violates journalists' constitutional rights to free speech and due process by restricting press credentials. The ruling is described as a rejection of efforts to impede freedom of the press and reporting on government actions.
+
+================================================================================
 RUN TIME UTC: 2026-03-20T20:35:13Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
