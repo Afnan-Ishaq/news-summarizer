@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-03-22T20:30:03Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+The articles cover escalating military conflicts in the Middle East, particularly between Iran and a US-Israel alliance, with strikes and threats exchanged. Other stories detail regional consequences like a fuel crisis affecting a Pakistani cricket league, warnings of a potential Israeli ground invasion in Lebanon, ongoing violence in Gaza, and a US domestic crisis over airport security funding.
+
+ARTICLE BREAKDOWN
+[1] Iranian authorities taunt US, Israel, EU amid strikes and assassinations | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-22T15:25:01Z
+URL: https://www.aljazeera.com/news/2026/3/22/iranian-authorities-taunt-us-israel-eu-amid-strikes-and-assassinations
+Summary: Iranian military and political authorities are projecting confidence amid escalating war with the US and Israel, citing recent joint air raids and assassination attempts in Iran. Top officials, including Parliament speaker Mohammad Bagher Ghalibaf, stated that Iranian missile strikes on Israel's Dimona mark a 'new stage of battle' where 'Israel’s skies are defenceless'. The article also reports on Iranian officials making taunting remarks towards the US, Israel, and the EU.
+
+[2] Pakistan T20 cricket league to be held in empty stadiums amid oil crisis | Cricket News | Al Jazeera
+Published: 2026-03-22T16:00:40Z
+URL: https://www.aljazeera.com/news/2026/3/22/pakistan-super-league-matches-to-be-held-in-empty-stadiums-amid-oil-crisis
+Summary: The Pakistan Super League (PSL) will be held without crowds and only in two cities, Lahore and Karachi, due to a fuel shortage caused by the Middle East conflict. PCB chairman Mohsin Naqvi said the decision was made because the government has asked citizens to restrict movements amid soaring oil prices, and having crowds would be contradictory. The opening ceremony is cancelled, tickets will be refunded, and several foreign players have pulled out of the tournament.
+
+[3] Did Israel miscalculate Iranian military capabilities? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-22T16:14:24Z
+URL: https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities
+Summary: The article questions if Israel underestimated Iran's military capabilities after Iranian missile strikes wounded at least 180 people near the Israeli nuclear facility in Dimona. It describes Iran's missile programme as the Middle East's largest and most varied, comprising ballistic and cruise missiles with different ranges. Analysts suggest these systems, developed over decades, give Tehran significant reach despite its lack of a modern air force.
+
+[4] Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks | Russia-Ukraine war News | Al Jazeera
+Published: 2026-03-22T17:42:52Z
+URL: https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks
+Summary: Ukrainian President Volodymyr Zelenskyy has called for continued sanctions pressure on Russia, specifically targeting its 'shadow fleet' of oil tankers, ahead of a second day of US-Ukraine talks in Florida. He stated that Russia increased its crude oil sales over the past week, using revenues to finance its war. Zelenskyy emphasized that tankers serving Russia's war budget 'must be stopped and blocked' to maintain economic pressure.
+
+[5] Lebanon’s Aoun warns Israeli attack on bridge ‘prelude to ground invasion’ | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-03-22T18:48:15Z
+URL: https://www.aljazeera.com/news/2026/3/22/lebanons-aoun-calls-israel-strikes-on-bridges-prelude-to-ground-invasion
+Summary: Lebanese President Joseph Aoun has described an Israeli strike on the Qasmiyeh Bridge, a key crossing in southern Lebanon, as a 'prelude to ground invasion'. The attack followed an order from Israeli Defence Minister Israel Katz to destroy all crossings over the Litani River. The Israeli army chief stated that the operation against Hezbollah 'has only begun' and would be prolonged, involving prepared ground operations.
+
+[6] Israeli air strikes on Gaza kill four Palestinians | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-03-22T20:17:33Z
+URL: https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians
+Summary: Israeli air strikes in Gaza have killed four Palestinians, including three local police members in the Nuseirat refugee camp. Gaza's Health Ministry says at least 680 Palestinians have been killed since a ceasefire took effect in October. The article also reports on intensified violence in the occupied West Bank, with the UN stating over 30,000 Palestinians have been forcibly displaced there recently.
+
+[7] Trump sends US immigration agents to airports as shutdown chaos deepens | Migration News | Al Jazeera
+Published: 2026-03-22T20:24:06Z
+URL: https://www.aljazeera.com/news/2026/3/22/trump-sends-us-immigration-agents-to-airports-as-shutdown-chaos-deepens
+Summary: US President Donald Trump will deploy Immigration and Customs Enforcement (ICE) agents to major airports starting Monday to address a security crisis caused by a funding standoff. The Department of Homeland Security lacks funding, leading to unpaid TSA screeners, resignations, and long passenger queues. The move follows a political dispute where Democrats refuse to pass a full DHS funding bill without ICE reforms.
+
+================================================================================
 RUN TIME UTC: 2026-03-22T15:28:22Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
