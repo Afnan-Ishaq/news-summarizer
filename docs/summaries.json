@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-03-22T02:23:53Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "This batch of articles covers escalating military conflicts in the Middle East, including a major hospital attack in Sudan and a dangerous tit-for-tat exchange between Iran and Israel. It also reports on diplomatic expulsions, a cleared ICC prosecutor, and political warnings from Brazil's president.",
+    "articles": [
+      {
+        "title": "‘Tears and grief’: Mother’s Day in Gaza marked by mourning | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/21/tears-and-grief-mothers-day-in-gaza-marked-by-mourning",
+        "published": "2026-03-21T20:45:16Z",
+        "summary": "The article describes Mother's Day in Gaza as a day of grief and hardship, with mothers mourning children lost in the war and children mourning their mothers. It features personal accounts from displaced Palestinians, including a mother who lost three sons and a 14-year-old girl who lost her mother. An Amnesty International report cited in the article highlights the severe consequences for women and girls during the conflict."
+      },
+      {
+        "title": "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report | ICC News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/21/icc-chief-prosecutor-khan-cleared-of-sexual-misconduct-by-judges-report",
+        "published": "2026-03-21T22:08:23Z",
+        "summary": "A panel of judges has cleared International Criminal Court (ICC) Chief Prosecutor Karim Khan of all wrongdoing following an investigation into alleged sexual misconduct, according to a Middle East Eye report. The report states the judges found the factual findings did not establish misconduct. Khan had taken voluntary leave from his position in May while awaiting the inquiry's results."
+      },
+      {
+        "title": "WHO says attack on Sudan hospital killed 64, including 13 children | Sudan war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children",
+        "published": "2026-03-21T22:43:25Z",
+        "summary": "The head of the World Health Organization (WHO) says an attack on a teaching hospital in Sudan's Darfur region killed at least 64 people, including 13 children, two nurses, and a doctor. The attack damaged key departments, rendering the facility non-functional. This incident brings the total number of fatalities linked to attacks on health facilities during Sudan's war to over 2,000."
+      },
+      {
+        "title": "Iran strikes towns near Israel’s nuclear site, wounds over 100 | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/21/iran-strikes-towns-near-israels-nuclear-site-in-escalating-tit-for-tat",
+        "published": "2026-03-21T22:57:24Z",
+        "summary": "Iranian missile strikes on the Israeli towns of Dimona and Arad wounded more than 100 people. Iranian state television framed the strikes as retaliation for an earlier attack on Iran's Natanz nuclear facility. The International Atomic Energy Agency (IAEA) said it received no indication of damage to the Dimona nuclear research center itself."
+      },
+      {
+        "title": "Saudi Arabia expels Iran military attache, four embassy staff | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/21/saudi-arabia-expels-iran-military-attache-and-four-team-members",
+        "published": "2026-03-21T23:00:56Z",
+        "summary": "Saudi Arabia has given Iran's military attache and four other embassy staff 24 hours to leave the kingdom, citing 'repeated Iranian attacks' on its territory. The move follows attacks on Saudi energy facilities and a drone strike on the Red Sea port of Yanbu. The Saudi Foreign Ministry warned that continued attacks would have significant consequences for bilateral relations."
+      },
+      {
+        "title": "‘They want to colonise us’: Brazil’s Lula warns of foreign interference | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/21/they-want-to-colonise-us-brazils-lula-warns-of-foreign-interference",
+        "published": "2026-03-21T23:35:56Z",
+        "summary": "Brazilian President Luiz Inacio Lula da Silva criticized what he called a colonial approach towards developing nations, gesturing at actions by the United States without naming it directly. He referenced US policies towards Cuba, Venezuela, and the war on Iran, questioning their motives. Lula warned that foreign powers now want to control critical minerals and 'colonise us again'."
+      },
+      {
+        "title": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants",
+        "published": "2026-03-22T01:16:57Z",
+        "summary": "US President Donald Trump threatened to attack Iran's power plants if freedom of navigation is not fully restored in the Strait of Hormuz within 48 hours. Iran responded by saying it would target all US energy infrastructure in the region if attacked. The ultimatum comes as shipping traffic through the vital waterway has virtually ground to a halt during the war."
+      }
+    ]
+  },
+  {
     "time": "2026-03-21T20:28:47Z",
     "window_hours": 6,
     "article_count": 7,
