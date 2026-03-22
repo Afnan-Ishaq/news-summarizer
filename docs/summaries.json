@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-03-22T10:29:28Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours. Major themes include a military helicopter crash in Qatar, escalating conflict between the US-Israel alliance and Iran, and elections in Slovenia and Italy. Other stories detail a nationwide blackout in Cuba and a feature on homelessness in Delhi.",
+    "articles": [
+      {
+        "title": "‘Can’t live like this’: Cuba hit by second nationwide blackout in a week",
+        "url": "https://www.aljazeera.com/news/2026/3/22/cant-live-like-this-cuba-hit-by-second-nationwide-blackout-in-a-week",
+        "published": "2026-03-22T07:57:18Z",
+        "summary": "Cuba experienced its second nationwide blackout in less than a week, marking the third major grid collapse in March. The outage was caused by a failure at the Nuevitas thermoelectric plant, leading to a cascading effect. The article states the blackouts are exacerbated by a US-imposed oil blockade and the loss of Venezuela as a main oil supplier."
+      },
+      {
+        "title": "‘I count their breaths’: A homeless mother protects her children in Delhi",
+        "url": "https://www.aljazeera.com/features/longform/2026/3/22/i-count-their-breaths-a-homeless-mother-protects-her-children-in-delhi",
+        "published": "2026-03-22T08:18:05Z",
+        "summary": "This feature profiles Abida Begum, a homeless mother living with her five children on a Delhi pavement. She describes a life of constant vigilance to protect her children from harassment, theft, and the elements, often going hungry so they can eat. The article details their daily struggles, including the lack of privacy, sanitation, and basic security."
+      },
+      {
+        "title": "Six dead as Qatar military helicopter crashes after ‘technical malfunction’",
+        "url": "https://www.aljazeera.com/news/2026/3/22/six-killed-as-qatar-army-helicopter-crashes-due-to-technical-malfunction-2",
+        "published": "2026-03-22T08:27:07Z",
+        "summary": "A Qatari military helicopter crashed in the country's territorial waters due to a technical malfunction, killing six of the seven people on board. The deceased included Qatari military personnel, a Turkish soldier, and Turkish civilian collaborators. The crash occurred amid heightened regional tensions, with Qatar having recently faced Iranian attacks on its energy infrastructure."
+      },
+      {
+        "title": "Iran war: What’s happening on day 23 of US-Israel attacks?",
+        "url": "https://www.aljazeera.com/news/2026/3/22/iran-war-whats-happening-on-day-23-of-us-israel-attacks",
+        "published": "2026-03-22T08:33:28Z",
+        "summary": "On the 23rd day of conflict, US President Donald Trump threatened to attack Iranian power plants if the Strait of Hormuz is not reopened within 48 hours. Israel launched new attacks on Tehran, while Iran continued retaliatory strikes, injuring nearly 100 people near an Israeli nuclear facility. The article also notes Saudi Arabia intercepted Iranian drones and expelled Iranian diplomatic staff."
+      },
+      {
+        "title": "Slovenia’s governing liberals face right-wing populists in tight election",
+        "url": "https://www.aljazeera.com/news/2026/3/22/slovenias-governing-liberals-face-right-wing-populists-in-tight-election",
+        "published": "2026-03-22T08:53:45Z",
+        "summary": "Slovenians are voting in a tight parliamentary election between incumbent liberal Prime Minister Robert Golob and right-wing populist Janez Jansa. Neither candidate is likely to win a parliamentary majority, making smaller coalition partners decisive. A victory for Jansa, an admirer of Donald Trump, could shift Slovenia's foreign policy, reversing moves like recognizing Palestine and imposing an arms embargo on Israel."
+      },
+      {
+        "title": "Why the world should worry about Israel’s nuclear doctrine",
+        "url": "https://www.aljazeera.com/opinions/2026/3/22/why-the-world-should-worry-about-israels-nuclear-doctrine",
+        "published": "2026-03-22T09:01:21Z",
+        "summary": "This opinion piece argues that Israel's nuclear doctrine, based on 'nuclear opacity,' sets a dangerously low threshold for the use of nuclear weapons. It states that Israeli strategic thinking, shaped by a fear of existential threat, could consider nuclear use against a non-nuclear state if national survival is believed to be at risk. The author contends this risk is heightened by Israel's current multi-front conflicts."
+      },
+      {
+        "title": "Italians vote in high-stakes justice referendum in key test for Meloni",
+        "url": "https://www.aljazeera.com/news/2026/3/22/italians-vote-in-high-stakes-justice-referendum-in-key-test-for-meloni",
+        "published": "2026-03-22T10:01:22Z",
+        "summary": "Italians are voting in a two-day referendum on contested judicial reforms proposed by Prime Minister Giorgia Meloni's government. Meloni says the reforms will make the judiciary more independent, but critics argue they are a political power grab that weakens judicial independence. The vote is seen as a key political test for Meloni ahead of parliamentary elections next year."
+      }
+    ]
+  },
+  {
     "time": "2026-03-22T05:54:47Z",
     "window_hours": 6,
     "article_count": 2,
