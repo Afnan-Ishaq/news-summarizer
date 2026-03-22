@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-03-22T15:28:22Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "This batch of articles covers escalating military actions and threats in the Middle East, primarily focusing on the US-Israel war on Iran and its regional consequences. It also includes one article on a domestic Canadian legal case concerning religious freedom.",
+    "articles": [
+      {
+        "title": "Aftermath of Iranian missile strikes near Israel’s nuclear facility | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/3/22/aftermath-of-iranian-missiles-strikes-near-israels-nuclear-centre",
+        "published": "2026-03-22T10:34:48Z",
+        "summary": "Iranian missiles struck two communities in southern Israel, wounding at least 180 people and damaging buildings near Israel's main nuclear research centre. This was reportedly the first time Iranian missiles penetrated Israeli air defences in that area. The strikes came after Iran's Natanz nuclear facility was hit earlier the same day, an attack Israel denied responsibility for."
+      },
+      {
+        "title": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know | Explainer News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/22/did-iran-launch-missiles-at-us-uk-base-on-diego-garcia-heres-what-to-know",
+        "published": "2026-03-22T13:03:57Z",
+        "summary": "The United Kingdom condemned what it called an Iranian missile attack on the joint US-UK military base on Diego Garcia in the Indian Ocean, but an Iranian official denied responsibility. US media reported two ballistic missiles were launched, with one failing mid-flight and the other intercepted. An analyst suggested that if confirmed, the attack demonstrates a longer missile range than previously known for Iran."
+      },
+      {
+        "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues",
+        "published": "2026-03-22T13:09:57Z",
+        "summary": "A Hezbollah rocket attack from Lebanon killed one person in northern Israel, marking the first such death since the US-Israel war on Iran began over three weeks ago. The attack occurred as Israel sent more troops into southern Lebanon, where its ground invasion has reportedly killed over 1,000 people. Israel's defence minister ordered the military to speed up the demolition of Lebanese homes and destroy bridges over the Litani River."
+      },
+      {
+        "title": "Iran says will hit region’s energy sites if US, Israel target power plants | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants",
+        "published": "2026-03-22T13:42:25Z",
+        "summary": "Iran's parliament speaker warned that critical energy infrastructure across the Middle East would be 'irreversibly destroyed' if the US or Israel targeted Iranian power plants. This threat was a response to US President Donald Trump's ultimatum to open the Strait of Hormuz or face attacks on Iran's power plants. Iran's Revolutionary Guard Corps also stated it would completely shut the Strait of Hormuz if such threats were executed."
+      },
+      {
+        "title": "Canada’s Supreme Court must strike down Quebec’s Bill 21 | Human Rights | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/22/canadas-supreme-court-must-strike-down-quebecs-bill-21",
+        "published": "2026-03-22T14:25:45Z",
+        "summary": "This opinion piece argues that Canada's Supreme Court must strike down Quebec's Bill 21, a law that prohibits certain public sector workers from wearing visible religious symbols. The author contends the law, passed using a constitutional override clause, effectively excludes people of faith from public employment and sends a message of exclusion to young people. The case raises fundamental questions about religious freedom and the limits of state power in a democracy."
+      },
+      {
+        "title": "Trump’s changing messages on Iran war: What does it say about US strategy? | Explainer News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy",
+        "published": "2026-03-22T14:51:27Z",
+        "summary": "The article examines contradictory messages from the Trump administration regarding the US-Israel war on Iran, now in its fourth week. It notes President Trump recently threatened to 'obliterate' Iran's power plants, a day after suggesting the US was 'winding down' military operations. Analysts cited say Trump launched the war without a clear goal and misjudged Iran's response, which has included retaliatory attacks and a de facto blockade of the Strait of Hormuz."
+      }
+    ]
+  },
+  {
     "time": "2026-03-22T10:29:28Z",
     "window_hours": 6,
     "article_count": 7,
