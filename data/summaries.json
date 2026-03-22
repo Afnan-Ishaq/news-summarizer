@@ -1,5 +1,25 @@
 [
   {
+    "time": "2026-03-22T05:54:47Z",
+    "window_hours": 6,
+    "article_count": 2,
+    "overall_summary": "The articles cover two distinct events from the last 6 hours. One reports on a series of violent attacks by Israeli settlers against Palestinians in the occupied West Bank. The other details a mixed martial arts fight result that sets up a future championship bout.",
+    "articles": [
+      {
+        "title": "Casualties as Israeli settlers set fire to homes and cars in West Bank | Occupied West Bank News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank",
+        "published": "2026-03-22T04:58:22Z",
+        "summary": "Israeli settlers set fire to homes and vehicles in at least two areas of the occupied West Bank near Jenin, wounding at least one person. The attacks, which occurred during Eid al-Fitr celebrations, also included incidents in Masafer Yatta and other villages involving assaults and stone-throwing. Settler violence in the West Bank has intensified since the war in Gaza began, with over 1,000 Palestinians killed in the territory according to UN figures."
+      },
+      {
+        "title": "Evloev upsets Murphy, sets up featherweight title shot against Volkanovski | Mixed Martial Arts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/22/evloev-upsets-murphy-sets-up-featherweight-title-shot-against-volkanovski",
+        "published": "2026-03-22T05:23:38Z",
+        "summary": "Russia's Movsar Evloev defeated the previously unbeaten Lerone Murphy by majority decision at UFC Fight Night 270 in London. Despite a point deduction for a foul, Evloev's performance, including a strong grappling attack in the final round, secured the win. The victory is expected to earn him a title fight against featherweight champion Alexander Volkanovski."
+      }
+    ]
+  },
+  {
     "time": "2026-03-22T02:23:53Z",
     "window_hours": 6,
     "article_count": 7,
