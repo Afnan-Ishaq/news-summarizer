@@ -1,5 +1,79 @@
 [
   {
+    "time": "2026-03-23T16:02:05Z",
+    "window_hours": 6,
+    "article_count": 11,
+    "overall_summary": "The articles cover a range of topics centered on the ongoing US-Israel war on Iran and its regional and global repercussions. Key themes include escalating military actions, diplomatic maneuvers, domestic policy shifts in the US, and related incidents of violence and investigation elsewhere.",
+    "articles": [
+      {
+        "title": "Threats over Iran war bare Trump efforts to transform free speech: Experts | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/threats-over-iran-war-bare-trump-efforts-to-transform-free-speech-experts",
+        "published": "2026-03-23T11:10:05Z",
+        "summary": "The article reports that FCC Chairman Brendan Carr, referencing the war on Iran, threatened to revoke broadcast licenses for 'hoaxes and news distortions' not in the 'public interest,' a statement cheered by President Trump. Free speech advocates argue the Trump administration is using regulators to transform constitutionally protected speech rights, with actions described as more robust than previous administrations."
+      },
+      {
+        "title": "Iraq pulled into Iran war as US targets Iran-aligned groups | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/iraq-pulled-into-iran-war-as-us-targets-iran-aligned-groups",
+        "published": "2026-03-23T11:10:44Z",
+        "summary": "The article states that Iraq is increasingly caught in the regional conflict as the US carried out strikes against Iran-aligned Popular Mobilisation Forces (PMF) in Baghdad. It notes the attacks put Iraqi authorities in a difficult position balancing relations with the US and armed groups. Economic woes are deepening as Iraq declared force majeure on oilfields due to Strait of Hormuz disruptions, cutting off crucial revenue."
+      },
+      {
+        "title": "Trump postpones military strikes on Iranian power plants for five days | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants",
+        "published": "2026-03-23T11:13:47Z",
+        "summary": "President Trump announced he ordered the US military to postpone strikes on Iranian power plants for five days, citing 'very good and productive conversations' with Iran about resolving hostilities. He claimed Iran wants a deal and must give up its enriched uranium, and that the Strait of Hormuz would reopen if a deal happens. The announcement brought relief and caused oil prices to drop after earlier spikes."
+      },
+      {
+        "title": "Has Iran brought down an ‘unkillable’ US F-35 jet? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/has-iran-brought-down-an-unkillable-us-f-35-jet",
+        "published": "2026-03-23T11:18:10Z",
+        "summary": "The article reports that after a US F-35 fighter jet made an emergency landing in the Middle East, unnamed sources and Iranian state media claimed it was struck by Iran during the war. US Central Command confirmed the aircraft landed safely and the pilot was stable, stating the incident is under investigation. If confirmed, it would be the first time an F-35 has been struck by Iran in the conflict."
+      },
+      {
+        "title": "UK police investigate Jewish charity ambulance arson as hate crime | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/uk-police-investigate-jewish-charity-ambulance-arson-as-hate-crime",
+        "published": "2026-03-23T11:42:02Z",
+        "summary": "UK police are investigating the arson of four ambulances belonging to the Jewish charity Hatzola Northwest in London as an anti-Semitic hate crime. No one was injured, but gas cylinder explosions damaged nearby properties. Prime Minister Keir Starmer condemned the attack, stating antisemitism has no place in society, while police search for three suspects."
+      },
+      {
+        "title": "Trump shares SNL skit mocking Starmer as he speaks to UK PM over Iran war | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/trump-shares-snl-skit-mocking-starmer-as-he-speaks-to-uk-pm-over-iran-war",
+        "published": "2026-03-23T11:42:09Z",
+        "summary": "President Trump shared a video of a British SNL skit mocking UK Prime Minister Keir Starmer's apparent panic over a call with him. This occurred on the same evening the two leaders discussed the Iran war. Trump has previously criticized NATO allies, including the UK, for not supporting US efforts to reopen the Strait of Hormuz, calling them 'cowards.'"
+      },
+      {
+        "title": "‘Substantial evidence’ of double-tap strike in killing of Gaza’s Hind Rajab | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/substantial-evidence-of-double-tap-strike-in-killing-of-gazas-hind-rajab",
+        "published": "2026-03-23T12:27:57Z",
+        "summary": "A report by Avaaz claims there is 'substantial evidence' that the 2024 killing of five-year-old Hind Rajab and two Red Crescent paramedics in Gaza was a deliberate 'double-tap' attack by the Israeli army. The analysis suggests the strikes contravened international law and indicate a systematic tactic of targeting first responders. The group is urging the ICC to pursue justice for what it alleges is a war crime."
+      },
+      {
+        "title": "‘False flag attack’: Iran denies claims it fired missiles at Diego Garcia | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/iran-denies-targeting-us-uk-diego-garcia-airbase-claims-false-flag-attack",
+        "published": "2026-03-23T13:00:11Z",
+        "summary": "Iran has denied targeting the US-UK military base on Diego Garcia with missiles, dismissing the claim as an 'Israeli false flag' attack. Foreign Ministry spokesman Esmaeil Baghaei cited NATO's inability to confirm the claim as evidence of disinformation. If true, the attack would suggest Iran possesses missiles with a range exceeding 4,000km, a capability it has previously said it limits."
+      },
+      {
+        "title": "Energy, water, bonds: What are Iran’s targets if Trump hits power plants? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/energy-water-bonds-what-are-irans-targets-if-trump-hits-power-plants",
+        "published": "2026-03-23T15:13:50Z",
+        "summary": "The article examines the potential targets Iran might strike if the US attacks its power plants, following Trump's ultimatum over the Strait of Hormuz. It notes Trump has since paused such strikes for five days, claiming productive talks, which Iran denies. Iranian officials have threatened to retaliate against power plants in Israel and the Gulf, and warned of further Strait closures if attacks continue."
+      },
+      {
+        "title": "Trump deploys ICE agents to US airports amid staffing issues, delays | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/trump-deploys-ice-agents-to-us-airports-amid-staffing-issues-delays",
+        "published": "2026-03-23T15:13:54Z",
+        "summary": "The Department of Homeland Security has begun deploying hundreds of ICE agents to assist with security at US airports experiencing staffing shortages and delays due to a funding standoff. The deployment, which Trump supports, is intended to help TSA, but Democrats and observers warn it could fuel tensions. Many TSA agents have been working without pay due to the budget dispute."
+      },
+      {
+        "title": "Which countries have strategic oil reserves – and how much? | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much",
+        "published": "2026-03-23T15:24:26Z",
+        "summary": "The article explains that due to Iran's blockade of the Strait of Hormuz, International Energy Agency members have agreed to release 400 million barrels from strategic oil reserves—the largest such draw in history. It describes strategic petroleum reserves as emergency stockpiles used during crises like wars. The disruption has caused oil prices to surge above $100 a barrel, prompting this coordinated response."
+      }
+    ]
+  },
+  {
     "time": "2026-03-23T10:53:34Z",
     "window_hours": 6,
     "article_count": 7,
