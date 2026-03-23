@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-03-23T20:39:06Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The articles cover a range of international news from the last six hours, focusing primarily on the ongoing US-Israel war with Iran and its global repercussions. Other stories include EU tensions with Hungary, a political defeat in Italy, and two separate aviation accidents.",
+    "articles": [
+      {
+        "title": "Trump can declare victory in Iran – and he should | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he",
+        "published": "2026-03-23T17:42:04Z",
+        "summary": "This opinion piece by a former Trump surrogate argues that President Trump's military strategy against Iran has been successful. It claims his approach of hitting hard and fast, rather than engaging in prolonged negotiations or nation-building, has led to a clear military victory. The author contends this has weakened Iran's military and nuclear ambitions, achieving the mission's objectives without an endless war."
+      },
+      {
+        "title": "Why the oil and gas price shock from the Iran war won’t just fade away | Oil and Gas | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away",
+        "published": "2026-03-23T18:06:18Z",
+        "summary": "This analysis argues the current energy price shock due to the war on Iran is more severe and lasting than the 2022 shock from the Russia-Ukraine war. It states the closure of the Strait of Hormuz and attacks on infrastructure have physically removed a significant portion of supply from the market, unlike the 2022 situation which involved rerouted flows. The International Energy Agency's assessment indicates this is the largest supply disruption in oil market history."
+      },
+      {
+        "title": "Iran denies any talks with US after Trump claims ‘productive’ discussions | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions",
+        "published": "2026-03-23T18:21:54Z",
+        "summary": "Senior Iranian officials have denied holding talks with the United States, contradicting President Trump's claim of 'productive conversations.' Parliament Speaker Mohammad Bagher Ghalibaf called the report 'fakenews' meant to manipulate markets. The denials come as the war continues, with Israel launching fresh attacks on Tehran and Iran keeping the Strait of Hormuz closed, which has driven up global energy prices."
+      },
+      {
+        "title": "EU calls for clarification after Hungary accused of leaking info to Russia | European Union News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/eu-calls-for-clarification-after-hungary-accused-of-leaking-info-to-russia",
+        "published": "2026-03-23T18:36:16Z",
+        "summary": "The European Commission has demanded clarification from Hungary following a report that its foreign minister leaked details of EU negotiations to Russia. Hungary's Foreign Minister Peter Szijjarto rejected the report as 'fake news.' The allegations come amid tense EU-Hungary relations, notably over Hungary blocking a loan to Ukraine, and Prime Minister Viktor Orban has ordered an investigation into alleged wiretapping of his minister."
+      },
+      {
+        "title": "Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’ | Courts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/italys-meloni-concedes-referendum-defeat-calling-it-a-lost-opportunity",
+        "published": "2026-03-23T18:54:31Z",
+        "summary": "Italian Prime Minister Giorgia Meloni has conceded defeat in a referendum on her government's justice reform package. She called the result 'a lost opportunity to modernise Italy' but confirmed she would not resign. The proposed reforms, which aimed to separate the roles of judges and prosecutors and change an oversight body, faced intense opposition from critics who saw it as a political power grab."
+      },
+      {
+        "title": "Colombian military plane crash kills at least one | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff",
+        "published": "2026-03-23T19:11:27Z",
+        "summary": "A Colombian military plane carrying 125 people crashed after takeoff in the south of the country, killing at least one person. President Gustavo Petro stated 77 were injured and the status of 43 others was unknown. The Air Force confirmed the Hercules C-130 was transporting troops, and authorities are investigating the cause of the crash."
+      },
+      {
+        "title": "Air Canada crash at LaGuardia Airport: What happened, who were the victims? | Aviation News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims",
+        "published": "2026-03-23T19:44:27Z",
+        "summary": "Two people died after an Air Canada plane struck a fire truck while landing at New York's LaGuardia Airport. Authorities are investigating the cause, with early indications focusing on air traffic control coordination. Audio recordings reveal a controller urgently tried to stop the fire truck from crossing the runway seconds before the collision."
+      }
+    ]
+  },
+  {
     "time": "2026-03-23T16:02:05Z",
     "window_hours": 6,
     "article_count": 11,
