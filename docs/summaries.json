@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-03-23T02:24:35Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "The articles cover escalating geopolitical tensions affecting Cuba and global energy markets, key election results in Slovenia and France, and a major football match. The batch highlights international political instability and its economic repercussions.",
+    "articles": [
+      {
+        "title": "Emerging from latest blackout, Cuba says ready for any potential US attack",
+        "url": "https://www.aljazeera.com/news/2026/3/22/emerging-from-latest-blackout-cuba-says-ready-for-any-potential-us-attack",
+        "published": "2026-03-22T20:28:34Z",
+        "summary": "Cuba's Deputy Foreign Minister says the nation is prepared for any potential US military aggression, responding to threats from US President Trump. The statement comes as Cuba recovers from another nationwide blackout, which officials attribute to a failure at a thermoelectric plant. The country is facing a severe fuel shortage due to a US oil blockade imposed after Trump abducted Venezuela's President Maduro."
+      },
+      {
+        "title": "Slovenia’s liberals and conservatives neck and neck in parliamentary vote",
+        "url": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll",
+        "published": "2026-03-22T21:22:41Z",
+        "summary": "Slovenia's parliamentary election results show the governing centre-left Freedom Movement and the opposition right-wing Slovenian Democratic Party in a near tie. With neither main party securing a majority in the 90-seat parliament, future government formation will depend on negotiations with smaller parties. The election was preceded by controversy over allegations of foreign interference involving an Israeli spy firm."
+      },
+      {
+        "title": "Vinicius strikes twice as Real Madrid edge Atletico 3-2 in pulsating derby",
+        "url": "https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby",
+        "published": "2026-03-22T22:37:57Z",
+        "summary": "Real Madrid defeated Atletico Madrid 3-2 in a dramatic derby, with Vinicius Jr scoring two goals. Real came from behind twice to secure the win, keeping them within four points of La Liga leaders Barcelona. The match saw a red card for Real's Federico Valverde and a late Atletico shot hitting the post."
+      },
+      {
+        "title": "Socialist Emmanuel Gregoire wins Paris mayoral race",
+        "url": "https://www.aljazeera.com/news/2026/3/22/socialist-emmanuel-gregoire-wins-paris-mayoral-race",
+        "published": "2026-03-22T22:59:44Z",
+        "summary": "Socialist candidate Emmanuel Gregoire has won the Paris mayoral election, leading a coalition of traditional left, Green, and Communist parties. The results from nationwide municipal elections also showed the far-right National Rally falling short in key southern cities like Marseille and Toulon, though it celebrated breakthroughs in other areas. The far-right did win in Nice, with former conservative Eric Ciotti, now an RN ally, taking the mayoralty."
+      },
+      {
+        "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
+        "url": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran",
+        "published": "2026-03-23T01:56:28Z",
+        "summary": "Major Asian stock markets fell sharply following a US ultimatum demanding Iran reopen the Strait of Hormuz. President Trump threatened to destroy Iran's energy infrastructure if the strait is not reopened, with a deadline set for late Monday GMT. The threat has heightened fears of a wider energy crisis, causing oil price volatility and market declines across Japan, South Korea, Hong Kong, and Australia."
+      }
+    ]
+  },
+  {
     "time": "2026-03-22T20:30:03Z",
     "window_hours": 6,
     "article_count": 7,
