@@ -1,4 +1,18 @@
 ================================================================================
+RUN TIME UTC: 2026-03-23T06:11:01Z
+WINDOW: Last 6 hours
+ARTICLES USED: 1
+
+OVERALL SUMMARY
+The articles cover a dominant MotoGP victory in Brazil and a significant political development in Pakistan. The sports story details a championship lead change, while the political report focuses on a major party's decision to join a governing coalition.
+
+ARTICLE BREAKDOWN
+[1] Marco Bezzecchi dominates MotoGP Brazil for fourth straight victory | Motorsports News | Al Jazeera
+Published: 2026-03-23T04:50:11Z
+URL: https://www.aljazeera.com/sports/2026/3/23/marco-bezzecchi-dominates-motogp-brazil-for-fourth-straight-victory
+Summary: Aprilia rider Marco Bezzecchi won the Brazilian MotoGP for his fourth consecutive victory, taking the championship lead. He started second on the grid and controlled the race, finishing ahead of teammate Jorge Martin. The race distance was shortened due to track conditions, marking MotoGP's return to Brazil for the first time since 2004.
+
+================================================================================
 RUN TIME UTC: 2026-03-23T02:24:35Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
