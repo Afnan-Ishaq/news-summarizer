@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-03-24T02:09:23Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+The articles report on escalating military actions and political rhetoric in the Israel-Lebanon conflict, alongside a UN expert's condemnation of Israeli treatment of Palestinians. One details calls for annexation and intensified assaults in Lebanon, while the other accuses Israel of state-sanctioned torture.
+
+ARTICLE BREAKDOWN
+[1] Smotrich urges Israel to annex southern Lebanon as assault intensifies | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-03-23T21:27:33Z
+URL: https://www.aljazeera.com/news/2026/3/23/smotrich-urges-israel-to-annex-southern-lebanon-as-assault-intensifies
+Summary: Israel's Finance Minister Bezalel Smotrich has called for Israel to annex southern Lebanon up to the Litani River, stating the bombardment needs to create a 'different reality'. His comments come as Israel intensifies air and ground attacks on Lebanon, destroying civilian infrastructure and displacing over 1.2 million people, with Lebanese officials fearing it is a prelude to a broader ground invasion.
+
+[2] UN expert says world has given Israel ‘licence to torture Palestinians’ | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-03-23T22:58:33Z
+URL: https://www.aljazeera.com/news/2026/3/23/un-expert-says-world-has-given-israel-licence-to-torture-palestinians
+Summary: UN Special Rapporteur Francesca Albanese states that torture has effectively become state policy in Israel, accusing the international community of giving it a 'licence to torture Palestinians'. Her report describes a regime of 'organized humiliation, pain and degradation' in the occupied Palestinian territories, linking it to genocidal violence. Israel's mission to the UN condemned the report and Albanese, calling her an 'agent of chaos'.
+
+================================================================================
 RUN TIME UTC: 2026-03-23T20:39:06Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
