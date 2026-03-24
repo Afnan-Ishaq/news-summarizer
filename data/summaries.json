@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-03-24T06:00:39Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "The batch consists of a single sports report concerning a major coaching change in French football. It details a reported agreement for a legendary former player to take over the national team.",
+    "articles": [
+      {
+        "title": "Zinedine Zidane to take over as France coach this summer: Report | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/zinedine-zidane-to-take-over-as-france-coach-this-summer-report",
+        "published": "2026-03-24T05:04:26Z",
+        "summary": "A report from ESPN states that French football legend Zinedine Zidane has verbally agreed to become the head coach of the France national team after this summer's FIFA World Cup. He is set to replace Didier Deschamps, who has been in the role since 2012. Zidane previously managed Real Madrid and, as a player, helped France win the 1998 World Cup."
+      }
+    ]
+  },
+  {
     "time": "2026-03-24T02:09:23Z",
     "window_hours": 6,
     "article_count": 2,
