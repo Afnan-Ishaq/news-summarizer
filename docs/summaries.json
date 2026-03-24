@@ -1,5 +1,67 @@
 [
   {
+    "time": "2026-03-24T20:43:02Z",
+    "window_hours": 6,
+    "article_count": 9,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours. Major themes include sports controversies and announcements, escalating geopolitical conflicts, and significant legal and diplomatic developments.",
+    "articles": [
+      {
+        "title": "Palestinian FA calls for Israeli ban after FIFA discrimination report | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/palestine-fa-calls-for-israel-football-ban-after-fifa-discrimination-report",
+        "published": "2026-03-24T16:46:29Z",
+        "summary": "The Palestinian Football Association is calling for the Israeli Football Association to be banned from international institutions. This follows a FIFA report that found 'multiple breaches' of anti-discrimination obligations, for which the IFA was fined. The PFA chief cited the IFA's 'racist nature', alleged criminal activity by some officials, and the inclusion of clubs from Israeli West Bank settlements as grounds for the ban."
+      },
+      {
+        "title": "When are UEFA’s World Cup 2026 playoffs, and which nations are involved? | Sport News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/when-are-uefas-world-cup-2026-playoffs-and-which-nations-are-involved",
+        "published": "2026-03-24T16:46:37Z",
+        "summary": "The article details the final UEFA qualification playoffs for the 2026 FIFA World Cup. It lists the 16 European teams still competing for the final four European spots. The teams are divided into four paths, with single-leg semifinals on March 27 and pathway finals on March 31, the winners of which will qualify."
+      },
+      {
+        "title": "Anthropic challenges US Pentagon’s ban in San Francisco court showdown | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/3/24/anthropic-challenges-us-pentagons-ban-in-san-francisco-court-showdown",
+        "published": "2026-03-24T17:57:50Z",
+        "summary": "The AI company Anthropic is in court challenging the US Defense Department's decision to cut ties with it. The Pentagon banned Anthropic after it refused to remove safety guardrails preventing its Claude AI model from being used for autonomous weapons and mass surveillance. Anthropic's lawsuit claims the designation as a supply chain risk was unlawful retaliation for its advocacy on AI safety."
+      },
+      {
+        "title": "Afghanistan frees detained US citizen Dennis Coyle as gesture of ‘goodwill’ | Prison News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/afghanistan-frees-detained-us-citizen-dennis-coyle-as-gesture-of-goodwill",
+        "published": "2026-03-24T18:11:34Z",
+        "summary": "Afghanistan's Taliban government has released US citizen Dennis Coyle, who was detained for over a year. The Foreign Ministry said the Supreme Court deemed his detention period sufficient and decided on his release as a humanitarian gesture for Eid al-Fitr, following a plea from his family. US Secretary of State Marco Rubio welcomed the release, thanking the UAE and Qatar for their support."
+      },
+      {
+        "title": "Iran names successor to security chief killed in US-Israeli attack | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/mohammad-bagher-zolghadr-succeeds-slain-larijani-as-iran-security-chief",
+        "published": "2026-03-24T18:11:47Z",
+        "summary": "Iran has appointed former IRGC commander Mohammad Bagher Zolghadr as the new chief of the Supreme National Security Council, replacing Ali Larijani who was killed in a US-Israeli air strike. The appointment is seen as adding more military layers to Iran's national security establishment. Zolghadr's new role consolidates the IRGC's growing influence amid uncertainty in Iran's leadership following the succession of Supreme Leader Mojtaba Khamenei."
+      },
+      {
+        "title": "Aid flotilla vessel arrives in Cuba amid US-driven energy crisis | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/aid-flotilla-vessel-arrives-in-cuba-amid-us-driven-energy-crisis",
+        "published": "2026-03-24T19:06:12Z",
+        "summary": "The first boat of a humanitarian aid flotilla has arrived in Cuba, bringing food, medicine, and solar panels. Activists describe the delivery as a small 'gesture of solidarity' meant to draw attention to a worsening US energy blockade, which Cuban authorities say has resulted in a nearly total ban on petroleum imports for three months. The convoy comes as US President Donald Trump has expressed a desire for regime change in Cuba."
+      },
+      {
+        "title": "Egypt’s Mohamed Salah to leave Liverpool at end of season after 9-year stay | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/egypts-mohamed-salah-to-leave-liverpool-at-end-of-season-after-9-year-stay",
+        "published": "2026-03-24T19:23:24Z",
+        "summary": "Liverpool forward Mohamed Salah will leave the club at the end of the season. The club made the announcement, stating Salah wanted to provide transparency to supporters. The 33-year-old Egyptian international confirmed the news in a video message, expressing his deep connection to the club where he won multiple major trophies and became their third-highest all-time goalscorer."
+      },
+      {
+        "title": "US says they’re talking, Iran says they’re not. Who’s telling the truth? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/us-says-theyre-talking-iran-says-theyre-not-whos-telling-the-truth",
+        "published": "2026-03-24T19:34:20Z",
+        "summary": "The article examines conflicting claims about negotiations to end the US-Israel war on Iran. US President Donald Trump insists 'productive' talks have occurred, while top Iranian officials like parliamentary speaker Mohammad Bagher Ghalibaf deny any negotiations are underway. The analysis suggests both sides have strategic reasons for their public statements, with Trump potentially seeking to calm financial markets and Iran wanting to maintain economic pressure on the US."
+      },
+      {
+        "title": "Russia hits Ukraine with rare daytime barrage as new offensive begins | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/russia-hits-ukraine-with-deadly-daytime-barrage-as-spring-offensive-starts",
+        "published": "2026-03-24T20:15:35Z",
+        "summary": "Russia has launched one of its largest aerial attacks on Ukraine, using 948 drones in a 24-hour period as it moves troops and equipment to the front line, signaling the start of a new offensive. The rare daytime strikes killed civilians and damaged a UNESCO World Heritage site in Lviv. Ukrainian President Volodymyr Zelenskyy warned that Kyiv faces a deficit of air defence missiles while Washington is focused on the war on Iran."
+      }
+    ]
+  },
+  {
     "time": "2026-03-24T16:09:33Z",
     "window_hours": 6,
     "article_count": 17,
