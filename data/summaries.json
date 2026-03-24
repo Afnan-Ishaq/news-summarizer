@@ -1,5 +1,109 @@
 [
   {
+    "time": "2026-03-24T10:54:44Z",
+    "window_hours": 6,
+    "article_count": 16,
+    "overall_summary": "The articles cover a range of global news from the last 6 hours, including ongoing military conflict between the US-Israel alliance and Iran, domestic US policy, international politics, sports updates, and legal developments. The batch is dominated by reports on the escalating war and its regional consequences.",
+    "articles": [
+      {
+        "title": "Tiger Woods eyes Masters return with competitive golf outing at TGL | Golf News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/tiger-woods-eyes-masters-return-with-competitive-golf-outing-at-tgl",
+        "published": "2026-03-24T05:49:25Z",
+        "summary": "Tiger Woods is set to return to competitive golf in the Tomorrow's Golf League (TGL) finals, serving as a test run ahead of the Masters next month. He has been recovering from lumbar disc replacement surgery and an Achilles tendon rupture. His team, Jupiter Links Golf Club, trails Los Angeles Golf Club 1-0 in the best-of-three final series."
+      },
+      {
+        "title": "US-Israel war on Iran: What’s happening on day 25 of attacks? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+        "published": "2026-03-24T06:17:43Z",
+        "summary": "Conflicting claims have emerged on the 25th day of the US-Israel war on Iran, with US President Donald Trump stating discussions are ongoing for a broader peace agreement. Iranian officials firmly denied any negotiations, calling the claims 'fake news'. Trump also ordered a five-day postponement of planned US strikes on Iranian power plants and energy infrastructure."
+      },
+      {
+        "title": "Mbappe fit and ready to play every Real Madrid game before World Cup | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/mbappe-fit-and-ready-to-play-every-real-madrid-game-before-world-cup",
+        "published": "2026-03-24T06:23:20Z",
+        "summary": "French striker Kylian Mbappe says he has made a '100 percent recovery' from a lingering knee injury and is fully available for Real Madrid's remaining matches. He aims to play to build form for the upcoming FIFA World Cup 2026. Mbappe has been named in the France squad for friendlies against Brazil and Colombia in the US."
+      },
+      {
+        "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/amid-muted-eid-celebrations-violence-surges-across-the-west-bank",
+        "published": "2026-03-24T06:25:55Z",
+        "summary": "Palestinians in the occupied West Bank endured a surge of violence during Eid al-Fitr, marked by settler attacks, land seizures, and movement restrictions. Israeli settlers attacked multiple villages, torching homes and vehicles, in an apparent retaliation for a settler's death. Israeli authorities also emptied the Al-Aqsa Mosque compound of Muslim worshippers during Eid."
+      },
+      {
+        "title": "ICE agents deployed to US airports: Which airports are affected? | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/ice-agents-deployed-to-us-airports-which-airports-are-affected",
+        "published": "2026-03-24T06:58:30Z",
+        "summary": "US Immigration and Customs Enforcement (ICE) officers have been deployed to 14 major airports, including Atlanta and New York's JFK, to help ease security lines amid a partial government shutdown. The shutdown has left many TSA officers working without pay, leading to staff shortages and delays. The ICE agents will provide administrative support but will not conduct passenger screenings."
+      },
+      {
+        "title": "Polls open in key Denmark elections clouded by Trump’s Greenland threat | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat",
+        "published": "2026-03-24T07:05:47Z",
+        "summary": "Polls have opened in Denmark's parliamentary election, with Prime Minister Mette Frederiksen seeking a third term. Her firm rejection of US President Donald Trump's push to take control of Greenland boosted her approval ratings. The campaign has focused on domestic issues like the cost of living, rather than the Greenland dispute."
+      },
+      {
+        "title": "Where do reported US-Iran ‘negotiations’ leave Israel? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/where-do-us-iran-negotiations-leave-israel",
+        "published": "2026-03-24T07:13:28Z",
+        "summary": "Israeli analysts have described confusion and disappointment after US President Trump's claim of negotiations with Iran to wind down the war, which Iran denies. Prime Minister Benjamin Netanyahu stated the US believes military achievements can be leveraged for a deal, but analysts suggest Trump may be seeking an exit ramp, potentially leaving Israel isolated."
+      },
+      {
+        "title": "Eritrea to end 18-year AFCON isolation by playing Eswatini in qualifier | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/eritrea-to-end-18-year-afcon-isolation-by-playing-eswatini-in-qualifier",
+        "published": "2026-03-24T07:27:48Z",
+        "summary": "Eritrea will end an 18-year absence from Africa Cup of Nations qualifiers when they host Eswatini on Wednesday in Morocco. The match was moved because Eritrea lacks an international-standard venue. The team's long absence is widely believed to be due to players seeking asylum when playing abroad."
+      },
+      {
+        "title": "Despite Trump’s peace talk claims, US-Israeli attacks continue to hit Iran | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/despite-trumps-peace-talk-claims-us-israeli-attacks-continue-to-hit-iran",
+        "published": "2026-03-24T08:14:59Z",
+        "summary": "US-Israeli attacks hit several Iranian cities, including Tehran, Tabriz, and Isfahan, targeting gas facilities and a pipeline. This occurred despite US President Trump's claim of talks with Tehran to end the war, which Iran denies. Iranian media reported a professor and his two children were killed in an attack north of Tehran."
+      },
+      {
+        "title": "Israel kills three in Beirut as it intensifies attacks across Lebanon | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/israel-kills-two-in-beirut-as-it-intensifies-attacks-across-lebanon",
+        "published": "2026-03-24T09:10:12Z",
+        "summary": "An Israeli strike on a residential apartment in Bchamoun, near Beirut, killed at least three people, including a three-year-old girl, and wounded five others. The Israeli army pressed ahead with attacks across Lebanon and issued a new evacuation threat for Burj Shemali. The military claimed it was targeting Hezbollah and IRGC infrastructure."
+      },
+      {
+        "title": "Hong Kong grants police power to demand phone and computer passwords | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/hong-kong-grants-police-power-to-demand-phone-and-computer-passwords",
+        "published": "2026-03-24T09:12:24Z",
+        "summary": "Hong Kong police are now empowered to require anyone suspected of violating the national security law to hand over passwords to their electronic devices. Refusing to comply could lead to imprisonment and fines. The new amendments, which bypassed the legislature, also allow customs officers to seize items deemed to have 'seditious intention'."
+      },
+      {
+        "title": "McCullum to continue as England’s all-format cricket head coach | Cricket News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/mccullum-to-continue-as-englands-all-format-cricket-head-coach",
+        "published": "2026-03-24T09:15:22Z",
+        "summary": "Brendon McCullum will continue as England's head coach in all formats despite recent poor performances, including an Ashes series defeat and T20 World Cup exit. Ben Stokes will remain Test captain and Rob Key as managing director. The ECB leadership expressed commitment to learning from recent failures."
+      },
+      {
+        "title": "Iran launches waves of missiles towards Israel | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/3/24/iran-launches-waves-of-missiles-towards-israel",
+        "published": "2026-03-24T10:05:05Z",
+        "summary": "Iran launched a round of missiles targeting Israel, causing damage and lightly injuring six people in Tel Aviv. A multistorey apartment building was damaged, and searches were conducted for people trapped. Meanwhile, the Israeli military said its jets carried out strikes in central Tehran, targeting command centres and ballistic missile sites."
+      },
+      {
+        "title": "Supporter groups file lawsuit against FIFA over World Cup ticket prices | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/supporters-group-file-lawsuit-against-fifa-over-world-cup-ticket-prices",
+        "published": "2026-03-24T10:31:13Z",
+        "summary": "Football Supporters Europe and Euroconsumers have filed a complaint with the European Commission against FIFA, alleging it abused its monopoly to impose excessive ticket prices for the 2026 World Cup final. They state the cheapest final tickets start at $4,185, far higher than for the 2022 final. Some resale tickets are being offered at astronomical prices."
+      },
+      {
+        "title": "Amazon says AWS Bahrain region ‘disrupted’ following drone activity | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/amazon-says-aws-bahrain-region-disrupted-following-drone-activity",
+        "published": "2026-03-24T10:39:41Z",
+        "summary": "Amazon said its Amazon Web Services (AWS) region in Bahrain was 'disrupted' amid the Middle East conflict, following drone activity. This is the second time in a month AWS operations have been affected by the war. The company is helping customers migrate to alternate regions but did not specify if the facility was directly hit."
+      },
+      {
+        "title": "Bill Cosby found guilty of 1972 sexual assault, victim awarded nearly $60m | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/bill-cosby-found-guilty-of-1972-sexual-assault-victim-awarded-nearly-60m",
+        "published": "2026-03-24T10:40:41Z",
+        "summary": "A US jury found Bill Cosby liable for drugging and sexually assaulting Donna Motsinger in 1972, awarding her $59.25 million. Motsinger testified that Cosby gave her pills and wine, after which she woke up undressed at home. Cosby, who denies allegations from at least 60 women, did not testify at the trial."
+      }
+    ]
+  },
+  {
     "time": "2026-03-24T06:00:39Z",
     "window_hours": 6,
     "article_count": 1,
