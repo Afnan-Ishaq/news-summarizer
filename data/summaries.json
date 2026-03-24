@@ -1,5 +1,115 @@
 [
   {
+    "time": "2026-03-24T16:09:33Z",
+    "window_hours": 6,
+    "article_count": 17,
+    "overall_summary": "This batch of articles covers escalating conflicts in the Middle East, particularly the US-Israel war on Iran and its regional consequences, including a major oil crisis and diplomatic tensions. Other stories report on international trade deals, environmental issues, human rights concerns, and sports news.",
+    "articles": [
+      {
+        "title": "How does the current global oil crisis compare with the 1973 oil embargo? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo",
+        "published": "2026-03-24T11:22:33Z",
+        "summary": "The article compares the current oil crisis caused by the US-Israel war on Iran to the 1973 oil embargo. It states the current closure of the Strait of Hormuz is stopping 20 million barrels per day, compared to 4.5 million barrels removed in 1973. The International Energy Agency has agreed to release strategic reserves and issued consumer guidance, but experts say these measures will do little if the situation persists."
+      },
+      {
+        "title": "Lebanon declares Iranian ambassador persona non grata amid Israeli attacks | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/lebanon-declares-iranian-ambassador-persona-non-grata-amid-israeli-attacks",
+        "published": "2026-03-24T11:44:10Z",
+        "summary": "Lebanon has withdrawn accreditation from the Iranian ambassador and declared him persona non grata, demanding his departure. The Foreign Ministry cited Tehran's violation of diplomatic norms. This decision comes as Israel continues attacks on Lebanon, which have reportedly killed over 1,000 people and displaced more than 1.5 million."
+      },
+      {
+        "title": "Australia and EU seal trade deal to cut reliance on China’s rare earths | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/australia-and-eu-seal-trade-deal-to-cut-reliance-on-chinas-rare-earths",
+        "published": "2026-03-24T11:48:03Z",
+        "summary": "Australia and the European Union have signed a trade deal removing tariffs for nearly all exports of Australian critical minerals. EU Commission President Ursula von der Leyen said the deal is crucial to reduce over-dependence on China, which dominates global critical mineral supply chains. The agreement is also expected to remove over 99% of tariffs on EU goods exports to Australia."
+      },
+      {
+        "title": "Palestinians struggle as Gaza endures severe fuel and gas shortages | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/palestinians-struggle-as-gaza-endures-severe-fuel-and-gas-shortages",
+        "published": "2026-03-24T12:32:35Z",
+        "summary": "Gaza is facing severe fuel and gas shortages, with electricity prices surging up to ten times pre-war levels. Families receive minimal gas quantities every few months, and only a fraction of the agreed-upon fuel shipments have entered the territory since a ceasefire. The war has destroyed Gaza's power network, leaving most homes without reliable electricity."
+      },
+      {
+        "title": "The US should end the war asap | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/24/the-us-should-end-the-war-asap",
+        "published": "2026-03-24T12:43:44Z",
+        "summary": "This opinion piece argues the US should end the war on Iran immediately to manage its fallout. The author states destroying Iran's energy infrastructure would cause an environmental disaster and create refugees who would hate America. It suggests a unilateral US ceasefire could lead Iran to reopen the Strait of Hormuz, lowering global oil prices."
+      },
+      {
+        "title": "IPL champions Bengaluru to keep 11 seats empty in honour of stampede dead | Cricket News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/24/ipl-champions-bengaluru-to-keep-11-seats-empty-in-honour-of-stampede-dead",
+        "published": "2026-03-24T12:57:56Z",
+        "summary": "Royal Challengers Bengaluru will keep 11 seats empty at their stadium in memory of fans killed in a stampede during title celebrations last year. Eleven supporters died outside the stadium in June. The team will wear black armbands and tops sporting the number 11 for their opening match, and crowd management measures have been strengthened."
+      },
+      {
+        "title": "What are Iran’s cluster munitions that are penetrating Israeli defences? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/24/what-are-irans-cluster-munitions-that-are-penetrating-israeli-defences",
+        "published": "2026-03-24T13:15:58Z",
+        "summary": "The article explains Iran's use of cluster munitions in the war, which disperse multiple bomblets over a wide area. These weapons reportedly killed two people in central Israel and can better evade defence systems. Analysts say cluster munitions are particularly dangerous for civilians and convert individual missiles into broader, harder-to-defend threats."
+      },
+      {
+        "title": "After setbacks across Europe, is the populist far right losing ground? | The Far Right News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/24/after-setbacks-across-europe-is-the-populist-far-right-losing-ground",
+        "published": "2026-03-24T13:20:18Z",
+        "summary": "Recent elections in France, Slovenia, and Italy have dealt setbacks to populist far-right parties. Analysts caution against drawing long-term conclusions, suggesting the far right may have hit a 'hard ceiling' in major cities while expanding its base elsewhere. They note the results paint a mixed picture and warn against oversimplification."
+      },
+      {
+        "title": "Pakistan ‘ready to host US-Iran talks’: Can latest peace push work? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/pakistan-ready-to-host-us-iran-talks-can-latest-peace-push-work",
+        "published": "2026-03-24T13:42:11Z",
+        "summary": "Pakistan has offered to host talks between the US and Iran, with its foreign ministry stating it advocates for dialogue. Multiple reports suggest Pakistan, Egypt, and Turkiye are serving as messengers between Washington and Tehran. However, Iran has denied engaging in any talks, and analysts describe the diplomatic movement as tentative and fragile."
+      },
+      {
+        "title": "Pakistan world’s most polluted country in 2025: Report | Climate News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/pakistan-worlds-most-polluted-country-in-2025-report",
+        "published": "2026-03-24T13:47:12Z",
+        "summary": "A report finds Pakistan was the world's most polluted country in 2025, with fine particulate levels up to 13 times higher than WHO guidelines. The report states only 13 countries met the WHO standard, and all of the world's top 25 most polluted cities were in China, India, and Pakistan. Data gaps from discontinued monitoring programs complicate some comparisons."
+      },
+      {
+        "title": "Mothers of the Plaza de Mayo reflect on 50th anniversary of Argentina coup | Human Rights News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/longform/2026/3/24/mothers-of-the-plaza-de-mayo-reflect-on-50th-anniversary-of-argentina-coup",
+        "published": "2026-03-24T14:01:12Z",
+        "summary": "On the 50th anniversary of Argentina's military coup, the Mothers of the Plaza de Mayo continue to demand justice for children abducted during the dictatorship. A surviving member, 95-year-old Taty Almeida, hopes to find her missing son. UN experts have warned of 'alarming setbacks' in Argentina's human rights progress under President Javier Milei."
+      },
+      {
+        "title": "Why has India arrested US, Ukrainian nationals under ‘anti-terror’ laws? | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/why-has-india-arrested-us-ukrainian-nationals-under-anti-terror-laws",
+        "published": "2026-03-24T14:05:02Z",
+        "summary": "India has arrested six Ukrainian nationals and an American citizen for allegedly entering India's northeast without permits and crossing to Myanmar to train armed groups in drone warfare. They have been charged under anti-terror laws. Two additional American tourists were arrested for flying drones near a Coast Guard headquarters in Kochi."
+      },
+      {
+        "title": "Is the US talking to Iran’s Mohammad Bagher Ghalibaf, and who is he? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/is-the-us-talking-to-irans-mohammad-bagher-ghalibaf-and-who-is-he",
+        "published": "2026-03-24T14:16:21Z",
+        "summary": "The article examines US President Donald Trump's claims of talks with Iran and reports that US envoys are communicating with Iranian parliament speaker Mohammad Bagher Ghalibaf. Both the Iranian government and Ghalibaf have denied negotiations are taking place. Ghalibaf is a former IRGC air force commander, police chief, and mayor of Tehran."
+      },
+      {
+        "title": "QatarEnergy declares force majeure on some LNG contracts due to Iran war | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/qatarenergy-declares-force-majeure-on-some-lng-contracts",
+        "published": "2026-03-24T14:22:13Z",
+        "summary": "QatarEnergy has declared force majeure on some long-term LNG supply contracts due to production disruptions caused by the US-Israeli war on Iran. The CEO stated an Iranian attack damaged Qatar's gas facility, wiping out about 17% of its LNG export capacity. The closure of the Strait of Hormuz and attacks on energy infrastructure have spurred global concern."
+      },
+      {
+        "title": "Keir Starmer’s policy on the Iran war is a recipe for catastrophe | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/24/keir-starmers-policy-on-the-iran-war-is-a-recipe-for-catastrophe",
+        "published": "2026-03-24T14:26:14Z",
+        "summary": "This opinion piece criticizes British Prime Minister Keir Starmer for allowing the US to use UK military bases for strikes on Iran, comparing it to the Iraq war. The author argues the UK has been dragged into an illegal conflict and that Starmer's claim of non-involvement is false. It calls for the UK to withdraw all support for the war."
+      },
+      {
+        "title": "UN experts urge Israel to free Gaza doctor amid reports of ‘severe torture’ | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/24/un-experts-urge-israel-to-free-gaza-doctor-amid-reports-of-severe-torture",
+        "published": "2026-03-24T15:09:34Z",
+        "summary": "UN experts are calling for the immediate release of Dr. Hussam Abu Safia, a Palestinian physician detained by Israel. They report he has been subjected to severe torture and systematically denied medical treatment, endangering his life. Abu Safia was arrested in December 2024 and has been held without charge."
+      },
+      {
+        "title": "Iranian IRGC’s ties to Hezbollah deepen tensions in Lebanese politics | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/24/iranian-irgc-ties-hezbollah-deepen-tensions-lebanese-politics",
+        "published": "2026-03-24T15:47:39Z",
+        "summary": "Lebanon's prime minister has accused Iran's IRGC of commanding Hezbollah's operations against Israel, deepening tensions. Analysts agree the Iranian group is influential, noting longstanding ties between the IRGC and Hezbollah. The Lebanese government has banned Hezbollah's military activities, but this has had little impact on the ground."
+      }
+    ]
+  },
+  {
     "time": "2026-03-24T10:54:44Z",
     "window_hours": 6,
     "article_count": 16,
