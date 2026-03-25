@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-03-25T02:22:25Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+The articles cover a range of international developments from the last 6 hours. Major themes include a significant shift in NASA's space exploration strategy, escalating diplomatic and military tensions in the Middle East related to the US-Israel war on Iran, a crisis in US air travel due to unpaid TSA workers, and the global ripple effects of the Iran conflict impacting energy supplies and regional conflicts.
+
+ARTICLE BREAKDOWN
+[1] NASA to spend $20bn on moon base, nuclear-powered Mars spacecraft | Science and Technology News | Al Jazeera
+Published: 2026-03-24T20:58:04Z
+URL: https://www.aljazeera.com/news/2026/3/24/nasa-to-spend-20bn-on-moon-base-nuclear-powered-mars-spacecraft
+Summary: NASA has announced a major overhaul of its Artemis program, scrapping plans for a lunar-orbit space station and committing $20bn over seven years to build a surface base on the moon. The agency also plans to launch a nuclear-powered spacecraft called Space Reactor 1 Freedom by 2028 to demonstrate propulsion technology for Mars missions. These changes reshape contracts and partnerships, shifting focus from the Lunar Gateway to surface infrastructure as the US faces competition from China's lunar ambitions.
+
+[2] Iraq to summon US, Iran envoys over deadly attacks: PM’s office | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-24T21:05:15Z
+URL: https://www.aljazeera.com/news/2026/3/24/iraq-to-summon-us-iranian-envoys-over-deadly-attacks-pms-office
+Summary: Iraq's government plans to summon the US and Iranian envoys to deliver formal protests over recent deadly attacks on Iraqi territory linked to the US-Israel war on Iran. The attacks include strikes on the Popular Mobilisation Forces in Anbar province and the Kurdistan Regional Guard in Erbil. Iraq's National Security Council also stated it will lodge a formal complaint with the UN Security Council concerning these acts of aggression.
+
+[3] Long lines, unpaid TSA workers: Experts say US air travel system in crisis | Travel News | Al Jazeera
+Published: 2026-03-24T21:13:34Z
+URL: https://www.aljazeera.com/news/2026/3/24/long-lines-unpaid-tsa-workers-experts-say-us-air-travel-system-in-crisis
+Summary: Unpaid Transportation Security Administration (TSA) workers, a result of a partial government shutdown, have led to mass resignations, staffing shortages, and hours-long security lines at major US airports. The Trump administration has deployed ICE agents to fill gaps, a move criticized due to their lack of training. Analysts warn the situation, compounded by travel complications from the war on Iran, creates an image of systemic dysfunction and questions the safety of US air travel.
+
+[4] Trump keeps up claims of talks with ‘the right people’ in Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-24T23:25:08Z
+URL: https://www.aljazeera.com/news/2026/3/24/trump-keeps-up-claims-of-talks-with-the-right-people-in-iran
+Summary: US President Donald Trump maintains that negotiations to end the war on Iran are underway, claiming Tehran wants a deal and alluding to a 'present' related to oil and gas. His claims coincide with media reports of a US 15-point peace plan relayed to Iran, but fighting continues and Iran had previously dismissed such talk as 'fake news'. An analyst suggests Iran would want to end the war on its own terms, seeking deterrence and potential economic gains, such as fees for Strait of Hormuz passage.
+
+[5] Russian weapons, tactics seen in Ukraine are shaping Myanmar’s civil war | Military News | Al Jazeera
+Published: 2026-03-24T23:43:51Z
+URL: https://www.aljazeera.com/news/2026/3/24/russian-weapons-tactics-seen-in-ukraine-are-shaping-myanmars-civil-war
+Summary: Russian-supplied airpower, intelligence, and battlefield tactics from the Ukraine war are helping Myanmar's military government gain an edge in its civil war. Analysts note the use of Russian-made jets and drones, as well as the adoption of Russian 'meat assault' tactics using waves of conscripted infantry. The 2021 coup and Russia's 2022 invasion of Ukraine have brought the two sanctioned countries closer, with Myanmar providing military assistance to Russia and receiving weapons and support in return.
+
+[6] Philippine president declares energy emergency as impact of Iran war felt | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T01:46:20Z
+URL: https://www.aljazeera.com/news/2026/3/25/philippine-president-declares-energy-emergency-as-impact-of-iran-war-felt
+Summary: Philippine President Ferdinand Marcos Jr. has declared a one-year national energy emergency, citing the 'imminent danger' to the country's energy supply from the US-Israel war on Iran. The declaration empowers the government to procure fuel, combat hoarding, and ensure the supply of essential goods. Transport unions have criticized the move as a 'superficial band-aid,' and the government is reportedly seeking US exemptions to potentially buy oil from sanctioned countries like Iran and Venezuela.
+
+================================================================================
 RUN TIME UTC: 2026-03-24T20:43:02Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
