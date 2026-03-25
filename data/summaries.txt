@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-03-25T16:12:28Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+This batch of articles covers escalating tensions in the Middle East, including the US-Israel war on Iran and Israeli attacks on Lebanon, alongside European political developments, financial scrutiny, and sports news. Key themes include diplomatic efforts, military actions, and regional spillover effects.
+
+ARTICLE BREAKDOWN
+[1] Spain’s PM says Israel to inflict on Lebanon same destruction as in Gaza | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T11:02:40Z
+URL: https://www.aljazeera.com/news/2026/3/25/spains-pm-says-israel-to-inflict-on-lebanon-same-destruction-as-in-gaza
+Summary: Spanish Prime Minister Pedro Sanchez stated that Israel seeks to inflict the same level of destruction on Lebanon as it has on Gaza. He also condemned the US-Israeli war on Iran, calling it a scenario far worse than the 2003 Iraq invasion. Sanchez highlighted Spain's arms embargo on Israel and the withdrawal of its ambassador as signs of diplomatic tension.
+
+[2] Denmark’s PM resigns after failing to secure majority in general election | News | Al Jazeera
+Published: 2026-03-25T11:18:22Z
+URL: https://www.aljazeera.com/news/2026/3/25/denmarks-pm-resigns-after-failing-to-secure-majority-in-general-election
+Summary: Danish Prime Minister Mette Frederiksen submitted her government's resignation after her coalition suffered a large defeat in a general election. Her Social Democratic Party had its worst election result since 1903, winning only 38 seats. Both left and right blocs fell short of a majority, leaving the centrist Moderates Party as potential kingmakers in coalition talks.
+
+[3] Large Polymarket, Wall Street bets on Trump’s war news under scrutiny | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T11:21:19Z
+URL: https://www.aljazeera.com/news/2026/3/25/large-polymarket-wall-street-bets-on-trumps-war-news-under-scrutiny
+Summary: Traders have made hundreds of millions of dollars in bets on the US-Israeli war on Iran with suspiciously well-timed trades, suggesting possible insider knowledge. The cryptocurrency platform Polymarket has been linked to such activity, with researchers identifying accounts that netted over $2 million by correctly predicting the start of the war. Analysts note red flags like wallet splitting and accounts with no prior history placing successful bets.
+
+[4] Estonia, Latvia report drone incursions from Russian airspace | Russia-Ukraine war News | Al Jazeera
+Published: 2026-03-25T11:35:41Z
+URL: https://www.aljazeera.com/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace
+Summary: Estonia and Latvia reported drones entering their airspace from Russia, raising concerns about spillover from the Ukraine war. A drone struck a power station chimney in Estonia, causing no casualties, while another crashed in Latvia without damage. Latvian authorities said the drone might be Ukrainian and are investigating.
+
+[5] US-Iran mediation: What are each side’s demands – and is a deal possible? | Energy News | Al Jazeera
+Published: 2026-03-25T11:45:09Z
+URL: https://www.aljazeera.com/economy/2026/3/25/us-iran-mediation-what-are-each-sides-demands-and-is-a-deal-possible
+Summary: US President Donald Trump has sent a 15-point ceasefire plan to Iran via Pakistan, though Iran denies talks are happening. The war has disrupted global energy markets and shipping, with Iran closing the Strait of Hormuz to most traffic. Mediators are pushing for potential in-person talks in Islamabad, but the sides' demands remain far apart.
+
+[6] Asian Champions League quarterfinal sends Iran’s Tractor FC to Saudi Arabia | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T12:18:33Z
+URL: https://www.aljazeera.com/sports/2026/3/25/asian-champions-league-quarterfinal-sends-irans-tractor-fc-to-saudi-arabia
+Summary: Iranian club Tractor FC will travel to Saudi Arabia to play a playoff against Dubai's Shabab Al-Ahli in the Asian Champions League Elite. The AFC rescheduled postponed western zone playoffs for April in Jeddah due to the Middle East war. Organizers hope for calm to complete the fixtures as planned.
+
+[7] Why is Mohamed Salah leaving Liverpool, and which club will he join next? | Football News | Al Jazeera
+Published: 2026-03-25T12:32:05Z
+URL: https://www.aljazeera.com/sports/2026/3/25/why-is-mohamed-salah-leaving-liverpool-and-which-club-will-he-join-next
+Summary: Liverpool forward Mohamed Salah announced he will leave the club at the end of the season on a free transfer. Salah cited a nonexistent relationship with manager Arne Slot and feeling made a scapegoat. Potential next destinations include Saudi Pro League clubs or Major League Soccer in the US.
+
+[8] Democrat captures Florida House seat in Trump’s Mar-a-Lago district | Elections News | Al Jazeera
+Published: 2026-03-25T12:43:56Z
+URL: https://www.aljazeera.com/news/2026/3/25/democrat-captures-florida-house-seat-in-trumps-mar-a-lago-district
+Summary: Democrat Emily Gregory won a special election for a Florida state House seat that includes Trump's Mar-a-Lago resort, defeating a Trump-endorsed opponent. Democrats hailed the victory as a sign of voter discontent with Republicans ahead of midterm elections, citing issues like the cost of living. This marks another Democratic upset in a traditionally Republican area.
+
+[9] Iranian attacks amount to violation of sovereignty, Gulf states tell UN | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T13:00:22Z
+URL: https://www.aljazeera.com/news/2026/3/25/iranian-attacks-amount-to-violation-of-sovereignty-gulf-states-tell-un
+Summary: Gulf states told the UN Human Rights Council that Iranian attacks on their countries violate sovereignty and international law. They demanded reparations and condemned Iran's strikes, which have targeted infrastructure and closed the Strait of Hormuz. The council passed a non-binding resolution demanding Iran cease 'unprovoked attacks'.
+
+[10] Mohamed Salah: Is Liverpool exit the end? Can World Cup spur Egypt star? | Football News | Al Jazeera
+Published: 2026-03-25T13:44:24Z
+URL: https://www.aljazeera.com/sports/2026/3/25/mohamed-salah-is-liverpool-exit-the-end-or-can-world-cup-spur-egypt-star
+Summary: Mohamed Salah's departure from Liverpool raises questions about his future, with a move to another Premier League club seen as unlikely due to sentimentality and financial constraints. The most probable option is a transfer to the Saudi Pro League, which has shown past interest. His exit marks the end of an era for one of the Premier League's greats.
+
+[11] Hezbollah chief urges unity, no talks with Israel amid Lebanon attacks | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-03-25T14:24:11Z
+URL: https://www.aljazeera.com/news/2026/3/25/hezbollah-chief-urges-unity-no-talks-with-israel-amid-lebanon-attacks
+Summary: Hezbollah chief Naim Qassem called for national unity in Lebanon and rejected negotiations with Israel while under attack. He stated the choices are surrender or resistance, vowing to fight 'without limits' against Israeli assaults. The conflict has killed over 1,000 people in Lebanon and drawn global condemnation.
+
+[12] Anthropic’s case against the Pentagon could open space for AI regulation | Business and Economy News | Al Jazeera
+Published: 2026-03-25T14:41:16Z
+URL: https://www.aljazeera.com/economy/2026/3/25/anthropics-case-against-the-pentagon-could-open-space-for-ai-regulation
+Summary: A California judge suggested the US Defense Department may be illegally trying to punish AI company Anthropic for advocating restrictions on AI weapons and surveillance. The company was designated a 'supply chain risk,' which could block government contracts. The case could set a precedent for AI regulation and government-company relations.
+
+[13] Missiles overhead, silence below: Israel’s home front holds firm | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T14:41:47Z
+URL: https://www.aljazeera.com/news/2026/3/25/missiles-overhead-silence-below-israels-home-front-holds-firm
+Summary: Daily life in Israel is constrained by missile attacks, school closures, and police restrictions, stifling dissent against the war on Iran. Activist groups report that exhaustion and safety concerns make protests nearly impossible. While public support for the war remains strong, societal fractures are anticipated as resentment grows.
+
+[14] Iran calls US proposal to end war ‘maximalist, unreasonable’ | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T15:11:36Z
+URL: https://www.aljazeera.com/news/2026/3/25/iran-calls-us-proposal-to-end-war-maximalist-unreasonable
+Summary: Iran has received a 15-point US ceasefire plan but describes it as 'extremely maximalist and unreasonable.' A diplomatic source said there have been no direct talks since the war began, only messages via mediators. Mediators, including Pakistan, Egypt, and Turkiye, are pushing for potential in-person negotiations.
+
+[15] War on Iran: What troops is the US moving to the Gulf? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T15:59:32Z
+URL: https://www.aljazeera.com/news/2026/3/25/war-on-iran-what-troops-is-the-us-moving-to-the-gulf
+Summary: The US is amassing thousands of troops in the Middle East, signaling a potential shift from an air campaign to ground operations in the war on Iran. Reinforcements include soldiers from the 82nd Airborne Division and Marine units. The conflict has involved strikes on Iranian targets and Iranian counterattacks, with the Strait of Hormuz as a key strategic point.
+
+================================================================================
 RUN TIME UTC: 2026-03-25T10:52:01Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
