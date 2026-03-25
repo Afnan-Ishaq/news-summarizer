@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-03-25T06:02:54Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+This batch of articles covers geopolitical tensions in the Middle East, legal action against tech companies, and global economic impacts. Key themes include Iran's stance on Strait of Hormuz shipping, regional conflicts affecting Lebanon and global fuel prices, and corporate developments in tech and sports.
+
+ARTICLE BREAKDOWN
+[1] Iran says ‘non-hostile’ ships can pass safely through Strait of Hormuz | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-25T03:31:09Z
+URL: https://www.aljazeera.com/economy/2026/3/25/iran-says-non-hostile-ships-can-pass-safely-through-strait-of-hormuz
+Summary: Iran has stated that 'non-hostile' ships may transit the Strait of Hormuz safely if they do not participate in or support acts of aggression against Iran and comply with safety regulations. This comes amid a collapse in maritime traffic through the key waterway, which has triggered a global energy crisis. The statement was issued as US President Donald Trump claimed negotiations are underway to end the US-Israel war on Iran, though traffic remains a fraction of pre-conflict levels.
+
+[2] US jury orders Meta to pay $375m for endangering children | Technology News | Al Jazeera
+Published: 2026-03-25T04:10:03Z
+URL: https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children
+Summary: A jury in New Mexico has ordered Meta to pay $375 million for harming children's mental health and making them vulnerable to sexual exploitation. The verdict marks the first successful US state lawsuit against Meta over child safety issues, with jurors finding the company violated state law by prioritizing profits over safety. Meta says it disagrees with the verdict and will appeal, while a second phase of proceedings to determine additional penalties and platform changes is scheduled for May.
+
+[3] Canada tells Israel that Lebanon’s sovereignty ‘must not be violated’ | Crimes Against Humanity News | Al Jazeera
+Published: 2026-03-25T04:21:15Z
+URL: https://www.aljazeera.com/news/2026/3/25/canada-tells-israel-that-lebanons-sovereignty-must-not-be-violated
+Summary: Canada has strongly condemned Israel's plans to occupy southern Lebanon, warning that Lebanese sovereignty and territorial integrity 'must not be violated.' This statement comes amid Israeli preparations for a major ground invasion, which has already caused significant casualties and displacement in Lebanon. France has also urged Israel to refrain from such operations, citing major humanitarian consequences.
+
+[4] New Zealand footballers willing to play Iran World Cup match outside US | Football News | Al Jazeera
+Published: 2026-03-25T04:57:10Z
+URL: https://www.aljazeera.com/sports/2026/3/25/new-zealand-footballers-willing-to-play-iran-world-cup-match-outside-us
+Summary: New Zealand football players have expressed willingness to play their FIFA World Cup 2026 opener against Iran outside the United States if necessary, due to geopolitical tensions. Iran has threatened to boycott its group matches on US soil because of the US-Israel war on Iran. While New Zealand is preparing as if the scheduled match in Los Angeles will proceed, players stated they could accommodate a venue switch to locations like Mexico or Canada.
+
+[5] OpenAI pulls AI video app Sora as concerns grow on deepfake videos | Social Media News | Al Jazeera
+Published: 2026-03-25T04:59:56Z
+URL: https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos
+Summary: OpenAI is shutting down its social media app Sora, which allowed users to share short-form AI-generated videos but raised concerns about deepfakes and nonconsensual content. The company announced the decision abruptly, blindsiding partners like Disney, with whom it had a $1 billion deal. This move represents OpenAI's first major step to refocus its business on potentially more lucrative areas like coding tools and corporate customers.
+
+[6] From Pakistan to Egypt, Iran war drives up fuel prices in the Global South | Business and Economy News | Al Jazeera
+Published: 2026-03-25T05:20:18Z
+URL: https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south
+Summary: Developing economies in Asia, Africa, and the Middle East are bearing the brunt of surging energy costs due to the US-Israel war on Iran and the closure of the Strait of Hormuz. Countries like Pakistan, Bangladesh, and Sri Lanka, which are heavily dependent on imported energy, are implementing measures such as fuel rationing, public holidays, and work-from-home orders to conserve dwindling reserves. Governments are attempting to cushion the public from price shocks with subsidies, but analysts warn the situation could worsen if the war continues.
+
+[7] Amid US-Israeli attacks, people in Iran struggle to survive ailing economy | US-Israel war on Iran | Al Jazeera
+Published: 2026-03-25T05:41:14Z
+URL: https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy
+Summary: Iranians are grappling with the economic fallout and a prolonged internet shutdown amid the US-Israeli war on their country. Business activity has significantly declined, with vendors reporting sales at about one-third of usual levels during the Persian New Year period. The population faces high inflation, reduced purchasing power, and job scarcity, exacerbated by years of sanctions and mismanagement, with some families temporarily displaced from major cities.
+
+================================================================================
 RUN TIME UTC: 2026-03-25T02:22:25Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
