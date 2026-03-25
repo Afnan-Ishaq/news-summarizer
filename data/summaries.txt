@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-03-25T20:40:32Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The articles cover a diverse range of international news from the last six hours. Topics include World Cup qualification playoffs, analysis of the US-Israel war on Iran, legal actions by pro-Palestine activists, forced displacements in East Jerusalem, a UN resolution on the transatlantic slave trade, a US social media liability case, US political developments involving Donald Trump, and a rescheduled diplomatic visit to China.
+
+ARTICLE BREAKDOWN
+[1] Which teams can still qualify for the World Cup, and when are the playoffs? | World Cup 2026 News | Al Jazeera
+Published: 2026-03-25T16:19:45Z
+URL: https://www.aljazeera.com/sports/2026/3/25/which-teams-can-still-qualify-for-the-world-cup-and-when-are-the-playoffs
+Summary: The article details the upcoming FIFA interconfederation playoff tournament, which will determine the final two teams to qualify for the 2026 World Cup. It explains the match schedule, with semifinals featuring Bolivia, New Caledonia, Jamaica, and Suriname, and finals against the higher-ranked DRC and Iraq. The games will be hosted in Mexico, and the DRC and Iraq are noted as the favorites to qualify.
+
+[2] What it would take to end the Iran war | US-Israel war on Iran | Al Jazeera
+Published: 2026-03-25T16:25:30Z
+URL: https://www.aljazeera.com/opinions/2026/3/25/what-it-would-take-to-end-the-iran-war
+Summary: This opinion piece analyzes the conditions needed to terminate the US-Israeli war on Iran, arguing that while a mutually hurting stalemate is emerging, a viable bargaining architecture is absent. It states that deep structural problems, particularly a near-total erosion of trust and a commitment problem, are significant barriers to a durable peace. The article cites military and economic costs on both sides but questions the feasibility of reaching a lasting agreement.
+
+[3] Palestine Action hunger strikers to sue prisons over alleged mistreatment | Prison News | Al Jazeera
+Published: 2026-03-25T17:49:47Z
+URL: https://www.aljazeera.com/news/2026/3/25/palestine-action-hunger-strikers-to-sue-prisons-over-alleged-mistreatment
+Summary: Four pro-Palestine activists, released on bail after a months-long hunger strike in UK prisons, plan to take legal action against the prisons for alleged medical neglect and mistreatment. The activists described suffering lasting medical conditions, physical assault, solitary confinement, and being denied proper electrolytes during their strike. They were held in connection with a 2024 raid on an Elbit Systems factory.
+
+[4] Israel forcibly displaces more Palestinian families in East Jerusalem | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-03-25T18:29:50Z
+URL: https://www.aljazeera.com/news/2026/3/25/israel-forcibly-displaces-more-palestinian-families-in-east-jerusalem
+Summary: Israeli forces have forcibly displaced about a dozen Palestinian families from their homes in the Batn al-Hawa area of Silwan in occupied East Jerusalem, according to rights group B'Tselem. The Norwegian Refugee Council states the homes are expected to be transferred to an Israeli settler organization and that over 1,000 more Palestinians in East Jerusalem are at risk of forced eviction. The evictions are based on a discriminatory Israeli law from 1970.
+
+[5] UN passes resolution naming slave trade ‘gravest crime against humanity’ | Slavery News | Al Jazeera
+Published: 2026-03-25T18:55:28Z
+URL: https://www.aljazeera.com/news/2026/3/25/un-passes-resolution-naming-slave-trade-gravest-crime-against-humanity
+Summary: The UN General Assembly has adopted a non-binding resolution, proposed by Ghana, that recognizes the transatlantic slave trade as the 'gravest crime against humanity' and calls for reparations. The resolution passed with 123 votes in favor, 3 against (including the US and Israel), and 52 abstentions (including the UK and EU countries). It urges member states to engage in dialogue on reparatory justice, including formal apologies and financial compensation.
+
+[6] US jury finds Meta, Alphabet liable in landmark social media addiction case | Social Media News | Al Jazeera
+Published: 2026-03-25T19:30:16Z
+URL: https://www.aljazeera.com/economy/2026/3/25/us-jury-finds-meta-alphabet-liable-in-landmark-social-media-addiction-case
+Summary: A California jury found Alphabet's Google and Meta liable and awarded $3 million in damages in a lawsuit alleging their platforms' addictive designs harmed a young plaintiff. The plaintiff, who began using YouTube and Instagram as a child, claimed the features exacerbated her mental health issues. The companies argued her issues had other causes, but the jury found social media was a 'substantial factor' in the harm.
+
+[7] Democrat Emily Gregory wins Florida seat in Trump’s Mar-a-Lago district | Donald Trump News | Al Jazeera
+Published: 2026-03-25T20:08:23Z
+URL: https://www.aljazeera.com/news/2026/3/25/democrat-alleges-trump-sold-out-us-security-in-classified-documents-case
+Summary: Democratic Representative Jamie Raskin has sent a letter to the Attorney General alleging that newly released records show former President Donald Trump mishandled highly sensitive classified documents, potentially for personal business interests. Raskin claims the documents were so sensitive that only six people in the US government had access and that Trump may have 'sold out our national security'. The Department of Justice dismissed the allegations as a 'cheap political stunt'.
+
+[8] Trump to visit Xi Jinping in China on May 14 and 15 after Iran war delay | Xi Jinping News | Al Jazeera
+Published: 2026-03-25T20:20:16Z
+URL: https://www.aljazeera.com/news/2026/3/25/trump-to-visit-xi-jinping-in-china-on-may-14-and-15-after-iran-war-delay
+Summary: US President Donald Trump's visit to China for a meeting with President Xi Jinping has been rescheduled to May 14-15, delayed from late March due to the ongoing war against Iran. The White House stated that President Xi understood the need for Trump to be present during combat operations. China has called for an end to the war, which has disrupted global trade through the Strait of Hormuz.
+
+================================================================================
 RUN TIME UTC: 2026-03-25T16:12:28Z
 WINDOW: Last 6 hours
 ARTICLES USED: 15
