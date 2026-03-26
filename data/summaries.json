@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-03-26T20:38:04Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "This batch of articles covers significant international developments across sports, conflict zones, legal matters, and technology. Major themes include a new IOC policy banning transgender athletes from women's Olympic events, escalating tensions and displacement in Lebanon due to Israeli military actions, and diplomatic maneuvers regarding conflicts in Gaza and Iran. Additional stories involve a legal dispute over funding for Venezuela's former president, a Dutch court ruling against an AI tool, and an incident involving London police and journalists.",
+    "articles": [
+      {
+        "title": "Olympics align with Trump as transgender athletes banned from women’s games | Olympics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/26/olympics-align-with-trump-as-transgender-athletes-banned-from-womens-games",
+        "published": "2026-03-26T16:27:43Z",
+        "summary": "The International Olympic Committee (IOC) has adopted a new policy banning transgender women from competing in women's events at the Olympics, aligning with a U.S. executive order. The policy, which will be enforced starting with the 2028 Los Angeles Games, limits eligibility to 'biological females' as determined by a mandatory gene test. IOC President Kirsty Coventry stated the move aims to protect fairness in the female category, and the policy also restricts athletes with differences in sex development (DSD)."
+      },
+      {
+        "title": "Details revealed of Board of Peace plan for Gaza disarmament | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/details-revealed-of-board-of-peace-plan-for-gaza-disarmament",
+        "published": "2026-03-26T16:47:01Z",
+        "summary": "A plan submitted by Board of Peace Director General Nickolay Mladenov details a proposed eight-month, multiphase process for the disarmament of Hamas and other Palestinian groups in Gaza. The plan calls for disarmament to proceed in parallel with Israel fulfilling obligations, including allowing reconstruction materials and increased humanitarian aid into Gaza, and transferring administration to a national committee. Hamas has historically refused to disarm while Israeli occupation continues, and Palestinian experts have suggested the plan amounts to the 'political surrender' of Hamas."
+      },
+      {
+        "title": "London police officer filmed in crowd intimidating Al Jazeera journalists | Police News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/london-police-officer-involved-in-verbal-assault-on-al-jazeera-journalists",
+        "published": "2026-03-26T17:26:28Z",
+        "summary": "The Metropolitan Police confirmed an off-duty officer was involved in an incident where a group of residents surrounded and intimidated Al Jazeera journalists reporting on a suspected arson attack in North London. Video footage shows men shouting at the crew, with one identified as a police officer using derogatory language. The police stated they are reviewing the footage to identify any offences and emphasized that journalists must be able to work without intimidation."
+      },
+      {
+        "title": "More than one million displaced by Israel’s evacuations in Lebanon | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/3/26/more-than-one-million-displaced-by-israels-evacuations-in-lebanon",
+        "published": "2026-03-26T17:40:31Z",
+        "summary": "Israel has issued expanded evacuation orders for Lebanese residents south of the Zahrani River, threatening those who stay. The orders, covering about 14% of Lebanon's territory, have displaced over one million people—more than 18% of the population—within two weeks. The humanitarian crisis is severe, with many in overcrowded shelters or sleeping outdoors, and over 250,000 people have fled the country, including thousands of Lebanese citizens crossing into Syria."
+      },
+      {
+        "title": "Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait",
+        "published": "2026-03-26T19:02:32Z",
+        "summary": "U.S. President Donald Trump claimed Iran is 'begging to make a deal' to end the war, while Iran has formally responded to a U.S. proposal by asserting its rights over the Strait of Hormuz and issuing new demands. Iran's conditions, reported by the Tasnim news agency, include an end to assassinations, war reparations, and cessation of hostilities from regional resistance groups. A U.S. special envoy suggested Iran was seeking an 'off-ramp' for negotiations, but an Iranian source accused the U.S. of deceptive tactics."
+      },
+      {
+        "title": "US judge weighs Trump decision to bar Venezuelan funds for Maduro’s defence | Nicolas Maduro News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/us-judge-weighs-trump-decision-to-bar-venezuelan-funds-for-maduros-defence",
+        "published": "2026-03-26T19:53:04Z",
+        "summary": "A U.S. judge declined to dismiss drug-trafficking and weapons charges against former Venezuelan President Nicolas Maduro and his wife but questioned the Trump administration's decision to bar Venezuela from funding their legal defence. Judge Alvin Hellerstein challenged prosecutors' national security argument, noting Maduro poses no threat while imprisoned and emphasizing the constitutional right to a vigorous defence. Maduro and his wife pleaded not guilty in January after being taken into U.S. custody."
+      },
+      {
+        "title": "Dutch court bans xAI’s Grok from generating nonconsensual nude images | Technology News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/dutch-court-bans-xais-grok-from-generating-non-consensual-nude-images",
+        "published": "2026-03-26T19:56:31Z",
+        "summary": "A Dutch court ordered Elon Musk's xAI to stop its Grok AI tool from generating and distributing nonconsensual nude images in the Netherlands, threatening daily fines for noncompliance. The ruling came in a civil suit brought by a monitoring center, which demonstrated the tool could still create such imagery despite company measures. The court placed the burden on xAI to prevent its tools from being used to create sexualized deepfakes."
+      },
+      {
+        "title": "Israel sends more troops into southern Lebanon as ground invasion expands | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands",
+        "published": "2026-03-26T20:10:30Z",
+        "summary": "Israel is deploying more troops from Division 162 into southern Lebanon to expand a 'buffer zone,' joining two other divisions already operating there. The move follows Israeli Prime Minister Benjamin Netanyahu's statement about creating a larger zone to counter Hezbollah's missile threat. Lebanese Prime Minister Nawaf Salam warned the invasion threatens Lebanon's sovereignty and violates international law, stating his government would submit a complaint to the UN Security Council."
+      }
+    ]
+  },
+  {
     "time": "2026-03-26T16:13:24Z",
     "window_hours": 6,
     "article_count": 11,
