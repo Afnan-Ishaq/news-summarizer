@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-03-26T02:28:28Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "This batch of articles covers a range of international news from the last 6 hours, including sports disciplinary actions, US military operations, major sports investments, and geopolitical tensions. Key themes involve racism in football, US foreign policy in the Caribbean and towards Cuba, significant business deals in Indian cricket, and diplomatic warnings from Iran.",
+    "articles": [
+      {
+        "title": "Benfica fined for fans’ racism at Real Madrid game with UEFA investigation | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/25/benfica-fined-for-fans-racism-at-real-madrid-game-with-uefa-investigation",
+        "published": "2026-03-25T20:36:51Z",
+        "summary": "UEFA has fined Portuguese club Benfica 40,000 euros for racist chants and gestures by two supporters during a Champions League game against Real Madrid. The club must also serve a one-year probation period to avoid a partial stadium closure. A separate UEFA investigation is ongoing into an allegation that Benfica player Gianluca Prestianni racially abused Real Madrid's Vinicius Junior during the same match."
+      },
+      {
+        "title": "Four killed in latest US attack on alleged drug-smuggling boat in Caribbean | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/25/four-killed-in-latest-us-attack-on-alleged-drug-smuggling-boat-in-caribbean",
+        "published": "2026-03-25T20:47:04Z",
+        "summary": "The United States has conducted another lethal strike on an alleged drug-trafficking vessel in the Caribbean, killing four people. US Southern Command stated the vessel was operated by a designated terrorist organization and was engaged in narco-trafficking. The attack is part of Operation Southern Spear, a boat-bombing campaign that has reportedly killed approximately 163 people since September and has been criticized by legal experts as extrajudicial killing."
+      },
+      {
+        "title": "US investors bet big on Indian cricket with record billion-dollar IPL deals | Sport News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/25/us-investors-bet-big-on-indian-cricket-with-record-billion-dollar-ipl-deals",
+        "published": "2026-03-25T20:51:50Z",
+        "summary": "US investors have made two record-breaking acquisitions of Indian Premier League cricket teams on the same day. A consortium including former Walmart chairman Rob Walton bought the Rajasthan Royals for $1.63 billion, and a group led by David Blitzer's Bolt Ventures and Blackstone bought the Royal Challengers Bengaluru for $1.78 billion. These deals highlight the growing international investment appeal of India's premier cricket league."
+      },
+      {
+        "title": "Barcelona hammer Real Madrid in Women’s Champions League quarterfinals | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/25/barcelona-hammer-real-madrid-in-womens-champions-league-quarterfinals",
+        "published": "2026-03-25T20:51:52Z",
+        "summary": "Barcelona's women's team secured a commanding 6-2 victory over rivals Real Madrid in the first leg of their Women's Champions League quarterfinal. Barcelona, now unbeaten in 25 games, built a strong lead with goals from Ewa Pajor, Esmee Brugts, Irene Paredes, Vicky Lopez, and a penalty from Alexia Putellas. The result puts Barcelona in a dominant position ahead of the second leg next week."
+      },
+      {
+        "title": "Mexico will continue accepting Cuban medical workers despite US pressure | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/25/mexico-will-continue-accepting-cuban-medical-workers-despite-us-pressure",
+        "published": "2026-03-25T22:28:38Z",
+        "summary": "Mexican President Claudia Sheinbaum has stated that Mexico will continue its agreement to receive Cuban medical workers, praising their service in underserved rural areas. This comes despite US pressure, including a new law that could lead to sanctions on countries participating in Cuba's medical programme, which the US describes as forced labour. Sheinbaum emphasized the bilateral agreement has been very beneficial for Mexico."
+      },
+      {
+        "title": "Migrants march in southern Mexico to denounce immigration restrictions | Migration News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/3/25/migrants-march-in-southern-mexico-to-denounce-immigration-restrictions",
+        "published": "2026-03-25T23:52:44Z",
+        "summary": "An estimated 500 migrants and asylum seekers have begun a march from Tapachula in southern Mexico to protest difficulties in the local immigration system. Participants cite long lines, movement restrictions, and allegations of being charged for legally free documentation as major obstacles. The march occurs amid reports and court questions in the US about a potential secret agreement for Mexico to accept deported Cubans."
+      },
+      {
+        "title": "Sarah Mullally enthroned as first female archbishop of Canterbury | Religion News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/sarah-mullally-enthroned-as-first-female-archbishop-of-canterbury",
+        "published": "2026-03-26T00:51:48Z",
+        "summary": "Sarah Mullally has been formally installed as the Archbishop of Canterbury, becoming the first woman to lead the Church of England. The ceremony at Canterbury Cathedral was attended by 2,000 guests, including Prince William and Prime Minister Keir Starmer. In her inaugural sermon, she prayed for peace in conflict zones and acknowledged past church safeguarding failures."
+      },
+      {
+        "title": "Tehran issues warning to regional neighbour if Iranian island occupied | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/tehran-issues-warning-to-regional-neighbour-if-iranian-island-occupied",
+        "published": "2026-03-26T01:24:04Z",
+        "summary": "Iran's parliament speaker, Mohammad Bagher Ghalibaf, has warned that intelligence suggests 'Iran's enemies' plan to occupy an Iranian island with support from an unnamed regional country. He stated any such attempt would be met with continuous attacks on that country's vital infrastructure. This warning comes as the US denies Iranian claims of peace talks and threatens further military action while deploying additional troops to the region."
+      }
+    ]
+  },
+  {
     "time": "2026-03-25T20:40:32Z",
     "window_hours": 6,
     "article_count": 8,
