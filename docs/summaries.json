@@ -1,5 +1,103 @@
 [
   {
+    "time": "2026-03-26T10:54:35Z",
+    "window_hours": 6,
+    "article_count": 15,
+    "overall_summary": "This batch of articles covers a range of global news from the last 6 hours, including sports developments, legal disputes, and the expanding regional impacts of the US-Israel war on Iran. Major themes include civilian casualties from the conflict, geopolitical tensions, and significant events in international sports.",
+    "articles": [
+      {
+        "title": "NBA owners vote to explore Seattle, Las Vegas expansion bids | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/26/nba-owners-vote-to-explore-seattle-las-vegas-expansion-bids",
+        "published": "2026-03-26T06:13:47Z",
+        "summary": "NBA owners have unanimously voted to explore bids for expansion teams in Seattle and Las Vegas, with the 2028-29 season as a potential entry point. The vote allows the league to formally explore these opportunities, with bids expected to cost between $7bn and $10bn per team. If expansion proceeds, it would be the NBA's most significant since 2004, and a Western Conference team would likely move east to balance the leagues."
+      },
+      {
+        "title": "Senegal appeal to CAS against handing over of AFCON title to Morocco | Africa Cup of Nations News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/26/senegal-appeal-to-cas-against-handing-over-of-afcon-title-to-morocco",
+        "published": "2026-03-26T06:16:38Z",
+        "summary": "Senegal has appealed to the Court of Arbitration for Sport (CAS) against the decision to strip them of the Africa Cup of Nations title and award it to Morocco. The Confederation of African Football (CAF) made the decision after Senegalese players walked off the pitch to protest a penalty award during the final. CAS has confirmed receipt of the appeal and states it will conduct proceedings swiftly."
+      },
+      {
+        "title": "Deaths and debts: Missiles in Gulf shake millions of South Asian families | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/26/deaths-and-debts-missiles-in-gulf-shake-millions-of-south-asian-families",
+        "published": "2026-03-26T06:26:10Z",
+        "summary": "The article details the impact of the US-Israel war on Iran on South Asian migrant workers in the Gulf, focusing on a family in India whose son died in Qatar, reportedly from a heart attack after hearing missiles. It states that most of the civilian deaths in Gulf countries from Iranian attacks have been South Asian nationals. The piece highlights the economic reliance of millions of South Asian families on remittances from these workers, which is now under threat."
+      },
+      {
+        "title": "In U-turn, UK police say Palestine Action protesters will be arrested again | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/in-u-turn-uk-police-say-palestine-action-protesters-will-be-arrested-again",
+        "published": "2026-03-26T06:47:41Z",
+        "summary": "London's Metropolitan Police has reversed its stance, warning that anyone showing support for the group Palestine Action is now likely to be arrested. This follows a High Court ruling that found the government's ban on the group unlawful, but the ruling's effect is suspended pending a government appeal. Police state they must enforce the law as it currently stands, which still criminalizes support for the proscribed group."
+      },
+      {
+        "title": "US-Israel war on Iran: What’s happening on day 27 of attacks? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks",
+        "published": "2026-03-26T06:53:23Z",
+        "summary": "The US-Israel war on Iran is intensifying, with strikes reported to be increasing in number and intensity. US President Donald Trump claims Iran is engaged in peace talks, while Iran rejects negotiations and vows to continue resisting. The article lists various developments, including civilian casualties, Iranian retaliatory strikes, and military actions reported by Gulf states like Saudi Arabia and the UAE."
+      },
+      {
+        "title": "Two teenagers killed in Shiraz, two dead in Abu Dhabi as Iran war expands | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-launch-extensive-strikes-on-central-iran-two-teenagers-killed",
+        "published": "2026-03-26T07:47:23Z",
+        "summary": "Two teenage boys were killed in a US-Israeli strike on a residential area in Shiraz, Iran. Separately, two people were reported killed in Abu Dhabi from falling debris of an intercepted missile. Israel announced extensive strikes on Isfahan, and the article describes an expansion in the geographic scope of the attacks within Iran, alongside continued missile barrages and injuries in Israel."
+      },
+      {
+        "title": "US seeks Hamas ‘political surrender’ in new Gaza plan | Armed Groups News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/us-seeks-hamas-political-surrender-in-new-gaza-plan",
+        "published": "2026-03-26T08:42:56Z",
+        "summary": "US envoys have presented a written demand for the complete disarmament of Hamas and allied Palestinian factions in Gaza as part of a new plan. Analysts describe the proposal as seeking the 'political surrender' of Hamas, linking reconstruction and Israeli troop withdrawal to the surrender of weapons. The plan is viewed by Palestinian observers as a coercive ultimatum that abandons previous agreements."
+      },
+      {
+        "title": "Helium hitch: Why US-Israel war on Iran could cause MRI scan delays | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/3/26/helium-hitch-why-us-israel-war-on-iran-could-cause-mri-scan-delays",
+        "published": "2026-03-26T08:51:30Z",
+        "summary": "The war has disrupted about one-third of global helium supplies, critical for MRI scanners and semiconductors, largely due to shipping restrictions through the Strait of Hormuz and halted production in Qatar. Qatar, a major producer, exports most of its helium via the Strait, where traffic has nearly halted following Iranian warnings. The shortage is expected to have ripple effects across medical and high-tech industries."
+      },
+      {
+        "title": "‘He will call me Mama’: The Gaza ‘grandmother’ raising an orphaned baby | Women | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/longform/2026/3/26/he-will-call-me-mama-the-gaza-grandmother-raising-an-orphaned-baby",
+        "published": "2026-03-26T08:53:33Z",
+        "summary": "The article profiles Maha al-Rubaie, a 56-year-old woman in Gaza who is raising her orphaned grandnephew, Hamza. Hamza's parents and siblings were killed in Israeli airstrikes during the war, and he was delivered via emergency caesarean after his mother's death. Maha, who had previously raised Hamza's father after he was orphaned, now cares for the baby in a former classroom, referring to herself as his 'Mama'."
+      },
+      {
+        "title": "Venezuela’s Maduro set to appear in US court months after abduction | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/venezuelas-maduro-set-to-appear-in-us-court-months-after-abduction",
+        "published": "2026-03-26T08:57:01Z",
+        "summary": "Former Venezuelan President Nicolas Maduro is set to appear in a US court as he seeks to have his drug trafficking indictment dismissed. Maduro and his wife, who were abducted by US forces in January and remain jailed, plead not guilty to all charges, which they deny as part of an imperialist plot. The article notes that while Maduro's party remains in control, he has been sidelined within the government led by acting President Delcy Rodriguez."
+      },
+      {
+        "title": "Cuban president says Raul Castro involved in US talks amid oil blockade | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/cuban-president-says-raul-castro-involved-in-us-talks-amid-oil-blockade",
+        "published": "2026-03-26T09:09:06Z",
+        "summary": "Cuban President Miguel Diaz-Canel says former leader Raul Castro is involved in early-stage talks with the United States, amid soaring tensions and a US oil blockade that has caused nationwide blackouts. The announcement follows a threat from US President Donald Trump about taking over Cuba. UN officials have warned of a humanitarian crisis and a collapsing health system on the island due to the energy shortage."
+      },
+      {
+        "title": "Brazil vs France: When and where is the match? Will Mbappe, Vinicius play? | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/26/brazil-vs-france-when-and-where-is-the-match-will-mbappe-vinicius-play",
+        "published": "2026-03-26T09:16:40Z",
+        "summary": "Brazil and France are set to play a glamour friendly in Boston, USA, as both teams prepare for the upcoming FIFA World Cup. The match will feature stars like Kylian Mbappe and Vinicius Junior, though Neymar is absent from the Brazil squad due to what coach Carlo Ancelotti cited as a physical issue. This is the first meeting between the teams in 11 years."
+      },
+      {
+        "title": "Amid US-Israel war, Iran football team trains in Turkiye before World Cup | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/26/amid-us-israel-war-iran-football-team-trains-in-turkiye-before-world-cup",
+        "published": "2026-03-26T09:48:22Z",
+        "summary": "Iran's national football team is training in Turkiye for two friendly matches ahead of the World Cup, against a backdrop of the US-Israel war on Iran. The camp has restricted media access to avoid distractions. The federation is in discussions with FIFA about moving its World Cup matches from the US to Mexico over safety concerns, and striker Sardar Azmoun was omitted from the squad for a perceived act of disloyalty."
+      },
+      {
+        "title": "Israel hinders repair of damaged water infra deepening Gaza’s health crisis | Gaza | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/26/israel-hinders-repair-of-damaged-water-infra-deepening-gazas-health-crisis",
+        "published": "2026-03-26T09:52:51Z",
+        "summary": "Palestinians in Gaza struggle to access clean water as Israel's military offensive has decimated water infrastructure and hinders repairs. Israeli policies, including a blockade on 'dual-use' equipment and control over areas like the 'Yellow Line', prevent the restoration of water systems. The UN estimates 70% of Gaza City's water supply infrastructure is disrupted, deepening a public health crisis."
+      },
+      {
+        "title": "Dozens dead in Bangladesh as passenger bus plunges into Padma River | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/26/dozens-dead-in-bangladesh-as-passenger-bus-plunges-into-padma-river",
+        "published": "2026-03-26T10:24:30Z",
+        "summary": "At least 24 people, including children, died after a bus carrying 40 passengers plunged into the Padma River in central Bangladesh. The bus lost control while attempting to board a ferry. Rescue efforts recovered bodies from the submerged bus, with officials fearing more may be missing. Road accidents are common in Bangladesh due to poor infrastructure and reckless driving."
+      }
+    ]
+  },
+  {
     "time": "2026-03-26T06:13:01Z",
     "window_hours": 6,
     "article_count": 4,
