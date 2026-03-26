@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-03-26T06:13:01Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+The articles cover a range of international economic and political developments. They report on Malaysia tightening expatriate rules, Australia banning visitors from Iran, US lawmakers proposing a pause on AI data centers, and rising oil prices following Iran's denial of talks with the US.
+
+ARTICLE BREAKDOWN
+[1] Malaysia moves to tighten rules for expats, raising fears of talent flight | Business and Economy News | Al Jazeera
+Published: 2026-03-26T02:40:43Z
+URL: https://www.aljazeera.com/economy/2026/3/26/malaysia-moves-to-tighten-rules-for-expats-raising-fears-of-talent-flight
+Summary: Malaysia's government plans to reduce reliance on foreign workers by raising the minimum salary threshold for visas and capping length of stay, aiming to encourage local hiring and boost incomes. The move has created uncertainty for long-term expatriates, including highly-paid professionals, who contribute significantly to the economy. The policy is part of a national strategy citing that reliance on low-skilled foreign labor has hampered technology adoption and wage growth.
+
+[2] Australia bans visitors from Iran amid war in the Middle East | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-26T03:28:18Z
+URL: https://www.aljazeera.com/news/2026/3/26/australia-bans-visitors-from-iran-amid-war-in-the-middle-east
+Summary: Australia has imposed a six-month ban on Iranian visitors, citing the conflict in Iran increases the risk they may not depart when their visas expire. The ban applies to Iranian citizens outside Australia, even with existing visas, with exceptions for family members of citizens and permanent residents. The government describes the move as in the national interest, while a refugee support group criticizes it for blocking a pathway to safety.
+
+[3] US lawmakers push for pause in data centres until AI safeguards in place | Technology News | Al Jazeera
+Published: 2026-03-26T03:39:28Z
+URL: https://www.aljazeera.com/economy/2026/3/26/us-lawmakers-push-for-pause-in-data-centres-until-ai-safeguards-in-place
+Summary: US lawmakers Bernie Sanders and Alexandria Ocasio-Cortez have introduced legislation calling for a moratorium on new AI data center construction until national safeguards are established. They argue a pause is needed to address potential harms to workers, civil liberties, and the environment from the rapid AI rollout. The proposal follows grassroots opposition to data centers over environmental and economic concerns, though the bill faces a challenging path in Congress.
+
+[4] Oil prices rise higher as Iran denies US talks, dimming deescalation hopes | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-26T05:06:02Z
+URL: https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes
+Summary: Oil prices increased, with Brent crude surpassing $104 a barrel, after Iran denied reports of direct talks with the US, reducing hopes for de-escalation in the conflict. The price rise follows a previous easing on reports of a US peace plan. Iran's closure of the Strait of Hormuz and attacks on energy facilities have driven prices up over 40% since the war began, with shipping transits through the strait drastically reduced.
+
+================================================================================
 RUN TIME UTC: 2026-03-26T02:28:28Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
