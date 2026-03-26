@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-03-26T16:13:24Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The articles cover a range of global developments, with a primary focus on the escalating US-Israel war on Iran and its regional and global consequences. Other major stories include a landmark social media liability verdict, a diplomatic treaty in North Korea, and a major sports controversy in Africa.
+
+ARTICLE BREAKDOWN
+[1] Iranian naval commander Alireza Tangsiri killed in attack, Israel says | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-26T11:10:39Z
+URL: https://www.aljazeera.com/news/2026/3/26/iranian-naval-commander-alireza-tangsiri-killed-in-attack-says-israel
+Summary: Israel's defense minister announced that an Israeli airstrike killed Iranian naval commander Alireza Tangsiri, holding him responsible for blocking the Strait of Hormuz. The attack reportedly occurred in Bandar Abbas and targeted other senior naval officers. There has been no official Iranian confirmation of the killing, which would represent another major loss for Iran's military leadership.
+
+[2] Germany warns of world economic ‘catastrophe’; OECD cuts UK growth forecast | News | Al Jazeera
+Published: 2026-03-26T11:16:58Z
+URL: https://www.aljazeera.com/news/2026/3/26/germany-warns-of-world-economic-catastrophe-oecd-cuts-uk-growth-forecast
+Summary: German Defense Minister Boris Pistorius labeled the US-Israel war on Iran an economic 'catastrophe' for the world. Separately, the OECD sharply downgraded its 2026 growth forecast for the UK to 0.7%, citing planned fiscal tightening and higher energy prices. Pistorius stated Germany was not consulted before the war and urged a ceasefire.
+
+[3] Iran to Lebanon: Four million people displaced by US-Israeli war | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-26T11:40:17Z
+URL: https://www.aljazeera.com/news/2026/3/26/iran-to-lebanon-four-million-people-displaced-by-us-israeli-war
+Summary: The UN estimates 3.2 million people have been displaced within Iran due to the war, while over a million have been displaced in Lebanon due to Israeli evacuation orders. In Iran, over 85,000 civilian sites have been damaged, including homes, schools, and healthcare facilities. Aid agencies and neighboring countries are bracing for a potential refugee crisis.
+
+[4] Venezuela’s Maduro set to again appear in US court: How strong is the case? | Donald Trump News | Al Jazeera
+Published: 2026-03-26T11:56:47Z
+URL: https://www.aljazeera.com/news/2026/3/26/venezuelas-maduro-set-to-again-appear-in-us-court-how-strong-is-the-case
+Summary: Former Venezuelan leader Nicolas Maduro is set for his second US court appearance since his abduction by US forces in January. Maduro's defense has argued he is a 'prisoner of war' and that his capture was illegal. Legal experts describe the prosecution of a former head of state as largely uncharted territory, with many questions about evidence and legal strategy unanswered.
+
+[5] Jury finds Meta, YouTube liable for social media addiction: What we know | Social Media News | Al Jazeera
+Published: 2026-03-26T11:59:01Z
+URL: https://www.aljazeera.com/news/2026/3/26/jury-finds-meta-youtube-liable-for-social-media-addiction-what-we-know
+Summary: A Los Angeles jury found Alphabet's Google and Meta liable in a landmark civil trial over youth social media addiction. The plaintiff, a 20-year-old woman, testified that addictive platform features exacerbated her depression, suicidal thoughts, and body dysmorphia. The jury recommended the companies pay $6m in damages, though TikTok and Snapchat had previously settled their parts in the case.
+
+[6] North Korea’s Kim meets Lukashenko, slams ‘pressure ​on Belarus from West’ | News | Al Jazeera
+Published: 2026-03-26T12:12:55Z
+URL: https://www.aljazeera.com/news/2026/3/26/north-koreas-kim-meets-lukashenko-slams-pressure-on-belarus-from-west
+Summary: North Korean leader Kim Jong Un and Belarusian President Alexander Lukashenko signed a friendship treaty during a visit to Pyongyang. Lukashenko said relations were entering a 'fundamentally new stage', while Kim stated they opposed 'undue pressure on Belarus from the West'. Both nations are close allies of Russia and have backed its war in Ukraine.
+
+[7] As a Palestinian, I stand in solidarity with the Iranian people. Here’s why | US-Israel war on Iran | Al Jazeera
+Published: 2026-03-26T12:26:23Z
+URL: https://www.aljazeera.com/opinions/2026/3/26/as-a-palestinian-i-stand-in-solidarity-with-the-iranian-people-heres-why
+Summary: This opinion piece expresses Palestinian solidarity with the Iranian people, arguing that Western promises of freedom are empty and that imperialism seeks control, not liberation. The author draws parallels between Palestinian and Iranian experiences of war, citing a specific attack on a girls' school in Iran that used a 'double-tap' strike tactic familiar in Gaza.
+
+[8] Senegal pledges to fight ‘robbery’ after CAF strips it of AFCON title | Africa Cup of Nations News | Al Jazeera
+Published: 2026-03-26T13:04:08Z
+URL: https://www.aljazeera.com/sports/2026/3/26/senegal-pledges-to-fight-robbery-after-caf-strips-it-of-afcon-title
+Summary: Senegal's football federation has pledged to fight what it calls an 'administrative robbery' after the Confederation of African Football stripped it of the African Cup of Nations title. The decision followed Senegal walking off the pitch to protest a penalty awarded to Morocco in the final. Senegal's legal team has appealed to the Court of Arbitration for Sport, arguing the ruling violates the principle that refereeing decisions are final.
+
+[9] ‘My phone is a brick’: Russians scramble for information as data blocked | Cybersecurity News | Al Jazeera
+Published: 2026-03-26T13:07:13Z
+URL: https://www.aljazeera.com/features/2026/3/26/my-phone-is-a-brick-russians-scramble-for-information-as-data-blocked
+Summary: Widespread mobile internet outages in major Russian cities like Moscow and St. Petersburg are disrupting daily life, with authorities citing security concerns over Ukrainian drone attacks. Digital rights experts suggest the blackouts may be a test for a government 'whitelist' of approved websites. The outages have proven unpopular and are estimated to have caused significant economic losses.
+
+[10] Russian officials meet US counterparts as Moscow denies aiding Iran | Russia-Ukraine war News | Al Jazeera
+Published: 2026-03-26T13:34:37Z
+URL: https://www.aljazeera.com/news/2026/3/26/russian-officials-meet-us-counterparts-as-moscow-denies-aiding-iran
+Summary: A Russian delegation has arrived in the US for meetings, marking the first such trip since relations soured over the war in Ukraine. The Kremlin hopes it will revive bilateral engagement. The visit comes as Moscow denies a report alleging it is close to completing a drone shipment to Iran, dismissing it as media lies.
+
+[11] Tehran’s’tollbooth’: How Iran picks who to let through Strait of Hormuz | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-26T15:56:05Z
+URL: https://www.aljazeera.com/news/2026/3/26/tehranstollbooth-how-iran-picks-who-to-let-through-strait-of-hormuz
+Summary: Iran's de facto blockade of the Strait of Hormuz has caused a major energy crisis, with nearly 2,000 vessels stranded. Reports indicate Iran's parliament is preparing legislation to collect tolls for ships transiting the strait, arguing it ensures security. The Islamic Revolutionary Guard Corps has already imposed a 'toll booth' system, controlling vessel traffic and contributing to a global surge in oil prices.
+
+================================================================================
 RUN TIME UTC: 2026-03-26T10:54:35Z
 WINDOW: Last 6 hours
 ARTICLES USED: 15
