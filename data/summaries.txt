@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-03-27T02:30:04Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The articles cover a range of global events from the last 6 hours, including a deadly migrant shipwreck off Djibouti, a critical WTO meeting on trade rules, and escalating tensions in the US-Iran conflict. Other stories detail Argentina's terrorist designation for a cartel, economic impacts in the Philippines, a football friendly, a US deportation agreement, and an analysis of Myanmar's civil war.
+
+ARTICLE BREAKDOWN
+[1] At least nine people dead, dozens missing as boat sinks off Djibouti coast | Migration News | Al Jazeera
+Published: 2026-03-26T21:21:10Z
+URL: https://www.aljazeera.com/news/2026/3/26/at-least-nine-people-dead-dozens-missing-as-boat-sinks-off-djibouti-coast
+Summary: A boat carrying over 300 migrants and refugees sank off the coast of Djibouti, leaving at least nine dead and 45 missing. The Djiboutian coastguard rescued 266 survivors, all Ethiopian nationals, who are receiving support. The IOM warns this could be the first of many such incidents this year as the hot season brings rougher seas to the perilous migration route.
+
+[2] WTO holds crunch meeting amid growing uncertainty over multilateral system | International Trade News | Al Jazeera
+Published: 2026-03-26T21:56:40Z
+URL: https://www.aljazeera.com/news/2026/3/26/wto-holds-crunch-meeting-amid-collapsing-multilateral-system
+Summary: The WTO is holding a critical ministerial conference in Cameroon, described as a make-or-break moment for the organization. Director-General Ngozi Okonjo-Iweala stated the old world order is not returning amid global trade disruptions. Key divisions exist, with the US criticizing the 'most-favoured nation' principle while China defends it, and the EU seeks a more flexible framework.
+
+[3] Trump postpones US strikes on Iranian power grid to April 6 amid talks | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-26T22:03:25Z
+URL: https://www.aljazeera.com/news/2026/3/26/trump-postpones-us-strikes-on-iranian-power-grid-to-april-6-amid-talks
+Summary: US President Donald Trump has postponed a threatened attack on Iran's power grid to April 6, citing progress in negotiations. The threat is aimed at pressuring Iran to reopen the Strait of Hormuz. This is the second such delay, and rights groups like Amnesty International have denounced the plan as a threat to commit war crimes.
+
+[4] Argentina declares Jalisco New Generation Cartel a ‘terrorist’ group | Crime News | Al Jazeera
+Published: 2026-03-26T22:03:55Z
+URL: https://www.aljazeera.com/news/2026/3/26/argentina-declares-jalisco-new-generation-cartel-a-terrorist-group
+Summary: Argentina has designated the Mexico-based Jalisco New Generation Cartel as a terrorist organization, aligning with similar US and Canadian designations. The announcement from President Javier Milei's office stated it strengthens international security cooperation. This reflects a broader policy shift in the hemisphere, where the Trump administration has expanded the use of the 'terrorist' label to justify military actions against criminal groups.
+
+[5] Manila’s streets empty as fuel prices surge amid Strait of Hormuz crisis | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-26T22:30:16Z
+URL: https://www.aljazeera.com/gallery/2026/3/26/manilas-streets-empty-as-fuel-prices-surge-amid-strait-of-hormuz-crisis
+Summary: Streets in Metro Manila are unusually empty as soaring fuel prices, linked to the Iran war and Strait of Hormuz crisis, keep vehicles off the road. This has severely impacted the incomes of workers like parking attendants and vendors. The economic strain threatens the Philippines' GDP growth forecasts and has exposed the insufficiency of the public transport system as commuters crowd railway stations.
+
+[6] Mbappe nets for 10-man France in win against Brazil in World Cup warm-up | World Cup 2026 News | Al Jazeera
+Published: 2026-03-26T22:37:20Z
+URL: https://www.aljazeera.com/sports/2026/3/26/mbappe-nets-for-10-man-france-in-win-against-brazil-in-world-cup-warm-up
+Summary: France defeated Brazil 2-1 in a friendly match in the United States, a potential warm-up for the 2026 World Cup. Kylian Mbappe, returning from a knee injury, scored an early goal, with Hugo Ekitike adding another. The match proceeded despite prior disputes over security costs and was played on a temporary grass field at Gillette Stadium.
+
+[7] Costa Rica to accept 25 deportees per week under Trump deportation effort | Donald Trump News | Al Jazeera
+Published: 2026-03-26T23:09:57Z
+URL: https://www.aljazeera.com/news/2026/3/26/costa-rica-to-accept-25-deportees-per-week-under-trump-deportation-effort
+Summary: Costa Rica has agreed to accept up to 25 migrants deported from the US per week as part of a 'third-country' agreement with the Trump administration. The government describes the pact as non-binding and reserves the right to accept or reject transfers. Such agreements have been criticized for leaving vulnerable migrants in a legal 'black hole' in foreign countries.
+
+[8] Who is fighting in Myanmar’s multi-front civil war? | Conflict News | Al Jazeera
+Published: 2026-03-27T02:21:16Z
+URL: https://www.aljazeera.com/features/2026/3/27/who-is-fighting-in-myanmars-multi-front-civil-war
+Summary: Myanmar is in the sixth year of a civil war triggered by the military's 2021 coup. The conflict involves the military regime, various ethnic armed groups, and pro-democracy forces, with alliances described as fluid. The military, bolstered by arms from China and Russia, has regained confidence, while the conflict has resulted in tens of thousands of deaths and millions displaced.
+
+================================================================================
 RUN TIME UTC: 2026-03-26T20:38:04Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
