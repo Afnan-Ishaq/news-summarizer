@@ -1,5 +1,79 @@
 [
   {
+    "time": "2026-03-27T10:52:34Z",
+    "window_hours": 6,
+    "article_count": 11,
+    "overall_summary": "This batch of articles covers a range of global news from the last six hours. The dominant theme is the ongoing US-Israel war on Iran, detailing military actions, diplomatic efforts, and regional impacts. Other stories cover World Cup football playoffs, a new political leader in Nepal, the Russia-Ukraine war, an oil spill in Mexico, and India's economic response to the energy crisis.",
+    "articles": [
+      {
+        "title": "US-Israel war on Iran: What’s happening on day 28 of attacks? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2",
+        "published": "2026-03-27T06:35:14Z",
+        "summary": "On day 28 of the war, US President Donald Trump has delayed planned attacks on Iran's energy infrastructure by 10 days, claiming peace talks are going well, while Iranian officials call a US proposal 'one-sided and unfair'. Diplomatic efforts involving Pakistan, Turkiye, and Egypt are intensifying to prevent a wider conflict. The article reports ongoing military strikes, with over 1,900 people killed in Iran, and details attacks and interceptions in Gulf states."
+      },
+      {
+        "title": "Italy to play Bosnia in 2026 World Cup playoff final, Kosovo face Turkiye | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/27/italy-to-play-bosnia-in-2026-world-cup-playoff-final-kosovo-face-turkiye",
+        "published": "2026-03-27T06:47:48Z",
+        "summary": "Italy beat Northern Ireland 2-0 and will travel to play Bosnia and Herzegovina in a final for a spot in the 2026 World Cup. Kosovo advanced to a playoff final against Turkiye after a 4-3 win over Slovakia. The article also notes wins for Sweden, Poland, the Czech Republic, and Denmark in their European playoff semifinals."
+      },
+      {
+        "title": "Iran bans sports teams from travelling to ‘hostile’ countries amid war | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war",
+        "published": "2026-03-27T07:25:59Z",
+        "summary": "Iran has banned its national and club sports teams from traveling to countries it deems 'hostile', citing security concerns for athletes. The ban was announced before a club football match in Saudi Arabia and requires the football federation to notify the Asian Football Confederation to relocate games. The article notes this comes amid the war and mentions Iran's separate negotiations with FIFA to move its World Cup matches from the US."
+      },
+      {
+        "title": "Israeli opposition leader rails against ‘multi-front war without strategy’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/israeli-opposition-leader-rails-against-multi-front-war-without-strategy",
+        "published": "2026-03-27T07:42:44Z",
+        "summary": "Israeli opposition leader Yair Lapid has warned the military is 'stretched to the limit' and accused the government of waging a 'multi-front war without a strategy', steering towards a 'security disaster'. His comments echo a leaked warning from the military chief. The article reports on Israel's plan to create a buffer zone in south Lebanon and ongoing clashes with Hezbollah."
+      },
+      {
+        "title": "Ukraine fends off increased attacks, strikes Russian oil revenue | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/27/ukraine-fends-off-increased-attacks-strikes-russian-oil-revenue",
+        "published": "2026-03-27T08:04:40Z",
+        "summary": "Ukraine has responded to increased Russian assaults, potentially the start of a spring offensive, by striking Russian oil export terminals at Ust-Luga and Primorsk. These strikes have severed an estimated 40% of Russia's oil export revenue. The article details the attacks on oil infrastructure and increased ground assaults by Russian forces in eastern Ukraine."
+      },
+      {
+        "title": "Now in power, Nepal’s rapper-politician Balen Shah faces new challenge | Politics | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/27/now-in-power-nepals-rapper-politician-balen-shah-faces-new-challenge",
+        "published": "2026-03-27T08:06:40Z",
+        "summary": "Rapper-turned-politician Balendra (Balen) Shah has been sworn in as Nepal's prime minister after his Rastriya Swatantra Party won a landslide victory. Analysts say Shah has a historic opportunity to deliver on the aspirations of young Nepalis but faces the challenge of extremely high public expectations. An immediate test will be implementing the findings of a commission investigating last year's Gen Z-led uprising."
+      },
+      {
+        "title": "How extensive is Russia’s military aid to Iran? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/how-extensive-is-russias-military-aid-to-iran",
+        "published": "2026-03-27T08:09:40Z",
+        "summary": "The article examines the extent of Russia's military aid to Iran, noting US President Trump's comment that Moscow might be helping 'a bit'. It reports that Russia is likely providing Iran with satellite and intelligence data, specifically from its Liana spy satellite system, to track US military assets. The piece also notes the long history of mutual arms supplies between the two countries."
+      },
+      {
+        "title": "Iran emergency workers search for survivors after deadly US-Israel attacks | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom",
+        "published": "2026-03-27T08:45:48Z",
+        "summary": "Emergency workers in Iran are searching for survivors after US-Israeli strikes on Tehran and Qom, where an air raid killed six people. A deputy health official reported the war has killed at least 1,937 people in Iran. The Norwegian Refugee Council warned that millions of Iranians are displaced or living in fear, with civilians paying the highest price."
+      },
+      {
+        "title": "India lowers fuel taxes, says rumours of lockdown ‘completely false’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/india-slashes-petrol-diesel-import-taxes-as-fuel-prices-remain-high",
+        "published": "2026-03-27T09:50:01Z",
+        "summary": "India has slashed fuel taxes to protect consumers from rising global energy prices caused by the war on Iran. The government cut petrol duties and removed diesel duties, taking a significant fiscal hit. Petroleum Minister Hardeep Singh Puri also denied rumours of an impending lockdown due to the energy crisis, calling them 'completely false'."
+      },
+      {
+        "title": "Wildlife killed, reefs damaged in ‘active’ Gulf of Mexico oil spill | Climate Crisis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/wildlife-killed-reefs-damaged-in-active-gulf-of-mexico-oil-spill",
+        "published": "2026-03-27T09:50:16Z",
+        "summary": "An active oil spill in the Gulf of Mexico from an unidentified vessel and two natural seeps has spread over 600 km, affecting seven nature reserves. Mexican authorities confirmed the spill has killed sea turtles, a manatee, and fish, and damaged about 17 reefs. Environmental groups have criticized the government's response and communication about the incident."
+      },
+      {
+        "title": "‘My heart burns with pain’: Iranian mother tells UN of Minab school attack | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/my-heart-burns-with-pain-iranian-mother-tells-un-of-minab-school-attack",
+        "published": "2026-03-27T10:48:47Z",
+        "summary": "Mohaddeseh Fallahat, whose two children were killed in a US missile strike on a girls' school in Minab, Iran, addressed the UN Human Rights Council, describing her grief. Iran's Foreign Minister Abbas Araghchi told the council the attack was 'deliberate and intentional', not a miscalculation. A UN special rapporteur suggested the attack may have resulted from a mistake using outdated intelligence, which is under investigation."
+      }
+    ]
+  },
+  {
     "time": "2026-03-27T06:13:37Z",
     "window_hours": 6,
     "article_count": 6,
