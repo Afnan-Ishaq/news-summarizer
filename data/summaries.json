@@ -1,5 +1,91 @@
 [
   {
+    "time": "2026-03-27T15:55:53Z",
+    "window_hours": 6,
+    "article_count": 13,
+    "overall_summary": "This batch of articles covers a range of global events from the last 6 hours, with a strong focus on the ongoing US-Israel war on Iran and its regional consequences. Other stories include political developments in Nepal and Austria, sports policy debates, and humanitarian crises in Lebanon and El Salvador.",
+    "articles": [
+      {
+        "title": "What is LNG and what is it used for? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/what-is-lng-and-what-is-it-used-for",
+        "published": "2026-03-27T10:53:24Z",
+        "summary": "The article explains what Liquefied Natural Gas (LNG) is and its global uses, from power generation to industrial applications. It states that the US-Israeli war on Iran has severely disrupted LNG supplies moving through the Strait of Hormuz, causing significant global energy market disruptions. The text details the technical process of creating, transporting, and regasifying LNG."
+      },
+      {
+        "title": "Nepal’s youngest premier sworn in after releasing new rap song about unity | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/nepals-youngest-premier-sworn-in-after-releasing-new-rap-song-about-unity",
+        "published": "2026-03-27T10:59:03Z",
+        "summary": "Balendra Shah, a 35-year-old rapper-turned-politician, has been sworn in as Nepal's youngest prime minister. His party, the Rastriya Swatantra Party, won a landslide victory in elections following Gen-Z-led protests. A day before being sworn in, Shah released a rap song about unity which has garnered millions of views online."
+      },
+      {
+        "title": "Yemenis fear economic consequences of being dragged into US-Iran conflict | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/yemenis-fear-economic-consequences-of-being-dragged-into-us-iran-conflict",
+        "published": "2026-03-27T11:24:32Z",
+        "summary": "The article reports that Yemenis fear the economic fallout if the Iran-allied Houthi rebels get involved in the US-Israel war on Iran. Analysts warn that Houthi involvement, such as blocking the Bab al-Mandeb Strait, could reignite Yemen's internal conflict and have devastating humanitarian consequences. The Houthis have so far not participated in the current conflict despite their capabilities."
+      },
+      {
+        "title": "‘We will no longer stand by’: Austria plans social media ban for under-14s | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/austria-plans-social-media-ban-for-children-under-age-14",
+        "published": "2026-03-27T12:04:00Z",
+        "summary": "Austrian officials have announced plans to ban children under the age of 14 from using social media platforms, citing addiction and health risks. The government says draft legislation will be prepared by June, targeting platforms based on addictive algorithms and harmful content. This move follows similar considerations and actions in other European countries."
+      },
+      {
+        "title": "France calls IOC sex testing a ‘step backwards’ while Trump praises move | Olympics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/27/france-calls-ioc-sex-testing-a-step-backwards-while-trump-praises-move",
+        "published": "2026-03-27T12:10:02Z",
+        "summary": "France's sports minister has criticized the International Olympic Committee's decision to introduce genetic testing to determine eligibility for women's events, calling it a 'step backwards' that raises ethical and scientific concerns. In contrast, US President Donald Trump praised the move, which essentially bars transgender athletes from female categories, aligning with his earlier executive order."
+      },
+      {
+        "title": "Ukraine announces ‘mutually beneficial’ defence deal with Saudi Arabia | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/ukraine-announces-defense-pact-with-saudi-arabia",
+        "published": "2026-03-27T12:25:11Z",
+        "summary": "Ukraine's President Volodymyr Zelenskyy has announced a defence agreement with Saudi Arabia, focusing on technological cooperation and investment. The deal comes as Gulf countries face Iranian drone and missile attacks, and Ukraine seeks to share its expertise in countering drones gained from its war with Russia. Saudi Arabia has not publicly confirmed the pact."
+      },
+      {
+        "title": "Qatari PM and US officials discuss strategic ties amid Iran war | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/qatari-pm-and-us-officials-discuss-strategic-ties-amid-iran-war",
+        "published": "2026-03-27T13:15:36Z",
+        "summary": "Qatar's Prime Minister met with senior US officials in Washington to discuss strengthening strategic and defence cooperation amid the ongoing war on Iran. Both sides stressed the importance of ensuring sustainable energy supplies and the continued flow of Qatari LNG to global markets. The talks occurred against a backdrop of regional tension and Iranian attacks on Gulf infrastructure."
+      },
+      {
+        "title": "Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz",
+        "published": "2026-03-27T13:27:26Z",
+        "summary": "The article examines whether three major oil pipelines in the Middle East can compensate for the severe disruption to shipping through the Strait of Hormuz caused by the US-Israel war on Iran. It notes that traffic through the strait has plunged by over 95%, forcing countries to seek alternative routes. The piece specifically mentions Saudi Arabia's East-West Petroline as one pipeline being used, though it lacks the capacity to fully replace the strait."
+      },
+      {
+        "title": "‘Raising 10 red flags’: Is Israel’s army exhausted? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/27/raising-10-red-flags-is-israels-army-exhausted",
+        "published": "2026-03-27T14:22:59Z",
+        "summary": "Israel's army chief has warned the cabinet that the military is on the brink of collapse due to exhaustion from prolonged conflicts. He urged the government to pass new conscription and reserve duty laws to sustain the force. The article notes that the army, heavily reliant on reservists, has been involved in multiple campaigns across Gaza, the West Bank, Lebanon, and Syria."
+      },
+      {
+        "title": "Norway to add more than $11bn to defence budget over 10 years | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/norway-to-add-more-than-11bn-to-defence-budget-over-10-years",
+        "published": "2026-03-27T14:31:18Z",
+        "summary": "Norway's government has announced a plan to increase defence spending by 115 billion kroner ($11.84bn) over the next decade, aligning with NATO commitments. The increase is attributed to rising equipment costs and lessons from the war in Ukraine, and will include support for Ukraine. The funding will go towards new submarines, frigates, and other military capabilities, though some procurement projects will be delayed."
+      },
+      {
+        "title": "Nixon to Trump: Pakistan’s long record as backchannel between rival powers | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/nixon-to-trump-pakistans-long-record-as-backchannel-between-rival-powers",
+        "published": "2026-03-27T14:38:27Z",
+        "summary": "The article details Pakistan's historical role as a diplomatic backchannel, currently facilitating messages between the US and Iran amid their war. Pakistani officials have confirmed relaying a US ceasefire proposal to Tehran. This role echoes past Pakistani mediation, such as during the US-China rapprochement in the 1970s."
+      },
+      {
+        "title": "Lebanon faces ‘humanitarian catastrophe’ under Israeli assault: UN | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/27/lebanon-faces-humanitarian-catastrophe-under-israeli-assault-un",
+        "published": "2026-03-27T15:11:46Z",
+        "summary": "A UN Refugee Agency official has warned that Lebanon faces a 'humanitarian catastrophe' due to Israel's expanding bombardment and ground invasion. Over 1.2 million people have been displaced, with strikes hitting central Beirut and shelters becoming overwhelmed. The assault began after Hezbollah fired rockets following the assassination of Iran's Supreme Leader."
+      },
+      {
+        "title": "Meet the children left without parents under El Salvador’s emergency decree | Child Rights News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/longform/2026/3/27/meet-the-children-left-without-parents-under-el-salvadors-emergency-decree",
+        "published": "2026-03-27T15:51:46Z",
+        "summary": "The article reports on the fourth anniversary of El Salvador's state of emergency, highlighting how mass arrests have left thousands of children without parental support. Advocacy groups estimate tens of thousands of children have been affected, suffering psychological trauma. The emergency decree, initially a temporary anti-gang measure, has been renewed 48 times since 2022."
+      }
+    ]
+  },
+  {
     "time": "2026-03-27T10:52:34Z",
     "window_hours": 6,
     "article_count": 11,
