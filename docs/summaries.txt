@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-03-27T20:40:17Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+This batch of articles covers a range of international political and security developments. Stories include Russia designating a documentary filmmaker as a foreign agent, a cyberattack on the FBI director, US diplomatic statements on Iran and settler violence, Canadian immigration law changes, a foiled assassination plot against a Palestinian activist in the US, and a US legislative standoff over airport worker pay.
+
+ARTICLE BREAKDOWN
+[1] Russia declares protagonist of Oscar-winning documentary a ‘foreign agent’ | Russia-Ukraine war News | Al Jazeera
+Published: 2026-03-27T16:37:59Z
+URL: https://www.aljazeera.com/news/2026/3/27/russia-declares-protagonist-of-oscar-winning-documentary-a-foreign-agent
+Summary: Russia has declared Pavel Talankin, the teacher and main protagonist of the Oscar-winning documentary 'Mr Nobody Against Putin,' a foreign agent. The justice ministry stated he disseminated inaccurate information about Russia's leadership and spoke against the war in Ukraine. A Russian court also banned the documentary from several streaming platforms, saying it promoted negative attitudes about the government and the war.
+
+[2] FBI director Kash Patel’s emails, photos hacked by Iran-linked group | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-27T17:15:39Z
+URL: https://www.aljazeera.com/news/2026/3/27/fbi-director-kash-patels-emails-photos-hacked-by-iran-linked-group
+Summary: An Iran-linked hacking group called the Handala Hack Team claims to have successfully accessed the personal emails of FBI Director Kash Patel, sharing photographs and documents online. The breach, confirmed by Reuters and CNN, appears to have released documents over a decade old, including travel correspondence and personal photos. The group, described as pro-Palestinian hacking vigilantes linked to Iranian cyberintelligence, also claimed credit for a recent cyberattack on medical device company Stryker as retaliation for a US-Israeli strike in Iran.
+
+[3] US diplomat Marco Rubio denounces settler violence, tolls in Hormuz strait | Donald Trump News | Al Jazeera
+Published: 2026-03-27T18:34:28Z
+URL: https://www.aljazeera.com/news/2026/3/27/us-diplomat-marco-rubio-denounces-settler-violence-tolls-in-hormuz-strait
+Summary: US Secretary of State Marco Rubio, departing from a G7 meeting, denounced Iran's reported plans to implement a tolling system in the Strait of Hormuz, calling it illegal and dangerous. He reiterated President Donald Trump's call for other countries to participate in securing the vital waterway for global oil supply. Rubio stated the US is prepared to be part of a plan to confront this, urging G7 members and Asian countries to contribute.
+
+[4] Canada’s Bill C-12 an ‘attack on refugee, migrant rights’: Advocates | Migration News | Al Jazeera
+Published: 2026-03-27T19:02:50Z
+URL: https://www.aljazeera.com/news/2026/3/27/canadas-bill-c-12-an-attack-on-refugee-migrant-rights-advocates
+Summary: More than two dozen human rights organizations in Canada have condemned the newly passed Bill C-12, calling it a significant attack on refugee and migrant rights. They warn the law will put thousands at risk by limiting access to refugee protection, enabling mass cancellation of immigration documents, and facilitating broad sharing of personal information. The government defends the legislation as an effort to reduce pressure on a strained immigration system and bolster border security.
+
+[5] US Palestinian activist says FBI foiled assassination plot against her | Crime News | Al Jazeera
+Published: 2026-03-27T19:15:16Z
+URL: https://www.aljazeera.com/news/2026/3/27/us-palestinian-activist-says-fbi-foiled-assassination-plot-against-her
+Summary: US law enforcement agencies announced they foiled a plot against Palestinian activist Nerdeen Kiswani, arresting a suspect for allegedly planning to throw Molotov cocktails at her New York home. Kiswani said the FBI Joint Terrorism Task Force informed her of the threat, which was thwarted by an undercover operation. The suspect, identified as Andrew Heifler, was charged with making and possessing destructive devices.
+
+[6] House Republicans shoot down bill that would pay federal airport workers | Donald Trump News | Al Jazeera
+Published: 2026-03-27T20:10:31Z
+URL: https://www.aljazeera.com/news/2026/3/27/house-republicans-shoot-down-bill-that-would-pay-federal-airport-workers
+Summary: Republican leaders in the US House of Representatives rejected a Senate-passed bill that would have resumed funding for Department of Homeland Security agencies like the TSA, whose workers have gone unpaid during a partial government shutdown. House Speaker Mike Johnson called the bill a 'joke' because it withheld funding from border patrol and ICE, suggesting the House would advance its own bill. Separately, President Donald Trump signed a memo directing DHS to find a way to pay TSA employees, blaming Democrats for the impasse.
+
+================================================================================
 RUN TIME UTC: 2026-03-27T15:55:53Z
 WINDOW: Last 6 hours
 ARTICLES USED: 13
