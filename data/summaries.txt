@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-03-28T15:33:33Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last six hours, with a focus on escalating conflict in the Middle East and sports controversies. Key themes include new attacks in the Russia-Ukraine and US-Iran wars, diplomatic tensions, and several major sports stories involving disputes, tributes, and competitions.
+
+ARTICLE BREAKDOWN
+[1] Russian strikes on Ukraine kill 4 as deal to end war dims | Russia-Ukraine war News | Al Jazeera
+Published: 2026-03-28T11:11:48Z
+URL: https://www.aljazeera.com/news/2026/3/28/russian-strikes-on-ukraine-cities-kill-4-as-deal-to-end-war-dims
+Summary: Russian strikes on Odesa and Kryvyi Rih killed at least four people and wounded more than a dozen, damaging residential areas, a maternity hospital, and an industrial site. The attacks come as diplomatic efforts to reach a ceasefire remain entangled, with no talks currently underway between Russia and Ukraine. US Secretary of State Marco Rubio accused Ukrainian President Volodymyr Zelenskyy of lying about US demands regarding the Donbas region and voiced openness to diverting weapons to support the US-Israel attack on Iran.
+
+[2] How the US and Israel are making the Islamic republic stronger | US-Israel war on Iran | Al Jazeera
+Published: 2026-03-28T11:12:32Z
+URL: https://www.aljazeera.com/opinions/2026/3/28/how-the-us-and-israel-are-making-the-islamic-republic
+Summary: This opinion piece argues that the US-Israel war against Iran is feeding into a theological narrative of martyrdom and sacrifice that helps maintain the Islamic Republic's internal cohesion. It suggests external violence may not weaken the regime as expected but could instead reactivate the symbolic and moral grammar through which it has sustained itself. The article states that the regime's ideological core is shaped by a Shia political theology that sanctifies sacrifice and resistance against imperialism.
+
+[3] Diop debut for Morocco adds latest twist in Senegal post-AFCON dispute | Football News | Al Jazeera
+Published: 2026-03-28T12:02:39Z
+URL: https://www.aljazeera.com/sports/2026/3/28/diop-debut-for-morocco-adds-latest-twist-in-senegal-post-afcon-battle
+Summary: Fulham defender Issa Diop made his debut for Morocco in a friendly against Ecuador, shortly after receiving FIFA clearance to switch nationality. Diop, whose father is Senegalese and mother is Moroccan, had previously rejected overtures from both countries while hoping to play for France. His debut adds a new layer to the ongoing dispute after Senegal was stripped of the Africa Cup of Nations title and Morocco was declared winner, a decision Senegal is contesting at the Court of Arbitration for Sport.
+
+[4] Iran footballers pay tribute to victims of school strike at start of war | Football News | Al Jazeera
+Published: 2026-03-28T12:20:59Z
+URL: https://www.aljazeera.com/sports/2026/3/28/iran-footballers-pay-tribute-to-victims-of-school-strike-at-start-of-war
+Summary: The Iran men's national football team wore black armbands and posed with school rucksacks before a friendly against Nigeria to remember victims of a strike on a primary school in Minab. The air strike on February 28 killed at least 170 people, including students and teachers, on the day the US and Israel launched the war with attacks across Iran. Iran has qualified for the World Cup but has asked for its matches to be moved from the US to Mexico over safety concerns after a warning from US President Donald Trump.
+
+[5] At least 15 US troops wounded in Iran strike on Saudi airbase: Reports | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-28T12:21:53Z
+URL: https://www.aljazeera.com/news/2026/3/28/at-least-15-us-troops-wounded-in-iran-strike-on-saudi-airbase-reports
+Summary: At least 15 American soldiers were wounded, with five in serious condition, after Iran launched a missile and drone attack on the Prince Sultan Air Base in Saudi Arabia, according to news reports. The attack reportedly destroyed one refuelling aircraft and damaged three others. This is part of Iran's retaliatory attacks on Gulf nations it accuses of serving as launchpads for US strikes, as the conflict enters its second month.
+
+[6] Pakistan’s Naseem Shah under fire after criticism of politician’s PSL visit | Cricket News | Al Jazeera
+Published: 2026-03-28T12:28:14Z
+URL: https://www.aljazeera.com/sports/2026/3/28/pakistan-quick-slammed-for-criticizing-politicians-presence-at-cricket-game
+Summary: The Pakistan Cricket Board has issued a show-cause notice to fast bowler Naseem Shah for criticising the presence of Punjab Chief Minister Maryam Nawaz at the opening game of the Pakistan Super League. Shah had posted on social media questioning why she was 'treated like the queen' at the stadium, which is hosting games behind closed doors due to government travel restrictions. Shah later deleted the post and claimed his account was hacked, but the PCB is investigating a potential violation of his central contract and media policy.
+
+[7] Verstappen calls his Red Bull ‘undriveable’ after more F1 woes at Japan GP | Motorsports News | Al Jazeera
+Published: 2026-03-28T13:10:12Z
+URL: https://www.aljazeera.com/sports/2026/3/28/verstappen-calls-his-red-bull-undriveable-after-more-f1-woes-at-japan-gp
+Summary: Max Verstappen qualified 11th for the Japanese Grand Prix, calling his Red Bull car 'undriveable' due to handling problems with oversteer and unpredictability. Meanwhile, Mercedes secured a 1-2 in qualifying with Kimi Antonelli taking pole position ahead of teammate George Russell. Verstappen, a four-time world champion, has had a difficult start to the season under new Formula One regulations and crashed out in qualifying at the previous race in Australia.
+
+[8] Iran warns neighbours not to let ‘enemies run the war’ from their land | News | Al Jazeera
+Published: 2026-03-28T13:34:32Z
+URL: https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land
+Summary: Iranian President Masoud Pezeshkian warned neighbouring nations not to let Tehran's 'enemies run the war' from their territory, reiterating calls for countries hosting US military bases to distance themselves. The warning comes amid reports of attacks in the region, including drone strikes on Kuwait's international airport that damaged its radar system and strikes in Abu Dhabi that injured six people. Iran's military also claimed it struck a Ukrainian anti-drone system depot in Dubai, alleging it supported US forces, a claim Ukraine denied.
+
+[9] Defending champion Aryna Sabalenka and Coco Gauff meet in Miami Open final | Tennis News | Al Jazeera
+Published: 2026-03-28T13:35:33Z
+URL: https://www.aljazeera.com/sports/2026/3/28/defending-champion-aryna-sabalenka-and-coco-gauff-meet-for-the-miami-open-t
+Summary: Top-seeded Aryna Sabalenka and Coco Gauff will face each other in the Miami Open final, continuing their growing rivalry with their head-to-head record tied at 6-6. Sabalenka is attempting to win the 'Sunshine Double' after winning Indian Wells earlier this month, while Gauff is making her first Miami Open final appearance in her home state of Florida. Both players acknowledged the physical challenge of their matches and anticipated a great battle in the final.
+
+[10] At least 22 migrants die off Greece after 6 days at sea | Migration News | Al Jazeera
+Published: 2026-03-28T13:58:19Z
+URL: https://www.aljazeera.com/news/2026/3/28/at-least-22-migrants-die-off-greece-after-6-days-at-sea
+Summary: At least 22 migrants died after six days at sea in a rubber boat that left Libya for Greece, with survivors stating the bodies were thrown overboard on a smuggler's orders. Two survivors were hospitalized in Crete, and Greek authorities arrested two South Sudanese men suspected of being the smugglers. The incident highlights the ongoing risks of Mediterranean crossings, with thousands attempting the journey from Libya to Europe each year despite tighter restrictions.
+
+[11] Morocco claims AFCON case closed, despite Senegal appeals to CAF and CAS | Football News | Al Jazeera
+Published: 2026-03-28T14:26:04Z
+URL: https://www.aljazeera.com/sports/2026/3/28/morocco-claims-afcon-case-closed-despite-senegal-appeals-to-caf-and-cas
+Summary: Morocco believes the case of the Africa Cup of Nations title is closed despite Senegal's legal appeals, after the Confederation of African Football awarded Morocco a 3-0 victory due to Senegal players leaving the pitch in protest during the final. Morocco played a friendly draw against Ecuador, with players and fans focused on the future and the upcoming World Cup rather than the controversy. Senegal continues to contest the decision and displayed the AFCON trophy before a recent friendly match.
+
+================================================================================
 RUN TIME UTC: 2026-03-28T10:34:13Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
