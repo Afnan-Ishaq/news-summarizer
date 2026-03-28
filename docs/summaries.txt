@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-03-28T02:13:00Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+The articles cover escalating military conflict in the Middle East, a search operation in the Caribbean, economic repercussions of the war, and sports news. The dominant theme is the intensifying US-Israel war on Iran, now in its fifth week, with reports on strikes, regional warnings, and domestic security measures.
+
+ARTICLE BREAKDOWN
+[1] Israel launches strikes on nuclear sites as Iran warns of retaliation | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-27T20:43:37Z
+URL: https://www.aljazeera.com/news/2026/3/27/israel-launches-strikes-on-iran-nuclear-sites-as-war-enters-fifth-week
+Summary: Israel confirmed strikes on Iranian nuclear and industrial sites, including a uranium processing facility in Yazd, the Khondab Heavy Water Complex, and major steel plants. Iran's Foreign Minister warned of retaliation for the attacks, which Iranian officials said have killed over 1,900 people and damaged cultural sites since the war began on February 28. An IRGC commander warned the conflict was entering new territory, urging employees of US and Israeli-linked companies in the region to vacate workplaces.
+
+[2] Mexico’s navy searches for two missing boats involved in Cuba aid convoy | Humanitarian Crises News | Al Jazeera
+Published: 2026-03-27T20:51:09Z
+URL: https://www.aljazeera.com/news/2026/3/27/mexicos-navy-searches-for-two-missing-boats-involved-in-cuba-aid-convoy
+Summary: Mexico's Navy and the US Coast Guard are searching for two missing sailboats carrying nine people that were part of a humanitarian convoy from Mexico to Cuba. The convoy, organized by the Nuestra America Convoy, is a response to worsening conditions in Cuba after the US cut off foreign oil supplies. Cuban President Miguel Diaz-Canel expressed concern and said Cuba is involved in search efforts, while the US Coast Guard retracted an earlier statement that the boats had been found.
+
+[3] Guns in the streets as US, Israel intensify month-long attacks across Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-27T21:22:49Z
+URL: https://www.aljazeera.com/news/2026/3/27/guns-in-the-streets-as-us-israel-intensify-month-long-attacks-across
+Summary: Heavily armed state forces, including IRGC paramilitaries, maintain checkpoints and patrols on Iranian streets as the war continues. A senior IRGC official in Tehran stated on state television that children over 12 years old can now join armed patrols and checkpoints. The article describes state-backed gatherings in support of the government occurring alongside US and Israeli calls for Iranians to stay home.
+
+[4] What is the TACO trade and are investors profiting amid war on Iran? | Business and Economy News | Al Jazeera
+Published: 2026-03-27T22:06:44Z
+URL: https://www.aljazeera.com/news/2026/3/27/what-is-the-taco-trade-and-are-investors-profiting-amid-war-on-iran
+Summary: The article discusses market volatility and a trading strategy dubbed 'TACO' (Trump Always Chickens Out), where investors bet on US President Donald Trump backing down from threats. It notes oil markets rallied after Trump extended deadlines for Iran to reopen the Strait of Hormuz. However, an economist suggests markets have been less responsive to these policy reversals in the Iran conflict compared to past tariff disputes due to more complex players and objectives involved.
+
+[5] Oyarzabal double seals Spain win against Serbia in World Cup warm-up | World Cup 2026 News | Al Jazeera
+Published: 2026-03-27T22:09:55Z
+URL: https://www.aljazeera.com/sports/2026/3/27/oyarzabal-double-seals-spain-win-against-serbia-in-world-cup-warm-up
+Summary: Spain defeated Serbia 3-0 in a friendly match, with striker Mikel Oyarzabal scoring two first-half goals and substitute Victor Munoz scoring on his senior international debut. The match served as a warm-up for the 2026 World Cup, where Spain is in Group H. Spain also announced it will play Peru in its final World Cup warm-up game.
+
+[6] Tiger Woods charged with DUI after rollover crash in Florida | Golf News | Al Jazeera
+Published: 2026-03-27T22:17:04Z
+URL: https://www.aljazeera.com/sports/2026/3/27/tiger-woods-charged-with-dui-after-rollover-crash-in-florida
+Summary: Golfer Tiger Woods was arrested on a DUI charge following a rollover crash in Florida where he struck a truck trailer and his vehicle rolled over. Authorities said he showed signs of impairment, refused a urine test, and was charged with driving under the influence with property damage and refusal to submit to a test. This is at least the third time Woods has been involved in a car crash, with a prior DUI arrest in 2017.
+
+[7] Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-27T22:53:23Z
+URL: https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues
+Summary: Yemen's Houthi movement warned it is prepared for direct military intervention if other countries join the US and Israel in the war against Iran, or if the Red Sea is used for hostile operations against Iran. The group's military spokesperson said their 'fingers are on the trigger' and warned against any tightening of the blockade on Yemen. The warning raises the prospect of a broader regional war, given the Houthis' ability to disrupt shipping lanes.
+
+================================================================================
 RUN TIME UTC: 2026-03-27T20:40:17Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
