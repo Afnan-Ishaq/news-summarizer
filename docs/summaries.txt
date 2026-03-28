@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-03-28T10:34:13Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+This batch of articles covers a diverse range of international news from the last 6 hours. The stories include a personal feature on a family's struggle with anorexia, several sports updates on football, basketball, and golf, and significant geopolitical developments concerning the US-Israel war on Iran and its regional and global repercussions. Additional reports cover political arrests in Nepal and economic protests in the Philippines.
+
+ARTICLE BREAKDOWN
+[1] ‘She left her body’: A mother’s fight against her daughter’s anorexia | Women | Al Jazeera
+Published: 2026-03-28T06:48:54Z
+URL: https://www.aljazeera.com/features/longform/2026/3/28/she-left-her-body-a-mothers-fight-against-her-daughters-anorexia
+Summary: The article details the story of Dalila Brancaccio and her family in Italy after she was diagnosed with anorexia nervosa in 2018. Her mother, Rita, describes the family's fear and confusion as Dalila's health deteriorated to a critical weight of 31kg. The family's life became centered around her strict treatment plan, with Rita taking daily measures to care for her daughter's physical pain and extreme sensitivity to cold.
+
+[2] White is hero and villain on England return, Germany’s Wirtz destroys Swiss | Football News | Al Jazeera
+Published: 2026-03-28T06:50:42Z
+URL: https://www.aljazeera.com/sports/2026/3/28/white-is-hero-and-villain-on-england-return-germanys-wirtz-destroys-swiss
+Summary: In pre-World Cup friendlies, England drew 1-1 with Uruguay after Ben White scored following his controversial recall but then conceded a stoppage-time penalty. Meanwhile, Germany defeated Switzerland 4-3, with Florian Wirtz playing a starring role by scoring two goals and providing two assists to help his team come from behind twice.
+
+[3] Doncic faces one-game ban after technical foul in Lakers win against Nets | Basketball News | Al Jazeera
+Published: 2026-03-28T06:52:31Z
+URL: https://www.aljazeera.com/sports/2026/3/28/doncic-facing-one-game-ban-after-technical-foul-in-lakers-win-against-nets
+Summary: Luka Doncic scored 41 points in the Los Angeles Lakers' win over the Brooklyn Nets but received his 16th technical foul of the season, triggering an automatic one-game suspension. The technical occurred after an altercation with Nets player Ziaire Williams. The article also notes LeBron James and his son Bronny playing together, with LeBron recording the first father-son assist in NBA history.
+
+[4] Yemen’s Houthis launch missile attack on Israel as war with Iran intensifies | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-28T07:30:45Z
+URL: https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2
+Summary: Yemen's Houthi rebels announced they fired ballistic missiles at what they described as sensitive Israeli military sites in southern Israel, marking their first such attack since the US-Israeli war on Iran began. The Israeli military said it intercepted one missile. A Houthi official stated that closing the Bab al-Mandeb strait to Israel-linked shipping is among their options.
+
+[5] US-Israel war on Iran: What’s happening on day 29 of attacks? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-28T08:17:54Z
+URL: https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks
+Summary: The article reports on escalating tensions on the 29th day of the US-Israel war on Iran. It states that Iran warned of a 'heavy price' after Israeli attacks on nuclear and industrial sites, while US President Donald Trump criticized NATO's response. Other developments include a US envoy expecting talks with Iran, Saudi Arabia intercepting a missile, and analysts suggesting Russia may be providing Iran with satellite intelligence.
+
+[6] Philippine transport strikers say Marcos Jr failing to control oil prices | Energy News | Al Jazeera
+Published: 2026-03-28T08:31:13Z
+URL: https://www.aljazeera.com/economy/2026/3/28/philippine-transport-strikers-say-marcos-jr-failing-to-control-oil-prices
+Summary: Transport workers in the Philippines are striking, blaming soaring fuel costs on the government's inaction and the economic fallout from the US-Israel war on Iran. Protesters marched to the presidential palace demanding price controls and the scrapping of fuel taxes. President Ferdinand Marcos Jr recently declared a state of national energy emergency, which allows for faster fuel procurement and action against profiteering.
+
+[7] Tiger Woods released on bail hours after arrest on suspicion of DUI | Golf News | Al Jazeera
+Published: 2026-03-28T09:09:45Z
+URL: https://www.aljazeera.com/sports/2026/3/28/tiger-woods-released-on-bail-hours-after-arrest-on-suspicion-of-dui
+Summary: Golfer Tiger Woods was released on bail after being arrested on suspicion of driving under the influence following a rollover crash in Florida. Authorities say he showed signs of impairment, possibly from medication, but a breath test showed no alcohol. This is Woods's second DUI arrest not involving alcohol; he was previously arrested in 2017 after a mix of painkillers.
+
+[8] Nepal’s ex-PM Oli detained over alleged role in deadly protest crackdown | Politics News | Al Jazeera
+Published: 2026-03-28T09:50:07Z
+URL: https://www.aljazeera.com/news/2026/3/28/nepals-ex-pm-arrested-over-alleged-role-in-protest-crackdown
+Summary: Nepal's former Prime Minister KP Sharma Oli and ex-Home Minister Ramesh Lekhak have been arrested over their alleged involvement in a deadly crackdown on protesters in September 2025. The new Home Minister stated the arrest marks the 'beginning of justice'. A government-backed commission had previously recommended prosecution, though Oli has denied ordering security forces to open fire.
+
+================================================================================
 RUN TIME UTC: 2026-03-28T05:57:53Z
 WINDOW: Last 6 hours
 ARTICLES USED: 2
