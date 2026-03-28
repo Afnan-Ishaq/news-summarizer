@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-03-28T05:57:53Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+This batch of articles from Al Jazeera covers the first month of a US-Israeli war on Iran and its regional consequences. The reports detail the unfolding military conflict, including significant strikes and casualties, and examine the severe humanitarian impact on Lebanon, where Israeli attacks have caused mass displacement.
+
+ARTICLE BREAKDOWN
+[1] How the US-Israel war on Iran unfolded in its first four weeks | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-28T04:15:55Z
+URL: https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks
+Summary: The article recounts major developments in the first month of a US-Israeli war on Iran, which began with large-scale strikes on February 28. The initial attack killed Iran's Supreme Leader Ali Khamenei and other top officials, leading to Iranian missile and drone retaliation, the blocking of the Strait of Hormuz, and regional escalation including Hezbollah's entry into the conflict. The conflict has resulted in high casualties, soaring energy prices, and intensified violence across the Middle East.
+
+[2] Israel’s unending attacks in Lebanon push country’s population to the brink | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-03-28T04:59:19Z
+URL: https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink
+Summary: The article reports on the severe humanitarian impact of Israeli attacks on Lebanon, now in its fourth week as part of the broader US-Israeli war on Iran. Israeli forced evacuation orders have displaced about a quarter of Lebanon's population, creating a crisis for at least 1.2 million people. The attacks intensified after Hezbollah retaliated for the assassination of Iran's Supreme Leader, with Israel stating its intent to occupy southern Lebanon, worsening conditions for vulnerable groups including migrants and refugees.
+
+================================================================================
 RUN TIME UTC: 2026-03-28T02:13:00Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
