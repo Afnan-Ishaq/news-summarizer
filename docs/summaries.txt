@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-03-28T20:33:11Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last 6 hours, focusing on the ongoing US-Israeli war on Iran and its regional fallout, domestic political responses, and unrelated events in sports and European protests. Key themes include legislative inaction in the US, attacks on journalists and medics in Lebanon, and diplomatic moves by Ukraine.
+
+ARTICLE BREAKDOWN
+[1] One month in, disapproval high but US lawmakers take no action on Iran war | Donald Trump News | Al Jazeera
+Published: 2026-03-28T15:39:46Z
+URL: https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war
+Summary: One month into the US-Israeli war on Iran, US lawmakers have taken little action to curtail the conflict despite high public disapproval. A War Powers resolution failed in the Senate along party lines, and House Democratic leadership has reportedly backed away from holding a vote. Polls show about 61% of Americans disapprove of the war, and the Trump administration has not articulated a clear endgame.
+
+[2] Three journalists killed in Israeli strike on marked press car in Lebanon | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-28T15:40:03Z
+URL: https://www.aljazeera.com/news/2026/3/28/three-journalists-killed-in-israeli-strike-on-marked-press-car-in-lebanon
+Summary: An Israeli strike on a clearly marked press vehicle in southern Lebanon killed three journalists from Al Mayadeen and Al-Manar. The Israeli military acknowledged the strike, claiming one of the journalists was embedded with Hezbollah, a characterization his employer rejected. The same day, the World Health Organization reported nine paramedics were killed in separate attacks in southern Lebanon.
+
+[3] Senegal parade AFCON trophy, despite title being awarded to Morocco | Football News | Al Jazeera
+Published: 2026-03-28T15:58:57Z
+URL: https://www.aljazeera.com/sports/2026/3/28/senegal-parade-afcon-trophy-despite-title-being-awarded-to-morocco
+Summary: Senegal paraded the Africa Cup of Nations trophy ahead of a friendly in Paris, despite having been stripped of the title by the Confederation of African Football (CAF). CAF's appeals panel overturned Senegal's January final win and awarded the title to Morocco. Senegal plans to appeal the decision to CAF and the Court of Arbitration for Sport.
+
+[4] Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour | News | Al Jazeera
+Published: 2026-03-28T16:16:28Z
+URL: https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour
+Summary: Ukrainian President Volodymyr Zelenskyy signed defence agreements with Qatar and the UAE during a Gulf tour, focusing on countering missile and drone threats. Ukraine is leveraging its battlefield expertise in downing drones to offer cheaper defensive solutions to Gulf nations. The agreements involve collaboration in technology, joint investments, and expertise exchange.
+
+[5] France opens probe into suspected attack on Bank of America in Paris | Banks News | Al Jazeera
+Published: 2026-03-28T17:48:34Z
+URL: https://www.aljazeera.com/news/2026/3/28/france-opens-probe-into-suspected-attack-on-bank-of-america-in-paris
+Summary: French authorities have opened a terrorism investigation after police arrested a suspect allegedly trying to ignite an explosive device outside Bank of America's Paris headquarters. A second individual fled the scene. The Interior Minister stated vigilance remains high in the current international context, with security increased around US and Jewish community sites.
+
+[6] As war rages, Iranian politicians push for exit from nuclear weapons treaty | Nuclear Energy News | Al Jazeera
+Published: 2026-03-28T17:48:55Z
+URL: https://www.aljazeera.com/news/2026/3/28/lawmakers-push-npt-exit-as-us-israel-hit-irans-nuclear-sites-steel-plants
+Summary: Iranian politicians are pushing for the country to withdraw from the Nuclear Non-Proliferation Treaty (NPT) as US-Israeli attacks target Iranian nuclear sites and infrastructure. Lawmakers argue the treaty has provided no benefit and have drafted legislation for exit, which would also revoke laws linked to the 2015 nuclear deal. Iranian officials continue to accuse the IAEA of being complicit in attacks.
+
+[7] ‘No Kings’ protests erupt across the US, with a Minnesota focus | Protests News | Al Jazeera
+Published: 2026-03-28T18:16:38Z
+URL: https://www.aljazeera.com/gallery/2026/3/28/photos-no-kings-protests-erupt-across-the-us-with-a-minnesota-focus
+Summary: Demonstrators across the US held 'No Kings' protests, the third such round since President Trump's second term began and the first since the war on Iran started. The main event was in Minnesota, focusing on outrage over a federal immigration operation that resulted in two civilian deaths. Organizers said thousands of events were planned, with many occurring outside major city centers.
+
+[8] Thousands march through London in stand against the far right | Protests News | Al Jazeera
+Published: 2026-03-28T18:32:03Z
+URL: https://www.aljazeera.com/news/2026/3/28/hundreds-of-thousands-march-through-london-in-stand-against-the-far-right
+Summary: Tens of thousands of people marched in London in what organizers called the largest ever demonstration against the far right in British history. The Together Alliance event brought together trade unions and anti-racism groups, with organizers claiming half a million participants, though police estimated a lower figure. Protesters said they were resisting the rise of hate and division in politics.
+
+[9] Palestine Action supporters arrested as London’s Met Police reverse policy | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-03-28T20:09:35Z
+URL: https://www.aljazeera.com/news/2026/3/28/palestine-action-supporters-arrested-as-londons-met-police-reverse-policy
+Summary: London's Metropolitan Police arrested 18 supporters of Palestine Action for holding signs, days after reversing a policy and resuming arrests under terrorism legislation. The police had paused arrests following a High Court ruling that banning the group was unlawful, but resumed them pending a government appeal. Critics say the U-turn defies the court ruling.
+
+================================================================================
 RUN TIME UTC: 2026-03-28T15:33:33Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
