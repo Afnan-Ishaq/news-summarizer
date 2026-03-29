@@ -1,5 +1,79 @@
 [
   {
+    "time": "2026-03-29T15:34:26Z",
+    "window_hours": 6,
+    "article_count": 11,
+    "overall_summary": "The articles cover a range of international developments from the last 6 hours. Major themes include regional diplomatic efforts to de-escalate the US-Israel war on Iran, criticism of new Olympic gender verification policies, and various impacts of the ongoing conflict. Other stories involve sports controversies, ICC governance, and restrictions on religious worship.",
+    "articles": [
+      {
+        "title": "Olympic gender test ‘a disrespect for women’, South Africa’s Semenya says | Olympics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/29/olympic-gender-test-a-disrespect-for-women-south-africas-semenya-says",
+        "published": "2026-03-29T10:33:51Z",
+        "summary": "South African sprinter Caster Semenya criticizes the International Olympic Committee's reinstatement of gender verification tests for the 2028 Los Angeles Games, calling it 'a disrespect for women'. She expressed disappointment that the measure was taken under new IOC President Kirsty Coventry. The IOC stated only 'biological females' will be allowed in women's events, preventing transgender women from competing."
+      },
+      {
+        "title": "Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-four-nation-bid-to-encourage-us-iran-towards-diplomacy",
+        "published": "2026-03-29T11:10:43Z",
+        "summary": "Foreign ministers of Pakistan, Egypt, Saudi Arabia, and Turkiye began two-day consultations in Islamabad to push for de-escalation in the US-Israel war on Iran. The meeting aims to align regional positions and prepare the ground for possible direct US-Iran talks. Iranian President Masoud Pezeshkian, in a call with Pakistan's Prime Minister, stressed the need for confidence-building measures before Tehran considers direct dialogue."
+      },
+      {
+        "title": "The US-Israeli war on humanity | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/29/the-us-israeli-war-on-humanity",
+        "published": "2026-03-29T12:08:26Z",
+        "summary": "An opinion piece argues the US-Israeli war represents a 'war on humanity' and a coordinated assault on international systems, with Palestine as the epicenter. It states that despite an October ceasefire in Gaza, deadly violence and severe aid restrictions continue. The article claims this moment is the apex of a plan for 'Greater Israel' and is enabled by decades of diplomatic and military cover from the US and European states."
+      },
+      {
+        "title": "ICC states should not ignore judicial experts’ conclusions in Khan’s case | ICC | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/29/icc-states-should-not-ignore-judicial-experts-conclusions-in-khans-case",
+        "published": "2026-03-29T12:25:29Z",
+        "summary": "An opinion piece addresses the disciplinary case against ICC prosecutor Karim Khan regarding alleged sexual misconduct. It reports that judicial experts unanimously concluded no misconduct by Khan could be established under the legal framework. The article warns that if the Assembly of States Parties bureau ignores this expert advice and substitutes its own conclusions, it would damage the credibility of both the states and the ICC's governance framework."
+      },
+      {
+        "title": "Iran ‘hits’ US AWACS, air tankers: What else has it targeted in past month? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month",
+        "published": "2026-03-29T13:33:05Z",
+        "summary": "Iran reportedly damaged or destroyed US assets, including KC-135 refueling tankers and an E-3 Sentry AWACS aircraft, in an attack on the Prince Sultan Air Base in Saudi Arabia. Iranian military spokesperson Ebrahim Zolfaghari claimed the attack destroyed one refueling aircraft and damaged three others. The article notes Iranian attacks over the past month have targeted radar systems, missile defense systems, and drones at US bases in several Gulf countries."
+      },
+      {
+        "title": "Israeli footballer’s role in assault on southern Lebanon sparks outrage | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage",
+        "published": "2026-03-29T13:42:41Z",
+        "summary": "Israeli Premier League player Menashe Zalka was seen in a verified video opening fire with Israeli soldiers during an assault in southern Lebanon. This has prompted calls from football officials and fans for FIFA to take action against him and the Israeli Football Association. The Palestinian Football Association's vice president termed Zalka's involvement 'unacceptable', renewing criticism of FIFA's failure to suspend Israel despite sanctioning Russia in 2022."
+      },
+      {
+        "title": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran",
+        "published": "2026-03-29T14:26:35Z",
+        "summary": "Iranian dissidents in the US express fear for their safety and concerns about growing anti-immigrant sentiment since the US joined the war on Iran. Activist Roozbeh Farahanipour describes facing threats even in exile. Scholar Negar Razavi describes an atmosphere of 'dual fear', noting dissidents feel unsafe both in the US and Iran, exacerbated by the Trump administration's deportation of Iranians, including refugees and asylum seekers."
+      },
+      {
+        "title": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks",
+        "published": "2026-03-29T14:35:58Z",
+        "summary": "Foreign ministers from Turkiye, Saudi Arabia, and Egypt are meeting in Islamabad with Pakistani officials for talks aimed at de-escalating the US-Israel war on Iran. As an initial confidence-building measure, Iran agreed to allow 20 Pakistani-flagged ships to pass through the Strait of Hormuz. The diplomatic push comes as US President Donald Trump extended a deadline for Iran to reopen the strait, which Tehran has choked off, causing a global energy crisis."
+      },
+      {
+        "title": "African football chief will ‘respect’ CAS decision on AFCON final row | Africa Cup of Nations News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/29/african-football-chief-will-respect-cas-decision-on-afcon-final-row",
+        "published": "2026-03-29T14:52:13Z",
+        "summary": "CAF President Patrice Motsepe says he will respect the Court of Arbitration for Sport's decision on Senegal's appeal against being stripped of their Africa Cup of Nations title. The appeal follows a CAF appeals body overturning Senegal's 1-0 win over Morocco in the final and awarding Morocco a 3-0 victory. Motsepe also announced the retirement of general secretary Veron Mosengo-Omba and said CAF would implement changes to its statutes and regulations to prevent similar incidents."
+      },
+      {
+        "title": "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb",
+        "published": "2026-03-29T15:09:51Z",
+        "summary": "Yemen's Houthis have entered the Iran war by launching strikes on Israel, raising concerns they could blockade the Bab al-Mandeb strait. A Houthi military spokesperson announced a second military operation against Israel using cruise missiles and drones. Analysts note that while the Houthis are Iranian allies, their decision-making is largely independent, and their entry into the conflict could open a new regional front, though some describe their current participation as 'token'."
+      },
+      {
+        "title": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday | Religion News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday",
+        "published": "2026-03-29T15:26:29Z",
+        "summary": "Israeli police prevented Cardinal Pierbattista Pizzaballa, the Latin patriarch of Jerusalem, from entering the Church of the Holy Sepulchre to mark Palm Sunday Mass. Israeli police said all holy sites in Jerusalem were closed due to safety concerns amid the US-Israel war on Iran. The Catholic Church condemned the action as a 'grave precedent', and Italian and French leaders criticized the decision as an offence to religious freedom."
+      }
+    ]
+  },
+  {
     "time": "2026-03-29T10:35:22Z",
     "window_hours": 6,
     "article_count": 7,
