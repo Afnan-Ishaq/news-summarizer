@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-03-29T02:32:39Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "The articles cover developments on the 29th day of the US-Israel war on Iran, focusing on regional spillover and political reactions. Key themes include a new shipping deal through the Strait of Hormuz, attacks expanding into Iraq and Yemen, and domestic US political commentary related to the conflict.",
+    "articles": [
+      {
+        "title": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/28/pakistan-secures-iran-deal-to-send-20-ships-through-strait-of-hormuz",
+        "published": "2026-03-28T21:56:30Z",
+        "summary": "Iran has agreed to allow 20 Pakistani-flagged vessels to transit the Strait of Hormuz, which has been largely shut since the war began. Pakistan's foreign minister described the deal as a meaningful step and a 'harbinger of peace,' addressing his announcement to senior US and Iranian officials. The strait's closure has stranded thousands of vessels and driven up oil prices, with Iran's Revolutionary Guard Corps controlling passage through a checkpoint system."
+      },
+      {
+        "title": "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference",
+        "published": "2026-03-28T22:05:31Z",
+        "summary": "Reza Pahlavi, the son of Iran's former shah, spoke at the CPAC conference in Texas, urging the US not to cut a deal with Iran and to seek regime change. He received a standing ovation after stating his intention to 'make Iran great again.' The article notes that while Pahlavi has a base of support in the diaspora, President Trump has previously downplayed his potential role in Iran's future."
+      },
+      {
+        "title": "Air strikes in Iraq kill three PMF fighters, two police | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police",
+        "published": "2026-03-28T22:32:05Z",
+        "summary": "Air strikes targeting Iraq's Popular Mobilisation Forces (PMF) killed three fighters and two Iraqi police officers, with the PMF blaming the US and Israel. The report states Iraq is becoming an 'expanding battleground' in the war, with Baghdad caught between its ties to both the US and Iran. Separate drone attacks were also reported near Erbil airport and on the home of the Kurdish region's president."
+      },
+      {
+        "title": "Vice President JD Vance tops CPAC’s straw poll to be US president in 2028 | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028",
+        "published": "2026-03-28T23:29:34Z",
+        "summary": "US Vice President JD Vance won CPAC's 2028 presidential straw poll for the second year, receiving 53% of the vote. Secretary of State Marco Rubio placed second with 35%, a significant rise from his previous showing. The article notes the poll is an informal bellwether and comes as President Trump's approval ratings have slumped, partly due to the war in Iran."
+      },
+      {
+        "title": "As war on Iran enters second month, Yemen’s Houthis open new front | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front",
+        "published": "2026-03-29T00:59:21Z",
+        "summary": "Yemen's Houthis have attacked Israel for the first time since the war began, opening a new front with missile and drone strikes. The Iran-aligned group pledged continued support for regional 'resistance fronts,' raising fears it may also disrupt Red Sea shipping. The report states the conflict continues with US-Israeli bombardments in Iran, including strikes on a university and a residential area."
+      }
+    ]
+  },
+  {
     "time": "2026-03-28T20:33:11Z",
     "window_hours": 6,
     "article_count": 9,
