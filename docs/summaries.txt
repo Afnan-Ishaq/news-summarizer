@@ -1,4 +1,38 @@
 ================================================================================
+RUN TIME UTC: 2026-03-29T20:34:38Z
+WINDOW: Last 6 hours
+ARTICLES USED: 5
+
+OVERALL SUMMARY
+The articles cover escalating military actions in the Middle East, diplomatic efforts in the Gulf, U.S. domestic political debate over war powers, and separate conflicts in Sudan and Lebanon. Key themes include the expansion of the Israel-Lebanon conflict, Ukraine's security outreach, and ongoing humanitarian crises.
+
+ARTICLE BREAKDOWN
+[1] Netanyahu orders military to expand invasion of southern Lebanon | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-29T17:56:44Z
+URL: https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon
+Summary: Israeli Prime Minister Benjamin Netanyahu has ordered a further expansion of military operations in southern Lebanon, aiming to push towards the Litani River to drive out Hezbollah. The announcement came as fighting intensified, with Israeli forces reaching a tributary near the Litani, and as funerals were held for three journalists killed in an Israeli air strike. Lebanon's Health Ministry reports at least 1,238 people killed and over 1.2 million displaced since the country was drawn into the broader conflict in early March.
+
+[2] Zelenskyy arrives in Jordan to bolster security ties | Russia-Ukraine war News | Al Jazeera
+Published: 2026-03-29T18:37:15Z
+URL: https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties
+Summary: Ukrainian President Volodymyr Zelenskyy has arrived in Jordan as part of a tour to strengthen defence ties with Gulf states, following similar agreements with Qatar, Saudi Arabia, and the UAE. The visit comes as Ukraine continues its war with Russia, recently conducting drone strikes on Russian infrastructure like the Ust-Luga port. Ukrainian anti-drone experts have reportedly been deployed to several Gulf countries, and a Ukrainian team is also said to be in Jordan.
+
+[3] Republican Mace says Congress must approve any US troop deployment to Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-29T18:53:33Z
+URL: https://www.aljazeera.com/news/2026/3/29/republican-mace-says-congress-must-approve-any-us-troop-deployment-to-iran
+Summary: U.S. Representative Nancy Mace, a Republican, stated that Congress should authorize any decision to deploy American troops to Iran for ground operations, highlighting divisions within the party. Her comments follow a report that the Pentagon is preparing for limited ground operations in Iran, such as raids on Kharg Island. The White House press secretary stated that the Pentagon prepares various options for the president but that no decision has been made, while President Trump has kept all options on the table.
+
+[4] RSF attack on Sudan’s South Kordofan kills at least 14, including children | Sudan war News | Al Jazeera
+Published: 2026-03-29T19:22:33Z
+URL: https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children
+Summary: An attack by the Rapid Support Forces (RSF) and their allies on the city of Dilling in Sudan's South Kordofan province has killed at least 14 people, including five children and two women, according to a medical group. The Sudan Doctors Network reported hours of shelling on residential areas, wounding at least 23 others, and warned of a potential catastrophic scenario similar to the RSF's prior attack on el-Fasher. The war between the Sudanese army and the RSF has created a major humanitarian crisis, displacing over 12 million people.
+
+[5] Lebanon’s Catholics observe Palm Sunday under looming threat of war | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-03-29T19:36:26Z
+URL: https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war
+Summary: Lebanese Christians observed Palm Sunday amid the escalating conflict between Israel and Hezbollah, with worshippers in Beirut and Tyre gathering for prayers despite the threat of war. Attendees stressed that all communities in Lebanon are suffering the consequences of the conflict, with one noting, 'no one is safe from this.' The observances occurred as Israeli troops advance in a ground invasion and the health ministry reports over 1,200 killed since March 2.
+
+================================================================================
 RUN TIME UTC: 2026-03-29T15:34:26Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
