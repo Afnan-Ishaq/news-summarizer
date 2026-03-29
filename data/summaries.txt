@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-03-29T10:35:22Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+This batch of articles covers international sports results, escalating military conflict in the Middle East, and diplomatic efforts to de-escalate tensions. The main themes include football friendlies ahead of the 2026 World Cup, a new F1 championship leader, Iranian attacks on Gulf facilities, and high-stakes diplomatic talks in Pakistan regarding the US-Israel war on Iran.
+
+ARTICLE BREAKDOWN
+[1] Belgium thrash USA 5-2; Mexico vs Portugal ends 0-0 in football friendlies | World Cup 2026 News | Al Jazeera
+Published: 2026-03-29T07:08:34Z
+URL: https://www.aljazeera.com/sports/2026/3/29/belgium-thrash-usa-5-2-mexico-vs-portugal-ends-0-0-in-football-friendlies
+Summary: Belgium defeated the United States 5-2 in a football friendly, a result described as a wake-up call for the US team 75 days before co-hosting the 2026 World Cup. In another friendly, Mexico and Portugal played to a 0-0 draw at the reopened Azteca Stadium, where a man died after falling from the stands before the match. Authorities stated the man was intoxicated and attempted to jump between seating levels.
+
+[2] Kimi Antonelli wins Japanese GP to become youngest F1 title leader | Motorsports News | Al Jazeera
+Published: 2026-03-29T07:20:58Z
+URL: https://www.aljazeera.com/sports/2026/3/29/kimi-antonelli-wins-japanese-gp-to-become-youngest-f1-title-leader
+Summary: Mercedes driver Kimi Antonelli, aged 19, won the Japanese Grand Prix to become the youngest driver to lead the Formula One world championship standings. He took advantage of a mid-race safety car to move into the lead after a poor start from pole position. The race saw Haas driver Ollie Bearman crash, resulting in a knee contusion, though initial X-rays showed no fractures.
+
+[3] Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-29T07:30:22Z
+URL: https://www.aljazeera.com/news/2026/3/29/irans-irgc-claim-attacks-on-uae-bahrain-facilities-linked-to-us-war
+Summary: Iran's Islamic Revolutionary Guard Corps says it carried out missile and drone attacks on aluminium facilities in Bahrain and the United Arab Emirates, stating the targeted sites were linked to the US military. Aluminium Bahrain reported two employees injured, while Emirates Global Aluminium in Abu Dhabi reported significant damage and six injuries. The IRGC stated the strikes were retaliation for a US-Israeli attack on Iranian industrial infrastructure launched from bases in Gulf states.
+
+[4] Pakistan hosts top Saudi, Turkish, Egyptian diplomats over war in Iran | News | Al Jazeera
+Published: 2026-03-29T08:11:52Z
+URL: https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-top-saudi-turkish-egyptian-diplomats-over-war-in-iran
+Summary: Top diplomats from Saudi Arabia, Egypt, and Turkiye have gathered in Islamabad for two-day talks with Pakistan aimed at de-escalating the US-Israel war on Iran. Pakistani Foreign Minister Ishaq Dar announced Iran has allowed more Pakistani-flagged ships to pass through the Strait of Hormuz. The report states Pakistan has been acting as a key interlocutor, passing messages between the US and Iran as part of mediation efforts.
+
+[5] Living in the dark: Gaza’s struggle for electricity | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-03-29T08:21:13Z
+URL: https://www.aljazeera.com/features/2026/3/29/living-in-the-dark-gazas-struggle-for-electricity
+Summary: The article profiles the daily struggle for electricity in Gaza, focusing on Abdel Karim Salman, a displaced civil engineer in Deir el-Balah. He uses his and his wife's phone torches for light at night, walking daily to pay for charging at private points, which costs his family a significant portion of their limited resources. With municipality electricity absent for two years, alternatives like solar lamps and systems have become prohibitively expensive for most residents.
+
+[6] US-Israel war on Iran: What’s happening on day 30 of attacks? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-29T08:54:04Z
+URL: https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks
+Summary: On the 30th day of the US-Israel war on Iran, diplomatic talks involving foreign ministers from Pakistan, Turkiye, Egypt, and Saudi Arabia are underway in Islamabad. The conflict has escalated, with Yemen's Houthis joining by firing missiles at Israel. The article lists recent attacks, including explosions in Tehran that caused casualties, strikes on civilian infrastructure in Iran, and Iranian retaliatory strikes targeting sites in Israel.
+
+[7] Pentagon readies for weeks of US ground operations in Iran: Report | US-Israel war on Iran News | Al Jazeera
+Published: 2026-03-29T09:15:57Z
+URL: https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report
+Summary: A Washington Post report, citing US officials, states the Pentagon is preparing for weeks of limited ground operations in Iran, potentially including raids on Kharg Island and coastal sites near the Strait of Hormuz. The plans could involve special operations and conventional infantry troops but fall short of a full invasion. The White House press secretary stated such preparations are the Pentagon's job to provide options, not an indication of a presidential decision.
+
+================================================================================
 RUN TIME UTC: 2026-03-29T06:11:46Z
 WINDOW: Last 6 hours
 ARTICLES USED: 2
