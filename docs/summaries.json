@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-03-30T06:54:20Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "This batch of articles covers a range of global news from sports controversies and achievements to economic policy and geopolitical issues. The stories include a major resignation in African football, a dominant MotoGP victory, an Australian fuel tax cut, a cricket ball-tampering charge, and features on Palestinian Land Day, alongside speculation about a football star's future.",
+    "articles": [
+      {
+        "title": "CAF general secretary quits amid AFCON final controversy | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/30/caf-general-secretary-quits-amid-afcon-final-controversy",
+        "published": "2026-03-30T02:58:14Z",
+        "summary": "The Confederation of African Football's general secretary, Veron Mosengo-Omba, has resigned. His departure comes amid a crisis of confidence in CAF's leadership and fallout over the decision to strip Senegal of the Africa Cup of Nations title. Mosengo-Omba stated he was retiring to pursue personal projects, though sources indicate he may run for a football federation presidency in the Democratic Republic of the Congo."
+      },
+      {
+        "title": "Marco Bezzecchi wins USA MotoGP to extend perfect start to season | Motorsports News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/30/marco-bezzecchi-wins-usa-motogp-to-extend-perfect-start-to-season",
+        "published": "2026-03-30T03:29:40Z",
+        "summary": "Aprilia rider Marco Bezzecchi won the United States Grand Prix in Austin, leading every lap. This victory marks his fifth consecutive Grand Prix win and his third win of the current season, giving him the lead in the championship standings. Bezzecchi finished ahead of teammate Jorge Martin, with Pedro Acosta completing the podium."
+      },
+      {
+        "title": "Australia to halve fuel tax as global energy crisis deepens | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/australia-to-halve-fuel-tax-as-global-energy-crisis-deepens",
+        "published": "2026-03-30T04:47:36Z",
+        "summary": "Australian Prime Minister Anthony Albanese announced the government will halve the fuel excise tax from April 1 to June 30 due to rising fuel prices linked to the US-Israel war on Iran. The cut is intended to reduce financial stress, saving motorists about 26.3 Australian cents per litre. However, a motorists' association spokesperson argued the tax cut will have little impact as the price surge is driven by global oil prices, not taxes."
+      },
+      {
+        "title": "Fakhar Zaman charged with ball‑tampering by Pakistan board in PSL | Cricket News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/30/fakhar-zaman-charged-with-ball%e2%80%91tampering-by-pakistan-board-in-psl",
+        "published": "2026-03-30T04:54:38Z",
+        "summary": "Lahore Qalandars batter Fakhar Zaman has been charged with ball-tampering by the Pakistan Cricket Board following an incident in a Pakistan Super League match. Umpires awarded five penalty runs to the opposing team, Karachi Kings, after inspecting the ball. Fakhar Zaman has denied the charge, and a disciplinary hearing is set to conclude within 48 hours, with a potential match ban if found guilty."
+      },
+      {
+        "title": "By the 50th anniversary of Land Day, Palestinians lose most of their land | Features | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/30/by-the-50th-anniversary-of-land-day-palestinians-lose-most-of-their-land",
+        "published": "2026-03-30T05:54:38Z",
+        "summary": "The article reports on the ongoing loss of Palestinian land due to illegal Israeli settlement expansion and land confiscations, focusing on a case south of Jenin. It describes how a Palestinian landowner was forced to cut down his olive trees after an Israeli decision to confiscate his land for a settlement road. The piece is published as Palestinians commemorate the 50th anniversary of Land Day, which marks protests against land confiscations in 1976."
+      },
+      {
+        "title": "Land Day: What happened in Palestine on March 30, 1976? | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/land-day-what-happened-in-palestine-on-march-30-1976",
+        "published": "2026-03-30T06:18:21Z",
+        "summary": "Land Day commemorates the events of March 30, 1976, when Israeli forces killed six unarmed Palestinians during protests against Israel's confiscation of Palestinian land in the Galilee. The article notes that land confiscations and settlement expansion have continued since then, with recent Israeli cabinet measures expanding powers in the West Bank. Palestinians mark the day with protests and tree-planting to reaffirm their connection to the land."
+      },
+      {
+        "title": "Mohamed Salah warned against US move as MLS clubs eye Egyptian footballer | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/30/mohamed-salah-warned-against-us-move-as-mls-clubs-eye-egyptian-footballer",
+        "published": "2026-03-30T06:31:39Z",
+        "summary": "Egypt's national team director Ibrahim Hassan has cautioned Mohamed Salah that a move to Major League Soccer after leaving Liverpool could cause him to fade from the spotlight. Hassan suggested Salah should stay in Europe or consider the Saudi Pro League instead. Meanwhile, San Diego FC owner Mohamed Mansour, an Egyptian compatriot, stated that Salah would be an asset to any team or league he joins, though he did not confirm active recruitment efforts."
+      }
+    ]
+  },
+  {
     "time": "2026-03-30T02:35:12Z",
     "window_hours": 6,
     "article_count": 4,
