@@ -1,5 +1,73 @@
 [
   {
+    "time": "2026-03-30T11:04:10Z",
+    "window_hours": 6,
+    "article_count": 10,
+    "overall_summary": "The articles cover escalating military conflicts in the Middle East, particularly the US-Israel war on Iran and its regional spillover into Lebanon and the Gulf. They also report on diplomatic tensions, a sports result, and features on the Israel-Palestine conflict and Syrian reconstruction.",
+    "articles": [
+      {
+        "title": "US-Israel war on Iran: What’s happening on day 31 of attacks | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
+        "published": "2026-03-30T07:15:46Z",
+        "summary": "On day 31 of the conflict, US-Israeli strikes hit Tehran and other Iranian cities, targeting power infrastructure and causing a temporary blackout. US President Donald Trump stated a desire to 'take the oil in Iran' while also mentioning a potential deal, as Iran accused the US of planning a ground invasion. Regional diplomatic efforts continued, with Pakistan hosting talks, and the conflict has resulted in significant casualties and damage since February 28."
+      },
+      {
+        "title": "Did Israel miscalculate in launching the war on Iran? | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/30/did-israel-miscalculate-in-launching-the-war-on-iran",
+        "published": "2026-03-30T08:13:40Z",
+        "summary": "This opinion piece argues Israel launched the war on Iran without a realistic political plan, and a narrative of potential defeat is emerging in Israeli media. It details reported tensions within Israel's leadership over the war's objectives and notes the Israeli public's continued support despite economic disruption and frequent shelter alerts. The article suggests uncomfortable questions are being raised about Israel's assumptions for the war."
+      },
+      {
+        "title": "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/un-peacekeeper-killed-as-israel-hezbollah-fighting-escalates-in-lebanon",
+        "published": "2026-03-30T08:54:46Z",
+        "summary": "A UNIFIL peacekeeper from Indonesia was killed and another critically injured by a projectile in southern Lebanon amid intensifying fighting between Israel and Hezbollah. UNIFIL stated it does not know the origin of the projectile and has launched an investigation. The report notes Israel has expanded its ground offensive in southern Lebanon, with fighting escalating since the US-Israel war on Iran began."
+      },
+      {
+        "title": "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid",
+        "published": "2026-03-30T09:00:44Z",
+        "summary": "US President Donald Trump stated he wants to 'take the oil in Iran,' specifically mentioning the possible seizure of the key oil export hub Kharg Island, and dismissed US opponents of the plan as 'stupid people.' The report states the Trump administration has deployed US Marines to the region and discussed the seizure plan internally. Iran's parliament speaker warned that any such attempt would be met with attacks on the infrastructure of assisting regional countries."
+      },
+      {
+        "title": "France beat Colombia 3-1 to showcase firepower and squad depth | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/30/france-beat-colombia-3-1-to-showcase-firepower-and-squad-depth",
+        "published": "2026-03-30T09:53:54Z",
+        "summary": "France defeated Colombia 3-1 in a friendly match, with goals from Desire Doue (two) and Marcus Thuram. The victory, achieved with a heavily changed lineup and a late substitute appearance for Kylian Mbappe, is described as showcasing the team's attacking firepower and depth ahead of the World Cup squad selection."
+      },
+      {
+        "title": "Iraq risks Arab ties as Iran-aligned groups strike Gulf nations | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/iraq-risks-arab-ties-as-iran-aligned-groups-strike-gulf-nations",
+        "published": "2026-03-30T09:57:31Z",
+        "summary": "Six Arab nations jointly condemned cross-border attacks launched from Iraq by Iran-aligned armed groups against Gulf infrastructure, holding the Iraqi government responsible. Iraq's foreign ministry rejected the use of its territory for such attacks and expressed readiness to address evidence. Analysts warn Baghdad's inability to control these factions is eroding its sovereignty and damaging rebuilt regional ties."
+      },
+      {
+        "title": "Land Day in Gaza: Between memory and the fight for what remains | Israel-Palestine conflict | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/3/30/land-day-in-gaza-between-memory-and-the-fight-for-what-remains",
+        "published": "2026-03-30T10:03:22Z",
+        "summary": "This feature focuses on a Palestinian woman in Gaza, Sawsan al-Jadba, who has lost most of her agricultural land due to Israel's war and a military demarcation line. It describes how Land Day, which commemorates historical land rights, now highlights the struggle for survival and the loss of land during the recent conflict. The article connects the current reality to the historical events of 1976."
+      },
+      {
+        "title": "Palestine aIly Ireland under fire for allowing weapons transfers to Israel | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/palestine-aily-ireland-under-fire-for-allowing-weapons-transfers-to-israel",
+        "published": "2026-03-30T10:41:45Z",
+        "summary": "Activists in Ireland are protesting and facing criminal charges for actions at Shannon Airport, which they say is complicit in Israel's war on Gaza due to its use by the US military. Data indicates numerous US military flights near the airport, including some to or from Israel. The article notes Ireland's historic support for Palestine but highlights criticism over its continued allowance of US military transit."
+      },
+      {
+        "title": "Green and Yellow: Two lines that separate me from my land | Israel-Palestine conflict | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/3/30/green-and-yellow-two-lines-that-separate-me-from-my-land",
+        "published": "2026-03-30T10:53:40Z",
+        "summary": "This personal opinion piece reflects on Land Day by recounting the author's family history of displacement during the Nakba and subsequent Israeli wars on Gaza. It describes how the Green Line of 1949 and current Israeli demarcations separate Palestinians from their land. The author asserts a determination to maintain their right to the land despite ongoing trauma and displacement."
+      },
+      {
+        "title": "Syria’s al-Sharaa visits Germany to talk reconstruction, return of refugees | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/syrian-president-in-berlin-for-talks-with-germanys-merz",
+        "published": "2026-03-30T10:56:46Z",
+        "summary": "Interim Syrian President Ahmed al-Sharaa visited Germany for talks on reconstruction and the potential return of refugees. German officials expressed support for rebuilding a stable Syria and suggested Syrians who fled to Germany could contribute. The visit comes as Germany's government has stepped up efforts to limit irregular immigration and has resumed some deportations to Syria."
+      }
+    ]
+  },
+  {
     "time": "2026-03-30T06:54:20Z",
     "window_hours": 6,
     "article_count": 7,
