@@ -1,5 +1,91 @@
 [
   {
+    "time": "2026-03-30T16:07:35Z",
+    "window_hours": 6,
+    "article_count": 13,
+    "overall_summary": "This batch of articles covers escalating tensions in the US-Israel war on Iran, including diplomatic efforts, military threats, and civilian impacts. It also includes separate stories on international diplomatic expulsions, a doping ban, a human rights report on the World Cup, and a feature on a mother's struggle with her son's cancer in Mexico.",
+    "articles": [
+      {
+        "title": "Schools, water, industry: What civilian targets have US, Israel, Iran hit? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/schools-water-industry-what-civilian-targets-have-us-israel-iran-hit",
+        "published": "2026-03-30T11:09:06Z",
+        "summary": "The article details civilian infrastructure targeted by the US, Israel, and Iran since the war began on February 28. It states US-Israeli strikes have hit thousands of sites, including schools, hospitals, and residential buildings, with Iran reporting over 2,000 deaths. In retaliation, Iran has struck civilian and energy facilities in Israel and Gulf nations hosting US bases."
+      },
+      {
+        "title": "Russia’s FSB orders British diplomat’s expulsion, UK rejects ‘intimidation’ | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/russia-expels-british-diplomat-accused-of-economic-espionage",
+        "published": "2026-03-30T11:20:33Z",
+        "summary": "Russia's FSB intelligence agency has ordered a British diplomat to leave the country within two weeks, accusing him of economic espionage. The UK rejected the accusations as 'completely unacceptable' and stated it would not tolerate intimidation of its embassy staff. The incident occurs amid tensions over Russia's war on Ukraine."
+      },
+      {
+        "title": "Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/trump-pretty-sure-of-iran-deal-but-can-pakistan-led-efforts-end-the-war",
+        "published": "2026-03-30T12:23:26Z",
+        "summary": "Pakistan, Saudi Arabia, Turkiye, and Egypt have formed a diplomatic team for backchannel talks between the US and Iran. Pakistan's foreign minister confirmed both sides expressed confidence in Pakistan to facilitate direct talks 'in the coming days'. However, the article notes a tension between these efforts and President Trump's simultaneous threats, including about seizing Iranian oil."
+      },
+      {
+        "title": "Why have the US and Israel bombed more than 75 Iranian police facilities? | Armed Groups News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/why-have-the-us-and-israel-bombed-more-than-75-iranian-police-facilities",
+        "published": "2026-03-30T12:54:15Z",
+        "summary": "An Al Jazeera investigation has verified that at least 75 internal security sites in Iran, including police stations and Basij paramilitary checkpoints, were destroyed or damaged by US-Israeli strikes from February 28 to March 10. The investigation suggests the strikes deliberately targeted urban law enforcement infrastructure in densely populated western cities, with over 40% of hits in the capital, Tehran."
+      },
+      {
+        "title": "Spain closes airspace to US planes involved in war on Iran | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/spain-closes-airspace-to-us-planes-involved-in-war-on-iran",
+        "published": "2026-03-30T13:23:35Z",
+        "summary": "Spain has closed its airspace to US planes involved in the war on Iran, confirming its opposition to the conflict. Defence Minister Margarita Robles stated that neither the use of jointly operated military bases nor Spanish airspace is authorized for actions related to the war, which she called 'profoundly illegal and profoundly unjust'. Spain had previously refused the US use of its bases for the war."
+      },
+      {
+        "title": "‘I’m always watching’: A mother’s vigil in Mexico’s cancer system | Women | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/longform/2026/3/30/im-always-watching-a-mothers-vigil-in-mexicos-cancer-system",
+        "published": "2026-03-30T13:32:58Z",
+        "summary": "The article profiles Luisa Corral, a 24-year-old mother in Mexico whose eight-month-old son, Juan de Jesus, has bilateral retinoblastoma, a rare eye cancer. Doctors have said his right eye must be removed and are trying to save vision in his left. Luisa constantly monitors her son for changes while navigating long trips to Mexico City for treatment and staying at a nonprofit cancer shelter."
+      },
+      {
+        "title": "Kenya’s former New York marathon champion Korir gets five-year doping ban | Athletics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/30/kenyas-former-new-york-marathon-champion-korir-gets-five-year-doping-ban",
+        "published": "2026-03-30T13:47:23Z",
+        "summary": "Kenyan marathon runner Albert Korir, the 2021 New York City Marathon champion, has been banned for five years for doping. The Athletics Integrity Unit stated Korir tested positive for synthetic EPO in out-of-competition tests and received a reduced ban due to an early admission. This sanction is part of a series of doping cases involving Kenyan distance runners."
+      },
+      {
+        "title": "Trump wants to ‘take Iran’s oil’: Can he, and what would that mean? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/3/30/trump-wants-to-take-irans-oil-can-he-and-what-would-that-mean",
+        "published": "2026-03-30T14:20:08Z",
+        "summary": "President Donald Trump has stated his preference to 'take the oil' in Iran and suggested US forces could seize Kharg Island, which processes 90% of Iran's oil exports. The article notes Iran holds the world's third-largest crude oil reserves. It draws a comparison to the US operation in Venezuela, where Trump claims control over that country's oil exports has been achieved."
+      },
+      {
+        "title": "Rubio says Strait of Hormuz to reopen ‘one way or another’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/rubio-tells-al-jazeera-strait-of-hormuz-will-reopen-one-way-or-another",
+        "published": "2026-03-30T14:21:00Z",
+        "summary": "In an interview, US Secretary of State Marco Rubio told Al Jazeera the Strait of Hormuz will 'reopen one way or another' after the war. He stated President Trump prefers diplomacy and confirmed there have been messages and some talks with Iran, primarily through intermediaries. Rubio also expressed a US preference for regime change in Iran and called on the country to end its nuclear and missile programmes."
+      },
+      {
+        "title": "‘Loyalty campaign’: Iraqi armed groups in Iran as US talks of ground war | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/loyalty-campaign-iraqi-armed-groups-in-iran-as-us-talks-of-ground",
+        "published": "2026-03-30T15:40:26Z",
+        "summary": "Paramilitary Iraqi forces from the Iran-aligned Hashd al-Shaabi (Popular Mobilisation Forces) have entered Iran with what Iranian media describes as a humanitarian aid convoy. Iranian state media called it a 'loyalty campaign' carrying food and medical supplies. The convoy's arrival comes amid speculation about a potential US ground assault and longstanding ties between Tehran and Iraqi armed factions."
+      },
+      {
+        "title": "Is the US ready to invade Iran? What Trump’s moves tell us so far | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/is-the-us-ready-to-invade-iran-what-trumps-moves-tell-us-so-far",
+        "published": "2026-03-30T15:46:04Z",
+        "summary": "The article examines the possibility of a US ground invasion of Iran, reporting that the Pentagon is preparing for limited ground operations, including potential raids on Kharg Island. It notes a significant US military buildup in the region since the war began. Iran's parliament speaker warned US troops would face fierce resistance if they attempted an invasion."
+      },
+      {
+        "title": "Trump threatens to ‘blow up’ all desalination plants in Iran | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/trump-threatens-to-blow-up-all-desalination-plants-in-iran",
+        "published": "2026-03-30T15:51:18Z",
+        "summary": "President Trump has threatened to destroy Iran's desalination plants, along with its electrical grid and oil infrastructure, if a deal is not reached and the Strait of Hormuz remains closed. Legal experts cited in the article state that such an action would constitute illegal collective punishment under international humanitarian law. Trump has set an April 6 deadline related to these threats."
+      },
+      {
+        "title": "FIFA World Cup will be held amid ‘human rights crisis’ in the US: Amnesty | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/30/fifa-world-cup-will-be-held-amid-human-rights-crisis-in-the-us-amnesty",
+        "published": "2026-03-30T15:58:13Z",
+        "summary": "Amnesty International warns the upcoming FIFA World Cup in the US, Canada, and Mexico will be held during an 'acute human rights crisis' in the US, posing risks to fans and communities. The report criticizes US immigration crackdowns, protest restrictions, and deaths in custody. It states the US, which will host most matches, is demonstrating a pattern of authoritarian practices under the Trump administration."
+      }
+    ]
+  },
+  {
     "time": "2026-03-30T11:04:10Z",
     "window_hours": 6,
     "article_count": 10,
