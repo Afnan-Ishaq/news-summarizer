@@ -1,5 +1,67 @@
 [
   {
+    "time": "2026-03-31T20:43:57Z",
+    "window_hours": 6,
+    "article_count": 9,
+    "overall_summary": "The articles cover escalating conflicts in the Middle East, including a deepening Israeli invasion of Lebanon and major US-Israel attacks on Iran. They also report on regional economic impacts, a kidnapping in Iraq, UK activist arrests, and separate updates on US job markets and Ukraine's diplomacy.",
+    "articles": [
+      {
+        "title": "UN aid chief warns of new Israeli occupation in southern Lebanon | Conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/un-humanitarian-chief-warns-of-new-israeli-occupation-in-southern-lebanon",
+        "published": "2026-03-31T16:24:19Z",
+        "summary": "The UN humanitarian chief asked the Security Council how it will protect civilians in Lebanon as Israel expands its ground invasion. He warned of potential coercive displacement and a 'new addition to the list of occupied territories,' referencing Israeli ministers' stated aims. The meeting followed Israeli Defense Minister Israel Katz saying Israel plans to occupy parts of southern Lebanon after the current escalation."
+      },
+      {
+        "title": "UK accused of ‘intimidation tactics’ against bailed pro-Palestine activists | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/uk-accused-intimidation-tactics-bailed-pro-palestine-activitsts",
+        "published": "2026-03-31T16:27:34Z",
+        "summary": "Civil rights groups accuse the UK of intimidation after two young women linked to Palestine Action were arrested while on bail. Qesser Zuhrah was detained over a social media post, and Audrey Corno was arrested for allegedly tampering with an electronic tag, which she denies. Both had previously been imprisoned over alleged involvement in raids on military hardware manufacturers in 2024."
+      },
+      {
+        "title": "Foreign journalist kidnapped in Iraq: Interior Ministry | Media News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/foreign-journalist-kidnapped-in-iraq-interior-ministry",
+        "published": "2026-03-31T17:27:53Z",
+        "summary": "Iraq's Interior Ministry confirmed a foreign journalist was kidnapped in Baghdad by 'unknown individuals,' without identifying the reporter. Security forces arrested one suspect and seized a vehicle used in the abduction. The Committee to Protect Journalists expressed deep concern, citing reports that US freelance journalist Shelley Kittleson was abducted, and a US State Department official said they were aware of the reported kidnapping of an American journalist."
+      },
+      {
+        "title": "One month of war on Iran cost Arab countries up to $194bn: UNDP | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/one-month-of-war-in-middle-east-cost-arab-states-up-to-194bn-undp",
+        "published": "2026-03-31T17:48:59Z",
+        "summary": "A UNDP report estimates the US-Israel war on Iran caused a regional GDP decline of 3.7 to 6 percent in one month, equivalent to $120bn to $194bn. The conflict is projected to lead to 3.7 million lost jobs and push about four million more people into poverty, with impacts concentrated in the Levant and fragile states like Sudan and Yemen. The report warns Lebanon is especially impacted due to ongoing air strikes and large-scale displacement."
+      },
+      {
+        "title": "US-Israel launch major attacks as Iranian authorities maintain defiance | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance",
+        "published": "2026-03-31T18:07:53Z",
+        "summary": "US and Israeli strikes hit Tehran, Isfahan, and other Iranian cities, with bunker-buster bombs causing massive secondary explosions near Isfahan. Strikes damaged a major power line in Tehran and targeted a key pharmaceuticals company, among other industrial and civilian sites. Iranian authorities say more than 2,000 people have been killed since the war began on February 28, with residential areas, schools, hospitals, and historical sites impacted."
+      },
+      {
+        "title": "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera",
+        "published": "2026-03-31T19:01:03Z",
+        "summary": "Iranian Foreign Minister Abbas Araghchi confirmed messages have been exchanged with the US, including directly with envoy Steve Witkoff, but denied negotiations are taking place. He stated Iran has 'zero' trust in negotiations with the US, citing past experiences like the US withdrawal from the 2015 nuclear deal. Araghchi also addressed the Strait of Hormuz, saying it is closed only to ships of countries at war with Iran and that its future security will be decided by Oman and Iran after the conflict."
+      },
+      {
+        "title": "Analysis: Hezbollah backs Iran ambassador as conflict deepens Lebanon rifts | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/analysis-hezbollah-backs-iran-ambassador-as-conflict-deepens-lebanon-rifts",
+        "published": "2026-03-31T19:37:47Z",
+        "summary": "Iran's ambassador to Beirut remains in Lebanon despite being declared persona non grata and given a deadline to leave, highlighting deep political divides. The situation underscores the contest between supporters and opponents of Hezbollah, which is backed by Iran. The analysis notes Hezbollah's power has waned in recent years, but the group has been re-engaged in war with Israel reportedly under IRGC command amid the broader US-Israeli war on Iran."
+      },
+      {
+        "title": "Hiring in the US drops to pandemic lows as job market under Trump stagnates | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/3/31/hiring-in-the-us-drops-to-pandemic-lows-as-job-market-under-trump-stagnates",
+        "published": "2026-03-31T19:41:08Z",
+        "summary": "US job openings dropped to 6.882 million in February, the lowest level in six years, and hiring fell to its lowest since March 2020. The report indicates stagnation in the job market, with fewer people quitting their jobs. An economist links declining consumer sentiment to frustration with President Donald Trump's second-term policies, citing rising costs and economic uncertainty."
+      },
+      {
+        "title": "Ukraine to ask US mediators to pass on Easter ceasefire offer to Russia | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/zelenskyy-to-ask-us-mediators-to-pass-on-easter-truce-offer-to-kremlin",
+        "published": "2026-03-31T20:37:47Z",
+        "summary": "Ukrainian President Volodymyr Zelenskyy said he will ask US mediators to relay an offer of an Easter truce to Russia, halting attacks on energy facilities. He made the statement ahead of online talks with US envoys, saying Ukraine is ready for compromises except on dignity and sovereignty. The offer comes amid stalled peace talks and a day after Zelenskyy said allies sent 'signals' about possibly scaling back Ukrainian strikes on Russia's oil sector."
+      }
+    ]
+  },
+  {
     "time": "2026-03-31T16:07:07Z",
     "window_hours": 6,
     "article_count": 15,
