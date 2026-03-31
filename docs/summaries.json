@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-03-31T02:30:15Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "The articles cover two major conflicts and a violent incident. The first three articles report on Israel's passage of a controversial death penalty law targeting Palestinians, which has drawn international condemnation. The next two articles detail developments in the US-led war against Iran, including diplomatic statements and funding discussions. A final article reports on a deadly gang attack in Haiti.",
+    "articles": [
+      {
+        "title": "Israel’s parliament passes death penalty bill targeting Palestinians | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/israel-passes-discriminatory-death-penalty-bill-targeting-palestinians",
+        "published": "2026-03-30T20:50:36Z",
+        "summary": "Israel's parliament passed a bill instructing military courts to impose the death penalty on Palestinians convicted of killing Israelis in acts of 'terror', but it does not apply the same penalty to Jewish Israelis convicted of killing Palestinians. The law, championed by far-right National Security Minister Itamar Ben-Gvir, was approved by 62 lawmakers. The Palestinian Authority called it a 'war crime' and a breach of the Fourth Geneva Convention."
+      },
+      {
+        "title": "The war in Iran: Key takeaways from Al Jazeera’s interview with Marco Rubio | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/the-war-in-iran-key-takeaways-from-al-jazeeras-interview-with-marco-rubio",
+        "published": "2026-03-30T21:03:25Z",
+        "summary": "In an interview, US Secretary of State Marco Rubio said talks with Iran are ongoing through intermediaries and that the US military campaign will continue until Tehran abandons its nuclear and missile programs. He warned the Strait of Hormuz will be kept open 'one way or another' and said war objectives could be achieved 'in weeks, not months'. Rubio also stated the US would welcome political change in Iran but it is not an official objective."
+      },
+      {
+        "title": "'Dangerous escalation': World reacts to Israel passing death penalty law | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law",
+        "published": "2026-03-30T21:29:12Z",
+        "summary": "Human rights groups and Palestinian leaders have condemned Israel's passage of a death penalty law for Palestinians convicted of deadly attacks, calling it a violation of international law and inherently discriminatory. The Palestinian Ministry of Foreign Affairs called it a 'dangerous escalation', while Hamas said it threatens the lives of Palestinian prisoners. Far-right minister Itamar Ben-Gvir celebrated the law's passage, rejecting international pressure."
+      },
+      {
+        "title": "US says Trump 'interested' in asking Arab countries to pay for war on Iran | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/30/us-says-trump-interested-in-asking-arab-countries-to-pay-for-war-on-iran",
+        "published": "2026-03-30T22:14:30Z",
+        "summary": "White House spokesperson Karoline Leavitt suggested President Donald Trump is interested in asking Arab countries to cover the costs of the US war against Iran, estimated to be tens of billions of dollars. She said it is 'an idea that I know that he has'. The article notes the US is seeking additional military funding from Congress and that the war has sent global energy prices soaring."
+      },
+      {
+        "title": "At least 70 killed, 30 wounded in Haiti gang attack, rights group says | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/3/31/at-least-70-killed-30-wounded-in-haiti-gang-attack-rights-group-says",
+        "published": "2026-03-31T00:02:55Z",
+        "summary": "A human rights group says at least 70 people were killed and 30 injured in a gang attack in Haiti's Artibonite region, a figure significantly higher than official estimates of about 16 dead. The attack, which began Sunday and continued into Monday, involved gang members storming rural communities and setting homes on fire. The rights group estimated 6,000 people were displaced, and police said gang members fled the area before their arrival."
+      }
+    ]
+  },
+  {
     "time": "2026-03-30T20:47:09Z",
     "window_hours": 6,
     "article_count": 10,
