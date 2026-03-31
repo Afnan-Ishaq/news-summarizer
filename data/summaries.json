@@ -1,5 +1,25 @@
 [
   {
+    "time": "2026-03-31T06:16:45Z",
+    "window_hours": 6,
+    "article_count": 2,
+    "overall_summary": "The batch covers two distinct stories from the last six hours. One is a political report about the Pentagon denying allegations of improper financial activity by the defense secretary's broker. The other is a sports article detailing a dominant NBA victory by the Los Angeles Lakers.",
+    "articles": [
+      {
+        "title": "Pentagon denies that Hegseth’s broker sought investment before Iran war | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/3/31/pentagon-denies-hegseths-broker-sought-defence-investment-before-iran-war",
+        "published": "2026-03-31T02:32:29Z",
+        "summary": "The Pentagon has demanded an immediate retraction of a Financial Times report alleging a broker for Defense Secretary Pete Hegseth sought a multimillion-dollar investment in a defense-related fund before the war on Iran. A Pentagon spokesman called the allegation entirely false and fabricated. The article notes Al Jazeera could not independently confirm the report and that the mentioned ETF has fallen in value since the war began."
+      },
+      {
+        "title": "LeBron James records triple-double as Lakers dominate Wizards | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/3/31/lebron-james-records-triple-double-as-lakers-dominate-wizards",
+        "published": "2026-03-31T05:16:01Z",
+        "summary": "LeBron James recorded his 125th regular-season triple-double with 21 points, 12 assists, and 10 rebounds to lead the Los Angeles Lakers to a 120-101 win over the Washington Wizards. The victory was the Lakers' 12th in their past 13 games. The win did not immediately clinch a playoff berth due to a Phoenix Suns victory the same night."
+      }
+    ]
+  },
+  {
     "time": "2026-03-31T02:30:15Z",
     "window_hours": 6,
     "article_count": 5,
