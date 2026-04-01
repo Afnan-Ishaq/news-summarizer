@@ -1,5 +1,97 @@
 [
   {
+    "time": "2026-04-01T16:08:10Z",
+    "window_hours": 6,
+    "article_count": 14,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours, including reports on refugee abuse in Europe, geopolitical tensions over the Iran war, significant legal and political developments in the US and UK, and major sports events. The stories highlight conflicts, human rights issues, and cultural moments across different regions.",
+    "articles": [
+      {
+        "title": "Assaulted, robbed: Refugees abused on Bosnia-Croatia border | Refugees News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/1/on-bosnian-croatian-border-migrants-face-untold",
+        "published": "2026-04-01T10:49:04Z",
+        "summary": "The article reports that more than a dozen refugees and migrants attempting to reach the EU from Bosnia have accused Croatian border officials and police of violence and robbery. They describe being forcibly returned to Bosnia in illegal pushbacks, often left bruised and stripped of belongings. Testimonies include accounts of physical assault, with one man alleging a beating by Bosnian police left him permanently disabled."
+      },
+      {
+        "title": "Iraq celebrates qualification for FIFA World Cup 2026 | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/4/1/iraqis-celebrate-in-the-streets-after-qualifying-for-fifa-world-cup-2026",
+        "published": "2026-04-01T11:19:11Z",
+        "summary": "Iraq's national football team qualified for the FIFA World Cup for the first time since 1986 with a 2-1 victory over Bolivia. The celebration in Baghdad occurred despite the country being involved in the US-Israel war on Iran, which has caused casualties. The team faced logistical challenges due to the war, including suspended air travel, but secured their spot in Group I."
+      },
+      {
+        "title": "US Supreme Court to hear constitutional test of birthright citizenship | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/us-supreme-court-to-hear-constitutional-test-of-birthright-citizenship",
+        "published": "2026-04-01T11:41:47Z",
+        "summary": "The US Supreme Court is set to hear a case challenging President Donald Trump's executive order that seeks to end birthright citizenship, a long-standing interpretation of the 14th Amendment. Advocates argue the order represents an overreach of presidential power to rewrite the Constitution. The case will be heard by a conservative-majority court that has previously ruled in Trump's favour on immigration issues."
+      },
+      {
+        "title": "How are NATO allies pushing back against Trump’s Iran war demands? | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/how-are-nato-allies-pushing-back-against-trumps-iran-war-demands",
+        "published": "2026-04-01T12:03:47Z",
+        "summary": "NATO allies are resisting US President Donald Trump's demands for support in the US-Israel war on Iran, causing a transatlantic rift. Several countries, including Spain and Italy, have denied the use of their military bases or airspace for the conflict. Trump has responded with criticism, threatening to pull out of NATO and cut trade with uncooperative allies."
+      },
+      {
+        "title": "UK finds pro-Palestine protest organisers guilty of breaching police rules | Protests News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london",
+        "published": "2026-04-01T12:27:20Z",
+        "summary": "Two UK civil society leaders, Ben Jamal and Chris Nineham, were found guilty of breaching police conditions during a pro-Palestine demonstration in London in January 2025. The court ruled they failed to keep the protest within a designated area, with Jamal also convicted of inciting others to breach conditions. Human Rights Watch criticized the verdict as a political move to silence dissent."
+      },
+      {
+        "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments | Conflict | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/1/irans-minister-civilisational-identity-under-fire-in-unprecedented-war",
+        "published": "2026-04-01T12:45:21Z",
+        "summary": "Iran's cultural heritage minister states that US-Israeli attacks have damaged at least 56 museums and historical monuments, calling it a deliberate assault on Iranian identity. He describes the destruction at sites like Tehran's Golestan Palace as causing irreversible loss, with some restoration expected to take years. The minister criticizes the international community, including UNESCO, for not intervening to protect cultural property."
+      },
+      {
+        "title": "Minerals for aid: Are new US health deals ‘exploiting’ African countries? | Health News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/minerals-for-aid-are-new-us-health-deals-exploiting-african-countries",
+        "published": "2026-04-01T12:57:28Z",
+        "summary": "The US has proposed bilateral health agreements to African nations that request sensitive health data or access to minerals in return for aid, following global health aid cuts. Zimbabwe and Zambia have pushed back against what they see as 'lopsided' and 'exploitative' terms. Critics argue that linking aid to mineral extraction could have negative consequences for African countries and global health security."
+      },
+      {
+        "title": "‘The World Cup curse’: Outcry as Italy miss out for third time in a row | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/1/the-world-cup-curse-outcry-as-italy-miss-out-for-third-time-in-a-row",
+        "published": "2026-04-01T13:09:48Z",
+        "summary": "Italy failed to qualify for the FIFA World Cup for the third consecutive time after losing a playoff to Bosnia and Herzegovina in a penalty shootout. The defeat has caused outrage in Italy, with the sport minister calling for the football federation president to resign. The loss extends a period of poor performance for the national team since their last World Cup win in 2006."
+      },
+      {
+        "title": "Russia claims to take full control of Ukraine’s Luhansk region | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/russia-claims-to-take-full-control-of-ukraines-luhansk-region",
+        "published": "2026-04-01T13:45:48Z",
+        "summary": "Russia's defence ministry claims its forces have taken full control of Ukraine's Luhansk region, an area it had not fully captured since the 2022 invasion. There was no immediate confirmation from Ukraine. The report comes alongside claims of advances in other villages and renewed Russian demands for a Ukrainian withdrawal from the Donbas area."
+      },
+      {
+        "title": "Ali Zafar wins defamation case against Meesha Shafi: Why it matters | Gender Equity News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/ali-zafar-wins-defamation-case-against-meesha-shafi-why-it-matters",
+        "published": "2026-04-01T14:40:55Z",
+        "summary": "A Lahore court ruled in favour of singer Ali Zafar in a defamation case against fellow singer Meesha Shafi, ordering her to pay damages. The case stems from Shafi's 2018 sexual harassment allegations, which the court found to be unproven and defamatory. Shafi's lawyer stated they will appeal the verdict, challenging the court's interpretation of evidence."
+      },
+      {
+        "title": "Iran denies Trump’s claim Iranian president requested ceasefire | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire",
+        "published": "2026-04-01T15:11:31Z",
+        "summary": "A senior Iranian official denied US President Donald Trump's claim that Iran's new president had requested a ceasefire in the ongoing war. Trump stated on social media that the US would continue 'blasting Iran into oblivion' until the Strait of Hormuz is reopened. The denial comes ahead of a scheduled speech by Trump providing an update on the conflict."
+      },
+      {
+        "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-a-marine-expeditionary-unit-is-and-other-us-military-terms",
+        "published": "2026-04-01T15:13:13Z",
+        "summary": "The article explains US military deployments to the Gulf amid the war with Iran, detailing units like Carrier Strike Groups and Amphibious Ready Groups. It notes the deployment of a third aircraft carrier and the arrival of Marine Expeditionary Units, which are rapid-response forces for sea-based combat. The piece serves as a glossary of terms related to the US military buildup in the region."
+      },
+      {
+        "title": "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/1/mojtaba-khameneis-rumoured-injury-or-death-wont-change-irans-trajectory",
+        "published": "2026-04-01T15:38:50Z",
+        "summary": "This opinion piece argues that rumours about Mojtaba Khamenei's injury or death are less significant than the structural transformation of Iran's political economy. It describes the consolidation of a 'military-bonyad complex' linking security institutions to parastatal capital, a process deepened by international sanctions. The author contends that this system's logic will persist regardless of changes in leadership."
+      },
+      {
+        "title": "Russia says will continue helping Cuba after first oil shipment arrives | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/russia-to-continue-helping-cuba-after-first-oil-shipment-arrives-diplomat",
+        "published": "2026-04-01T15:39:32Z",
+        "summary": "Russia has pledged continued assistance to Cuba after a Russian tanker delivered the first shipment of crude oil to the island in three months, alleviating a severe energy crisis. A Russian foreign ministry spokeswoman called on the US to lift its energy blockade on Cuba. The US allowed the shipment to pass for humanitarian reasons, though President Trump dismissed its significance."
+      }
+    ]
+  },
+  {
     "time": "2026-04-01T10:58:32Z",
     "window_hours": 6,
     "article_count": 10,
