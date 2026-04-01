@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-04-01T06:26:40Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "The articles cover a major sports qualification event and a significant political development. The main story reports Iraq's historic qualification for the 2026 FIFA World Cup after a long absence. Another article details a major political shift in the United Kingdom.",
+    "articles": [
+      {
+        "title": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026 | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026",
+        "published": "2026-04-01T05:17:37Z",
+        "summary": "Iraq has qualified for the FIFA World Cup for the first time since 1986 by defeating Bolivia 2-1 in an intercontinental playoff match in Mexico. Goals from Ali Al-Hamadi and Aymen Hussein secured the victory, ending a 30-year wait. The team overcame significant travel challenges due to conflict in the Middle East to participate in the playoff."
+      }
+    ]
+  },
+  {
     "time": "2026-04-01T02:41:47Z",
     "window_hours": 6,
     "article_count": 12,
