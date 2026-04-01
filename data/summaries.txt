@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-01T10:58:32Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+The articles cover a range of global events from the last six hours. The dominant theme is the ongoing US-Israel war on Iran, with updates on military strikes, diplomatic stances, and regional fallout. Other major stories include sports news related to World Cup qualifiers and incidents of racism, significant political developments in India, and the imminent launch of NASA's Artemis II moon mission.
+
+ARTICLE BREAKDOWN
+[1] Iran war: What is happening on day 33 of US-Israel attacks? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-01T07:01:14Z
+URL: https://www.aljazeera.com/news/2026/4/1/iran-war-what-is-happening-on-day-33-of-us-israel-attacks
+Summary: On day 33 of the conflict, US-Israeli air attacks continue across Iran, targeting industrial and civilian sites including pharmaceutical plants, steel facilities, and a desalination plant. US President Donald Trump stated the war could end in two to three weeks without a deal, but Iran's Foreign Minister Abbas Araghchi said Tehran has 'zero' trust in talks with Washington. The article also notes NATO allies restricting support and China pushing for a ceasefire.
+
+[2] Spain’s FA condemns Islamophobic chants during game with Egypt | Football News | Al Jazeera
+Published: 2026-04-01T07:43:14Z
+URL: https://www.aljazeera.com/sports/2026/4/1/spains-fa-condemns-islamophobic-chants-during-game-with-egypt
+Summary: The Royal Spanish Football Federation and coach Luis de la Fuente have condemned anti-Muslim chants that marred a pre-World Cup friendly against Egypt in Barcelona. Egypt's national anthem was jeered, and the public announcement system repeatedly appealed to fans to stop the offensive comments. This incident is described as part of a string of similar racist and Islamophobic incidents in Spanish football in recent years.
+
+[3] What is NASA’s Artemis II moon mission, and when will it launch? | Space News | Al Jazeera
+Published: 2026-04-01T07:51:58Z
+URL: https://www.aljazeera.com/news/2026/4/1/what-is-nasas-artemis-ii-moon-mission-and-when-will-it-launch
+Summary: NASA's Artemis II mission is set to launch, sending four astronauts on a lunar flyby, marking the first crewed mission to the moon since 1972. The launch window opens on April 1, with weather being the primary constraint after previous technical delays. The mission's goal is to test the Orion spacecraft's life support and other systems in deep space as part of NASA's broader programme to return humans to the moon.
+
+[4] Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-01T07:54:12Z
+URL: https://www.aljazeera.com/news/2026/4/1/iran-attacks-cause-fire-in-kuwait-bahrain-kill-man-in-uae
+Summary: Iranian drone attacks have caused a large fire at fuel tanks in Kuwait's international airport and a fire at a company facility in Bahrain. In the UAE, shrapnel from a drone interception killed a Bangladeshi national. The article also reports a tanker was hit by a projectile near Qatar, with Qatar's defence ministry stating it was targeted by Iranian cruise missiles.
+
+[5] War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-01T08:27:51Z
+URL: https://www.aljazeera.com/news/2026/4/1/war-on-iran-three-key-takeaways-from-araghchis-interview-with-al-jazeera
+Summary: In an interview, Iranian Foreign Minister Abbas Araghchi confirmed direct contact with US envoy Steve Witkoff but denied it constituted negotiations, stating Iran has 'zero' trust in the US. He argued that Iran and Oman would decide the future of the Strait of Hormuz after the war. Araghchi also referenced Iran's preparations for a potential US ground invasion.
+
+[6] ‘Gerrymandering’ in India’s Assam cuts Muslim representation before vote | Politics | Al Jazeera
+Published: 2026-04-01T08:46:49Z
+URL: https://www.aljazeera.com/features/2026/4/1/gerrymandering-in-indias-assam-cuts-muslim-representation-before-vote
+Summary: A redrawing of electoral constituency boundaries in Assam state has significantly reduced the number of seats where Muslims form a majority, down from about 35 to about 20 out of 126. Analysts and activists describe this as 'communal gerrymandering' that could politically marginalise Assam's Muslim population ahead of state elections on April 9. The ruling BJP has chosen Hindu candidates for constituencies that previously had a chance of electing Muslim representatives.
+
+[7] India begins world’s largest population census | Politics News | Al Jazeera
+Published: 2026-04-01T08:47:21Z
+URL: https://www.aljazeera.com/news/2026/4/1/india-begins-worlds-biggest-population-count
+Summary: India has begun a yearlong national population census involving over three million officials, which will collect data on housing, living conditions, and later, social and economic characteristics including caste and religion. The data could reshape welfare programmes and political representation, potentially leading to a redrawing of India's political map. This is the first census since 2011, and India is now estimated to be the world's most populous nation.
+
+[8] ‘An incredible feeling’: Turkiye beat Kosovo to end 24-year World Cup wait | Football News | Al Jazeera
+Published: 2026-04-01T09:06:41Z
+URL: https://www.aljazeera.com/sports/2026/4/1/turkiye-beat-kosovo-to-end-24-year-world-cup-wait
+Summary: Turkiye has qualified for the FIFA World Cup for the first time since 2002 after a tense 1-0 playoff win against Kosovo. The victory, secured by a Kerem Akturkoglu goal, prompted wild celebrations among players and fans. Coach Vincenzo Montella expressed pride in his squad, which blends emerging young stars with seasoned players.
+
+[9] Which teams are in the FIFA World Cup 2026? | World Cup 2026 News | Al Jazeera
+Published: 2026-04-01T09:33:49Z
+URL: https://www.aljazeera.com/sports/2026/4/1/which-teams-are-in-the-fifa-world-cup-2026
+Summary: The 48-team lineup for the 2026 FIFA World Cup is now complete following the final playoffs, with Iraq and the Democratic Republic of the Congo among the last to qualify. The tournament, hosted by Canada, Mexico, and the US, will be the largest ever, featuring debutants like Cape Verde and Uzbekistan. The article provides a breakdown of the teams and groups, noting Argentina will defend its title.
+
+[10] Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-01T10:05:17Z
+URL: https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon
+Summary: Israeli attacks on Beirut's southern suburbs and the town of Khaldeh have killed at least seven people, according to Lebanon's health ministry. The Israeli military said it aimed to kill a senior Hezbollah commander. Meanwhile, Hezbollah claimed cross-border attacks and said its fighters were engaged in clashes with Israeli soldiers in southern Lebanon, where Israel has launched a ground invasion.
+
+================================================================================
 RUN TIME UTC: 2026-04-01T06:26:40Z
 WINDOW: Last 6 hours
 ARTICLES USED: 1
