@@ -1,5 +1,67 @@
 [
   {
+    "time": "2026-04-01T20:44:53Z",
+    "window_hours": 6,
+    "article_count": 9,
+    "overall_summary": "The articles cover a range of international developments, including diplomatic efforts to reopen the Strait of Hormuz amid conflict, India's controversial census, and new Israeli legislation criticized as discriminatory. Other stories report on protests, a military explosion in Burundi, a US Supreme Court case on birthright citizenship, Ecuador's anti-crime campaign, and Iranian President Pezeshkian's open letter to the American public.",
+    "articles": [
+      {
+        "title": "UK to host meeting of 35 countries on reopening Strait of Hormuz | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/uk-to-host-meeting-of-35-countries-on-reopening-strait-of-hormuz",
+        "published": "2026-04-01T15:55:32Z",
+        "summary": "The UK will host a virtual meeting of 35 countries to discuss diplomatic and political measures to reopen the Strait of Hormuz, which has been effectively closed due to the US-Israeli war on Iran. Prime Minister Keir Starmer stated reopening the strait 'will not be easy' and that military planners will also convene to plan for safe access after the fighting stops. The closure has caused global energy prices to soar, prompting countries to release strategic reserves."
+      },
+      {
+        "title": "History’s biggest census: Why India’s new population count is controversial | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial",
+        "published": "2026-04-01T16:19:46Z",
+        "summary": "India has launched the world's largest census, a $1.24bn exercise delayed by five years, which will include caste enumeration for the first time in nearly a century. Over three million officials will survey about 1.4 billion people using digital tools across two phases, collecting data on household composition, living conditions, and socioeconomic details. The census is scheduled to conclude next year."
+      },
+      {
+        "title": "'This is an apartheid regime': Critics decry Israel's new death penalty law | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law",
+        "published": "2026-04-01T17:12:41Z",
+        "summary": "Israel has passed a death penalty law that applies solely to Palestinians convicted by military courts in the occupied West Bank for deadly attacks classified as 'terrorism'. Critics, including Israeli rights groups, describe it as part of an 'apartheid' legal system that codifies discrimination, noting that Palestinians face a 99.74% conviction rate in military courts, while Israelis are tried in civilian courts with a much lower conviction rate."
+      },
+      {
+        "title": "Iran authorities await war 'victory' as supporters mark 1979 anniversary | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/iran-authorities-await-war-victory-as-supporters-mark-1979-anniversary",
+        "published": "2026-04-01T17:28:24Z",
+        "summary": "Iranian government supporters and officials, including President Masoud Pezeshkian, took to the streets to mark Islamic Republic Day, celebrating the 1979 referendum that solidified the Islamic Republic's hold on power. The celebrations occurred as US and Israeli attacks continued, with Washington bombing the site of the former US embassy in Tehran. Authorities urged continued public presence on the streets to fend off dissent and support the war effort."
+      },
+      {
+        "title": "Palestinians in West Bank protest, strike against Israeli death penalty law | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/palestinians-in-west-bank-protest-strike-against-israeli-death-penalty-law",
+        "published": "2026-04-01T19:09:05Z",
+        "summary": "Palestinians in the occupied West Bank and East Jerusalem held a general strike and protests against Israel's new death penalty law that targets Palestinians. Hundreds marched in Ramallah, with shops and public institutions closed, while Israeli soldiers forced some shop owners to open their businesses. The UN human rights chief condemned the law, stating its application to Palestinians would constitute a war crime."
+      },
+      {
+        "title": "Burundi says at least 13 killed, dozens injured in military base blast | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/burundi-says-at-least-13-killed-dozens-injured-in-military-base-blast",
+        "published": "2026-04-01T20:16:32Z",
+        "summary": "At least 13 civilians were killed and 57 others wounded in an explosion at a military ammunition depot in Bujumbura, Burundi, caused by an electrical short circuit. The blast destroyed houses, vehicles, and military equipment, with three soldiers among the injured. Authorities warned citizens not to touch unexploded munitions and to report them by phone."
+      },
+      {
+        "title": "'Hits close to home': US Supreme Court hears birthright citizenship case | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/hits-close-to-home-us-supreme-court-hears-birthright-citizenship-case",
+        "published": "2026-04-01T20:19:38Z",
+        "summary": "The US Supreme Court heard oral arguments on President Donald Trump's effort to end birthright citizenship, which grants automatic citizenship to anyone born in the United States. Trump attended the hearing, a first for a sitting president, as protesters gathered outside. Lawyers for the administration argued the practice is based on a 'misreading' of the Constitution, while challengers said it runs counter to constitutional and federal law."
+      },
+      {
+        "title": "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign | Government News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/ecuador-claims-28-drop-in-homicides-amid-concerns-over-anti-crime-campaign",
+        "published": "2026-04-01T20:20:43Z",
+        "summary": "Ecuador's government announced a 28% drop in intentional homicides in March compared to last year, crediting President Daniel Noboa's hardline anti-crime campaign and collaboration with the US. Officials reported 4,300 arrests and 2,200 search warrants executed as part of the crackdown. However, the campaign has raised concerns about potential human rights abuses amid a broader offensive against cartels in Latin America."
+      },
+      {
+        "title": "'Which interests being served by war?' Iran's Pezeshkian asks US public | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/1/which-interests-being-served-by-war-irans-pezeshkian-asks-us-public",
+        "published": "2026-04-01T20:40:31Z",
+        "summary": "Iranian President Masoud Pezeshkian published an open letter to the American public, urging them to look beyond 'distortions' and question whose interests are served by the US-Israeli war on Iran. He rejected portrayals of Iran as a threat, noted Iranian participation in nuclear talks when attacks occurred, and stated that attacking Iran's infrastructure constitutes a war crime with broader consequences. The letter came hours after President Trump threatened further attacks unless the Strait of Hormuz is reopened."
+      }
+    ]
+  },
+  {
     "time": "2026-04-01T16:08:10Z",
     "window_hours": 6,
     "article_count": 14,
