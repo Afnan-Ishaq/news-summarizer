@@ -1,5 +1,115 @@
 [
   {
+    "time": "2026-04-02T16:02:56Z",
+    "window_hours": 6,
+    "article_count": 17,
+    "overall_summary": "This batch of articles covers a range of international conflicts, regional tensions, and human rights issues. The primary focus is on the ongoing US-Israel war with Iran and its regional repercussions, including developments in Yemen, Lebanon, and the strategic Strait of Hormuz. Other stories report on condemnations of Israeli policies, internal conflicts in Africa, a tragic attack in Uganda, and sports-related news.",
+    "articles": [
+      {
+        "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran",
+        "published": "2026-04-02T10:36:37Z",
+        "summary": "The article analyzes the relationship between Yemen's Houthis and Iran, describing it as an unequal partnership where Iran provides support and political cover. It states the Houthis retain significant independence and a margin of manoeuvrability to serve their domestic objectives in Yemen, despite aligning with Iran's regional strategy. Their involvement in the broader Iran-US-Israel conflict has so far been limited, as they likely seek to avoid a broad confrontation that could drain their resources."
+      },
+      {
+        "title": "Eight countries condemn Israel’s one-sided death penalty for Palestinians | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/muslim-majority-countries-condemn-israels-one-sided-new-death-penalty-law",
+        "published": "2026-04-02T10:40:32Z",
+        "summary": "Eight Muslim-majority nations issued a joint statement strongly condemning Israel's new law imposing the death penalty on Palestinians convicted of fatal attacks, which does not apply to Jewish Israelis. The countries denounced what they called increasingly discriminatory practices that entrench a system of apartheid. They also expressed deep concern over conditions for Palestinian prisoners, warning of abuses including torture and starvation."
+      },
+      {
+        "title": "Libyan military leader may have combat drones despite UN embargo | Khalifa Haftar News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo",
+        "published": "2026-04-02T11:01:16Z",
+        "summary": "According to a Reuters report, eastern Libyan military leader Khalifa Haftar may have acquired Chinese and Turkish combat drones despite a UN arms embargo. Commercial satellite images from 2025 reportedly show drones at an airbase east of Benghazi. Experts who reviewed the images said one drone appears to be a Chinese-made Feilong-1, while others seem to be Turkish Bayraktar TB2s, but the supplier and operator remain unclear."
+      },
+      {
+        "title": "How Israel’s record budget will finance expanding illegal settlements | Benjamin Netanyahu News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements",
+        "published": "2026-04-02T11:09:02Z",
+        "summary": "Israel's record $271 billion budget includes significant funding for projects analysts say will entrench the occupation of the West Bank. A key allocation is 400 million shekels to the Ministry of Settlement and National Missions, which authorizes settlements on Palestinian land. Analysts describe the budget as a tool for imposing permanent realities on the ground and enabling a shift from military to civilian dominance in the occupied territory."
+      },
+      {
+        "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops",
+        "published": "2026-04-02T11:26:55Z",
+        "summary": "Israeli air raids killed at least seven people in southern Lebanon, according to local media reports. Lebanese Prime Minister Nawaf Salam warned the situation is 'very critical' as Israel's offensive enters its second month, displacing over one million people. Meanwhile, Hezbollah claimed rocket attacks targeting Israeli troops and infrastructure in northern Israel."
+      },
+      {
+        "title": "Four children killed in nursery school stabbing attack in Uganda | Child Rights News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda",
+        "published": "2026-04-02T11:44:19Z",
+        "summary": "A man killed four children in a stabbing attack at a nursery school in Kampala, Uganda. Police said the 34-year-old suspect, who disguised himself as a parent, was apprehended, but the motive remains unknown. The attack, described as rare for Kampala, led to police firing into the air to disperse an angry crowd that had gathered near the school."
+      },
+      {
+        "title": "Women’s Asian Cup finalists accuse governing body over equal money | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/2/womens-asian-cup-finalists-accuse-governing-body-over-equal-money",
+        "published": "2026-04-02T12:07:55Z",
+        "summary": "Women's Asian Cup finalists Japan and Australia renewed calls for equal prize money with the men's tournament, accusing the Asian Football Confederation (AFC) of ignoring their requests. They stated the women's tournament remains the lowest-paying continental event despite record crowds and revenue potential. The teams also highlighted challenges faced by other squads, including the Iranian team's asylum claims and kit issues for India."
+      },
+      {
+        "title": "‘Bomb back to the Stone Age’: US history of threats and carpet bombing | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/bomb-back-to-the-stone-age-us-history-of-threats-and-carpet-bombing",
+        "published": "2026-04-02T13:06:38Z",
+        "summary": "The article contextualizes US President Donald Trump's recent threat to bomb Iran 'back to the stone ages' within a history of similar US rhetoric and actions. It notes that such a threat, implying the destruction of civilian infrastructure characterizing modern society, would be illegal under international humanitarian law. An expert states the threat repudiates the claim the US is fighting only the Iranian regime, implying a war against Iranian society."
+      },
+      {
+        "title": "Pakistan to continue with Iran-US mediation despite ‘obstacles’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/pakistan-to-continue-with-iran-us-mediation-despite-obstacles",
+        "published": "2026-04-02T13:19:55Z",
+        "summary": "Pakistan's Foreign Ministry stated it will continue efforts to mediate between the US and Iran despite unspecified 'obstacles,' a comment made hours after President Trump's threat against Iran. The spokesperson said both sides have confidence in Pakistan's role as a neutral intermediary. He also noted Iran has allowed Pakistani-flagged vessels to transit the Strait of Hormuz, calling it a positive step for regional stability."
+      },
+      {
+        "title": "UK-led coalition of 40 countries vows action on Hormuz Strait gridlock | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/uk-led-coalition-of-35-countries-vows-action-on-hormuz-strait-gridlock",
+        "published": "2026-04-02T13:27:55Z",
+        "summary": "The UK is hosting a virtual summit with about 40 countries to discuss diplomatic and political measures to reopen the Strait of Hormuz, which has been choked off due to the war. The US is not attending the meeting. Participants have signed a statement demanding Iran stop blocking the strait and pledging to contribute to efforts ensuring safe passage, though the focus is on non-military solutions."
+      },
+      {
+        "title": "Spanish cyclist Guardeno airlifted to intensive care after crash with car | Cycling News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/2/spanish-cyclist-guardeno-airlifted-to-intensive-care-after-training-crash",
+        "published": "2026-04-02T13:33:55Z",
+        "summary": "Spanish cyclist Jaume Guardeno is in intensive care after a serious training crash where he collided with a vehicle. His team stated he was airlifted to a hospital with serious injuries. Spanish media reported he suffered a head injury after losing control of his bike when he rode over a stone."
+      },
+      {
+        "title": "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW | Armed Groups News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/burkina-faso-military-allies-committing-horrific-civilian-abuses-hrw",
+        "published": "2026-04-02T13:53:38Z",
+        "summary": "A Human Rights Watch report accuses Burkina Faso's military and allied militias of committing atrocities, including the ethnic cleansing of Fulani civilians, amounting to war crimes and crimes against humanity. The report states over 1,800 civilians have been killed since 2023, with more than 1,200 deaths attributed to government forces. HRW says President Ibrahim Traore and senior commanders should be investigated for potential liability."
+      },
+      {
+        "title": "UEFA’s Euro 2032 warning the latest blow to Italy after World Cup exit | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/2/uefas-euro-2032-warning-the-latest-blow-to-italy-after-world-cup-shock",
+        "published": "2026-04-02T13:56:38Z",
+        "summary": "UEFA President Aleksander Ceferin warned that Italy risks not cohosting Euro 2032 with Turkiye due to the poor condition of its football stadiums, which he called 'some of the worst in Europe.' He stated the tournament will only be held in Italy if the infrastructure is ready. This comes days after Italy failed to qualify for the 2026 World Cup."
+      },
+      {
+        "title": "Why Lebanon should join the International Criminal Court | Human Rights | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/2/why-lebanon-should-join-the-international-criminal-court",
+        "published": "2026-04-02T14:15:11Z",
+        "summary": "This opinion piece argues that Lebanon should join the International Criminal Court (ICC) to seek accountability for potential Israeli war crimes committed during its ongoing offensive. The author states that, unlike Palestine which is an ICC member, Lebanon has not exhausted this legal avenue, leaving a gap in the pursuit of justice for atrocities. Joining the ICC could bring renewed political pressure and a chance for accountability."
+      },
+      {
+        "title": "Can Starmer’s 40-nation coalition open the Strait of Hormuz? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/can-starmers-40-nation-coalition-open-the-strait-of-hormuz",
+        "published": "2026-04-02T14:26:38Z",
+        "summary": "The article details the UK-led coalition of about 40 countries discussing strategies to reopen the Strait of Hormuz, which Iran has blocked since the war began. The blockade has caused global oil prices to surge. The US is not participating, and the focus of the talks is on diplomatic and political measures, as no country appears willing to try to open the strait by force while fighting continues."
+      },
+      {
+        "title": "European Parliament member Rima Hassan taken into French police custody | Police News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/european-parliament-member-rima-hassan-taken-into-french-police-custody",
+        "published": "2026-04-02T15:11:55Z",
+        "summary": "European Parliament member Rima Hassan, a French-Palestinian activist, has been detained by French police on suspicion of 'apology for terrorism' related to a social media post. Members of her La France Insoumise party condemned the detention as an attempt to intimidate Palestine supporters. French media also reported a small amount of synthetic drugs was found on her during the arrest."
+      },
+      {
+        "title": "Can the US seize Iran’s enriched uranium – and what are the risks? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/can-the-us-seize-irans-enriched-uranium-and-what-are-the-risks",
+        "published": "2026-04-02T15:21:55Z",
+        "summary": "The article reports that US President Donald Trump is reportedly considering sending special forces to seize Iran's stockpile of highly enriched uranium. Experts say such a military operation would be complicated and risky, facing significant chemical, logistical, and tactical hurdles. Iran is believed to have about 440kg of uranium enriched to 60%, much of it stored in underground facilities like Isfahan that have been targeted in past strikes."
+      }
+    ]
+  },
+  {
     "time": "2026-04-02T10:53:19Z",
     "window_hours": 6,
     "article_count": 12,
