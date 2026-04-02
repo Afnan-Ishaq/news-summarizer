@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-04-02T06:13:07Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+The articles cover three distinct topics from the last six hours: a legal and personal update from golfer Tiger Woods, a political analysis of a speech by former US President Donald Trump on the Iran conflict, and a report on the successful launch and planned trajectory of NASA's Artemis II moon mission.
+
+ARTICLE BREAKDOWN
+[1] Tiger Woods declines 2027 Ryder Cup captaincy; can leave US for treatment | Golf News | Al Jazeera
+Published: 2026-04-02T04:23:47Z
+URL: https://www.aljazeera.com/sports/2026/4/2/tiger-woods-declines-2027-ryder-cup-captaincy-can-leave-us-for-treatment
+Summary: Tiger Woods has declined the 2027 Ryder Cup captaincy to focus on his health. A Florida judge granted his request to leave the United States to enter an inpatient treatment facility as he faces misdemeanor DUI charges related to a recent car crash. According to court documents, his lawyer argued that treatment abroad is necessary due to his complex clinical needs and the inability to receive effective care in the US amid public scrutiny.
+
+[2] Trump’s primetime speech on Iran war: Key takeaways | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-02T05:15:10Z
+URL: https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways
+Summary: In a primetime address, former US President Donald Trump reiterated familiar points about the war on Iran, stating it is necessary, already won, must continue, and will end soon. The article notes that analysts expected a major announcement, but the speech contained no new details on how the conflict would conclude. Experts cited in the piece characterized the address as a repetition of past statements, suggesting a lack of a concrete plan.
+
+[3] How long will Artemis II take to reach the moon, and what happens next? | Science and Technology News | Al Jazeera
+Published: 2026-04-02T05:48:56Z
+URL: https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next
+Summary: NASA's Artemis II mission has successfully launched, sending four astronauts on a journey to the moon's vicinity for the first time since the Apollo era. The Orion capsule is expected to reach the moon around April 6, following a 'free-return' trajectory that will swing around it without landing. The launch proceeded after engineers resolved technical issues, including monitoring for hydrogen leaks that had caused previous delays.
+
+================================================================================
 RUN TIME UTC: 2026-04-02T02:26:46Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
