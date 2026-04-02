@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-04-02T20:40:59Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+The articles cover a range of international conflicts, diplomatic tensions, and sports news from the last six hours. Key themes include ongoing wars in the Middle East affecting Iran and regional security, political and legal developments in the US, and significant events in international football.
+
+ARTICLE BREAKDOWN
+[1] Pakistan, Afghanistan hold talks in China to end months of conflict | Conflict News | Al Jazeera
+Published: 2026-04-02T15:55:09Z
+URL: https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict
+Summary: Pakistan and Afghanistan are holding talks in Urumqi, China, aimed at ending months of cross-border conflict that has killed dozens and disrupted trade. Pakistan accuses Afghanistan of harboring fighters, which Kabul denies. China is mediating, following a temporary ceasefire for Ramadan, though sporadic attacks have been reported.
+
+[2] World Cup 2026: Italy’s football chief resigns after qualifying failure | World Cup 2026 News | Al Jazeera
+Published: 2026-04-02T16:26:38Z
+URL: https://www.aljazeera.com/sports/2026/4/2/world-cup-2026-italys-football-chief-resigns-after-qualifying-failure
+Summary: Gabriele Gravina has resigned as head of Italy's football federation after the men's national team failed to qualify for the World Cup for a third consecutive time. His resignation follows a call from the sport minister and a playoff loss to Bosnia and Herzegovina. A vote for a new president is scheduled for June 22.
+
+[3] World Cup 2026: Iran and Infantino talks progressing as war darkens US trip | World Cup 2026 News | Al Jazeera
+Published: 2026-04-02T16:55:34Z
+URL: https://www.aljazeera.com/sports/2026/4/2/world-cup-2026-iran-and-infantino-talks-progressing-as-war-darkens-us-trip
+Summary: Iranian football officials held a face-to-face meeting with FIFA President Gianni Infantino, making progress on Iran's participation in the World Cup amid the US-Israel war on Iran. The article states talk of a boycott or moving games to Mexico has faded, and Iran is on track to prepare for the tournament in the US, though uncertainty remains.
+
+[4] Argentina expels Iranian diplomat amid rift over blacklisting IRGC | Islamic Revolutionary Guard Corps News | Al Jazeera
+Published: 2026-04-02T17:02:21Z
+URL: https://www.aljazeera.com/news/2026/4/2/argentina-expels-iranian-diplomat-amid-rift-over-blacklisting-irgc
+Summary: Argentina has expelled Iran's charge d'affaires, declaring him persona non grata, following Iran's rejection of Argentina's designation of the IRGC as a terrorist group. Argentina called Iran's statements false and an interference in internal affairs. The move escalates tensions, with Iran accusing Argentina of acting under Israeli influence.
+
+[5] Trump fires Pam Bondi as US attorney general, elevates Todd Blanche | Donald Trump News | Al Jazeera
+Published: 2026-04-02T17:20:00Z
+URL: https://www.aljazeera.com/news/2026/4/2/trump-says-pam-bondi-out-as-attorney-general
+Summary: President Donald Trump has announced the dismissal of Attorney General Pam Bondi, with Deputy Attorney General Todd Blanche taking over temporarily. Trump praised Bondi's service but did not specify a reason for the change. Bondi's tenure faced criticism over the independence of the Justice Department and investigations into Trump's political opponents.
+
+[6] US Homeland Security shutdown to stretch on, despite Senate passing funding | Donald Trump News | Al Jazeera
+Published: 2026-04-02T17:27:24Z
+URL: https://www.aljazeera.com/news/2026/4/2/us-homeland-security-shutdown-to-stretch-on-despite-senate-passing-funding
+Summary: A partial US government shutdown affecting the Department of Homeland Security will continue, as the House has not voted on a Senate-passed funding bill. The stalemate centers on immigration procedure reforms, impacting TSA agents and causing airport delays. President Trump has endorsed a two-track funding plan proposed by Republican leaders.
+
+[7] UN experts urge investigation into Israel’s killing of Lebanese journalists | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-02T17:47:36Z
+URL: https://www.aljazeera.com/news/2026/4/2/un-experts-urge-investigation-into-israels-killing-of-lebanese-journalists
+Summary: Three UN experts have called for an independent investigation into Israel's killing of three journalists in Lebanon, calling it a war crime and an attack on press freedom. They rejected Israel's claim that one journalist was a fighter, stating that working for media affiliated with an armed group does not make a journalist a legitimate target.
+
+[8] Children’s hospital in Tehran keeps hopes and smiles alive during war | Health News | Al Jazeera
+Published: 2026-04-02T18:37:35Z
+URL: https://www.aljazeera.com/news/2026/4/2/childrens-hospital-in-tehran-keeps-hopes-and-smiles-alive-during-war
+Summary: Staff at a children's hospital in Tehran are organizing activities to provide joy for young patients amid the ongoing US-Israeli war on Iran. Doctors pooled money and donations for events during the Nowruz holidays, as families celebrated outdoors despite the conflict. The hospital has not been directly hit, but bombs have struck nearby areas.
+
+[9] GCC chief urges UN to halt Iranian attacks, protect Gulf waterways | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-02T18:40:06Z
+URL: https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways
+Summary: The GCC secretary-general has called on the UN Security Council to act to halt Iranian attacks across the region, condemning them as a violation of international law. He urged measures to protect maritime navigation and include GCC states in any talks with Iran. The article notes that 85% of Iranian projectiles have targeted Gulf countries, with the UAE hardest hit.
+
+[10] Barcelona thump Real Madrid 6-0 to reach women’s Champions League semifinal | Football News | Al Jazeera
+Published: 2026-04-02T19:50:29Z
+URL: https://www.aljazeera.com/sports/2026/4/2/barcelona-thump-real-madrid-6-0-to-reach-champions-league-final
+Summary: Barcelona's women's team defeated Real Madrid 6-0 to reach the Champions League semifinals 12-2 on aggregate. Alexia Putellas and Caroline Graham Hansen were among the scorers in front of a large crowd. Barcelona will face Bayern Munich in the next round.
+
+[11] Yamal slams anti-Muslim fan chants as Spain’s World Cup final hopes tainted | World Cup 2026 News | Al Jazeera
+Published: 2026-04-02T19:50:38Z
+URL: https://www.aljazeera.com/sports/2026/4/2/yamal-slams-anti-muslim-fan-chants-as-spains-world-cup-final-hopes-tainted
+Summary: Spain's hopes of hosting the 2030 World Cup final were marred by anti-Muslim chants during a friendly match against Egypt. Spanish police are investigating the incident, which prompted star player Lamine Yamal to condemn the chants as disrespectful and racist. Analysts cited the event as evidence of structural racism in Spanish society.
+
+[12] Planning commission approves Trump’s White House ballroom plans | Donald Trump News | Al Jazeera
+Published: 2026-04-02T20:04:00Z
+URL: https://www.aljazeera.com/news/2026/4/2/planning-commission-approves-trumps-white-house-ballroom-plans
+Summary: A planning commission has approved President Trump's proposal to build a large ballroom at the White House, though a federal judge ruled the project needs Congressional authorization. Trump has proceeded with construction despite legal challenges, arguing previous work did not require such approval. The project is privately funded and estimated to cost about $400 million.
+
+[13] Legal groups condemn arrival of a dozen deportees from US to Uganda | Donald Trump News | Al Jazeera
+Published: 2026-04-02T20:17:59Z
+URL: https://www.aljazeera.com/news/2026/4/2/legal-groups-condemn-arrival-of-a-dozen-deportees-from-us-to-uganda
+Summary: Legal groups in Uganda have condemned the arrival of a dozen deportees from the US, calling it an act of 'transnational repression' and challenging it in court. This is the first confirmed deportation from the US to Uganda under a deal with the Trump administration. The article notes Trump's efforts to send deportees to third countries, some of which receive financial incentives.
+
+[14] As war drags on, US reiterates Trump open to diplomacy with Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-02T20:24:20Z
+URL: https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran
+Summary: A US State Department spokesperson stated President Trump is open to diplomacy with Iran but accused Iran of pursuing a nuclear weapon. The comments come as the US-Israel war on Iran continues, with Trump having shared footage of destroyed Iranian infrastructure. Iran denies seeking nuclear weapons and insists on its right to enrich uranium.
+
+[15] At least 43 people killed in ADF attack in northeast DR Congo, army says | Conflict News | Al Jazeera
+Published: 2026-04-02T20:34:00Z
+URL: https://www.aljazeera.com/news/2026/4/2/at-least-43-people-killed-in-adf-attack-in-northeast-dr-congo-army-says
+Summary: At least 43 people were killed in an attack blamed on the ADF rebel group in northeast Democratic Republic of Congo. The army reported houses were torched, and local officials said some victims were killed with machetes. ADF attacks on civilians have intensified in the region despite joint military operations.
+
+================================================================================
 RUN TIME UTC: 2026-04-02T16:02:56Z
 WINDOW: Last 6 hours
 ARTICLES USED: 17
