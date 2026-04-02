@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-04-02T02:26:46Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "This batch of articles covers major developments in business, international relations, space exploration, security operations, and natural disasters. Key stories include SpaceX's IPO filing, US sanctions changes in Venezuela, NASA's moon mission launch, a UN-backed force arriving in Haiti, an FBI investigation in Cuba, and a major earthquake in Indonesia.",
+    "articles": [
+      {
+        "title": "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
+        "url": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire",
+        "published": "2026-04-01T21:12:27Z",
+        "summary": "SpaceX has taken steps for its first public share offering, which could become one of the largest IPOs in modern history and potentially make founder Elon Musk the world's first trillionaire. The company, considered the most valuable privately held firm, filed for an IPO that could raise up to $75bn and take place as soon as June or July. Despite Musk's controversial public profile, analysts note SpaceX is operationally mature, technologically advanced, and profitable, which may drive investor enthusiasm."
+      },
+      {
+        "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+        "url": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez",
+        "published": "2026-04-01T22:12:46Z",
+        "summary": "The United States has lifted sanctions against Venezuela's interim President Delcy Rodriguez, following the abduction and imprisonment of her predecessor Nicolas Maduro. Rodriguez hailed the decision as a step toward normalizing relations and called for more sanctions to be lifted. Since taking office, Rodriguez has taken a conciliatory approach toward the US, including signing laws to open Venezuela's oil and mining sectors to private investment."
+      },
+      {
+        "title": "NASA successfully launches historic Artemis II moon mission",
+        "url": "https://www.aljazeera.com/news/2026/4/1/nasas-artemis-ii-lifts-off-to-the-moon",
+        "published": "2026-04-01T22:39:26Z",
+        "summary": "NASA's Artemis II mission has successfully launched from Florida, sending four astronauts on a journey around the moon—the first human travel beyond low-Earth orbit in over 50 years. The crew will conduct a nearly 10-day mission, performing extensive systems checks before a critical engine burn to head toward the moon. The launch proceeded despite pre-launch tensions over hydrogen fuel leaks and technical issues with the flight-termination system and capsule batteries, which were resolved."
+      },
+      {
+        "title": "First troops from UN-backed Gang Suppression Force arrive in Haiti",
+        "url": "https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti",
+        "published": "2026-04-01T23:19:08Z",
+        "summary": "The first foreign troops from a new UN-backed Gang Suppression Force have arrived in Haiti to combat escalating gang violence, with an initial group from Chad deploying alongside a UN special representative. The force, authorized by the UN Security Council, is expected to grow to 5,500 personnel with a 12-month mandate and will have powers to make arrests, unlike the previous Kenyan-led mission. The deployment follows a history of troubled foreign interventions in Haiti and comes amid widespread violence that intensified after the 2021 assassination of President Jovenel Moise."
+      },
+      {
+        "title": "FBI agents from US arrive in Cuba to probe lethal speedboat shooting",
+        "url": "https://www.aljazeera.com/news/2026/4/1/fbi-agents-from-us-arrive-in-cuba-to-probe-lethal-speedboat-shooting",
+        "published": "2026-04-01T23:31:08Z",
+        "summary": "A technical team from the FBI has arrived in Cuba to conduct an independent investigation into a deadly shootout between Cuban border patrol and a Florida-tagged speedboat carrying armed individuals. Cuban authorities say 10 Cuban nationals attempted to enter the island with weapons and ammunition on February 25, resulting in five deaths. The US embassy stated the investigation will verify facts independently, amid heightened tensions following a US oil blockade on Cuba and the abduction of Venezuelan President Nicolas Maduro, a key Cuban ally."
+      },
+      {
+        "title": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning lifted",
+        "url": "https://www.aljazeera.com/news/2026/4/1/magnitude-7-4-quake-hits-off-indonesias-ternate-tsunami-warning-triggered",
+        "published": "2026-04-01T23:54:08Z",
+        "summary": "A magnitude 7.4 earthquake struck off the coast of Ternate, Indonesia, killing at least one person and initially triggering a tsunami warning that was later lifted. The quake, which occurred at a depth of 35km, caused building damage and led to evacuation preparations in some cities. Tsunami waves up to 75 centimeters were recorded in some areas, but the Pacific Tsunami Warning Center stated the threat had passed about two hours after the tremor."
+      }
+    ]
+  },
+  {
     "time": "2026-04-01T20:44:53Z",
     "window_hours": 6,
     "article_count": 9,
