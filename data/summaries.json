@@ -1,5 +1,85 @@
 [
   {
+    "time": "2026-04-03T10:44:43Z",
+    "window_hours": 6,
+    "article_count": 12,
+    "overall_summary": "The articles cover a range of topics from the ongoing US-Israel war on Iran, including military developments and regional impacts, to US domestic political changes and international sports news. Several reports detail specific consequences of the conflict, such as attacks on infrastructure and healthcare, while others focus on unrelated political, legal, and sports events.",
+    "articles": [
+      {
+        "title": "Iran war: What is happening on day 35 of US-Israeli attacks? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks",
+        "published": "2026-04-03T06:42:33Z",
+        "summary": "The US and Israel have widened attacks on Iran, striking infrastructure including a medical research center and a bridge near Tehran. US officials justify the bridge strike by claiming it was used for military drone materials, while Iran calls it a civilian target. The conflict has caused significant casualties and damage, with regional efforts underway to address the blockade of the Strait of Hormuz."
+      },
+      {
+        "title": "Hegseth fires US Army chief of staff in reported string of dismissals | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals",
+        "published": "2026-04-03T07:13:39Z",
+        "summary": "US Defense Secretary Pete Hegseth has fired Army Chief of Staff General Randy George, reportedly to install someone aligned with his and President Trump's vision. The dismissal follows clashes over Hegseth's decision to block promotions of four officers, leading to questions about potential bias. General George, appointed in 2023, is retiring immediately amid the ongoing war."
+      },
+      {
+        "title": "Iranian women footballers reveal ‘enormous pressure’ of the Asian Cup saga | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/iranian-women-footballers-reveal-enormous-pressure-of-the-asian-cup-saga",
+        "published": "2026-04-03T07:27:02Z",
+        "summary": "Iranian footballer Mona Hamoudi describes the intense pressure faced by the national women's team during the Asian Cup in Australia, where players were scrutinized for their silent protest during the anthem. Several players initially sought asylum but later reversed their decision to return to Iran. The squad faced criticism from Iranian state media and expectations from the diaspora, creating a charged atmosphere."
+      },
+      {
+        "title": "How Israel is destroying healthcare infrastructure in southern Lebanon | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon",
+        "published": "2026-04-03T07:34:44Z",
+        "summary": "Israel's attacks on Lebanon have severely damaged healthcare infrastructure, killing medical workers and forcing hospital closures, which experts say is part of an effort to displace people. Since intensifying strikes in March, 53 medical workers have been killed and five hospitals closed, exacerbating a pre-existing healthcare crisis. The destruction and mass evacuation orders have cut off access to care for many in southern Lebanon."
+      },
+      {
+        "title": "Iran condemns US-Israeli ‘moral collapse’ after attacks on civilian sites | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/iran-condemns-us-israeli-moral-collapse-after-attacks-on-civilian-sites",
+        "published": "2026-04-03T08:03:04Z",
+        "summary": "President Trump has threatened to expand attacks on Iran's infrastructure, including bridges and power plants, following a strike on a major bridge. Iran's Foreign Minister condemned the targeting of civilian structures, calling it a sign of 'moral collapse' by the enemy. The article notes regional instability and potential Iranian retaliation against bridges in other Gulf countries."
+      },
+      {
+        "title": "Lakers handed one of heaviest defeats by Thunder and hit by Doncic injury | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/lakers-handed-one-of-heaviest-defeats-by-thunder-and-hit-by-doncic-injury",
+        "published": "2026-04-03T08:16:48Z",
+        "summary": "The Oklahoma City Thunder defeated the Los Angeles Lakers 139-96, ending the Lakers' winning streak. Lakers star Luka Doncic suffered a strained left hamstring during the game and will undergo an MRI. The Thunder controlled the game from the start, with key performances from Shai Gilgeous-Alexander and Luguentz Dort, who also left the game with an injury."
+      },
+      {
+        "title": "Why did Trump fire Pam Bondi from Justice Department, who is Todd Blanche? | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche",
+        "published": "2026-04-03T08:19:49Z",
+        "summary": "President Trump has fired Attorney General Pam Bondi, who will transition to a private sector role. Trump appointed Deputy Attorney General Todd Blanche, his former criminal defense lawyer, as acting attorney general. Bondi's tenure faced scrutiny over various issues, including her record on sex trafficking cases related to Jeffrey Epstein."
+      },
+      {
+        "title": "Man City vs Liverpool: FA Cup quarterfinal – team news, start, lineups | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/man-city-vs-liverpool-fa-cup-quarterfinal-preview-team-news-start",
+        "published": "2026-04-03T08:30:44Z",
+        "summary": "Liverpool faces Manchester City in a crucial FA Cup quarterfinal, with the FA Cup and Champions League being Liverpool's only remaining chances for silverware this season. Manager Arne Slot is under pressure to win a trophy, and Mohamed Salah aims to end his Liverpool career on a high note. The match is set for April 4 at the Etihad Stadium."
+      },
+      {
+        "title": "Tiger Woods told police after car crash he was ‘talking to the president’ | Golf News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president",
+        "published": "2026-04-03T08:59:18Z",
+        "summary": "Tiger Woods told police after a car crash that he was 'talking to the president,' possibly referring to President Trump, according to body camera footage. Woods was arrested for driving under the influence after failing a sobriety test and was found with prescription painkillers. The footage shows Woods appearing impaired and being handcuffed following the accident."
+      },
+      {
+        "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes",
+        "published": "2026-04-03T08:59:42Z",
+        "summary": "Kuwait reports that a desalination plant and the Mina al-Ahmadi oil refinery have been hit by Iranian missile and drone strikes, causing fires but no employee injuries. This is part of ongoing retaliatory strikes in the US-Israel war on Iran, with Kuwait being a frequent target due to its proximity. The UAE also faced attacks, with interceptions reported and damage to a gas facility."
+      },
+      {
+        "title": "Cuba to pardon more than 2,000 prisoners amid US pressure | Prison News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure",
+        "published": "2026-04-03T09:06:15Z",
+        "summary": "Cuba's government will pardon 2,010 prisoners as a humanitarian gesture during Easter, following recent talks with the US amid increasing pressure. The release includes individuals based on good conduct and health, though the government denies acting under US coercion. This is the second amnesty this year, with the US long demanding the release of political prisoners."
+      },
+      {
+        "title": "Ten years since Panama Papers: What did they reveal, did anything change? | Panama Papers News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change",
+        "published": "2026-04-03T09:46:12Z",
+        "summary": "The Panama Papers, leaked ten years ago, exposed a global network of offshore shell companies used by politicians, business leaders, and other elites to hide wealth. The leak involved 11.5 million documents from the law firm Mossack Fonseca, analyzed by hundreds of journalists worldwide. It revealed connections to figures like former Argentine President Mauricio Macri and former Ukrainian President Petro Poroshenko."
+      }
+    ]
+  },
+  {
     "time": "2026-04-03T06:12:19Z",
     "window_hours": 6,
     "article_count": 3,
