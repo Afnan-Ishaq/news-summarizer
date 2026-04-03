@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-04-03T02:28:05Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "The articles cover a range of international and U.S. domestic news from a future date in 2026. Key themes include geopolitical energy shipments, a major sports upset, immigration enforcement controversies, a legal ruling on election interference, and a new U.S. tariff policy on pharmaceuticals.",
+    "articles": [
+      {
+        "title": "Russia sending second ship with oil to Cuba amid US blockade | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade",
+        "published": "2026-04-02T20:51:25Z",
+        "summary": "Russia's energy minister announced a second oil shipment is being loaded for Cuba, following a first delivery of about 700,000 barrels earlier in the week. The move is framed as support for Cuba, which is struggling under a U.S. fuel blockade that has caused blackouts and shortages. The U.S. administration granted a waiver for the first delivery on humanitarian grounds and says future decisions will be case-by-case."
+      },
+      {
+        "title": "Unbridled Bosnian joy marks World Cup qualification win over Italy | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy",
+        "published": "2026-04-02T21:25:28Z",
+        "summary": "Bosnia and Herzegovina's national football team defeated Italy in a dramatic penalty shootout to qualify for the 2026 World Cup, sparking wild celebrations. The match took place at the Bilino Polje Stadium in Zenica, a venue known for its intimidating atmosphere for visiting teams. Thousands of fans filled the city and the stadium, with many more gathering in fan zones and cafes to witness the historic victory."
+      },
+      {
+        "title": "Rights groups, Milwaukee leaders slam ICE’s arrest of Palestinian advocate | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate",
+        "published": "2026-04-02T22:45:48Z",
+        "summary": "Ten Muslim civil rights groups have jointly denounced the arrest of Salah Sarsour, a Palestinian American community leader and president of the Islamic Society of Milwaukee, by ICE agents. The groups allege he is being targeted for his Palestinian and Muslim background and his pro-Palestinian advocacy, linking his detention to a broader administration trend. Sarsour, a lawful permanent resident, was detained and transferred to facilities in Illinois and Indiana, leaving his family unsure of his location."
+      },
+      {
+        "title": "US court orders resentencing for Colorado clerk involved in election scheme | Courts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/us-court-orders-resentencing-for-colorado-clerk-involved-in-election-scheme",
+        "published": "2026-04-02T22:56:55Z",
+        "summary": "A Colorado appeals court overturned the nine-year prison sentence of former county clerk Tina Peters, convicted for her role in a scheme to tamper with voting machines after the 2020 election. The court ruled the sentencing judge improperly considered Peters's personal beliefs about election fraud, though her conviction stands. Peters, who became a cause célèbre for the election denial movement and former President Donald Trump, was pardoned by Trump in December, though the pardon's practical effect is unclear from the provided text."
+      },
+      {
+        "title": "Trump unveils 100 percent tariff on drugs to push for pharmaceutical deals | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals",
+        "published": "2026-04-02T23:38:53Z",
+        "summary": "President Donald Trump signed an executive order imposing tariffs of up to 100 percent on some patented drugs to pressure pharmaceutical companies into pricing deals and building U.S. facilities. Companies with pricing deals and U.S. construction projects face a 0% tariff, while others face a 20% tariff that could rise to 100% within four years if they do not negotiate. The administration official stated companies have several months to negotiate, and critics warn the tariffs could increase costs and jeopardize investments."
+      }
+    ]
+  },
+  {
     "time": "2026-04-02T20:40:59Z",
     "window_hours": 6,
     "article_count": 15,
