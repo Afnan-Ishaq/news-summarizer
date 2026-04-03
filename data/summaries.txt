@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-04-03T15:39:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last six hours, focusing primarily on legal condemnation of the US-Israeli war on Iran, the humanitarian impact in Gaza and Iran, political developments in Burkina Faso, and social issues in Spain. They also include analysis of the war's effects on Israel and an opinion piece on the erosion of international law.
+
+ARTICLE BREAKDOWN
+[1] Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’ | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-03T10:49:25Z
+URL: https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes
+Summary: More than 100 US-based international law experts have signed an open letter condemning US and Israeli military strikes on Iran. The letter states the campaign violates the UN Charter and may amount to war crimes, citing attacks on schools and hospitals and alarming rhetoric from senior US officials. The scholars argue the war lacks UN Security Council authorization and credible evidence of an imminent Iranian threat.
+
+[2] Rubble, mud and hair: How to rebuild a home in Gaza | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-03T11:14:35Z
+URL: https://www.aljazeera.com/features/2026/4/3/rubble-mud-and-hair-how-to-rebuild-a-home-in-gaza
+Summary: A Gaza resident, Mohammed al-Jadba, is building a temporary shelter from rubble, mud, and human hair due to a lack of construction materials under Israeli import restrictions. His family has been living in tents since the October ceasefire, and he accelerated construction after his mother was injured by gunfire. The article describes this as a partial, improvised solution in the absence of large-scale reconstruction in Gaza.
+
+[3] Burkina Faso military leader Traore says ‘forget democracy’ | Politics News | Al Jazeera
+Published: 2026-04-03T11:21:00Z
+URL: https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy
+Summary: Burkina Faso's military leader, Ibrahim Traore, stated in an interview that people should 'forget about democracy,' calling it 'slavery.' This follows his government's dissolution of all political parties in January. Traore, who seized power in a 2022 coup, had initially promised elections but later delayed them, citing security concerns from armed groups.
+
+[4] ‘I don’t know how we’ll emerge from this’: How much more can Israelis take? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-03T11:24:33Z
+URL: https://www.aljazeera.com/news/2026/4/3/i-dont-know-how-well-emerge-from-this-how-much-more-can-israelis-take
+Summary: Analysts say years of war have transformed Israel's politics, economy, and society, with the current conflict with Iran described as an 'existential battle.' The article notes the high financial cost of recent wars and that Israel's war aims against Iran seem distant, with no strong signs of public disquiet in Iran. Israelis face frequent air raid warnings and increased strain, yet many see the war as inevitable.
+
+[5] War crimes are no longer shameful. That should terrify you | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-03T12:16:18Z
+URL: https://www.aljazeera.com/opinions/2026/4/3/war-crimes-are-no-longer-shameful-that-should-terrify-you
+Summary: This opinion piece argues that the US, Israel, and Iran are showing 'swaggering contempt' for international law protecting civilians, unlike past leaders who might have pleaded ignorance. It cites statements from US and Israeli officials that dismiss legal restraints and notes attacks causing civilian casualties and displacement. The author warns that without urgent action, the international community may be acquiescing to the destruction of these norms.
+
+[6] Real Madrid coach insists Spain ‘not racist’ despite Islamophobic chant | Football News | Al Jazeera
+Published: 2026-04-03T12:38:01Z
+URL: https://www.aljazeera.com/sports/2026/4/3/real-madrid-coach-insists-spain-is-not-racist-despite-islamaphobic-chant
+Summary: Real Madrid coach Alvaro Arbeloa said Spain is 'not a racist country' and is 'very tolerant,' despite Islamophobic chants during a Spain-Egypt friendly. Barcelona forward Lamine Yamal, who is Muslim, condemned the chants as 'ignorant and racist.' The article notes past incidents of racism in Spanish football and that police are investigating the latest chants.
+
+[7] How the US and Israel are waging war on Iran’s medicines, vaccines | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-03T12:46:50Z
+URL: https://www.aljazeera.com/news/2026/4/3/how-the-us-and-israel-are-waging-war-on-irans-medicines-vaccines
+Summary: The article reports that the US and Israel have carried out multiple attacks on medical facilities in Iran, including the Pasteur Institute in Tehran. Iranian President Masoud Pezeshkian appealed to international health organizations to respond, calling it a 'crime against humanity.' The Pasteur Institute is a key research and vaccine production center, and the WHO has verified over 20 attacks on health facilities in Iran since March 1.
+
+================================================================================
 RUN TIME UTC: 2026-04-03T10:44:43Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
