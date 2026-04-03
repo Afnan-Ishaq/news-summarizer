@@ -1,5 +1,91 @@
 [
   {
+    "time": "2026-04-03T20:38:12Z",
+    "window_hours": 6,
+    "article_count": 13,
+    "overall_summary": "The articles cover escalating military conflicts in the Middle East, particularly between Israel and Lebanon and the US-Israel coalition against Iran, with reports of infrastructure attacks, downed aircraft, and threats to seize oil resources. Other stories include Ukraine's battlefield progress, US domestic politics and economy, and separate incidents in Cambodia, Sudan, and the UAE.",
+    "articles": [
+      {
+        "title": "Israel threatens to destroy more Lebanon bridges as crisis mounts | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts",
+        "published": "2026-04-03T14:43:39Z",
+        "summary": "Israel's military has threatened to destroy the Sohmor and Mashghara bridges over the Litani River in Lebanon's western Bekaa Valley, claiming Hezbollah uses them. An Al Jazeera reporter says destroying these main bridges would essentially isolate the western Bekaa from the rest of Lebanon, impacting movement of goods and people. Israel has already destroyed at least six other bridges over the Litani since early March, and strikes have also damaged key water infrastructure in southern Lebanon."
+      },
+      {
+        "title": "Trump says with more time, US can ‘take the oil’ in Iran | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran",
+        "published": "2026-04-03T15:18:34Z",
+        "summary": "US President Donald Trump suggested in a social media post that with more time, the US could 'easily' open the Strait of Hormuz and 'take the oil' from Iran, claiming it would be lucrative. He has previously promised to reopen the strait, which Iran has effectively blocked, but the US military has said it is 'not ready' to escort ships there. Trump has regularly called for 'taking the oil' in countries where the US is militarily involved, though he provided no details on how this would be achieved in Iran."
+      },
+      {
+        "title": "Iran says it downed two US jets as search for one pilot continues | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/iranian-forces-launch-search-for-pilot-of-downed-us-fighter-jet",
+        "published": "2026-04-03T15:43:22Z",
+        "summary": "Iranian forces claim they struck down two US fighter jets, an F-15 over southwest Iran and an A-10 near the Strait of Hormuz. The fate of at least one pilot from the F-15 crew is unknown, with reports that one was rescued but another remains missing. US President Trump said the downing would not affect the prospect of talks with Tehran, stating 'We're in war.' Iranian officials have called on civilians to be on the lookout for survivors."
+      },
+      {
+        "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest",
+        "published": "2026-04-03T15:44:16Z",
+        "summary": "Ukraine has devastated Russia's oil export capacity, stopped Russian advances, and reclaimed occupied territory, with one estimate saying it halved the Russian rate of advance in three months. President Zelenskyy has secured agreements with several Gulf states to export Ukrainian drone know-how in return for joint production support. Commander-in-chief Syrskii said the rate of drone production is key to Ukraine's success, with first-person view drones now responsible for 90% of Russian casualties, and Ukraine has reclaimed 470 sq km of territory this year."
+      },
+      {
+        "title": "Trump seeks historic $1.5 trillion for military in Congress budget request | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request",
+        "published": "2026-04-03T15:48:57Z",
+        "summary": "President Trump has requested a $1.5 trillion military budget for the next fiscal year, a nearly 40% increase over the previous year, which would be the largest in decades. The request, which is not legally binding, emphasizes military spending and law enforcement while proposing $73bn in cuts to domestic programmes like climate initiatives and refugee aid. The budget is separate from a previous $200bn emergency request for the US-Israeli war with Iran and is expected to face lengthy congressional negotiations."
+      },
+      {
+        "title": "Omani, French and Japanese vessels transit the Strait of Hormuz | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war",
+        "published": "2026-04-03T16:24:00Z",
+        "summary": "A French container ship, three Oman-linked tankers, and a Japanese-owned gas carrier have crossed the Strait of Hormuz, with the French vessel being the first Western ship known to do so since Iran effectively closed the strait. It was not immediately clear how the vessels secured safe passage; the French ship appeared to signal its owner's nationality before crossing. Only about 150 vessels have transited the strait since March 1, most linked to Iran, China, India, and Pakistan."
+      },
+      {
+        "title": "US unemployment rate drops despite economic uncertainty and Iran war | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war",
+        "published": "2026-04-03T17:35:23Z",
+        "summary": "The US unemployment rate fell to 4.3% in March as non-farm payrolls grew by 178,000 jobs, rebounding from a revised loss in February. The biggest gains were in healthcare (adding 76,000 jobs, partly due to a nursing strike ending) and construction (adding 26,000 jobs), while the federal government cut 18,000 positions. The White House praised the report as evidence of Trump's economic policies working, though experts caution the impact of the Iran war is not yet reflected in job numbers."
+      },
+      {
+        "title": "Cambodia parliament approves law to combat cybercrime scam rings | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/cambodia-parliament-approves-law-to-combat-cybercrime-scam-rings",
+        "published": "2026-04-03T17:40:45Z",
+        "summary": "Cambodia's National Assembly has approved its first law specifically targeting scam centres accused of defrauding foreigners of billions of dollars. The law sets prison sentences of 2-5 years and fines up to $125,000 for online scams, with higher penalties for gang activity or human trafficking, including up to 20 years in prison. Justice Minister Keut Rith said the law aims to enhance a 'cleaning operation' and send a message that Cambodia is not a place for scams."
+      },
+      {
+        "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says",
+        "published": "2026-04-03T18:32:43Z",
+        "summary": "A drone attack on Al Jabalain Hospital in Sudan's White Nile State killed at least 10 people, including seven medical staff, according to Doctors Without Borders (MSF). The attack, which MSF said was 'reportedly' carried out by the paramilitary Rapid Support Forces (RSF), hit an operating theatre and a maternity ward during a children's immunisation campaign. This is part of a series of attacks on healthcare in Sudan's ongoing war, with over 200 attacks on facilities reported since the conflict began."
+      },
+      {
+        "title": "At least one killed at UAE’s Habshan gas facility after intercepted attack | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack",
+        "published": "2026-04-03T19:08:52Z",
+        "summary": "Debris from an intercepted attack caused fires at the UAE's Habshan gas facility, killing one Egyptian national and injuring four others. The Abu Dhabi Media Office said the debris fell after a successful interception by air defence systems, causing 'significant damage' to the country's largest natural gas processing site. The incident occurred amid intense Iranian missile and drone attacks on the UAE, with officials reporting at least 18 ballistic missiles, 4 cruise missiles, and 47 drones fired from Iran over 24 hours."
+      },
+      {
+        "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who",
+        "published": "2026-04-03T19:16:56Z",
+        "summary": "The World Health Organization (WHO) has verified over 20 attacks on healthcare facilities in Iran since March 1, resulting in at least nine deaths. WHO chief Tedros Adhanom Ghebreyesus cited damage to the Pasteur Institute in Tehran, which was rendered unable to continue health services, and attacks on other facilities including a psychiatric hospital and a pharmaceutical plant. The attacks appear to be part of a widening of US-Israeli targets beyond military and political sites to include health, education, and transport infrastructure."
+      },
+      {
+        "title": "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/us-judge-upholds-decision-to-toss-subpoenas-into-fed-chair-jerome-powell",
+        "published": "2026-04-03T19:24:56Z",
+        "summary": "A US federal judge has again rejected subpoenas from the Trump administration seeking information about Federal Reserve Chair Jerome Powell, stating the government's arguments 'do not come close to convincing the Court' of their legitimacy. Judge James Boasberg previously nullified the subpoenas in March, ruling they were issued for an 'improper purpose' to pressure Powell into compliance with Trump's demands. The administration has focused on cost overruns in Fed building renovations as evidence of malfeasance, which Powell has called a 'pretext' to undermine the central bank's independence."
+      },
+      {
+        "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits",
+        "published": "2026-04-03T19:28:35Z",
+        "summary": "About two dozen Democrat-led states and the District of Columbia have filed a lawsuit to block a Trump executive order that sets new limits on mail-in ballots. The order requires the Department of Homeland Security to compile lists of eligible voters and the Postal Service to send ballots only to those on state-specific lists. The states argue the order violates the US Constitution by interfering with state authority over elections and could create chaos ahead of November's midterm elections."
+      }
+    ]
+  },
+  {
     "time": "2026-04-03T15:39:35Z",
     "window_hours": 6,
     "article_count": 7,
