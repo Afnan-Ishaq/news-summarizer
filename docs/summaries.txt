@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-04-03T06:12:19Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+The articles cover the economic and political fallout from the US-Israel war on Iran, focusing on energy market disruptions in Pakistan and China, and a separate political development in Myanmar. The first two articles detail how the conflict has impacted global LNG and oil supplies, while the third reports on the military leader's formal election as president.
+
+ARTICLE BREAKDOWN
+[1] How war on Iran turned Pakistan’s LNG surplus into a looming shortage | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-03T04:55:17Z
+URL: https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage
+Summary: Pakistan is facing a looming gas shortage crisis after starting the year with an LNG surplus. This shift occurred after the US-Israel war on Iran led to attacks on key gas facilities in Qatar and Iran, disrupting supplies through the Strait of Hormuz. As a result, Qatar halted LNG production and declared force majeure, severely impacting Pakistan, which relies heavily on imports from Qatar and the UAE with no emergency reserves.
+
+[2] How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-03T05:57:07Z
+URL: https://www.aljazeera.com/news/2026/4/3/how-chinas-teapot-refineries-are-cushioning-it-from-iran-war-oil-crisis
+Summary: China's small independent 'teapot' refineries are helping cushion the country from the oil crisis caused by the war on Iran and the paralysis of the Strait of Hormuz. These refineries had stockpiled oil from countries like Iran, Russia, and Venezuela, capitalizing on cheap oil due to sanctions. While China's oil supply is not entirely immune, its seaborne crude imports in March remained broadly in line with 2025 averages, though most arrivals were loaded before the conflict began.
+
+[3] Myanmar’s coup leader elected president by pro-military parliament | Politics News | Al Jazeera
+Published: 2026-04-03T06:05:30Z
+URL: https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament
+Summary: Myanmar's coup leader, Min Aung Hlaing, has been elected president by the country's pro-military parliament, formalizing his political power five years after ousting an elected government. He received at least 293 votes, passing the majority threshold, following a lopsided election won by an army-backed party. His ascent to the presidency, after a military leadership reshuffle, is seen as a strategic move to consolidate power under a nominally civilian government while a civil war continues to rage.
+
+================================================================================
 RUN TIME UTC: 2026-04-03T02:28:05Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
