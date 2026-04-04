@@ -1,5 +1,31 @@
 [
   {
+    "time": "2026-04-04T02:12:31Z",
+    "window_hours": 6,
+    "article_count": 3,
+    "overall_summary": "The articles cover a diverse set of topics from the last six hours. They include a major space mission milestone, a significant legal settlement related to a high-profile criminal case, and a sports preview for a key football match.",
+    "articles": [
+      {
+        "title": "NASA releases stunning first photos of Earth from Artemis II moon mission | Science and Technology News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission",
+        "published": "2026-04-03T20:34:59Z",
+        "summary": "NASA has released the first images taken from inside the Artemis II Orion spacecraft, showing views of Earth from deep space. The four-person crew, about 100,000 miles from Earth, is on a 10-day mission to fly around the moon and return without landing. The spacecraft is expected to reach the moon on Monday and splash down in the Pacific Ocean on April 11."
+      },
+      {
+        "title": "Lawyers search for Epstein survivors for Bank of America $72.5m settlement | Courts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement",
+        "published": "2026-04-03T22:54:46Z",
+        "summary": "Lawyers are working to notify victims of Jeffrey Epstein about a $72.5 million settlement with Bank of America, which is accused of facilitating his crimes. A judge has given preliminary approval to the settlement, which Bank of America agreed to while maintaining it did not participate in the sex trafficking. This is the third such settlement with a major bank, following similar deals with JPMorgan Chase and Deutsche Bank."
+      },
+      {
+        "title": "Atletico Madrid vs Barcelona: La Liga preview – teams, start time, lineups | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/4/atletico-madrid-vs-barcelona-la-liga-preview-teams-start-time-lineups",
+        "published": "2026-04-04T00:08:06Z",
+        "summary": "Barcelona faces Atletico Madrid in a key La Liga match on Saturday, with the added pressure of an injury to winger Raphinha. This places more responsibility on 18-year-old star Lamine Yamal, who has been in strong recent form. The match is the first of three upcoming games between the two clubs, which also includes a Champions League quarterfinal tie."
+      }
+    ]
+  },
+  {
     "time": "2026-04-03T20:38:12Z",
     "window_hours": 6,
     "article_count": 13,
