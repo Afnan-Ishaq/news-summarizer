@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-04-04T10:34:56Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+The articles report on separate incidents of conflict and natural disaster. They cover an earthquake in Afghanistan, executions in Iran, and ongoing military attacks in the Russia-Ukraine war.
+
+ARTICLE BREAKDOWN
+[1] Afghanistan earthquake kills eight members of same family | Earthquakes News | Al Jazeera
+Published: 2026-04-04T07:23:53Z
+URL: https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family
+Summary: An earthquake in Afghanistan killed eight members of the same family when their home collapsed in Kabul province, with a two-year-old boy being the only survivor. The 5.8-magnitude quake struck in Badakhshan province, with tremors felt in Kabul, New Delhi, and parts of Pakistan. Afghanistan is frequently hit by earthquakes, and impoverished, remote areas often struggle to respond to such disasters.
+
+[2] Iran executes two convicted members of banned opposition group | Death Penalty News | Al Jazeera
+Published: 2026-04-04T08:22:18Z
+URL: https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war
+Summary: Iran executed two men convicted of being members of the banned PMOI/MEK opposition group after the Supreme Court upheld their sentences for 'armed rebellion' and involvement in terrorist acts. This follows the execution of four other members of the group in late March. Rights groups have criticized the executions, with Amnesty International accusing authorities of torturing the men and raising fears of more planned executions.
+
+[3] At least four people killed in Russian attacks on Ukraine | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-04T10:20:36Z
+URL: https://www.aljazeera.com/news/2026/4/4/1997
+Summary: Russian air attacks on northeast Ukraine killed at least four people and injured 11 others, with strikes targeting Kharkiv city and other towns. In a separate incident, a Russian drone strike injured 11 people, including a child, in the Sumy region. Meanwhile, in Russia's Rostov region, at least one person was killed and four injured in drone and missile attacks, with a foreign-flagged cargo vessel also damaged by falling drone debris in the Sea of Azov.
+
+================================================================================
 RUN TIME UTC: 2026-04-04T05:57:26Z
 WINDOW: Last 6 hours
 ARTICLES USED: 1
