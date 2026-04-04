@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-04-04T20:33:52Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+The articles cover escalating tensions in the US-Israel war on Iran, including threats, diplomatic moves, and attacks on civilian infrastructure. They also report on related regional impacts and domestic US political developments.
+
+ARTICLE BREAKDOWN
+[1] What the Iran-Iraq war can tell us about the US-Israeli war on Iran | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-04T16:32:20Z
+URL: https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on
+Summary: This opinion piece draws parallels between the current US-Israeli war on Iran and the 1980-1988 Iran-Iraq war. The author, recalling personal experiences as a student during the Iraq invasion, describes how the US and Israel have bombed civilian sites while calling for Iranians to rise up. The article argues that expecting populations to overthrow their government to stop bombing is an illusion, as was the case during the Iran-Iraq war.
+
+[2] Trump says Iran has 48 hours to make deal as search for US pilot continues | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-04T16:35:27Z
+URL: https://www.aljazeera.com/news/2026/4/4/trump-says-iran-has-48-hours-to-make-deal-as-search-for-us-pilot-continues
+Summary: US President Donald Trump has threatened Iran, giving it 48 hours to 'make a deal or open up the Hormuz Strait.' The post did not reference the ongoing search for a US pilot whose jet was shot down over Iran. Trump's threat relates to a 10-day deadline announced on March 26, set to expire on Monday, while Iran has rejected a US peace plan and says it remains open to diplomacy.
+
+[3] Marco Rubio says he has stripped Qassem Soleimani’s niece of US residency | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-04T17:27:30Z
+URL: https://www.aljazeera.com/news/2026/4/4/top-diplomat-marco-rubio-strips-qassem-soleimanis-niece-of-us-residency
+Summary: The US has revoked the permanent residency of two women it says are related to the late Iranian commander Qassem Soleimani. The State Department accused Hamideh Soleimani Afshar of being an 'outspoken supporter' of Iran, while Iranian media quoted Soleimani's daughter denying any family connection. Secretary of State Marco Rubio took credit for the decision, which follows similar action against another relative of an Iranian official this month.
+
+[4] Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war | Energy News | Al Jazeera
+Published: 2026-04-04T17:39:55Z
+URL: https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war
+Summary: Italian Prime Minister Giorgia Meloni met Qatar's Emir in Doha to discuss the energy crisis caused by the US-Israeli war on Iran. Both sides stressed the need for de-escalation and political dialogue, with Italy offering to help rehabilitate Qatari energy infrastructure. Meloni is the first EU or NATO leader to visit the region since the war began, seeking to secure energy supplies as Iran's blocking of the Strait of Hormuz affects global markets.
+
+[5] Universities hit as US, Israel ramp up attacks on Iran’s infrastructure | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-04T19:17:24Z
+URL: https://www.aljazeera.com/news/2026/4/4/universities-hit-as-us-israel-ramp-up-attacks-on-irans-infrastructure
+Summary: US and Israeli strikes have hit at least 30 universities in Iran since the war began, including research centers at Shahid Beheshti University and Tehran's Science and Technology University. Iranian officials say these attacks target the country's scientific environment and academics, with no casualties reported because classes have moved online. The attacks follow President Trump's threat to bomb Iran 'back to the Stone Ages' by hitting infrastructure.
+
+[6] Trump files emergency motion to continue building White House ballroom | Donald Trump News | Al Jazeera
+Published: 2026-04-04T20:17:00Z
+URL: https://www.aljazeera.com/news/2026/4/4/trump-files-emergency-motion-to-continue-building-white-house-ballroom
+Summary: The Trump administration has filed an emergency motion to resume construction of a White House ballroom, arguing that pausing the work creates national security risks. The motion claims the court-ordered suspension leaves a 'massive excavation' site near the executive mansion. This follows a judge's ruling that halted the project, which has drawn criticism from preservationists, especially after the East Wing was demolished.
+
+[7] Indonesia receives bodies of peacekeepers killed in southern Lebanon | United Nations News | Al Jazeera
+Published: 2026-04-04T20:21:51Z
+URL: https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon
+Summary: Indonesia has received the bodies of three UN peacekeepers killed in southern Lebanon during Israel's invasion amid the wider US-Israel war on Iran. Foreign Minister Sugiono called for a thorough UN investigation, saying such incidents should not happen in a peacekeeping mission. The deaths occurred as the conflict spread to Lebanon after Hezbollah fired rockets at Israel following the assassination of Iran's Supreme Leader.
+
+================================================================================
 RUN TIME UTC: 2026-04-04T15:34:08Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
