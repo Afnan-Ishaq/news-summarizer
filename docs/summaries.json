@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-04-04T05:57:26Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "The articles cover escalating military actions and diplomatic tensions in the ongoing US-Israeli conflict with Iran. They report on specific battlefield incidents, casualties, and stalled ceasefire efforts. The batch also includes reports on regional impacts and a separate story about a political crisis in Pakistan.",
+    "articles": [
+      {
+        "title": "Iran war: What is happening on day 36 of US-Israeli attacks? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks",
+        "published": "2026-04-04T03:51:08Z",
+        "summary": "Iran claims it shot down two US warplanes, with one American crewmember missing and search operations underway. Iranian officials celebrated the action as a demonstration of their military capability despite US claims of damage to their defenses. The article notes a reported rejection of a US ceasefire proposal and rising casualties, with over 2,000 reported killed in Iran since the conflict began."
+      }
+    ]
+  },
+  {
     "time": "2026-04-04T02:12:31Z",
     "window_hours": 6,
     "article_count": 3,
