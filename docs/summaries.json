@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-04-05T20:35:44Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The articles cover escalating military threats and actions in the Middle East, including US threats against Iran and Israeli strikes in Lebanon. They also report on regional economic impacts, a historic space mission, wartime conditions in Gaza and Iran, and a statement from Hamas.",
+    "articles": [
+      {
+        "title": "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches",
+        "published": "2026-04-05T15:32:02Z",
+        "summary": "US President Donald Trump threatened in a social media post to attack Iranian civilian infrastructure like power plants and bridges if Iran does not reopen the Strait of Hormuz by his Monday deadline. He stated Iran is currently negotiating with the US and a deal could be reached. Iranian officials condemned the threats as potential war crimes and stated the strait would only reopen following reparations paid via a new transit fee system."
+      },
+      {
+        "title": "Earth in rear-view of Artemis II astronauts | Space News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts",
+        "published": "2026-04-05T15:46:10Z",
+        "summary": "NASA's Artemis II mission has passed the halfway point between Earth and the moon, with the crew sending back images of Earth from the Orion spacecraft. The astronauts are expected to swing around the far side of the moon early this week, potentially traveling farther from Earth than any humans in history. The mission is part of NASA's broader plan to establish a permanent lunar base for deeper space exploration."
+      },
+      {
+        "title": "At least 14 people killed in Israeli strikes across Lebanon | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon",
+        "published": "2026-04-05T16:15:14Z",
+        "summary": "Israeli strikes on southern Lebanon and Beirut's suburbs killed at least 14 people, with dozens more wounded. The Israeli military stated it was striking Hezbollah infrastructure sites. This follows an Israeli threat to hit the vital Masnaa border crossing with Syria, which led to its evacuation and temporary closure."
+      },
+      {
+        "title": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks | OPEC News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/5/opec-agrees-to-hike-oil-output-warns-of-slow-recovery-after-attacks",
+        "published": "2026-04-05T17:33:04Z",
+        "summary": "OPEC+ agreed to a largely symbolic increase in oil output quotas for May, as key members cannot raise production due to the war and the closure of the Strait of Hormuz. The group warned that restoring damaged energy infrastructure is costly and time-consuming. The statement signaled readiness to raise output once the strait reopens, as crude prices have surged near $120 a barrel."
+      },
+      {
+        "title": "‘Refuse to celebrate’: Christians in Gaza mark sombre Easter amid genocide | Israel-Palestine conflict | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/5/refuse-to-celebrate-christians-in-gaza-mark-sombre-easter-amid-genocide",
+        "published": "2026-04-05T18:01:54Z",
+        "summary": "Gaza's small Christian community marked a sombre Easter amid displacement and severe shortages caused by Israel's war, which the article describes as a genocide. Traditional celebrations were hampered by a lack of basic items like eggs and meat. Christians held quiet prayers and gatherings, with many having fled the territory where they have lived for over 2,000 years."
+      },
+      {
+        "title": "Frustration grows as Iran’s wartime internet shutdown breaks grim record | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/5/frustration-grows-as-irans-wartime-internet-shutdown-breaks-grim-record",
+        "published": "2026-04-05T18:29:52Z",
+        "summary": "Iran's state-imposed internet shutdown is now the longest nationwide blackout on record, with connectivity at about one percent of pre-war levels since the US-Israel war began. The shutdown, which follows an earlier blackout in January, has severely impacted jobs and businesses. A global monitor stated no other war has sent an entire country offline like this, and the government has not explained how the digital sector will cope."
+      },
+      {
+        "title": "Hamas armed wing says disarmament demands not acceptable | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable",
+        "published": "2026-04-05T20:09:24Z",
+        "summary": "Hamas's armed wing spokesperson, Abu Obeida, rejected calls for the group to disarm, stating that discussing disarmament before Israel fulfills the first phase of the US-brokered ceasefire amounts to continuing the genocide against Palestinians. He said raising the issue 'in a crude manner' is unacceptable. The issue is a major obstacle in talks to implement the US plan for Gaza."
+      }
+    ]
+  },
+  {
     "time": "2026-04-05T15:35:02Z",
     "window_hours": 6,
     "article_count": 9,
