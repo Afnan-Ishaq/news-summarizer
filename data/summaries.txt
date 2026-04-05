@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-04-05T02:34:54Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+This batch of articles covers a range of international news from the last six hours. The stories include a call for a royal meeting with Epstein survivors, a key football match result, tightened Israeli control at a holy site, a parade accident in the US, a satellite imagery blackout related to the Iran conflict, and Iran's announcement on shipping in the Strait of Hormuz.
+
+ARTICLE BREAKDOWN
+[1] Giuffre family urges UK’s King Charles to meet Epstein survivors in US | Sexual Assault News | Al Jazeera
+Published: 2026-04-04T21:03:40Z
+URL: https://www.aljazeera.com/news/2026/4/4/giuffre-family-urges-uks-king-charles-to-meet-epstein-survivors-in-us
+Summary: The family of Virginia Giuffre, a prominent survivor of Jeffrey Epstein, has called on King Charles to meet with Epstein survivors during his upcoming state visit to the United States. The visit coincides with the anniversary of Giuffre's death, and the family hopes such a meeting could lead to further action against Epstein's co-conspirators. The article notes Giuffre had accused Epstein of trafficking her to the King's brother, the former Prince Andrew.
+
+[2] Lewandowski claims late La Liga win for Barcelona at Atletico | Football News | Al Jazeera
+Published: 2026-04-04T21:28:12Z
+URL: https://www.aljazeera.com/sports/2026/4/4/lewandowski-claims-late-la-liga-win-for-barcelona-at-atletico
+Summary: Barcelona defeated Atletico Madrid 2-1 with a late goal from Robert Lewandowski, moving seven points clear at the top of La Liga. The win came after second-placed Real Madrid lost earlier the same day. Marcus Rashford scored Barcelona's equalizer after Giuliano Simeone's opener for Atletico, who played most of the match with ten men after a first-half red card.
+
+[3] Israeli measures tighten grip on Hebron’s Ibrahimi Mosque | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-04T22:37:40Z
+URL: https://www.aljazeera.com/news/2026/4/4/israel-measures-tighten-grip-hebron-ibrahimi-mosque
+Summary: The article reports on intensified Israeli control over Hebron's Ibrahimi Mosque, comparing the measures to those at Al-Aqsa Mosque. It details a history of restrictions since a 1994 massacre, including the division of the city and mosque between Palestinians and settlers. A local resident describes how access for his family has been severely restricted, with conditions worsening since the start of the war on Gaza in October 2023.
+
+[4] Car slams into Louisiana Lao New Year parade, injuring about 15 people | Health News | Al Jazeera
+Published: 2026-04-04T23:07:42Z
+URL: https://www.aljazeera.com/news/2026/4/4/car-slams-into-louisiana-lao-new-year-parade-injuring-about-15-people
+Summary: A car struck participants at a Lao New Year parade in New Iberia, Louisiana, injuring an estimated 15 people, some seriously. Authorities stated the incident does not appear to be intentional. The festival's musical events were cancelled, though vendors remained open, and organizers stated prayers for the victims.
+
+[5] US satellite firm Planet Labs announces blackout on war on Iran images | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-05T01:13:40Z
+URL: https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images
+Summary: Satellite imaging company Planet Labs says it will indefinitely withhold imagery of Iran and the conflict region in the Middle East after a request from the US government. The policy expands on previous delays and applies to imagery dating back to March 9. The company stated it will move to a managed distribution system, releasing images on a case-by-case basis for urgent needs or the public interest.
+
+[6] Iran says Iraqi ships can pass Strait of Hormuz as transits tick up | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-05T02:14:52Z
+URL: https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up
+Summary: Iran has announced that Iraqi ships are exempt from restrictions and free to pass through the Strait of Hormuz, praising Iraq's 'struggle' against the US. The announcement comes as maritime transits through the strait have increased slightly but remain down over 90% from normal levels since the war began. The collapse of shipping has impacted global energy markets and severely reduced Iraq's oil production and exports.
+
+================================================================================
 RUN TIME UTC: 2026-04-04T20:33:52Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
