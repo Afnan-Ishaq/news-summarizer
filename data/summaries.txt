@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-04-05T15:35:02Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+The articles cover a range of developments from the last 6 hours, primarily focused on the ongoing US-Israel war on Iran and its regional and global repercussions. Key themes include military actions, diplomatic efforts, economic impacts, and unrelated news on health and sports.
+
+ARTICLE BREAKDOWN
+[1] US pilot from downed F-15E plane rescued in Iran: What we know | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-05T10:10:50Z
+URL: https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know
+Summary: The second pilot from a US F-15E jet shot down in Iran has been rescued by US forces after 48 hours, following a firefight with Iranian forces. President Donald Trump confirmed the rescue, which analysts say was a significant test for the US military. The conflict, now in its 37th day, has resulted in over 2,000 reported deaths in Iran.
+
+[2] Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick | Football News | Al Jazeera
+Published: 2026-04-05T10:31:18Z
+URL: https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick
+Summary: Barcelona manager Hansi Flick stated that Lamine Yamal's visible anger at the end of a win over Atletico Madrid was due to his frustration over missed scoring opportunities, not any off-field incident. The 18-year-old forward hit the post and provided a key pass that wasn't converted. Yamal has recently been involved in speaking out against anti-Muslim chants in Spanish football.
+
+[3] Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-05T12:18:43Z
+URL: https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says
+Summary: Oman and Iran held deputy foreign minister-level talks to discuss ensuring smooth vessel transit through the Strait of Hormuz, which Iran has severely restricted. The Omani Foreign Ministry stated that experts presented proposals for study. This comes as three Omani ships were seen transiting the strait outside Iran's approved corridor, and after US President Trump threatened consequences if the waterway is not opened.
+
+[4] Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-05T12:44:11Z
+URL: https://www.aljazeera.com/news/2026/4/5/irans-former-fm-zarif-proposes-peace-roadmap-gulf-states-voice-exclusion
+Summary: Former Iranian Foreign Minister Mohammad Javad Zarif has published a roadmap proposing Iran place limits on its nuclear program under international monitoring and reopen the Strait of Hormuz in exchange for an end to all sanctions. The plan, published in Foreign Affairs magazine, suggests this could help end the ongoing US-Israeli war on Iran. Zarif called US demands for zero uranium enrichment 'fanciful' and also proposed a mutual nonaggression pact with the United States.
+
+[5] Nepal announces two-day weekends as fuel crisis caused by Iran war deepens | Energy News | Al Jazeera
+Published: 2026-04-05T14:48:51Z
+URL: https://www.aljazeera.com/news/2026/4/5/nepal-announces-two-day-weekends-as-fuel-crisis-caused-by-iran-war-deepens
+Summary: Nepal has reduced the government work week from six days to five, instituting a two-day weekend (Saturday and Sunday) to cope with a fuel crisis caused by the US-Israel war on Iran. The landlocked nation, which relies almost entirely on India for fuel, has seen price hikes and supply issues. The government is also exploring legal measures to convert petrol and diesel vehicles to electric power.
+
+[6] Suspected measles outbreak kills nearly 100 children in Bangladesh | Health News | Al Jazeera
+Published: 2026-04-05T14:52:19Z
+URL: https://www.aljazeera.com/news/2026/4/5/suspected-measles-outbreak-kills-nearly-100-children-in-bangladesh
+Summary: Bangladesh suspects a measles outbreak has killed at least 98 children in the past three weeks, with over 6,400 children showing suspected symptoms. A health official attributed the potential outbreak to multifactorial causes, including a vaccine shortage. The government has ramped up vaccination efforts in the worst-affected areas, though a previous vaccination drive was delayed due to political unrest.
+
+[7] Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-05T15:05:49Z
+URL: https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf
+Summary: Iran's Bushehr nuclear power plant has come under repeated attacks in the ongoing war, raising fears of a catastrophic nuclear incident that could affect the entire Gulf region. Iranian officials state the plant has been attacked four times since the war began, with the latest strike killing a security guard. Experts warn an attack could release hazardous radioactive material like Caesium-137, contaminating the environment for decades.
+
+[8] Iran’s World Cup participation depends on relocation from US, minister says | World Cup 2026 News | Al Jazeera
+Published: 2026-04-05T15:08:40Z
+URL: https://www.aljazeera.com/sports/2026/4/5/irans-world-cup-participation-depends-on-relocation-from-us-minister-says
+Summary: Iran's sports minister says the country's participation in the upcoming World Cup is uncertain unless FIFA relocates its matches from the United States to Mexico, citing security concerns amid the ongoing war. The Iranian Football Federation has requested the move but has not received a response from FIFA, which has previously stated matches will proceed as scheduled. Iranian officials have expressed concerns about team security in the US.
+
+[9] DR Congo to receive ‘third-country’ deportees from the US under new deal | Migration News | Al Jazeera
+Published: 2026-04-05T15:20:03Z
+URL: https://www.aljazeera.com/news/2026/4/5/dr-congo-to-receive-third-country-deportees-from-the-us-under-new-deal
+Summary: The Democratic Republic of the Congo (DRC) says it will begin receiving 'third-country' nationals deported from the United States this month under a temporary deal with the Trump administration. The US will pay for the deportations, and the DRC government will face no costs. Such third-country deportation agreements have drawn criticism from rights groups over due process and safety concerns.
+
+================================================================================
 RUN TIME UTC: 2026-04-05T10:35:29Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
