@@ -1,4 +1,18 @@
 ================================================================================
+RUN TIME UTC: 2026-04-05T06:14:22Z
+WINDOW: Last 6 hours
+ARTICLES USED: 1
+
+OVERALL SUMMARY
+The batch contains a single, detailed feature article focusing on the personal experience of becoming a sole carer for a parent with a serious illness in the UK. It highlights the sudden life shift and emotional strain involved.
+
+ARTICLE BREAKDOWN
+[1] ‘Nothing prepares you’: The invisible lives of carers in the UK | Health | Al Jazeera
+Published: 2026-04-05T06:08:05Z
+URL: https://www.aljazeera.com/features/2026/4/5/nothing-prepares-you-the-invisible-lives-of-carers-in-the-uk
+Summary: The article is a first-person narrative describing the moment the author learned her mother was diagnosed with myeloma, a rare blood cancer. It details the immediate aftermath, including the author's realization that she would become her mother's sole carer and her father's limited capacity to help. The text conveys the emotional weight, the practical challenges of chemotherapy, and the cultural stigma surrounding cancer within their South Asian community.
+
+================================================================================
 RUN TIME UTC: 2026-04-05T02:34:54Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
