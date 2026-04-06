@@ -1,5 +1,67 @@
 [
   {
+    "time": "2026-04-06T20:38:54Z",
+    "window_hours": 6,
+    "article_count": 9,
+    "overall_summary": "The articles cover a range of international conflicts and political developments. Key themes include ongoing violence in Gaza and Lebanon, escalating tensions between the US and Iran over the Strait of Hormuz, and domestic US political reactions. A separate report highlights a milestone in space exploration.",
+    "articles": [
+      {
+        "title": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics",
+        "published": "2026-04-06T15:58:34Z",
+        "summary": "A World Health Organization driver was killed and a WHO doctor was wounded when the Israeli army fired on their vehicle in eastern Khan Younis, according to medical sources and an Al Jazeera correspondent. The WHO stated the incident was under review and that it had put medical evacuations from Gaza via Rafah on hold as a result. The report says Israeli forces shot indiscriminately at people and vehicles along Salah al-Din Street."
+      },
+      {
+        "title": "Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/libyas-oil-disputes-mirror-hormuz-crisis-fuel-european-energy-fears",
+        "published": "2026-04-06T16:50:44Z",
+        "summary": "The article states that Libya's internal oil disputes are creating a second energy chokepoint for Europe, mirroring the crisis caused by Iran's closure of the Strait of Hormuz. Libya's oil sector is divided, with the internationally recognized government in Tripoli signing contracts but renegade commander Khalifa Haftar controlling the oil fields and terminals. Europe's reliance on Libyan oil is growing as it seeks alternatives to Gulf supplies disrupted by the Hormuz closure."
+      },
+      {
+        "title": "Trump warns Hormuz deadline ‘final’ as Iran pushes proposal to end war | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/trump-warns-deadline-final-as-iran-pushes-proposal-to-end-war",
+        "published": "2026-04-06T17:38:01Z",
+        "summary": "US President Donald Trump warned that an Iranian proposal to end the war is not enough to avert his threat to destroy Iranian infrastructure unless Tehran reopens the Strait of Hormuz by a Tuesday deadline. The article reports that Iran, via Pakistan, put forward a proposal for a permanent end to hostilities, which includes safe passage through the strait, but Trump called it insufficient. A White House official confirmed the proposal was under consideration but said the president had not signed off and military operations continue."
+      },
+      {
+        "title": "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive",
+        "published": "2026-04-06T17:51:26Z",
+        "summary": "Several Democratic members of Congress condemned President Donald Trump after he renewed threats to destroy Iran's civilian infrastructure in an expletive-laden social media post. Legislators questioned his mental stability, with one calling for his removal via the 25th Amendment, and legal experts said such attacks would constitute war crimes. The article notes the post coincided with Easter and invoked the name of Allah, which critics found especially jarring."
+      },
+      {
+        "title": "Artemis II breaks Apollo 13 record for farthest human travel from Earth | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/artemis-ii-breaks-record-for-the-furthest-human-travel-from-earth",
+        "published": "2026-04-06T18:11:02Z",
+        "summary": "NASA's Artemis II mission has broken the record for the farthest human travel from Earth, surpassing the distance set by Apollo 13 in 1970. The four astronauts on the Orion spacecraft are on a flyby around the far side of the moon and will reach a maximum distance of roughly 406,788 kilometers from Earth. The crew, which includes several historic firsts, will document lunar features before returning on a free-return trajectory."
+      },
+      {
+        "title": "North Korea keeping Iran at arm’s length, reports Seoul | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul",
+        "published": "2026-04-06T18:32:16Z",
+        "summary": "South Korea's National Intelligence Service believes North Korea is distancing itself from Iran in hopes of opening diplomatic dialogue with the United States. The spy agency reports no signs of North Korean weapons supplies to Iran since the war began and notes Pyongyang has issued only two toned-down statements on the conflict. The NIS also said it believes Supreme Leader Kim Jong Un is grooming his teenage daughter as his successor, based on recent public displays of her military aptitude."
+      },
+      {
+        "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel",
+        "published": "2026-04-06T20:22:06Z",
+        "summary": "Yemen's Houthi rebels say they launched an attack on Israel coordinated with Iran and Lebanon's Hezbollah, targeting several sites with cruise missiles and drones. The report comes as Israel continues strikes in Lebanon, targeting Hezbollah, with recent attacks killing paramedics and civilians. The WHO chief stated that 92 attacks on health facilities and personnel in the conflict have been verified."
+      },
+      {
+        "title": "US Supreme Court clears path for Steve Bannon criminal case dismissal | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal",
+        "published": "2026-04-06T20:22:24Z",
+        "summary": "The US Supreme Court cleared the way for the Justice Department to dismiss the criminal case against Steve Bannon, a key ally of President Donald Trump. Bannon was convicted in 2022 for contempt of Congress and served a four-month prison sentence. The Justice Department under Trump argued dismissal was 'in the interests of justice,' and a dismissal would remove the conviction from his record."
+      },
+      {
+        "title": "Israeli air strike kills at least 10 Palestinians near Gaza school | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school",
+        "published": "2026-04-06T20:34:47Z",
+        "summary": "An Israeli air strike killed at least 10 people and wounded others near a school housing displaced Palestinians in central Gaza's Maghazi refugee camp, according to health officials. The strike occurred during clashes between Palestinians and an Israeli-backed militia that had reportedly attacked the school. The camp had been designated a 'safe zone' by the Israeli military but has been repeatedly targeted."
+      }
+    ]
+  },
+  {
     "time": "2026-04-06T15:50:28Z",
     "window_hours": 6,
     "article_count": 12,
