@@ -1,5 +1,31 @@
 [
   {
+    "time": "2026-04-06T02:35:49Z",
+    "window_hours": 6,
+    "article_count": 3,
+    "overall_summary": "The articles cover international security developments and domestic economic impacts stemming from the ongoing US-Israeli war on Iran. They report on Ukraine's expanding military cooperation in the Middle East, protests and arrests at a UK airbase, and the severe economic fallout in Vietnam due to disrupted oil shipments.",
+    "articles": [
+      {
+        "title": "Ukraine and Syria to cooperate on security, Zelenskyy says | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience",
+        "published": "2026-04-05T20:48:27Z",
+        "summary": "Ukrainian President Volodymyr Zelenskyy announced greater security cooperation with Syria during a visit to Damascus, stating there is 'great interest in exchanging military and security experience.' Zelenskyy said the leaders agreed to work together to provide more security and development opportunities, and also discussed Ukraine as a reliable grain supplier to strengthen regional food security. The visit is part of Ukraine's broader effort to offer its military expertise, particularly in countering drones, to countries in the Middle East."
+      },
+      {
+        "title": "UK police arrest seven protesters near RAF base used by US | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/5/uk-police-arrest-seven-protesters-near-raf-base-used-by-us",
+        "published": "2026-04-05T21:05:44Z",
+        "summary": "British police arrested seven people at a protest near the RAF Lakenheath airbase, which is used by US forces, on suspicion of supporting the banned group Palestine Action. The protesters were part of a peace encampment objecting to the alleged use of the base for US aircraft involved in the war on Iran. Police stated they have a duty to enforce the law as it currently stands, referencing the government's ban on Palestine Action, which remains in effect despite a court ruling calling it 'disproportionate.'"
+      },
+      {
+        "title": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war",
+        "published": "2026-04-06T01:14:00Z",
+        "summary": "Gig economy workers in Vietnam, like e-hailing drivers, are facing severe financial strain as fuel prices have skyrocketed due to the war on Iran disrupting oil shipments through the Strait of Hormuz. Diesel prices have more than doubled, forcing many drivers to stop working as fuel costs consume a large portion of their earnings. The Vietnamese government has suspended an environmental tax on fuel until mid-April to help stabilize prices, but the economic strain is evident with overloaded public transport and reduced domestic flights."
+      }
+    ]
+  },
+  {
     "time": "2026-04-05T20:35:44Z",
     "window_hours": 6,
     "article_count": 7,
