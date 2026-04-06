@@ -1,4 +1,73 @@
 ================================================================================
+RUN TIME UTC: 2026-04-06T15:50:28Z
+WINDOW: Last 6 hours
+ARTICLES USED: 12
+
+OVERALL SUMMARY
+The articles cover escalating tensions in the US-Israel war on Iran, including ceasefire efforts and threats to critical infrastructure. They also report on Ukraine's strikes on Russian energy facilities, the humanitarian crisis in Gaza, and a preview of a Champions League football match.
+
+ARTICLE BREAKDOWN
+[1] Real Madrid vs Bayern Munich: Champions League – team news, start, lineups | Football News | Al Jazeera
+Published: 2026-04-06T11:11:24Z
+URL: https://www.aljazeera.com/sports/2026/4/6/real-madrid-vs-bayern-munich-champions-league-team-news-start
+Summary: The article previews the first leg of the Champions League quarterfinal between Real Madrid and Bayern Munich at the Santiago Bernabeu. It notes Bayern's confidence and the likely return of striker Harry Kane from injury, while describing Real Madrid's season as inconsistent despite their historic prestige in the competition.
+
+[2] Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T11:12:53Z
+URL: https://www.aljazeera.com/news/2026/4/6/trumps-bridge-day-threat-can-a-last-ditch-ceasefire-plan-work
+Summary: US President Donald Trump has threatened to destroy Iran's bridges and power plants if Tehran does not reopen the Strait of Hormuz by a new deadline. Mediators including Pakistan, Turkiye, and Egypt are reportedly proposing a 45-day ceasefire plan to create a window for broader negotiations, though Pakistan's foreign ministry has not confirmed the plan.
+
+[3] Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T11:25:17Z
+URL: https://www.aljazeera.com/news/2026/4/6/pakistan-offers-two-tier-truce-iran-wont-open-hormuz-under-temporary-one
+Summary: Pakistan has proposed a two-stage plan to end the war and reopen the Strait of Hormuz, according to a source. The proposal involves an immediate ceasefire followed by talks to finalize a broader settlement. However, a senior Iranian official stated Iran will not reopen the strait as part of a temporary ceasefire and is reviewing the proposal.
+
+[4] Iran threatens Bab al-Mandeb closure: How would that affect world trade? | Shipping News | Al Jazeera
+Published: 2026-04-06T11:49:04Z
+URL: https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade
+Summary: A top adviser to Iran's Supreme Leader has threatened that Iranian allies could shut the Bab al-Mandeb shipping route, following the effective closure of the Strait of Hormuz. The article explains that closing both chokepoints would block a quarter of the world's energy and a significant portion of Asia's exports to Europe, deepening the global supply crisis.
+
+[5] Has Trump confirmed Iran’s claim that protesters were US-armed? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T11:52:57Z
+URL: https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed
+Summary: US President Donald Trump stated in an interview that Washington had armed Iranian opposition groups, specifically Kurds, during mass anti-government protests in December and January. The article notes this could lend credence to Iran's claims that the protests were foreign-backed, but cautions that Trump's frequently shifting statements make the extent of US involvement unclear.
+
+[6] How US operation to rescue air officer from Iran unfolded | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T12:42:57Z
+URL: https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded
+Summary: President Trump announced the US military rescued a missing Air Force officer whose F-15 jet was shot down over Iran. The article describes a two-raid rescue mission involving a firefight in Iranian territory, with the officer evading capture for two days before being recovered. Iran had called on the public to hand over the airman.
+
+[7] ‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-06T12:58:57Z
+URL: https://www.aljazeera.com/features/2026/4/6/smell-of-war-comes-to-st-petersburg-as-ukraine-hammers-russian-refineries
+Summary: A resident of St Petersburg describes smelling burning crude and chemicals from Ukrainian drone attacks on major Russian oil terminals at Ust-Luga and Primorsk. The strikes are part of a Ukrainian campaign to reduce Russia's oil export revenue, which has already cost Moscow an estimated $1bn and disrupted shipments from the Baltic ports.
+
+[8] Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage | Gaza | Al Jazeera
+Published: 2026-04-06T13:01:02Z
+URL: https://www.aljazeera.com/economy/2026/4/6/jobless-young-palestinians-trapped-as-israel-holds-gazas-economy-hostage
+Summary: The article highlights the extreme unemployment and economic collapse in Gaza, where 80% are jobless and GDP has plunged 87%. It profiles young graduates whose lives and education have been destroyed, trapped in a besieged enclave with systematically destroyed infrastructure, describing a generational catastrophe.
+
+[9] The US could still try to play the ethnic card in Iran | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-06T13:01:52Z
+URL: https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran
+Summary: This opinion piece examines the possibility of the US encouraging ethnic insurgencies within Iran, noting Trump's acknowledgment of arming Kurdish groups. It outlines historical grievances among minorities in Iran but argues that such a strategy is likely doomed to fail due to past experience and geopolitical realities.
+
+[10] In maps and photos: Five Iranian civilian bridges at risk of US strikes | Conflict | Al Jazeera
+Published: 2026-04-06T14:04:59Z
+URL: https://www.aljazeera.com/economy/2026/4/6/in-maps-and-photos-five-iranian-civilian-bridges-at-risk-of-us-strikes
+Summary: The article details five major Iranian bridges that could be targeted under President Trump's 'Bridge Day' ultimatum. It describes their economic and strategic importance, noting that one bridge was already damaged in a recent strike, and warns that attacking such civilian infrastructure could constitute a war crime.
+
+[11] Ukraine strikes Russian Black Sea energy hub Novorossiysk | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-06T14:14:32Z
+URL: https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk
+Summary: Ukraine reports striking a Russian warship and a drilling rig at the Novorossiysk oil port on the Black Sea. The attack damaged infrastructure at the Caspian Pipeline Consortium terminal, which handles oil from Kazakhstan. Ukraine is intensifying attacks on Russian energy infrastructure to disrupt export revenues funding the war.
+
+[12] Where are Iran’s power plants that Trump has threatened to destroy? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T14:50:22Z
+URL: https://www.aljazeera.com/news/2026/4/6/where-are-irans-power-plants-that-trump-has-threatened-to-destroy
+Summary: The article maps Iran's power plants, which are concentrated near major population centers and along the Gulf coast, following President Trump's threats to destroy them if Iran does not reopen the Strait of Hormuz. It notes these include gas, hydro, and the Bushehr nuclear power plant, and that targeting such civilian sites may violate laws of war.
+
+================================================================================
 RUN TIME UTC: 2026-04-06T10:58:33Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
