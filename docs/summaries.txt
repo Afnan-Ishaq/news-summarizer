@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-06T10:58:33Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+The articles cover escalating conflict in the Middle East, focusing on US-Israeli attacks on Iran and Israel's invasion of Lebanon, alongside regional political and humanitarian fallout. Other stories include Indian election campaigning, a major NASA space mission, and a sports celebration.
+
+ARTICLE BREAKDOWN
+[1] ‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters | Elections News | Al Jazeera
+Published: 2026-04-06T07:57:38Z
+URL: https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters
+Summary: The article reports on the BJP's campaign strategy in Assam ahead of state assembly elections, combining Hindu nationalist (Hindutva) policies with welfare schemes aimed at women. It cites voter testimonials about benefiting from direct cash transfers and describes the party's historical labeling of Bengali-speaking Muslims as 'foreigners'. The piece notes accusations that Chief Minister Himanta Biswa Sarma has pursued a hardline Hindu supremacist and anti-Muslim agenda.
+
+[2] Iran war: What is happening on day 38 of US-Israeli attacks? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T08:01:40Z
+URL: https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks
+Summary: The article details escalating tensions as a deadline set by US President Donald Trump for Iran to reopen the Strait of Hormuz approaches. It reports on US-Israeli attacks causing casualties and damage in Iran, including the deaths of children, and interceptions of drones by Gulf countries and Israel. Trump is quoted threatening to attack Iranian civilian infrastructure if the strait is not reopened.
+
+[3] Iran’s top university bombed as US, Israel intensify attacks; 34 killed | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T08:31:35Z
+URL: https://www.aljazeera.com/news/2026/4/6/irans-top-university-bombed-as-us-israel-intensify-attacks-34-killed
+Summary: The article states that at least 34 people, including six children, were killed in widespread US-Israeli attacks across Iran. It reports significant damage to Sharif University in Tehran and that Iranian authorities say at least 30 universities have been hit since the war began. The piece also notes the confirmed killing of a senior Iranian Revolutionary Guard Corps intelligence official during the attacks.
+
+[4] A visual guide to Artemis II and previous missions to the moon | Space News | Al Jazeera
+Published: 2026-04-06T09:04:30Z
+URL: https://www.aljazeera.com/news/2026/4/6/a-visual-guide-to-artemis-ii-and-previous-missions-to-the-moon
+Summary: The article is a guide to NASA's Artemis II mission, which is set to break the record for the farthest distance humans have traveled from Earth. It describes the mission's planned lunar flyby, its crew of four astronauts, and its objectives to test spacecraft systems for future deep-space missions. The piece notes Artemis II is part of NASA's broader programme to return humans to the moon and eventually enable missions to Mars.
+
+[5] Trump says US armed Iranian dissidents via Kurds, Kurdish groups deny claim | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T09:10:17Z
+URL: https://www.aljazeera.com/news/2026/4/6/trump-says-us-armed-iranian-dissidents-via-kurds-kurdish-groups-denying-claim
+Summary: The article reports that President Donald Trump claimed the US tried to covertly arm Iranian protesters through Kurdish intermediaries before the current war. Several Iranian Kurdish opposition groups denied receiving any weapons. The piece notes Trump's claim gives credence to Iranian assertions that the January protests were backed by foreign actors, and it mentions conflicting death toll figures from those protests.
+
+[6] Yemen’s civilians fear fallout after Houthis enter Iran war | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T09:10:31Z
+URL: https://www.aljazeera.com/news/2026/4/6/yemens-civilians-fear-fallout-after-houthis-enter-iran-war
+Summary: The article reports on fears among civilians in Sanaa, Yemen, after Houthi rebels involved themselves in the US-Israeli war on Iran. Residents worry about potential Israeli air strikes, price hikes, and fuel shortages exacerbating the country's humanitarian crisis. It quotes individuals concerned about a return to the 'horror' of past strikes and the unpredictable consequences of the conflict.
+
+[7] Families fleeing Israeli attacks take refuge in Lebanon’s mountains | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-06T09:21:57Z
+URL: https://www.aljazeera.com/news/2026/4/6/families-fleeing-israeli-attacks-take-refuge-in-lebanon-mountains
+Summary: The article describes the displacement of over one million people in Lebanon due to Israeli attacks, focusing on families taking refuge in a converted school in the mountains. It quotes displaced individuals about their difficult journeys and uncertain futures. The piece notes the escalation followed Hezbollah's response to the killing of Iran's Supreme Leader in a US-Israeli attack.
+
+[8] Up to 1.2 million people forced to flee as Israel pummels Lebanon | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-06T09:45:16Z
+URL: https://www.aljazeera.com/gallery/2026/4/6/israeli-airstrikes-devastate-lebanese-villages-and-displace-millions
+Summary: The article reports Israeli air raids on Lebanon have killed more than 1,450 people and displaced up to 1.2 million since March 2. It details specific attacks killing civilians, including children, and describes the overwhelming of shelter capacity leading to repeated trauma for many displaced. The piece notes Lebanese President Joseph Aoun's calls for negotiation to prevent further destruction.
+
+[9] World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney | World Cup 2026 News | Al Jazeera
+Published: 2026-04-06T09:53:26Z
+URL: https://www.aljazeera.com/sports/2026/4/6/world-cup-qualification-earns-iraq-coach-arnold-a-heros-welcome-in-sydney
+Summary: The article describes Iraqi football fans in Sydney giving a rapturous welcome to coach Graham Arnold after he guided Iraq to its first FIFA World Cup in 40 years. It notes the celebratory scenes at the airport and quotes Arnold expressing pride in making Iraqis happy. The piece mentions the team overcame logistical challenges due to regional conflict to qualify.
+
+[10] Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-06T10:45:58Z
+URL: https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut
+Summary: The article reports on renewed Israeli strikes on southern Lebanon and areas around Beirut, deepening a humanitarian crisis. It states attacks have targeted bridges and transport routes, which an aid official says is systematically isolating populations and cutting off humanitarian access. The piece also notes Hezbollah claimed rocket barrages on northern Israel in response.
+
+================================================================================
 RUN TIME UTC: 2026-04-06T06:54:31Z
 WINDOW: Last 6 hours
 ARTICLES USED: 3
