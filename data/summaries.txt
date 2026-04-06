@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-04-06T06:54:31Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+The batch includes an opinion piece on regional security in the Strait of Hormuz and two sports articles covering NBA and Premier League news. The articles are unrelated, covering distinct geopolitical and athletic developments.
+
+ARTICLE BREAKDOWN
+[1] A new regional order for the Strait of Hormuz | GCC | Al Jazeera
+Published: 2026-04-06T05:40:17Z
+URL: https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz
+Summary: The opinion piece argues that the Gulf Cooperation Council (GCC) and Iran have a collective opportunity to establish a new, locally managed security architecture for the Strait of Hormuz. It suggests this could provide the US with a political exit strategy from the ongoing conflict and prevent a unilateral order imposed by Tehran. The article states the current conflict has shattered the regional status quo and that GCC states are caught between confronting the US or being seen as participants in aggression against Iran.
+
+[2] Steph Curry returns from injury with 29 points but Warriors lose to Rockets | Basketball News | Al Jazeera
+Published: 2026-04-06T06:09:38Z
+URL: https://www.aljazeera.com/sports/2026/4/6/steph-curry-returns-from-injury-with-29-points-but-warriors-lose-to-rockets
+Summary: Stephen Curry returned from a nine-week injury absence to score 29 points, but the Golden State Warriors lost 117-116 to the Houston Rockets. The Rockets' Alperen Sengun scored the go-ahead basket with 11.1 seconds left, and Kevin Durant led all scorers with 31 points for Houston. The Warriors have virtually assured themselves of the 10th seed in the Western Conference play-in tournament.
+
+[3] Man City captain Silva to leave Premier League club at season’s end | Football News | Al Jazeera
+Published: 2026-04-06T06:34:00Z
+URL: https://www.aljazeera.com/sports/2026/4/6/man-city-captain-silva-to-leave-premier-league-club-at-seasons-end
+Summary: Manchester City assistant manager Pep Lijnders confirmed that club captain Bernardo Silva will leave at the end of the season when his contract expires. The 31-year-old Portuguese midfielder has won six Premier League titles and the Champions League during his nine years at the club. Silva will depart as a free agent, becoming the second major player to leave a top-four Premier League club this season after Liverpool's Mohamed Salah.
+
+================================================================================
 RUN TIME UTC: 2026-04-06T02:35:49Z
 WINDOW: Last 6 hours
 ARTICLES USED: 3
