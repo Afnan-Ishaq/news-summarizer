@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-04-07T10:57:32Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+The articles cover escalating military tensions in the US-Israel war on Iran, including threats to civilian infrastructure and retaliatory strikes. They also report on regional impacts, such as Pakistan's solar energy resilience, internal debates within Yemen's Houthis, and separate news on sports, a shooting in Turkiye, and conflicts in Ukraine and Gaza.
+
+ARTICLE BREAKDOWN
+[1] Israel threatens Iran’s trains, railways before Trump’s deadline expires | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T07:39:56Z
+URL: https://www.aljazeera.com/news/2026/4/7/israel-warns-iranians-to-avoid-trains-as-trump-deadline-approaches
+Summary: The Israeli military has warned people in Iran to avoid trains and railway lines, indicating potential strikes on civilian infrastructure before a US deadline. US President Donald Trump threatened to bomb Iran's bridges and power plants if the Strait of Hormuz is not reopened. Iran has threatened devastating retaliation, and a bridge linking Saudi Arabia and Bahrain was briefly closed over security fears.
+
+[2] Iran war: What is happening on day 39 of US-Israeli attacks? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T07:52:22Z
+URL: https://www.aljazeera.com/news/2026/4/7/iran-war-what-is-happening-on-day-39-of-us-israeli-attacks
+Summary: US President Trump has threatened the 'complete demolition' of Iran's key infrastructure if the Strait of Hormuz is not reopened, while Iran dismisses the threats as 'delusional'. US-Israeli attacks have intensified, targeting airports, petrochemical complexes, and killing an Iranian intelligence chief. Iran has rejected a ceasefire proposal and put forward its own demands, including sanctions relief.
+
+[3] How Pakistan’s solar boom is shielding it from worst of Iran war crisis | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T07:52:47Z
+URL: https://www.aljazeera.com/features/2026/4/7/how-pakistans-solar-boom-is-shielding-it-from-worst-of-iran-war-crisis
+Summary: Pakistan's growing adoption of solar panels is helping insulate households and farmers from global energy price shocks caused by the war on Iran and the closure of the Strait of Hormuz. A farmer's story illustrates how solar power has replaced costly diesel for irrigation. However, Pakistan remains vulnerable due to heavy reliance on oil and gas imports through the strait.
+
+[4] What is driving the Houthis’ decision-making on joining the Iran war | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-07T08:07:05Z
+URL: https://www.aljazeera.com/opinions/2026/4/7/what-is-driving-the-houthis-decision-making-on-joining-the-iran-war
+Summary: Internal debates within Yemen's Houthis have led to a cautious approach to joining the US-Israel war on Iran. One faction favors avoiding open confrontation to preserve gains and understandings with Saudi Arabia, while another believes the group must engage to secure its place in the regional 'axis of resistance'. This has resulted in limited, calculated operations rather than full-scale involvement.
+
+[5] Synagogue in Tehran ‘completely destroyed’ in US-Israeli attack | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T08:43:56Z
+URL: https://www.aljazeera.com/news/2026/4/7/synagogue-in-tehran-destroyed-in-us-israeli-strikes-on-iran
+Summary: A synagogue in Tehran was completely destroyed in a US-Israeli strike that hit an adjacent residential building, according to Iranian media. A Jewish representative in Iran's parliament condemned the attack, which occurred during Jewish holidays. The strikes were part of overnight attacks that killed at least 15 people across Iran.
+
+[6] Iran releases on bail Japan national jailed amid antigovernment protests | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T08:44:05Z
+URL: https://www.aljazeera.com/news/2026/4/7/japanese-detained-in-iran-believed-to-be-journalist-released-on-bail
+Summary: Iran has released a Japanese citizen on bail months after their detention during antigovernment protests. The individual is believed to be NHK's Tehran bureau chief and faces security-related charges, with a trial expected. Japan confirmed the release but noted the person is not allowed to leave Iran.
+
+[7] Los Angeles Stadium workers urge FIFA to bar ICE from World Cup | World Cup 2026 News | Al Jazeera
+Published: 2026-04-07T09:17:20Z
+URL: https://www.aljazeera.com/sports/2026/4/7/los-angeles-stadium-workers-urge-fifa-to-bar-ice-from-world-cup
+Summary: A union representing food service workers at the Los Angeles Stadium has asked FIFA to keep US Immigration and Customs Enforcement away from World Cup operations. The union warns of potential strikes and demands job protections, affordable housing support, and assurances that automation won't eliminate union jobs during the tournament.
+
+[8] USA striker Patrick Agyemang’s World Cup in doubt after stretcher exit | World Cup 2026 News | Al Jazeera
+Published: 2026-04-07T09:28:56Z
+URL: https://www.aljazeera.com/sports/2026/4/7/usa-striker-patrick-agyemangs-world-cup-in-doubt-after-stretcher-exit
+Summary: USA striker Patrick Agyemang's World Cup participation is in doubt after he was stretchered off with a leg injury during a club match. His manager stated the injury 'is not good' and that Agyemang has gone for a scan. The forward has been a key scorer for his club and recently featured for the national team.
+
+[9] Three killed in shooting near Israeli consulate in Turkiye’s Istanbul | News | Al Jazeera
+Published: 2026-04-07T10:07:56Z
+URL: https://www.aljazeera.com/news/2026/4/7/three-people-killed-in-gun-clash-near-israeli-consulate-in-istanbul
+Summary: Three people were killed and two police officers injured in a shooting near the building housing the Israeli consulate in Istanbul. Turkish police eliminated the attackers, whose motives and identities are unknown. No Israeli diplomats are currently serving at the consulate, which is staffed by local employees.
+
+[10] Taiwan’s gender row boxer Lin takes bronze medal at Asian championships | Boxing News | Al Jazeera
+Published: 2026-04-07T10:11:56Z
+URL: https://www.aljazeera.com/sports/2026/4/7/taiwans-gender-row-boxer-lin-takes-bronze-medal-at-asian-championships
+Summary: Taiwanese boxer Lin Yu-ting won a bronze medal at the Asian championships in her first competition since a gender-eligibility controversy at the 2024 Olympics. She was cleared to compete by World Boxing after an appeal. The International Olympic Committee has since adopted a policy limiting women's events to biological females.
+
+[11] Ukraine, Russia kill three civilians each in tit-for-tat drone attacks | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-07T10:12:04Z
+URL: https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks
+Summary: Drone attacks killed three civilians in Russia's Vladimir region and three in Ukraine's Dnipropetrovsk region. A Ukrainian drone hit a residential building in Russia, while a Russian drone struck a city bus in Ukraine. The attacks occurred after Ukraine's president reiterated a conditional ceasefire offer for Easter, which he said Russia appears unwilling to accept.
+
+[12] How US, Israel are waging a war on Iranian culture, education | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T10:43:52Z
+URL: https://www.aljazeera.com/news/2026/4/7/how-us-israel-are-waging-a-war-on-iranian-culture-education
+Summary: US-Israeli attacks in Iran have damaged numerous cultural heritage sites, universities, and libraries, which Iranian officials describe as an attack on Iranian identity. The war began with a strike on a girls' school, and at least 30 universities have been hit. Iran's science minister stated that scientists have been long-term targets.
+
+[13] ‘Dying of thirst’: Inside Gaza’s al-Mawasi water crisis | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-07T10:53:56Z
+URL: https://www.aljazeera.com/news/2026/4/7/dying-of-thirst-inside-gazas-al-mawasi-water-crisis
+Summary: Residents in Gaza's al-Mawasi camp face severe water shortages, spending hours waiting at filling stations for clean water. The crisis worsened after a key water provider stopped operations due to funding issues. Displaced Palestinians fear the situation will become catastrophic with the arrival of summer heat and have held protests demanding intervention.
+
+[14] Palestine weekly wrap: Protests sweep West Bank after death penalty law | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-07T10:54:39Z
+URL: https://www.aljazeera.com/news/2026/4/7/palestine-weekly-wrap-protests-sweep-west-bank-after-death-penalty-law
+Summary: A new Israeli law allowing the death penalty for Palestinians convicted of 'terrorism' sparked a general strike and protests across the West Bank and East Jerusalem. Several countries and the UN condemned the law as discriminatory and a potential war crime. Tensions are heightened amid ongoing restrictions on access to holy sites in Jerusalem.
+
+[15] Vinicius hails Lamine Yamal for condemning anti-Muslim fan chants | Football News | Al Jazeera
+Published: 2026-04-07T10:55:54Z
+URL: https://www.aljazeera.com/sports/2026/4/7/vinicius-hails-lamine-yamal-for-condemning-anti-muslim-fan-chants
+Summary: Real Madrid's Vinicius Junior praised Barcelona's Lamine Yamal for condemning anti-Muslim chants by fans during a Spain match. Vinicius, who has faced racist abuse, emphasized the need for players to unite against discrimination. Yamal, who is Muslim, called the chants disrespectful and intolerable.
+
+================================================================================
 RUN TIME UTC: 2026-04-07T06:19:11Z
 WINDOW: Last 6 hours
 ARTICLES USED: 1
