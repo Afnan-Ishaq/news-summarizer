@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-04-07T02:30:54Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+This batch of articles covers international developments including a Russian corruption case linked to Ukraine's incursion, US proposals for the Strait of Hormuz amid conflict with Iran, US political support for Hungary's leader ahead of elections, and escalating Israeli attacks deepening divisions in Lebanon.
+
+ARTICLE BREAKDOWN
+[1] Russia jails former Kursk governor in Ukraine incursion-linked graft probe | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-06T20:41:49Z
+URL: https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe
+Summary: A Russian court has sentenced former Kursk governor Alexei Smirnov to 14 years in a penal colony for corruption. He was found guilty of taking bribes from construction firms contracted to build defensive fortifications along the Ukraine border, which were reportedly substandard. The case is linked to Ukraine's 2024 incursion into the Kursk region, which encountered little resistance due to these weak defenses.
+
+[2] Trump says US could charge for Strait of Hormuz passage amid Iran war | News | Al Jazeera
+Published: 2026-04-06T21:26:20Z
+URL: https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war
+Summary: US President Donald Trump has suggested the United States may charge tolls for passage through the Strait of Hormuz after the war with Iran, stating 'We're the winner. We won.' He issued what he called a 'final' ultimatum for Iran to reopen the strategic waterway and agree to Washington's terms. The article notes that Iran has reportedly been charging tolls for some ships and that its officials have called for 'new arrangements' to manage the strait after the conflict.
+
+[3] Vance heads to Budapest to shore up Orban’s support before Sunday vote | Politics News | Al Jazeera
+Published: 2026-04-07T01:18:59Z
+URL: https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote
+Summary: US Vice President JD Vance is traveling to Budapest to bolster support for Hungarian Prime Minister Viktor Orban ahead of parliamentary elections. The trip highlights the alignment between the US and Hungarian far-right, following President Trump's earlier endorsement of Orban. Most polls show Orban's Fidesz party trailing the opposition Tisza Party led by Peter Magyar, who campaigns on issues including corruption and Hungary's relationship with the EU.
+
+[4] ‘They want to create a rift’: Israeli attacks deepen Lebanon fissures | Israel attacks Lebanon | Al Jazeera
+Published: 2026-04-07T02:03:34Z
+URL: https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures
+Summary: Escalating Israeli bombardment and ground invasion are deepening divisions within Lebanese society. The attacks have killed approximately 1,500 people and displaced over 1.2 million, with recent victims including Christians in addition to the predominantly Shia Muslim casualties. Analysts suggest Israel aims to create rifts between Lebanese communities, particularly to isolate the Shia community, as society splits between those blaming Israel and those blaming Hezbollah for the conflict.
+
+================================================================================
 RUN TIME UTC: 2026-04-06T20:38:54Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
