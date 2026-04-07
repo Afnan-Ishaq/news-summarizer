@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-04-07T20:50:52Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+The articles cover escalating tensions between the US and Iran, with a looming deadline for Iran to reopen the Strait of Hormuz. Other major stories include Russia confirming foreign fighters' deaths in Ukraine, the WHO suspending Gaza medical evacuations, and various diplomatic developments. Additional reports cover migration, sports, and cultural incidents.
+
+ARTICLE BREAKDOWN
+[1] Russia confirms 16 Cameroonian soldiers killed in Ukraine war | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-07T16:40:17Z
+URL: https://www.aljazeera.com/news/2026/4/7/russia-confirms-16-cameroonian-soldiers-killed-in-ukraine-war
+Summary: Russia has confirmed that 16 Cameroonian soldiers were killed while fighting in its war against Ukraine. Cameroon's Foreign Ministry called on families of the deceased to contact officials, marking the first time Cameroon has discussed its nationals' involvement. The statement did not specify how the soldiers ended up fighting for Russia or provide details on the circumstances of their deaths.
+
+[2] US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T17:02:23Z
+URL: https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms
+Summary: The White House has denied having plans to use nuclear weapons against Iran as a deadline set by President Donald Trump approaches. Trump warned that a 'whole civilisation will die tonight' if Iran does not capitulate to his demands to open the Strait of Hormuz. The Iranian Revolutionary Guards Corps responded defiantly, warning it would retaliate against US infrastructure if attacked.
+
+[3] Top university says US-Israel attack targeted Iran’s progress, AI learning | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T17:03:21Z
+URL: https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning
+Summary: The head of Iran's Sharif University of Technology says a US-Israeli attack that damaged the university targeted symbols of Iran's progress, specifically its artificial intelligence research. The university president stated the attack destroyed an AI center housing critical databases and that the research was developed domestically due to sanctions. More than 30 universities have been affected by such attacks since the war began.
+
+[4] WHO suspends Gaza medical evacuations after Israeli fire kills driver | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-07T17:19:53Z
+URL: https://www.aljazeera.com/news/2026/4/7/who-halts-gaza-medical-evacuations-after-worker-killed
+Summary: The World Health Organization has suspended medical evacuations from Gaza to Egypt after a contract worker was killed by Israeli fire. WHO Director General Tedros Adhanom Ghebreyesus said the incident is under investigation and evacuations will remain suspended until further notice. Israel's mission stated troops fired at an unmarked vehicle they perceived as an immediate threat, and the incident is under review.
+
+[5] Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T17:32:05Z
+URL: https://www.aljazeera.com/news/2026/4/7/why-jd-vance-joined-pakistans-last-ditch-us-iran-mediation-efforts
+Summary: US Vice President JD Vance has quietly emerged as a central actor in last-ditch mediation efforts facilitated by Pakistan to de-escalate US-Iran tensions. President Trump confirmed Vance and Secretary of State Marco Rubio are lead negotiators as a deadline for Iran to reopen the Strait of Hormuz approaches. Sources say Pakistan's army chief spoke with Vance as part of backchannel talks aiming for a two-stage halt to the war.
+
+[6] UK blocks rapper Kanye West from entry over anti-Semitism and Nazi support | Music News | Al Jazeera
+Published: 2026-04-07T18:13:05Z
+URL: https://www.aljazeera.com/news/2026/4/7/uk-blocks-rapper-kanye-west-from-entry-over-anti-semitism-and-nazi-support
+Summary: The United Kingdom has blocked US rapper Kanye West from entering the country, citing his anti-Semitic comments and celebrations of Nazism. The Home Office refused his travel application on grounds his presence would not be conducive to the public good. The Wireless Festival in London, where West was booked to headline, has been canceled, with organizers issuing refunds to ticket holders.
+
+[7] Afghanistan brands China peace talks with Pakistan ‘useful’ | News | Al Jazeera
+Published: 2026-04-07T18:21:24Z
+URL: https://www.aljazeera.com/news/2026/4/7/afghanistan-brands-china-peace-talks-with-pakistan-useful
+Summary: Afghanistan has described peace talks with Pakistan being held in China as 'useful'. The talks aim to halt cross-border fighting that began in February, which has displaced thousands and alarmed the international community. Afghanistan's acting foreign minister thanked China for hosting the talks and expressed hope that minor interpretations would not hinder progress.
+
+[8] Iraqi armed group releases abducted US journalist Shelly Kittleson | Freedom of the Press News | Al Jazeera
+Published: 2026-04-07T18:53:05Z
+URL: https://www.aljazeera.com/news/2026/4/7/iraqi-armed-group-releases-abducted-us-journalist-shelly-kittleson
+Summary: The Iraqi armed group Kataib Hezbollah has announced it will release abducted US journalist Shelly Kittleson on condition she leaves Iraq immediately. The group said its decision came in response to 'national stances' of Iraq's outgoing prime minister. An anonymous Iraqi official and members of the militia confirmed her release, which reportedly involved an exchange for imprisoned Kataib Hezbollah members.
+
+[9] French nationals return home following Iran prison release | News | Al Jazeera
+Published: 2026-04-07T19:07:11Z
+URL: https://www.aljazeera.com/news/2026/4/7/french-nationals-return-home-following-iran-prison-release
+Summary: Two French nationals detained in Iran for over three years are returning to France following negotiations led by Oman. French President Emmanuel Macron announced their release, which comes amid an apparent thaw in relations as France criticizes the US-Israel war on Iran. Iran's official news agency reported the release followed an understanding that France would release an Iranian student and withdraw a complaint at the International Court of Justice.
+
+[10] Trump to pursue stability with China’s Xi in May meeting, USTR Greer says | Donald Trump News | Al Jazeera
+Published: 2026-04-07T19:41:06Z
+URL: https://www.aljazeera.com/economy/2026/4/7/trump-to-pursue-stability-with-chinas-xi-in-may-meeting-ustr-greer-says
+Summary: US Trade Representative Jamieson Greer says President Donald Trump will aim to maintain stability in economic relations with China during a May meeting with President Xi Jinping. Greer stated the US is 'not looking for a massive confrontation' and that the two countries have settled into a stable situation regarding tariffs and access to Chinese rare earth minerals. The summit was postponed from March due to the US-Israel war on Iran.
+
+[11] ‘No end in sight’ if Trump acts on threat to destroy Iran infrastructure | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T19:41:43Z
+URL: https://www.aljazeera.com/news/2026/4/7/no-end-in-sight-if-trump-acts-on-threat-to-destroy-iran-infrastructure
+Summary: Analysts warn that if President Trump acts on his threat to destroy Iran's civilian infrastructure, it could prolong and expand the conflict with no swift victory in sight. They say such attacks would likely lead to Iranian retaliation against regional energy facilities, further raising oil prices. The warning comes as Trump's deadline for Iran to reopen the Strait of Hormuz approaches.
+
+[12] FIFA opens disciplinary probe against Spanish FA after Islamaphobic chants | Football News | Al Jazeera
+Published: 2026-04-07T19:50:28Z
+URL: https://www.aljazeera.com/sports/2026/4/7/fifa-opens-disciplinary-probe-against-spanish-fa-after-islamaphobic-chants
+Summary: FIFA has opened disciplinary proceedings against the Spanish football federation over anti-Muslim chants heard during a Spain-Egypt friendly match. A section of fans chanted 'Whoever doesn't jump is a Muslim' at the Barcelona stadium. Spain forward Lamine Yamal, who is Muslim, blasted the chants as disrespectful and racist.
+
+[13] Mediterranean migrant deaths mounting towards 1,000 in 2026: UN | Migration News | Al Jazeera
+Published: 2026-04-07T20:02:11Z
+URL: https://www.aljazeera.com/news/2026/4/7/mediterranean-migrant-deaths-mounting-towards-1000-in-2026-un
+Summary: The UN's International Organization for Migration reports nearly 1,000 migrant deaths in the Mediterranean since the start of 2026, calling it one of the deadliest starts to a year since record-keeping began. At least 181 people have died or gone missing in five separate shipwrecks in the past 10 days. The agency calls for stronger efforts to stop traffickers and expand safe migration pathways.
+
+[14] Russia and China block UN resolution on Strait of Hormuz | United Nations News | Al Jazeera
+Published: 2026-04-07T20:17:54Z
+URL: https://www.aljazeera.com/news/2026/4/7/russia-and-china-block-un-resolution-on-strait-of-hormuz
+Summary: Russia and China have vetoed a UN Security Council resolution aimed at protecting commercial shipping in the Strait of Hormuz. The resolution, proposed by Bahrain, had 11 votes in favor but was blocked by Russia and China, who said it was biased against Iran. The US ambassador condemned the vetoes, while Iran's ambassador praised Russia and China for preventing what he called the legitimization of aggression.
+
+[15] ‘Policy of abuse’: Women march in Cuba against US energy blockade | Miguel Diaz-Canel News | Al Jazeera
+Published: 2026-04-07T20:44:11Z
+URL: https://www.aljazeera.com/news/2026/4/7/policy-of-abuse-women-march-in-cuba-against-us-energy-blockade
+Summary: Hundreds of women marched in Havana to protest the US de facto oil blockade against Cuba. Protesters carried banners calling to 'Tear down the blockade' and denounced the US campaign as collective punishment. The Cuban government has organized several protests recently against policies implemented under President Trump, which have severely restricted Cuba's foreign oil imports.
+
+================================================================================
 RUN TIME UTC: 2026-04-07T16:11:32Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
