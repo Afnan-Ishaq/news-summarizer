@@ -1,4 +1,73 @@
 ================================================================================
+RUN TIME UTC: 2026-04-07T16:11:32Z
+WINDOW: Last 6 hours
+ARTICLES USED: 12
+
+OVERALL SUMMARY
+This batch of articles covers a diverse range of global news from the last six hours. Major themes include the escalating US-Iran conflict and its regional consequences, significant political meetings in Asia, and sports news ranging from cricket to football. Several stories also highlight human rights and humanitarian crises.
+
+ARTICLE BREAKDOWN
+[1] In Ghana Town, a ‘stateless’ future for hundreds born and raised in Gambia | Migration News | Al Jazeera
+Published: 2026-04-07T11:08:00Z
+URL: https://www.aljazeera.com/features/2026/4/7/in-ghana-town-a-stateless-future-for-hundreds-born-and-raised-in-gambia
+Summary: The article reports on a community in The Gambia called Ghana Town, founded by Ghanaian fishermen decades ago. Hundreds of descendants born and raised there lack citizenship, passports, and national ID cards due to Gambian law, which does not grant citizenship to those born to non-Gambian parents. This legal grey zone creates daily uncertainty and barriers, such as preventing children from enrolling in public schools.
+
+[2] Barcelona vs Atletico Madrid: Champions League – team news, start, lineups | Football News | Al Jazeera
+Published: 2026-04-07T12:01:33Z
+URL: https://www.aljazeera.com/sports/2026/4/7/barcelona-vs-atletico-madrid-champions-league-team-news-start
+Summary: This article previews the first leg of the Champions League quarterfinal between Barcelona and Atletico Madrid at Camp Nou. It notes this match is part of a series of five meetings between the teams in two months, with Barcelona having recently won a league encounter. Both coaches suggested their teams would perform better in this Champions League fixture.
+
+[3] Taiwanese opposition leader to meet China’s Xi in a test of diplomatic skill | Xi Jinping News | Al Jazeera
+Published: 2026-04-07T12:06:57Z
+URL: https://www.aljazeera.com/news/2026/4/7/taiwanese-opposition-leader-to-meet-chinas-xi-in-a-test-of-diplomatic-skill
+Summary: The article reports that Taiwanese opposition leader Cheng Li-wun of the Kuomintang (KMT) is meeting Chinese President Xi Jinping in Beijing. Analysts suggest the trip is a high-stakes test for the KMT's political prospects, as it aims to demonstrate that Taiwan and China are not destined for war. The meeting occurs in a context of surging Taiwanese nationalism and the KMT's waning power in recent presidential elections.
+
+[4] What’s Iran’s 10-point peace plan that Trump says is ‘not good enough’? | International Trade News | Al Jazeera
+Published: 2026-04-07T12:17:43Z
+URL: https://www.aljazeera.com/news/2026/4/7/whats-irans-10-point-peace-plan-that-trump-says-is-not-good-enough
+Summary: Iran has proposed a 10-point peace plan to end the ongoing war, as a deadline set by US President Donald Trump for Iran to open the Strait of Hormuz looms. Trump called the plan a 'significant step' but 'not good enough,' threatening to attack Iranian civilian infrastructure if his demands are not met. The article states details of the 10 clauses have not been published, but they reportedly include calls for an end to hostilities and the lifting of sanctions.
+
+[5] ‘Get a grip’: How Iranian embassies mocked Trump’s vulgar threat | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T12:50:52Z
+URL: https://www.aljazeera.com/news/2026/4/7/get-a-grip-how-iranian-embassies-mocked-trumps-vulgar-threat
+Summary: Iranian embassies worldwide launched a sarcastic social media campaign mocking a profanity-laced threat from US President Donald Trump. The embassies used tongue-in-cheek responses, such as claiming to have 'lost the keys' to the Strait of Hormuz, and referenced the 25th Amendment, suggesting Trump is unfit for office. The campaign aimed to paint the US president as mentally unfit while avoiding matching his aggressive rhetoric.
+
+[6] How Israel’s invasion of southern Lebanon created a humanitarian crisis | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-07T12:53:31Z
+URL: https://www.aljazeera.com/news/2026/4/7/how-israels-invasion-of-southern-lebanon-created-a-humanitarian-crisis
+Summary: Israel's invasion of southern Lebanon has displaced 1.2 million people, creating one of the world's fastest-growing displacement crises. Israeli forces have launched over 1,840 attacks since March 2, killing more than 1,497 people, according to Lebanese health ministry figures cited in the article. The attacks have targeted bridges and crossings, aiming to isolate communities, with the Israeli army stating it is targeting Hezbollah strongholds.
+
+[7] Australian and IPL cricket great David Warner charged with drink-driving | Cricket News | Al Jazeera
+Published: 2026-04-07T13:21:31Z
+URL: https://www.aljazeera.com/sports/2026/4/7/australian-and-ipl-cricket-great-david-warner-charged-with-drink-driving
+Summary: Former Australian international cricketer David Warner has been charged with mid-range drink-driving after being pulled over in Sydney. The 39-year-old, who retired from international cricket in 2024 but still plays T20 franchise cricket, was arrested and breath-tested after officers approached his vehicle. He is due to appear in court on May 7.
+
+[8] ICE says its agents don’t carry guns in Canada as World Cup approaches | World Cup 2026 News | Al Jazeera
+Published: 2026-04-07T13:32:24Z
+URL: https://www.aljazeera.com/sports/2026/4/7/ice-says-its-agents-dont-carry-guns-in-canada-as-world-cup-approaches
+Summary: US Immigration and Customs Enforcement (ICE) says its agents do not carry guns or make arrests while operating in Canada, amid fears of their deployment at World Cup venues. The agency stated its personnel work with Canadian partners on joint investigations but have no authority on Canadian soil. This clarification comes after Toronto's city council passed a motion opposing the potential presence of ICE agents at World Cup games.
+
+[9] Trump on Iran: ‘A whole civilisation will die tonight’ | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T13:53:52Z
+URL: https://www.aljazeera.com/news/2026/4/7/trump-on-iran-a-whole-civilisation-will-die-tonight
+Summary: US President Donald Trump escalated threats against Iran, suggesting the US would destroy Iranian 'civilisation' if Tehran does not open the Strait of Hormuz. Democratic rivals condemned the rhetoric as 'sick' and 'genocidal,' with some calling for Trump's removal via the 25th Amendment. The article notes legal experts say targeting civilian infrastructure is a war crime, and critics argue Trump launched the military campaign without congressional authorisation.
+
+[10] Bangladesh appoints Tamim Iqbal as country’s youngest cricket chief | Cricket News | Al Jazeera
+Published: 2026-04-07T14:39:45Z
+URL: https://www.aljazeera.com/sports/2026/4/7/bangladesh-appoint-tamim-iqbal-as-countrys-youngest-cricket-chief
+Summary: Bangladesh has dissolved its cricket board due to 'gross irregularities' in a 2025 election and appointed an interim committee led by former captain Tamim Iqbal. The 39-year-old becomes the country's youngest cricket chief and is tasked with holding new elections within three months. The decision follows political turmoil and a previous board's refusal to let the team play in the World Cup in India, citing security concerns.
+
+[11] India’s nuclear leap: Why its fast breeder reactor success matters | Nuclear Energy News | Al Jazeera
+Published: 2026-04-07T14:54:59Z
+URL: https://www.aljazeera.com/news/2026/4/7/indias-nuclear-leap-why-its-fast-breeder-reactor-success-matters
+Summary: India's prototype fast breeder reactor has reached a self-sustaining stage, marking a major advance for its nuclear programme. This type of reactor produces more fuel than it consumes, potentially reducing India's dependence on uranium and paving the way for using its vast thorium reserves. Once fully operational, India will become the second country after Russia to have a commercial fast breeder reactor.
+
+[12] From 9pm shutdowns to remote work: Egypt cuts fuel amid power crisis | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-07T15:05:40Z
+URL: https://www.aljazeera.com/economy/2026/4/7/from-9pm-shutdowns-to-remote-work-egypt-cuts-fuel-amid-power-crisis
+Summary: Egypt is implementing energy conservation measures, including fuel price hikes, due to a global crisis sparked by the US-Israel war on Iran. The war has led to a blockade of the Strait of Hormuz, halting most oil and gas shipments and damaging regional energy infrastructure, which has sent prices soaring. Egypt's government says it is among the 'best-performing' countries in tackling the crisis, though its energy import bill has more than doubled since January.
+
+================================================================================
 RUN TIME UTC: 2026-04-07T10:57:32Z
 WINDOW: Last 6 hours
 ARTICLES USED: 15
