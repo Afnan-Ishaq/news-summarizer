@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-04-07T06:19:11Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "The batch of articles covers legal and political developments in Australia, including the arrest of a former soldier for alleged war crimes in Afghanistan and domestic policy changes. It also reports on international reactions to a recent Israeli military operation in Gaza.",
+    "articles": [
+      {
+        "title": "Australia arrests ex-soldier Roberts-Smith over alleged Afghan war crimes | Human Rights News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/7/australian-soldier-ben-roberts-smith-arrested-over-alleged-war-crimes",
+        "published": "2026-04-07T06:14:37Z",
+        "summary": "Former Australian special forces soldier Ben Roberts-Smith has been arrested and is expected to face five counts of the war crime of murder related to unarmed Afghan nationals. The arrest follows a complex investigation and comes after he lost defamation proceedings against journalists who reported on the allegations. An advocacy group stated the arrest is a significant step for Afghan victims and for Australia meeting its international legal obligations."
+      }
+    ]
+  },
+  {
     "time": "2026-04-07T02:30:54Z",
     "window_hours": 6,
     "article_count": 4,
