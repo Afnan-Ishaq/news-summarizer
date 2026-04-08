@@ -1,4 +1,93 @@
 ================================================================================
+RUN TIME UTC: 2026-04-08T16:16:47Z
+WINDOW: Last 6 hours
+ARTICLES USED: 16
+
+OVERALL SUMMARY
+This batch of articles covers a range of topics, with a primary focus on the aftermath of a US-Iran ceasefire and its regional implications. Key themes include continued attacks in the Gulf and Lebanon, the severe economic impact of the conflict on global energy and local livelihoods, and political reactions in India and Israel. Additional stories cover sports and African football governance.
+
+ARTICLE BREAKDOWN
+[1] ‘We’re new miyas’: Will BJP naming some Assamese Muslims ‘Indigenous’ work? | Elections News | Al Jazeera
+Published: 2026-04-08T10:22:55Z
+URL: https://www.aljazeera.com/news/2026/4/8/were-new-miyas-will-bjp-naming-some-assamese-muslims-indigenous-work
+Summary: The article reports on the BJP's political outreach to Assamese Muslims it recognizes as 'Indigenous' ahead of state elections. It highlights skepticism within the community, exemplified by Akram Ali, a Goriya Muslim whose home was demolished despite his recognized Indigenous identity. The piece questions whether this distinction offers real protection from state actions targeting Muslim neighborhoods.
+
+[2] S Arabia, UAE, Kuwait, Qatar, Bahrain report attacks after Iran-US truce | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T10:43:30Z
+URL: https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire
+Summary: Several Gulf nations reported missile and drone attacks hours after a US-Iran ceasefire was announced. The UAE said its air defences intercepted projectiles from Iran, causing a fire at a gas complex and injuries. Kuwait, Bahrain, and Qatar also reported interceptions and attacks, with Kuwait mentioning damage to oil facilities and Bahrain reporting minor injuries and property damage.
+
+[3] Mumbai’s historic dock quietens as fuel crisis chokes fishing trade | Oil and Gas News | Al Jazeera
+Published: 2026-04-08T12:29:43Z
+URL: https://www.aljazeera.com/gallery/2026/4/8/mumbais-historic-dock-quietens-as-fuel-crisis-chokes-fishing-trade
+Summary: The article describes how soaring diesel prices, linked to regional conflict, have crippled Mumbai's historic Sassoon Dock fishing trade. Boat owner Shekhar Chogle and others have been forced to keep vessels docked, threatening livelihoods. While a ceasefire offers some hope, the piece notes the crisis extends across India and Asia, with fuel supply normalization expected to take time.
+
+[4] World Athletics postpones Doha Diamond League amid US-Israel war on Iran | Athletics News | Al Jazeera
+Published: 2026-04-08T12:46:23Z
+URL: https://www.aljazeera.com/sports/2026/4/8/world-athletics-postpones-doha-diamond-league-amid-us-israel-war-on-iran
+Summary: World Athletics postponed the season-opening Doha Diamond League event, citing athlete and spectator safety concerns due to the ongoing conflict. The event is rescheduled from May 8 to June 19, conditional on the regional security situation. The decision follows reports of missile interceptions in Qatar and other Gulf states despite a US-Iran ceasefire.
+
+[5] Defeat from the jaws of victory: Israel reacts to Trump’s Iran ceasefire | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T13:34:36Z
+URL: https://www.aljazeera.com/news/2026/4/8/defeat-from-the-jaws-of-victory-israel-reacts-to-trumps-iran-ceasefire
+Summary: The article details Israeli political reactions to the US-Iran ceasefire. While Prime Minister Benjamin Netanyahu's office expressed support, opposition leader Yair Lapid called it a political disaster. The piece notes Netanyahu stated the ceasefire does not extend to Israel's war on Lebanon, and analysts suggest the conflict has left Israel weakened and Iran strategically stronger.
+
+[6] ‘Stone Age’ to ‘Golden Age’: How the final hours before the truce unfolded | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T13:51:04Z
+URL: https://www.aljazeera.com/news/2026/4/8/stone-age-to-golden-age-how-the-final-hours-before-the-truce-unfolded
+Summary: This article recounts the tense final hours before the US-Iran ceasefire, highlighting President Trump's apocalyptic threats to destroy Iran's infrastructure. It describes how last-minute diplomacy mediated by Pakistan culminated in a two-week truce less than 90 minutes before Trump's deadline. The deal involved stopping attacks and reopening the Strait of Hormuz, with talks scheduled in Islamabad.
+
+[7] Empty ships and shut wells: Why the Iran war oil crisis is not over yet | Oil and Gas News | Al Jazeera
+Published: 2026-04-08T14:38:46Z
+URL: https://www.aljazeera.com/news/2026/4/8/empty-ships-and-shut-wells-why-the-iran-war-oil-crisis-is-not-over-yet
+Summary: The article explains that despite a ceasefire, the global oil crisis triggered by the war is far from over. Reopening the Strait of Hormuz is a key step, but logistical challenges, like restarting shut wells and repositioning tankers, will cause delays. It cites data showing a 44% drop in Gulf oil exports in March, with Iraq hit hardest, and warns impacts on prices and supply will persist.
+
+[8] Israeli attacks across Lebanon kill dozens hours after Iran-US ceasefire | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T14:39:33Z
+URL: https://www.aljazeera.com/news/2026/4/8/hundreds-of-casualties-across-lebanon-after-israel-says-it-hit-100-sites
+Summary: Israel launched a major coordinated strike across Lebanon hours after the US-Iran ceasefire, targeting areas in Beirut, the Bekaa Valley, and southern Lebanon. Dozens were killed and hundreds wounded, according to Lebanese health officials. Israel said it struck over 100 Hezbollah sites, while Lebanon's Red Cross responded with ambulances and hospitals became overcrowded.
+
+[9] Medvedev thrashed by Berrettini as racquets smashed in Monte Carlo defeat | Tennis News | Al Jazeera
+Published: 2026-04-08T14:41:05Z
+URL: https://www.aljazeera.com/sports/2026/4/8/medvedev-thrashed-6-0-6-0-by-berrettini-in-monte-carlo-zverev-battles-on
+Summary: Daniil Medvedev suffered a stunning 6-0, 6-0 defeat to Matteo Berrettini in the Monte Carlo Masters second round. Medvedev, frustrated, smashed his racquet multiple times during the match. In another match, Alexander Zverev staged a comeback to defeat Cristian Garin after trailing in the third set.
+
+[10] CAF’s Motsepe to visit both Senegal and Morocco amid AFCON fallout | Football News | Al Jazeera
+Published: 2026-04-08T14:51:22Z
+URL: https://www.aljazeera.com/sports/2026/4/8/cafs-motsepe-to-visit-both-senegal-and-morocco-amid-afcon-fallout
+Summary: CAF President Patrice Motsepe is visiting Senegal and Morocco to address the fallout from CAF's decision to strip Senegal of the Africa Cup of Nations title and award it to Morocco. Senegal has appealed the decision to the Court of Arbitration for Sport. Motsepe stated he would respect and implement the CAS ruling, calling for unity in African football.
+
+[11] Did America lose yet another war? | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-08T14:57:19Z
+URL: https://www.aljazeera.com/opinions/2026/4/8/did-america-lose-yet-another-war
+Summary: This opinion piece argues the US war on Iran repeats past failures defined by hubris and flawed strategic judgement. It draws parallels to Vietnam, Afghanistan, and Iraq, citing a lack of preparedness and understanding of conditions for using force. The author suggests the US, despite military advantage, may have been drawn into the conflict due to Israeli pressure and a misjudgment of Iran's strategic control over the Strait of Hormuz.
+
+[12] Israel strikes central Beirut without warning | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T15:01:54Z
+URL: https://www.aljazeera.com/gallery/2026/4/8/israel-strikes-central-beirut-without-warning
+Summary: Israeli air raids struck densely populated commercial and residential districts in central Beirut without warning, hours after the US-Iran ceasefire. Dozens were killed and hundreds wounded, with rescue workers searching rubble. Israel described it as its largest coordinated strike of the war, targeting over 100 Hezbollah-linked sites, while Lebanon insisted the hit buildings were not military sites.
+
+[13] Hegseth touts US ‘victory’ over Iran as Tehran hails its own ‘historic’ win | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T15:05:50Z
+URL: https://www.aljazeera.com/news/2026/4/8/hegseth-touts-us-victory-over-iran-as-tehran-hails-its-own-historic-win
+Summary: US Defense Secretary Pete Hegseth declared a decisive military victory over Iran, stating its missile program was functionally destroyed. Simultaneously, Iran's Supreme National Security Council hailed its own 'historic' victory. Hegseth said the ceasefire means Iran will never possess nuclear weapons, but admitted Iran can still launch limited attacks and that US forces remain in the region to monitor compliance.
+
+[14] Iran, US both claim victory, but did they actually concede ground? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T15:06:13Z
+URL: https://www.aljazeera.com/news/2026/4/8/iran-us-both-claim-victory-but-did-they-actually-concede-ground
+Summary: Both the US and Iran claimed victory after agreeing to a two-week ceasefire, but the article suggests both sides shifted from earlier red lines. The US agreed to suspend bombing, while Iran said it would allow safe passage through the Strait of Hormuz. Analysts note these apparent concessions could become sticking points in upcoming talks in Islamabad aimed at a permanent settlement.
+
+[15] Trump says Lebanon not included in US-Iran ceasefire amid Israeli assault | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T15:40:30Z
+URL: https://www.aljazeera.com/news/2026/4/8/trump-says-lebanon-not-included-in-us-iran-ceasefire-amid-israeli-assault
+Summary: President Trump stated Lebanon was not included in the US-Iran ceasefire, calling Israel's war on Hezbollah a 'separate skirmish'. This contradicts mediator Pakistan's assertion that the truce covered the entire region. The article notes Iranian media reported a suspension of oil tanker movement through the Strait of Hormuz in response to the Israeli assault on Lebanon, though officials did not confirm this.
+
+[16] How Pakistan managed to get the US and Iran to a ceasefire | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-08T15:49:03Z
+URL: https://www.aljazeera.com/features/2026/4/8/how-pakistan-managed-to-get-the-us-and-iran-to-a-ceasefire
+Summary: The article details Pakistan's central role as mediator in securing the US-Iran ceasefire. Both President Trump and Iranian Foreign Minister Abbas Araghchi publicly acknowledged and thanked Pakistani Prime Minister Shehbaz Sharif and Field Marshal Asim Munir for their efforts. Sharif announced the immediate, region-wide ceasefire and invited both sides to talks in Islamabad on Friday, though key differences in the agreement's terms remain.
+
+================================================================================
 RUN TIME UTC: 2026-04-08T06:21:24Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
