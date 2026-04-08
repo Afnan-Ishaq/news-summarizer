@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-04-08T06:21:24Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+The articles cover two main topics: a ceasefire in the US-Iran conflict and Arsenal's recent football performance. Multiple reports detail international reactions to the US-Iran truce announcement, while one sports article analyzes Arsenal's Champions League match.
+
+ARTICLE BREAKDOWN
+[1] Is Arteta’s intensity Arsenal’s Premier and Champions League hope, or fear? | Football News | Al Jazeera
+Published: 2026-04-08T02:56:09Z
+URL: https://www.aljazeera.com/sports/2026/4/8/is-artetas-intensity-arsenals-premier-and-champions-league-hope-or-fear
+Summary: Arsenal secured a narrow 1-0 away win against Sporting Lisbon in the Champions League quarter-finals with a late Kai Havertz goal. The article questions whether manager Mikel Arteta's intense approach is a strength or a concern, noting the team's recent losses in domestic cups and a below-par performance in Lisbon despite their strong Premier League position. It also mentions that some within Arsenal's hierarchy are reportedly concerned that Arteta's visible intensity at crucial moments could be holding the team back.
+
+[2] Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T03:17:42Z
+URL: https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon
+Summary: Israeli Prime Minister Benjamin Netanyahu's office has stated that while Israel supports the US decision to suspend strikes on Iran, the announced two-week ceasefire does not apply to Israel's military operations in Lebanon. This contradicts a statement from Pakistani Prime Minister Shehbaz Sharif, who said the ceasefire was agreed 'everywhere, including Lebanon'. The article notes Hezbollah entered the conflict in March and that Israeli attacks on Lebanon have reportedly killed over 1,500 people and displaced more than a million since then.
+
+[3] World welcomes US-Iran ceasefire, urges lasting peace in the Middle East | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T04:23:34Z
+URL: https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east
+Summary: Countries and international bodies have welcomed the two-week US-Iran ceasefire, which includes Iran reopening the Strait of Hormuz, and urged a lasting peace. Reactions included support from Israel (with the noted exception for Lebanon), calls for full commitment from Iraq and Egypt, and a welcome from UN Secretary-General Antonio Guterres, who emphasized protecting civilian lives. Talks to finalize a peace deal are set to begin in Islamabad, Pakistan, on Friday.
+
+[4] US politicians react to Trump’s Iran ceasefire with caution, relief | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T04:34:41Z
+URL: https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran
+Summary: US politicians have reacted to the Iran ceasefire with a mix of relief and caution. While Democrats welcomed the truce and called for accountability over what they term an 'illegal war', some Republican allies of President Trump, like Senator Lindsey Graham, expressed skepticism. Graham emphasized that Iran must not be rewarded for attacking the Strait of Hormuz and stressed that lawmakers would review any final deal.
+
+================================================================================
 RUN TIME UTC: 2026-04-08T02:32:12Z
 WINDOW: Last 6 hours
 ARTICLES USED: 13
