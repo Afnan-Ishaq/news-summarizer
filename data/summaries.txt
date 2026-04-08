@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-08T20:44:20Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+This batch of articles covers a range of international conflicts, diplomatic tensions, and human rights issues from the last six hours. Major themes include condemnation of Russia's actions against a Nobel laureate group, the killing of a journalist in Gaza, violence against civilians in Yemen and Gaza, a diplomatic rift between Ecuador and Colombia, US political commentary on Hungary, and developments in a US-Iran ceasefire alongside severe attacks in Lebanon. It concludes with a NASA space milestone.
+
+ARTICLE BREAKDOWN
+[1] Nobel Prize Committee condemns Russian move to criminalise rights group
+Published: 2026-04-08T16:23:25Z
+URL: https://www.aljazeera.com/news/2026/4/8/nobel-prize-committee-condemns-russian-move-to-criminalise-rights-group
+Summary: The Norwegian Nobel Committee has condemned a Russian Justice Ministry petition to designate the Nobel Peace Prize-winning human rights group Memorial as an 'extremist organisation'. The committee's chairman stated this would criminalize all of Memorial's activities, risking imprisonment for anyone involved. The statement calls on Russian authorities to withdraw the claim and cease harassment of the group, which documents human rights abuses.
+
+[2] Israeli attack kills Al Jazeera journalist Mohammed Wishah in Gaza
+Published: 2026-04-08T17:05:13Z
+URL: https://www.aljazeera.com/news/2026/4/8/israeli-attack-kills-al-jazeera-journalist-mohammed-wishah-in-gaza
+Summary: Al Jazeera journalist Mohammed Wishah was killed in an Israeli drone strike on a car in Gaza. Al Jazeera Media Network condemned the killing as a deliberate, systematic policy to target journalists and silence truth. The Gaza Government Media Office stated at least 262 journalists have been killed in Israeli attacks since October 2023.
+
+[3] Civilians under fire by gangs in Gaza: What happened in Maghazi?
+Published: 2026-04-08T17:10:19Z
+URL: https://www.aljazeera.com/features/2026/4/8/civilians-under-fire-by-gangs-in-gaza-what-happened-in-maghazi
+Summary: Armed men, identifying as the 'Popular Forces combating terrorism' and reportedly operating with Israeli army support, raided homes in the Maghazi refugee camp, using them as cover during a gunfight. A family described being detained and interrogated, with their photography equipment confiscated. The clashes resulted in at least 10 Palestinian deaths and 44 injuries, according to health reports.
+
+[4] 'Why my child?': Yemen's Taiz mourns sniper's killing of teen
+Published: 2026-04-08T17:34:45Z
+URL: https://www.aljazeera.com/news/2026/4/8/why-my-child-yemens-taiz-mourns-snipers-killing-of-teen
+Summary: A 14-year-old boy named Ibrahim was killed by a sniper while walking to school in Taiz, Yemen. His family and locals blame Houthi rebels for the shooting. The article describes the ongoing danger in the city, where snipers have vantage points and protective panels have been ineffective, with a UN report noting Taiz governorate accounts for most sniper killings in Yemen.
+
+[5] Ecuador recalls its ambassador from Colombia over Jorge Glas comments
+Published: 2026-04-08T17:50:31Z
+URL: https://www.aljazeera.com/news/2026/4/8/ecuador-recalls-its-ambassador-from-colombia-over-jorge-glas-comments
+Summary: Ecuador has recalled its ambassador from Colombia following Colombian criticism of the case of former Ecuadorian Vice President Jorge Glas. Ecuador's government denounces such comments as foreign interference and a violation of sovereignty. The tension relates to the two-year anniversary of a controversial police raid on the Mexican embassy in Quito to arrest Glas, which caused a diplomatic rupture with Mexico.
+
+[6] JD Vance slams Zelenskyy comments on Orban ahead of Hungary election
+Published: 2026-04-08T18:34:41Z
+URL: https://www.aljazeera.com/news/2026/4/8/jd-vance-slams-zelenskyys-comments-about-hungarys-orban
+Summary: US Vice President JD Vance, visiting Hungary, called Ukrainian President Zelenskyy's recent remarks about Hungarian Prime Minister Viktor Orban 'scandalous' and accused Ukraine of trying to influence Hungary's upcoming election. Vance criticized what he described as double standards in media coverage of foreign interference, comparing it to allegations about the 2016 US election. The European Commission stated it would convey concerns to US counterparts about Vance's comments.
+
+[7] White House says Trump's 'red line' against Iran nuclear enrichment remains
+Published: 2026-04-08T19:00:28Z
+URL: https://www.aljazeera.com/news/2026/4/8/white-house-says-trumps-red-line-against-iran-nuclear-enrichment-remains
+Summary: The White House reiterated that the US rejects any uranium enrichment inside Iran, stating President Trump's 'red lines' have not changed. A spokesperson said an initial Iranian proposal was rejected, but a revised plan is a 'workable basis' for negotiations. The US team, led by Vice President JD Vance, is set to begin talks in Islamabad on Saturday, though Iran's parliament speaker later expressed doubts due to alleged ceasefire violations.
+
+[8] Iranians breathe a 'ceasefire' sigh of relief as all sides claim victory
+Published: 2026-04-08T19:20:34Z
+URL: https://www.aljazeera.com/news/2026/4/8/iranians-breathe-a-ceasefire-sigh-of-relief-as-all-sides-claim-vory
+Summary: Tehran residents experienced a partial relief from bombardment as a two-week US-Iran ceasefire began, though with widespread scepticism about its durability. Some normal activity returned to streets, but air defence activations and attacks on oil facilities in southern Iran created uncertainty. The ceasefire was announced just before a US deadline, following intensified Israeli attacks on Iranian infrastructure.
+
+[9] World reacts to 'brutal' Israeli attacks on Lebanon after US-Iran truce
+Published: 2026-04-08T19:47:57Z
+URL: https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire
+Summary: Israeli forces conducted a major bombardment across Lebanon, killing at least 254 people, shortly after a US-Iran ceasefire was announced. Lebanese officials and Hezbollah condemned the attacks as war crimes and a violation of the ceasefire, with Hezbollah stating it reserves the right to respond. Conflicting statements emerged on whether Lebanon was included in the truce, with the US and Israel suggesting it was separate.
+
+[10] NASA releases picture of 'Earthset' shot by Artemis crew
+Published: 2026-04-08T20:19:40Z
+URL: https://www.aljazeera.com/gallery/2026/4/8/nasa-releases-picture-of-earthset-shot-by-artemis-crew
+Summary: NASA released a new photograph called 'Earthset', showing Earth dipping below the lunar horizon, taken by the Artemis II crew during a lunar flyby. The image consciously echoes the iconic 1968 'Earthrise' photo. The four-member crew is on a mission to orbit the moon, paving the way for a planned landing in 2028.
+
+================================================================================
 RUN TIME UTC: 2026-04-08T16:16:47Z
 WINDOW: Last 6 hours
 ARTICLES USED: 16
