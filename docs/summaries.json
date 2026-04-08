@@ -1,5 +1,91 @@
 [
   {
+    "time": "2026-04-08T02:32:12Z",
+    "window_hours": 6,
+    "article_count": 13,
+    "overall_summary": "The articles cover a range of international news from the last 6 hours, including a major diplomatic development in the US-Iran conflict, several Champions League football matches, and investigations into Libyan finance. The batch is dominated by updates on the tense situation in the Middle East, where a last-minute ceasefire was announced.",
+    "articles": [
+      {
+        "title": "Libyan financier enabled ‘$300m in loans’ for Haftar’s Tripoli offensive | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/7/libyan-financier-enabled-300m-in-loans-for-haftars-tripoli-offensive",
+        "published": "2026-04-07T21:02:27Z",
+        "summary": "A new investigation alleges Libyan businessman Ahmed Gadalla was a key enabler for Khalifa Haftar's family, helping secure $300m in loans from a UAE-based bank for Haftar's failed 2019-2020 offensive on Tripoli. The report states the unpaid loans have burdened the Libyan public, while Gadalla has faced no accountability and has since expanded his influence over eastern Libya's financial system. The investigation also links him to potential military procurement for Sudan and currency counterfeiting."
+      },
+      {
+        "title": "Barcelona’s Flick to defend ’emotional’ teen Lamine Yamal against criticism | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/7/barcelonas-flick-to-defend-emotional-teen-lamine-yamal-against-criticism",
+        "published": "2026-04-07T21:02:55Z",
+        "summary": "Barcelona coach Hansi Flick says he will defend 18-year-old winger Lamine Yamal against criticism for showing frustration, such as not celebrating a goal and being angry at substitutions. Flick acknowledges Yamal's emotional reactions sometimes create unwanted headlines but calls him an \"unbelievable\" player who he will always support. The coach made these comments ahead of Barcelona's Champions League quarterfinal against Atletico Madrid."
+      },
+      {
+        "title": "Iranians brace for possible devastation as Trump’s deadline looms | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/7/iranians-brace-for-possible-devastation-as-trumps-deadline-looms",
+        "published": "2026-04-07T21:08:36Z",
+        "summary": "With a US deadline approaching, Iranians are preparing for potential widespread attacks on civilian infrastructure threatened by President Donald Trump if Iran does not reopen the Strait of Hormuz. Residents report anxiety, stockpiling essentials, and buying expensive generators in anticipation of possible power cuts that would impact medical care and daily life. Trump has threatened to bomb Iran's electricity, bridges, and other critical infrastructure."
+      },
+      {
+        "title": "Kane leads Bayern to 2-1 win over Real Madrid in Champions League thriller | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/7/kane-leads-bayern-to-2-1-win-over-real-madrid-in-champions-league-thriller",
+        "published": "2026-04-07T21:28:34Z",
+        "summary": "Bayern Munich beat Real Madrid 2-1 in the first leg of their Champions League quarterfinal, with goals from Luis Diaz and Harry Kane. Kylian Mbappe scored a late goal for Real Madrid to keep them in the tie ahead of the second leg in Munich. The match was described as a European classic, with Bayern dominating large periods of play."
+      },
+      {
+        "title": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/7/pakistan-appeals-to-trump-to-extend-deadline-iran-to-reopen-strait-of-hormuz",
+        "published": "2026-04-07T21:35:17Z",
+        "summary": "Pakistan's Prime Minister Shehbaz Sharif has appealed to US President Donald Trump to extend his deadline on Iran by two weeks and urged Iran to reopen the Strait of Hormuz for the same period. Sharif cited progress in diplomatic efforts to end the war and called for a two-week ceasefire to allow diplomacy to work. The White House said Trump was aware of the proposal, and an Iranian official said Tehran was reviewing it positively."
+      },
+      {
+        "title": "Iran warns region and beyond as tension builds ahead of US ultimatum | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/7/iran-warns-region-and-beyond-as-tension-builds-ahead-of-us-ultimatum",
+        "published": "2026-04-07T21:48:54Z",
+        "summary": "Iran has threatened to target energy facilities in Saudi Arabia and the UAE if its own infrastructure is attacked by the US, as a deadline set by President Trump loomed. Regional Gulf states took precautionary measures, with Bahrain temporarily suspending port operations and Kuwait advising people to stay home. US strikes reportedly hit Iranian targets including bridges and an oil terminal on Kharg Island."
+      },
+      {
+        "title": "Arsenal beat Sporting with late Havertz goal in Champions League quarters | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/7/arsenal-beat-sporting-with-late-havertz-goal-in-champions-league-quarters",
+        "published": "2026-04-07T22:03:12Z",
+        "summary": "Arsenal secured a 1-0 away win against Sporting Lisbon in their Champions League quarterfinal first leg thanks to a stoppage-time goal from Kai Havertz. The victory came after two consecutive domestic cup defeats for Arsenal, with the team described as winning 'ugly' while below their best. Arsenal are now favourites to advance to the semifinals ahead of the second leg in London."
+      },
+      {
+        "title": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats",
+        "published": "2026-04-07T22:48:53Z",
+        "summary": "US President Donald Trump announced he would suspend planned attacks on Iran for two weeks, crediting Pakistan for mediation. The suspension is contingent on Iran agreeing to the 'complete, immediate, and safe opening' of the Strait of Hormuz. Iran's foreign minister confirmed a tentative agreement, stating safe passage through the strait would be possible via coordination with Iranian forces."
+      },
+      {
+        "title": "Billionaire investor Ackman makes $64bn bid for Universal Music Group | Music News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group",
+        "published": "2026-04-07T22:49:12Z",
+        "summary": "Billionaire Bill Ackman's Pershing Square has made a $64bn takeover bid for Universal Music Group (UMG), offering a 78% premium on its share price. The deal, which would see UMG move its listing from Amsterdam to New York, requires support from major shareholders like Bollore Group and Vivendi. Ackman has pursued UMG for years, citing its lagging share price despite the music industry's growth."
+      },
+      {
+        "title": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday",
+        "published": "2026-04-08T01:06:46Z",
+        "summary": "Iran's National Security Council says talks with the United States will begin in Islamabad, Pakistan, on Friday, based on Tehran's 10-point proposal. This follows the announcement of a two-week ceasefire, which is contingent on Iran reopening the Strait of Hormuz. Pakistan's prime minister said an immediate ceasefire was effective and invited delegations to Islamabad for further negotiations."
+      },
+      {
+        "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire",
+        "published": "2026-04-08T01:29:54Z",
+        "summary": "Financial markets reacted positively to the US-Iran ceasefire announcement, with oil prices falling sharply and stock futures surging. The relief rally was driven by the prospect of resumed oil and gas flows through the Strait of Hormuz, which Iran had effectively closed. Analysts noted the deal could pave the way for a more permanent reopening, though uncertainties remain."
+      },
+      {
+        "title": "Trump administration reaffirms plans to deport Abrego Garcia to Liberia | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-reaffirms-plans-to-deport-abrego-garcia-to-liberia",
+        "published": "2026-04-08T01:48:18Z",
+        "summary": "The Trump administration has told a US court it still plans to deport Salvadoran immigrant Kilmar Abrego Garcia to Liberia, despite his preference for Costa Rica. Critics accuse the government of seeking retribution, as Abrego Garcia was wrongfully deported to El Salvador in 2025 before being returned to the US by court order. He currently faces criminal charges for human smuggling in the US."
+      },
+      {
+        "title": "Climate activist Greta Thunberg slams Trump’s threats against Iran | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran",
+        "published": "2026-04-08T01:53:03Z",
+        "summary": "Climate activist Greta Thunberg condemned US President Donald Trump's threat that 'a whole civilization will die tonight' against Iran, criticizing the muted public reaction. She linked the rhetoric to a normalization of war crimes and environmental destruction. The article notes polls showing young people in the US, across the political spectrum, are more sceptical of the war on Iran than older generations."
+      }
+    ]
+  },
+  {
     "time": "2026-04-07T20:50:52Z",
     "window_hours": 6,
     "article_count": 15,
