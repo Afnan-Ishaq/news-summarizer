@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-04-09T02:27:09Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last 6 hours, focusing on escalating conflict in Lebanon following a US-Iran ceasefire, major sports results in the Champions League, and US political developments. They also include reports on legal actions involving a former US president, a celebrity golfer, and a drug case linked to an actor's death.
+
+ARTICLE BREAKDOWN
+[1] ‘People are afraid’: Lebanese reeling after Israel’s devastating attacks | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T20:57:02Z
+URL: https://www.aljazeera.com/news/2026/4/8/people-are-afraid-lebanese-reeling-after-israels-devastating-attacks
+Summary: Israeli air strikes on Lebanon killed at least 254 people and injured over 1,160, marking a sharp escalation. The attacks occurred hours after a US-Iran ceasefire took effect, with confusion over whether Lebanon was included in the truce. Israel and the US stated Lebanon was not part of the agreement, while Pakistan and Iran insisted it was.
+
+[2] PSG beat Liverpool as Champions League defence maintains pace | Football News | Al Jazeera
+Published: 2026-04-08T20:58:15Z
+URL: https://www.aljazeera.com/sports/2026/4/8/psg-beat-liverpool-as-champions-league-defence-maintains-pace
+Summary: Paris Saint-Germain defeated Liverpool 2-0 in the first leg of their Champions League quarterfinal. Goals from Desire Doue and Khvicha Kvaratskhelia gave PSG a commanding lead. Liverpool managed no shots on target and their manager acknowledged they were fortunate the deficit was not larger ahead of the second leg.
+
+[3] Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal | Football News | Al Jazeera
+Published: 2026-04-08T21:22:08Z
+URL: https://www.aljazeera.com/sports/2026/4/8/atletico-madrid-shock-10-man-barcelona-2-0-in-champions-league-quarterfinal
+Summary: Atletico Madrid secured a 2-0 first-leg victory over Barcelona after Barcelona defender Pau Cubarsi was sent off. Julian Alvarez and Alexander Sorloth scored the goals for Atletico. Barcelona must stage a major comeback in the second leg to advance in the competition.
+
+[4] Trump threatens 50% tariffs on countries that supply Iran with weapons | Donald Trump News | Al Jazeera
+Published: 2026-04-08T21:28:08Z
+URL: https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons
+Summary: US President Donald Trump threatened to impose immediate 50% tariffs on imports from any country supplying military weapons to Iran. The announcement followed a ceasefire with Iran, but the legal authority for such tariffs is unclear after a recent Supreme Court ruling. Analysts suggested the threat was aimed at China and may be difficult to implement.
+
+[5] Trump administration signals it is mulling NATO withdrawal after Iran war | Donald Trump News | Al Jazeera
+Published: 2026-04-08T21:47:23Z
+URL: https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war
+Summary: The Trump administration has indicated it is considering a withdrawal from NATO, framing the alliance as having failed a 'test' by not contributing military forces to the US-Israel war on Iran. The White House press secretary made the comments ahead of a meeting between Trump and NATO's secretary-general. The secretary-general described their subsequent conversation as 'frank and open' and noted NATO had provided logistical support.
+
+[6] Prosecutors move to subpoena Tiger Woods’ prescription drug records | Golf News | Al Jazeera
+Published: 2026-04-08T21:50:24Z
+URL: https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records
+Summary: Prosecutors in Florida are seeking to subpoena Tiger Woods' prescription drug records from a pharmacy following his recent car crash and arrest on suspicion of driving under the influence. Woods pleaded not guilty last week after deputies found pain pills in his pocket and noted signs of impairment. He has stated he is stepping away to seek treatment.
+
+[7] JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-08T21:50:36Z
+URL: https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon
+Summary: US Vice President JD Vance warned Iran it would be 'dumb' to let ceasefire talks collapse over Israel's attacks in Lebanon, which the US says were not part of the truce. Vance characterized conflicting positions on Lebanon's inclusion as a 'legitimate misunderstanding,' despite a Pakistani mediator's statement explicitly including Lebanon. He also suggested Israel had committed to showing some restraint in Lebanon to aid negotiations.
+
+[8] Woman given 15 years for role supplying drugs linked to Matthew Perry death | Courts News | Al Jazeera
+Published: 2026-04-08T22:49:22Z
+URL: https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death
+Summary: Jasveen Sangha was sentenced to 15 years in prison for her role in supplying ketamine linked to actor Matthew Perry's 2023 death. Sangha pleaded guilty to five felony drug counts and expressed regret in court. The judge imposed the harsher sentence partly because Sangha continued selling ketamine after Perry's death.
+
+================================================================================
 RUN TIME UTC: 2026-04-08T20:44:20Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
