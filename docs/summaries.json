@@ -1,5 +1,97 @@
 [
   {
+    "time": "2026-04-09T16:19:41Z",
+    "window_hours": 6,
+    "article_count": 14,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours, with a strong focus on the ongoing US-Israel war on Iran and its regional fallout. Other stories include sports, migration, elections, and a significant journalist killing in Gaza.",
+    "articles": [
+      {
+        "title": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/why-israels-attacks-on-lebanon-could-cripple-us-iran-ceasefire",
+        "published": "2026-04-09T10:57:56Z",
+        "summary": "Israel carried out a wave of air attacks on Lebanon, killing over 250 people, just hours after a US-Iran ceasefire was announced. This has exposed major disagreements about the ceasefire's scope, as the US and Israel claim it does not cover attacks on Lebanon, while Pakistan, the broker, says it does. The violence raises fears the ceasefire could unravel before permanent settlement talks begin in Islamabad."
+      },
+      {
+        "title": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza",
+        "published": "2026-04-09T11:54:24Z",
+        "summary": "Mourners gathered in central Gaza for the funeral of Al Jazeera journalist Mohammed Wishah, killed in an Israeli drone strike. Gaza's Government Media Office stated his killing is part of a pattern, with 262 journalists killed since October 2023, aiming to silence witnesses and obscure the truth. Al Jazeera described the attack as a heinous crime and a deliberate effort to intimidate media workers."
+      },
+      {
+        "title": "Bosnian ball boy who hid Donnarumma’s penalty shootout notes hailed as hero | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/9/bosnian-ball-boy-who-hid-donnarummas-penalty-shootout-notes-hailed-as-hero",
+        "published": "2026-04-09T11:57:31Z",
+        "summary": "A 14-year-old Bosnian ball boy, Afan Cizmic, is being hailed as a hero after hiding Italian goalkeeper Gianluigi Donnarumma's penalty notes during a World Cup qualifying shootout. Bosnia went on to win the shootout, with Cizmic believing his act impacted the game by angering and distracting Donnarumma. He plans to auction the note for charity."
+      },
+      {
+        "title": "Fury vs Makhmudov: All you need to know about the heavyweight boxing bout | Boxing News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/9/fury-vs-makhmudov-all-you-need-to-know-about-the-heavyweight-boxing-bout",
+        "published": "2026-04-09T12:09:31Z",
+        "summary": "Tyson Fury comes out of retirement to fight Arslanbek Makhmudov in a heavyweight bout at London's Tottenham Hotspur Stadium on April 11. Fury, seeking a comeback after two losses, faces a dangerous opponent known for knockouts. The main card will be broadcast on Netflix, with the main event ringwalks expected after 10:00 PM local time."
+      },
+      {
+        "title": "Global energy crisis is ‘the mother of all crises’: Turkish energy minister | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/energy-crisis-is-the-mother-of-all-crises-turkish-energy-minister",
+        "published": "2026-04-09T12:18:31Z",
+        "summary": "Turkey's energy minister calls the current global energy crisis, caused by the Strait of Hormuz blockade during the US-Israel war on Iran, 'the mother of all crises'. He states it highlights the need to diversify energy routes and that Turkey is well-positioned as a regional energy hub due to investments and location. He notes rising oil prices still burden Turkey's budget significantly."
+      },
+      {
+        "title": "Four die, dozens rescued in attempted Channel crossing from France to UK | Migration News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/four-die-dozens-rescued-in-attempted-channel-crossing-from-france-to-uk",
+        "published": "2026-04-09T13:02:16Z",
+        "summary": "Four people died while attempting to board an inflatable dinghy off the coast of France near Calais in an attempt to cross the English Channel to the UK. Thirty-eight others were rescued, with one person in critical condition. The incident underscores the ongoing dangers of the crossing, which continues despite enforcement efforts."
+      },
+      {
+        "title": "US-Iran talks in Pakistan: Who’s attending, what’s on the agenda? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/us-iran-talks-in-pakistan-whos-attending-whats-on-the-agenda",
+        "published": "2026-04-09T13:18:37Z",
+        "summary": "Islamabad is preparing to host talks between the US and Iran this weekend, following a Pakistan-brokered two-week ceasefire. The negotiations aim to find a permanent settlement to the war that began six weeks ago. The talks are already under strain due to differing interpretations of the ceasefire terms and Israel's intensified bombing of Lebanon."
+      },
+      {
+        "title": "What is Iran’s Strait of Hormuz protocol and will other nations accept it? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/9/what-is-irans-strait-of-hormuz-protocol-and-will-other-nations-accept-it",
+        "published": "2026-04-09T13:23:15Z",
+        "summary": "Following the ceasefire, Iran has issued official terms for controlling the Strait of Hormuz, including a new navigational map and a toll system for ships. The strait had been effectively closed by Iran during the war, causing a global energy crisis. Analysts suggest Tehran's continued control and new protocol will be unpopular with the US and other nations."
+      },
+      {
+        "title": "Brazil bowler Cardoso takes 9 Lesotho wickets in record-breaking T20 win | Cricket News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/9/brazil-bowler-cardoso-takes-9-lesotho-wickets-in-record-breaking-t20-win",
+        "published": "2026-04-09T14:33:57Z",
+        "summary": "Brazil's Laura Cardoso took a record nine wickets, including five in consecutive deliveries, in a Women's T20 International against Lesotho. Her figures of 3-2-4-9 are the best in T20I history for men or women. Brazil won the match by 189 runs after posting a total of 202-8."
+      },
+      {
+        "title": "Has Iran’s 10-point plan changed, as JD Vance claims? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/has-irans-10-point-plan-changed-as-jd-vance-claims",
+        "published": "2026-04-09T14:47:13Z",
+        "summary": "Confusion surrounds Iran's 10-point peace plan, which is the basis for upcoming US-Iran talks. US Vice President JD Vance dismissed the public version, and there are noted differences between Persian and English versions on key issues like uranium enrichment. This adds to uncertainty about the ceasefire, with US officials offering conflicting interpretations."
+      },
+      {
+        "title": "Israeli attacks on Lebanon aimed to undermine ceasefire, critics say | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/israeli-attacks-on-lebanon-aimed-to-undermine-ceasefire-critics-say",
+        "published": "2026-04-09T14:52:54Z",
+        "summary": "Critics suggest Israel's massive bombardment of Lebanon, which killed over 250 people hours after the US-Iran ceasefire, was aimed at undermining the truce. The attacks stem from a dispute over whether Lebanon is included in the ceasefire, with Israel and the US saying it is not. The violence has been widely condemned and comes as Israel's government faces domestic pressure over the terms of the ceasefire."
+      },
+      {
+        "title": "A record-breaking field: What to expect from Peru’s presidential election | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/a-record-breaking-field-what-to-expect-from-perus-presidential-election",
+        "published": "2026-04-09T15:52:12Z",
+        "summary": "Peru holds the first round of a presidential election on April 12 amid persistent political instability, with crime and corruption as top issues. A record number of candidates reflects a fragmented electorate, with no single contender decisively leading. If no candidate wins over 50%, a runoff will be held on June 7."
+      },
+      {
+        "title": "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/israel-bombed-gaza-on-36-of-the-past-40-days-while-the-war-raged-in-iran",
+        "published": "2026-04-09T15:53:33Z",
+        "summary": "Despite a ceasefire in Gaza six months ago and global focus on the Iran war, Israel has attacked Gaza on 36 of the past 40 days, killing at least 107 people. Israel has also severely restricted aid and medical evacuations during this period. The report highlights ongoing violence in Gaza alongside the broader regional conflict."
+      },
+      {
+        "title": "India’s Assam and Kerala states hold legislative assembly elections | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections",
+        "published": "2026-04-09T15:54:26Z",
+        "summary": "Millions voted in state elections in Assam and Kerala, seen as a test of support for Prime Minister Narendra Modi's BJP. The BJP is expected to retain power in Assam but has struggled in Kerala. These elections are part of a series of key state contests happening this month."
+      }
+    ]
+  },
+  {
     "time": "2026-04-09T11:00:23Z",
     "window_hours": 6,
     "article_count": 13,
