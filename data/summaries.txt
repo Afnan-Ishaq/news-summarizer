@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-04-09T06:21:25Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+The articles cover recent geopolitical tensions following a US-Iran ceasefire. They focus on President Trump's criticism of NATO allies for their lack of support in the conflict and the ongoing strategic concerns in the Gulf region regarding control of the Strait of Hormuz.
+
+ARTICLE BREAKDOWN
+[1] Trump slams NATO over Iran after meeting Rutte, renews Greenland threat | NATO News | Al Jazeera
+Published: 2026-04-09T04:46:54Z
+URL: https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat
+Summary: President Donald Trump criticized NATO for its reluctance to support the US war on Iran, suggesting the alliance failed a test. Following a meeting with NATO Secretary-General Mark Rutte, Trump also revived a threat to seize Greenland from Denmark. Rutte acknowledged Trump's disappointment but defended the contributions of most European allies to the US efforts.
+
+[2] For Gulf states, Hormuz uncertainty casts shadow over fragile US-Iran truce | Donald Trump News | Al Jazeera
+Published: 2026-04-09T05:58:36Z
+URL: https://www.aljazeera.com/news/2026/4/9/for-gulf-states-hormuz-uncertainty-casts-shadow-over-fragile-us-iran-truce
+Summary: Gulf states have welcomed a two-week US-Iran truce but remain wary that the US might agree to a deal granting Iran control over the Strait of Hormuz. Experts express concern that President Trump, seeking a quick political victory, could prioritize optics over Gulf security. The Gulf Cooperation Council countries stress that any deal must ensure the strait reopens and leads to a permanent arrangement to avoid long-term Iranian strategic pressure.
+
+================================================================================
 RUN TIME UTC: 2026-04-09T02:27:09Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
