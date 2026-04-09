@@ -1,4 +1,83 @@
 ================================================================================
+RUN TIME UTC: 2026-04-09T20:53:56Z
+WINDOW: Last 6 hours
+ARTICLES USED: 14
+
+OVERALL SUMMARY
+The articles cover escalating conflicts in the Middle East, with a fragile US-Iran ceasefire threatened by Israeli attacks on Lebanon and ongoing humanitarian crises. They also report on economic warnings from the IMF, geopolitical tensions involving Russia and Greenland, and domestic issues in the US including aid cuts and fertility rates.
+
+ARTICLE BREAKDOWN
+[1] Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO | Sudan war News | Al Jazeera
+Published: 2026-04-09T16:16:09Z
+URL: https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo
+Summary: The NGO Humanity & Inclusion states the humanitarian situation in Sudan has reached catastrophic levels, especially for people with disabilities, three years into the war. It reports 11.6 million people displaced and over 33 million needing aid, with explosive remnants of war posing a deadly danger to returning civilians. The organization highlights that people with disabilities face extreme challenges in fleeing violence and accessing assistance.
+
+[2] Israel’s Netanyahu calls for talks with Lebanon ‘as soon as possible’ | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-09T17:16:37Z
+URL: https://www.aljazeera.com/news/2026/4/9/israels-netanyahu-ready-for-talks-with-lebanon-as-soon-as-possible
+Summary: Israeli Prime Minister Benjamin Netanyahu says his government is ready for direct talks with Lebanon, focusing on disarming Hezbollah and establishing peaceful relations. This comes a day after Israeli attacks killed hundreds in Lebanon, threatening a US-Iran ceasefire. Lebanese officials have taken steps to restrict weapons in Beirut to state institutions, while Hezbollah rejects direct negotiations and demands a ceasefire first.
+
+[3] IMF warns of looming inflation crisis on back of US-Israel war on Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-09T17:23:22Z
+URL: https://www.aljazeera.com/economy/2026/4/9/imf-warns-of-looming-inflation-crisis-on-back-of-us-israel-war-on-iran
+Summary: The International Monetary Fund warns of a potential inflationary crisis due to the US-Israel war on Iran, which has driven up energy prices and damaged infrastructure. IMF Managing Director Kristalina Georgieva says the fund will downgrade its global growth forecast next week. The conflict has disrupted the world economy, though the report notes countries engaged in foreign conflicts may avoid large economic losses on their own soil.
+
+[4] LA28 Olympics opens ticket sales globally after record local demand | Cricket News | Al Jazeera
+Published: 2026-04-09T17:23:41Z
+URL: https://www.aljazeera.com/sports/2026/4/9/la28-olympics-opens-ticket-sales-globally-after-record-local-demand
+Summary: Ticket sales for the 2028 Los Angeles Olympics have opened globally after a record-setting first week of local presales. Organizers say they sold more tickets in that initial phase than any previous Games, with hundreds of thousands of $28 tickets snapped up. They acknowledge some fan complaints about high prices and fees but state more low-cost tickets will be released in future sales phases.
+
+[5] US Democrats warn Trump that Iran ceasefire must apply to Lebanon | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-09T17:38:26Z
+URL: https://www.aljazeera.com/news/2026/4/9/us-democrats-warn-trump-that-iran-ceasefire-must-apply-to-lebanon
+Summary: A group of US Democratic lawmakers condemns Israel's intensifying attacks on Lebanon, warning it risks collapsing the US-Iran ceasefire and reigniting regional war. They urge President Donald Trump to rein in Israeli Prime Minister Benjamin Netanyahu. The lawmakers stress that for the ceasefire to hold, Lebanon must be included, pointing to Pakistani mediator Shehbaz Sharif's statement that the truce applies 'everywhere including Lebanon'.
+
+[6] UK says three Russian submarines tracked during ‘covert’ operation | Technology News | Al Jazeera
+Published: 2026-04-09T18:20:57Z
+URL: https://www.aljazeera.com/news/2026/4/9/uk-says-three-russian-submarines-tracked-during-covert-operation
+Summary: British Defence Minister John Healey says the UK tracked and deterred three Russian submarines in UK waters during a covert month-long operation. He states no evidence was found that the vessels damaged undersea infrastructure but reveals the operation to 'call out' Russian activity. Healey warns President Vladimir Putin that any attempt to damage undersea cables or pipelines will have serious consequences.
+
+[7] ‘Not some piece of ice’: Greenland hits back at Trump insult | Donald Trump News | Al Jazeera
+Published: 2026-04-09T18:22:55Z
+URL: https://www.aljazeera.com/news/2026/4/9/not-some-piece-of-ice-greenland-hits-back-at-trump-insult
+Summary: Greenland Prime Minister Jens-Frederik Nielsen pushes back against US President Donald Trump's description of Greenland as a 'big, poorly run, piece of ice'. Nielsen calls Greenland a proud nation and urges NATO allies to stand together to defend international law. He says diplomatic talks with the US and Denmark are ongoing but that Trump's desire to 'take over or control Greenland' has not been taken off the table.
+
+[8] Iranians rally nationwide to honour late leader Ali Khamenei | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-09T18:23:47Z
+URL: https://www.aljazeera.com/gallery/2026/4/9/iranians-rally-nationwide-to-honor-late-leader-ali-khamenei
+Summary: Thousands of Iranians have gathered nationwide to honor former Supreme Leader Ali Khamenei, who was killed in US-Israeli strikes at the beginning of the latest Middle East conflict. State television broadcast footage of memorial rallies in cities including Tehran. A formal state funeral has yet to be held due to the ongoing war.
+
+[9] Iran says it ‘would be dumb’ for US to let Netanyahu kill diplomacy | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-09T18:49:00Z
+URL: https://www.aljazeera.com/news/2026/4/9/iran-says-it-would-be-dumb-for-us-to-let-netanyahu-kill-diplomacy
+Summary: Iranian Foreign Minister Abbas Araghchi says it would be 'dumb' for the US to allow Israel to jeopardize the regional ceasefire by continuing intense attacks on Lebanon. He suggests Israeli Prime Minister Benjamin Netanyahu has an ulterior motive linked to his corruption trial. Araghchi's comments mirror language used by US Vice President JD Vance and come despite US claims that Israel agreed to scale back operations in Lebanon.
+
+[10] US led ‘historic’ foreign aid decline in 2025 amid Trump cuts: OECD | Donald Trump News | Al Jazeera
+Published: 2026-04-09T19:01:21Z
+URL: https://www.aljazeera.com/news/2026/4/9/us-led-historic-foreign-aid-decline-in-2025-amid-trump-cuts-oecd
+Summary: Preliminary OECD data shows international development aid from its members dropped by about 23% in 2025, led by a nearly 57% decline from the United States. This marks the largest annual drop since recording began, occurring as global humanitarian needs grow. The OECD notes the US alone drove three-quarters of the decline, which coincides with President Donald Trump's widespread cuts to aid infrastructure.
+
+[11] US fertility rate drops to all-time low, continuing a two-decade decline | Health News | Al Jazeera
+Published: 2026-04-09T19:30:36Z
+URL: https://www.aljazeera.com/news/2026/4/9/us-fertility-rate-drops-to-all-time-low-continuing-a-two-decade-decline
+Summary: US fertility rate has dropped to an all-time low, continuing a nearly 23% decline since 2007. Experts attribute the change to factors like changing priorities among women, cost of living, and high childcare expenses. The Trump administration has promoted pro-birth policies like increasing IVF access, but has also proposed slashing social spending, suggesting programs like childcare be handled by states.
+
+[12] Saudi Arabia says operational activities halted at several energy sites | News | Al Jazeera
+Published: 2026-04-09T20:09:52Z
+URL: https://www.aljazeera.com/news/2026/4/9/saudi-arabia-says-operational-activities-halted-at-several-energy-sites
+Summary: Saudi Arabia says operational activities have been halted at several energy facilities due to recent attacks, which killed one person and injured seven. The attacks reduced the kingdom's oil production capacity by approximately 600,000 barrels per day. These incidents contribute to oil market volatility and occur amid a shaky US-Iran ceasefire, with disagreement over whether the truce applies to Lebanon.
+
+[13] Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-09T20:16:45Z
+URL: https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran
+Summary: Iran's Supreme Leader Mojtaba Khamenei claims a 'final victory' in the war with Israel and the US, saying Tehran 'astonished the world'. In a statement read on television, he says Iran will demand compensation for damages and warns the country is ready to respond if attacks resume. He references the Strait of Hormuz, stating Iran will move to a 'new phase', amid a fragile ceasefire threatened by Israeli attacks on Lebanon.
+
+[14] Gaza journalists mourn Al Jazeera’s Wishah, killed by Israel | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-09T20:41:58Z
+URL: https://www.aljazeera.com/news/2026/4/9/gaza-journalists-mourn-al-jazeeras-wishah-killed-by-israel
+Summary: Gaza journalists are mourning Al Jazeera correspondent Mohammed Wishah, who was killed when an Israeli drone struck his car. Wishah is the latest Al Jazeera journalist killed by Israel in Gaza since the war began in October 2023. Colleagues describe him as a spiritual father figure and believe he was deliberately targeted following an incitement campaign against him by the Israeli army.
+
+================================================================================
 RUN TIME UTC: 2026-04-09T16:19:41Z
 WINDOW: Last 6 hours
 ARTICLES USED: 14
