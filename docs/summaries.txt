@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-04-10T06:53:26Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+The articles cover ongoing tensions in the Strait of Hormuz following a US-Iran ceasefire, with shipping largely halted and energy prices expected to remain high. They also report on regional diplomatic developments on day 42 of the conflict and include a sports story about boxer Tyson Fury's comeback fight.
+
+ARTICLE BREAKDOWN
+[1] Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire | Shipping News | Al Jazeera
+Published: 2026-04-10T02:47:13Z
+URL: https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire
+Summary: Shipping traffic in the Strait of Hormuz remains extremely limited despite a ceasefire agreement between the US and Iran, with only a handful of vessels transiting compared to the usual 120-140 daily. Over 600 vessels, including many tankers, are still stranded in the Gulf. The US and Iran accuse each other of not honoring the truce, which includes a commitment to allow safe passage.
+
+[2] Energy prices may take ‘months’ to normalise, despite ceasefire: Analysts | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-10T05:41:18Z
+URL: https://www.aljazeera.com/economy/2026/4/10/energy-prices-may-take-months-to-normalise-despite-ceasefire-analysts
+Summary: Analysts state that energy prices could take months to return to pre-war levels despite the ceasefire, as the predictable flow of cargo through the Strait of Hormuz has not been restored. The conflict led Iran to choke off the strait and attack energy infrastructure, causing global shortages and price spikes. Experts note it is too early to predict a return to normal due to the complexity involving multiple regional and global powers.
+
+[3] Iran war: What is happening on day 42 of US-Israeli attacks? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-10T06:14:38Z
+URL: https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks
+Summary: On day 42 of the conflict, a Pakistan-brokered US-Iran ceasefire is in effect but disputes over its scope are fueling tensions. Israel's Prime Minister has ordered officials to begin direct negotiations with Lebanon following deadly attacks, while Iran's president warned that Israeli strikes violate the ceasefire. Diplomatic efforts continue, with Pakistan set to host US-Iran talks and Israel-Lebanon talks planned in Washington.
+
+[4] Tyson Fury insists he’s ‘still got it’ ahead of Makhmudov comeback fight | Boxing News | Al Jazeera
+Published: 2026-04-10T06:15:37Z
+URL: https://www.aljazeera.com/sports/2026/4/10/tyson-fury-insists-ive-still-go-it-ahead-of-makhmudov-comeback-fight
+Summary: Former world heavyweight champion Tyson Fury says he is focused on his comeback fight against Russian-born heavyweight Arslanbek Makhmudov this Saturday. Fury, returning after a 15-month absence, insisted he would not overlook his opponent despite public interest in a potential future fight with Anthony Joshua. He hinted that after this bout, his plans for 2026 could include fights against Joshua and a third match with Oleksandr Usyk.
+
+================================================================================
 RUN TIME UTC: 2026-04-10T02:37:53Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
