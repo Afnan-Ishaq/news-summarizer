@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-10T20:39:11Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+This batch of articles covers a range of international developments, with a focus on high-stakes diplomacy and conflict. The central theme is the precarious US-Iran ceasefire talks, with related stories on regional tensions and Israeli-Palestine issues. Other articles cover US domestic policy, a UK migration tragedy, a royal legal dispute, and US political speculation.
+
+ARTICLE BREAKDOWN
+[1] JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-10T16:05:36Z
+URL: https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan
+Summary: US Vice President JD Vance has departed for Pakistan to lead talks on ending the US-Israeli war with Iran, expressing optimism about 'positive' results. He stated that President Trump gave him clear guidelines and that the US negotiating team would be receptive if Iran negotiated in good faith but not if Iran tried to 'play' them. The article notes that Vance's selection may be due to Iranian wariness of other US envoys and that the format of the negotiations was not yet clear.
+
+[2] Netanyahu removes Spain from Gaza coordination centre over ‘hostility’ | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-10T16:39:40Z
+URL: https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility
+Summary: Israeli Prime Minister Benjamin Netanyahu has barred Spain from participating in a US-led coordination centre overseeing the Gaza ceasefire, accusing Spain of waging a diplomatic war and defaming the Israeli army. Israeli Foreign Minister Gideon Saar also criticized Spanish Prime Minister Pedro Sanchez. Relations have deteriorated due to Spain's recognition of Palestine, its opposition to the US-Israel war on Iran, and its closure of airspace to US warplanes involved in that conflict.
+
+[3] Israeli settlers turn Passover into celebration of ethnic cleansing | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-10T16:56:41Z
+URL: https://www.aljazeera.com/features/2026/4/10/israeli-settlers-turn-passover-celebration-ethnic-cleansing
+Summary: The article reports on Palestinian displacement in the West Bank, focusing on a family forced from their home near the al-Auja spring. It describes how, during Passover, thousands of Israeli settlers celebrated at the spring, with videos crediting young settlers for making their return possible. According to UN data, over 1,700 Palestinians from 36 communities were displaced in the first three months of 2026 due to settler violence and access restrictions.
+
+[4] US federal court hears new case against Trump tariffs | Business and Economy News | Al Jazeera
+Published: 2026-04-10T17:35:45Z
+URL: https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs
+Summary: A US federal court is hearing a case brought by several states and small businesses seeking to overturn temporary global import tariffs imposed by President Trump. The plaintiffs argue the 10% tax, enacted under a 1974 trade law, illegally sidesteps a Supreme Court ruling that struck down Trump's earlier tariffs. They contend the law is meant for short-term monetary emergencies, not for addressing routine trade deficits, which is the administration's stated reason for the tariffs.
+
+[5] OIC condemns Israeli approval of 34 new West Bank settlements | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-10T18:01:35Z
+URL: https://www.aljazeera.com/news/2026/4/10/oic-condemns-israeli-approval-of-34-new-west-bank-settlements
+Summary: The Organisation of Islamic Cooperation has condemned Israel's reported 'secret' approval of 34 new settlements in the occupied West Bank, calling it a violation of international law. The Palestinian Presidency's office also condemned the plan. The OIC statement said all Israeli measures aimed at changing the geographic and demographic reality in occupied Palestinian territory are null and void, and warned that such policies undermine the two-state solution.
+
+[6] Is the US-Iran ceasefire already doomed? | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-10T18:01:47Z
+URL: https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed
+Summary: This opinion piece analyzes the upcoming US-Iran talks, noting expectations are modest and the meeting might not happen. It argues the ceasefire reflects Iran's terms more than America's, as negotiations are based on Tehran's 10-point proposal which includes significant demands like sanctions relief and US troop withdrawal. The article suggests that even if talks fail, the ceasefire's success may lie in forestalling a return to all-out war, and that Iran is likely to use its control of the Strait of Hormuz to rebuild economic ties rather than as direct coercion.
+
+[7] UK police arrest man after four die during Channel crossing attempt | Migration News | Al Jazeera
+Published: 2026-04-10T18:41:22Z
+URL: https://www.aljazeera.com/news/2026/4/10/uk-police-arrest-man-after-four-die-during-channel-crossing-attempt
+Summary: UK police have arrested a 27-year-old Sudanese man on suspicion of endangering others after four people died trying to cross the English Channel from France. The arrest followed an incident where two men and two women were swept away while attempting to board a small boat off the French coast. The National Crime Agency stated the investigation into the deaths and the boat launch is ongoing, led by French prosecutors.
+
+[8] New tensions emerge before US-Iran war ceasefire talks in Pakistan | Donald Trump News | Al Jazeera
+Published: 2026-04-10T19:21:54Z
+URL: https://www.aljazeera.com/news/2026/4/10/new-tensions-emerge-before-us-iran-war-ceasefire-talks-in-pakistan
+Summary: New tensions have emerged ahead of planned US-Iran ceasefire talks in Pakistan. An Iranian official stated that two preconditions—a ceasefire in Lebanon and the release of Iran's blocked assets—must be met before negotiations begin. Concurrently, President Trump reiterated threats of renewed attacks if no deal is reached, claiming Iran has 'no cards' other than control of international waterways. The Iranian military also warned it has its 'fingers on the trigger' due to US and Israeli breaches of trust.
+
+[9] Prince Harry sued for defamation by Sentebale charity he co-founded | Courts News | Al Jazeera
+Published: 2026-04-10T20:05:01Z
+URL: https://www.aljazeera.com/news/2026/4/10/prince-harry-sued-for-defamation-by-sentebale-charity-he-co-founded
+Summary: The charity Sentebale, which Prince Harry co-founded, is suing him for defamation in a UK court. The charity alleges Harry and a former trustee orchestrated an 'adverse media campaign' that caused operational disruption and reputational harm. A spokesperson for Prince Harry said he 'categorically' rejects the 'offensive and damaging' libel claim. The legal action follows a public dispute over charity management that led to Harry and his co-founder stepping down as patrons last year.
+
+[10] Democrat Kamala Harris teases 2028 presidential bid, following Trump loss | Elections News | Al Jazeera
+Published: 2026-04-10T20:24:03Z
+URL: https://www.aljazeera.com/news/2026/4/10/democrat-kamala-harris-teases-2028-presidential-bid-following-trump-loss
+Summary: Former Democratic presidential nominee Kamala Harris hinted at a possible 2028 presidential run during an interview with civil rights leader Al Sharpton. When asked if she would run again, she replied, 'I might, I might. I'm thinking about it,' and emphasized her experience as vice president. Harris was the Democratic nominee in 2024 after President Biden stepped down late in the race, but she lost the election to Donald Trump.
+
+================================================================================
 RUN TIME UTC: 2026-04-10T15:55:23Z
 WINDOW: Last 6 hours
 ARTICLES USED: 14
