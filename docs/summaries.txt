@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-04-10T10:56:51Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+This batch of articles covers significant political developments and ongoing conflicts across Asia and the Middle East. Key stories include a military leader's formal rise to presidency in Myanmar, a short Easter ceasefire in the Russia-Ukraine war, and elections in Djibouti. Other reports detail continued violence and humanitarian crises in Gaza and Lebanon, alongside high-level diplomatic meetings concerning Taiwan and Iran.
+
+ARTICLE BREAKDOWN
+[1] Myanmar’s coup leader Min Aung Hlaing sworn in as president
+Published: 2026-04-10T07:36:09Z
+URL: https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president
+Summary: Senior General Min Aung Hlaing, who led a coup in 2021, has been sworn in as Myanmar's president after being elected by a pro-military parliament. In his inauguration address, he stated Myanmar was returning to democracy and pledged to enhance international relations, particularly with ASEAN. The election and ceremony have been widely criticized as a sham by democracy watchdogs and Western governments.
+
+[2] Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire
+Published: 2026-04-10T07:54:09Z
+URL: https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire
+Summary: Russia and Ukraine have agreed to a 32-hour ceasefire for Orthodox Easter, beginning Saturday afternoon Moscow time. Both President Vladimir Putin and President Volodymyr Zelenskyy announced the pause, with Zelenskyy stating Ukraine had proposed a similar measure. The ceasefire comes as wider diplomatic efforts remain stalled, and follows reports of continued attacks in the Dnipropetrovsk region after the announcement.
+
+[3] Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat
+Published: 2026-04-10T08:27:42Z
+URL: https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat
+Summary: This opinion piece argues the putative two-week ceasefire between the US and Iran is historically significant, revealing new regional power dynamics. The author contends Iran has offered the US and Israel an 'ejection seat' to escape a damaging conflict without achieving their war aims, rather than a simple 'off-ramp'. The article criticizes US foreign policy for consistently reflecting Israeli priorities and instigating the war based on unproven threats.
+
+[4] Djibouti votes as long-time leader seeks sixth presidential term
+Published: 2026-04-10T08:30:59Z
+URL: https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term
+Summary: Voters in Djibouti are casting ballots in a presidential election where incumbent Ismail Omar Guelleh is expected to secure a sixth term. Guelleh's path was cleared after lawmakers scrapped presidential age limits last year. The election is largely uncontested, with low early turnout reported, and has been criticized by human rights groups for repressing political freedom.
+
+[5] Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks
+Published: 2026-04-10T09:36:31Z
+URL: https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks
+Summary: Six months after a US-brokered ceasefire began, Israeli attacks have killed at least 738 people and injured over 2,000 in Gaza, according to Palestinian health authorities. The report states Israel has violated the agreement thousands of times, and a severe humanitarian crisis persists with restricted aid and medical evacuations. Over 77% of Gaza's population faces severe acute food insecurity.
+
+[6] Israel strikes residential areas, destroys homes in southern Lebanon
+Published: 2026-04-10T10:17:16Z
+URL: https://www.aljazeera.com/news/2026/4/10/israel-strikes-residential-areas-destroys-homes-in-southern-lebanon
+Summary: Israel has launched over 50 strikes across Lebanon in 24 hours, destroying homes and killing at least one person, raising fears of unraveling a fragile regional ceasefire. Hezbollah responded with rocket fire into northern Israel. A UN official warned the conflict is causing a displacement and rapidly developing food security crisis in Lebanon.
+
+[7] Will Israel and Lebanon start ceasefire talks?
+Published: 2026-04-10T10:34:34Z
+URL: https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks
+Summary: Israeli Prime Minister Benjamin Netanyahu says he has directed his cabinet to begin ceasefire talks with Lebanon 'as soon as possible', despite ongoing Israeli strikes. This follows Israel's largest-scale attacks on Lebanon, which killed hundreds. Analysts express skepticism about Israel's intentions, noting its continued bombing and priority of disarming Hezbollah even as it proposes talks.
+
+[8] Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi
+Published: 2026-04-10T10:39:17Z
+URL: https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi
+Summary: Taiwan's opposition Kuomintang (KMT) leader Cheng Li-wun met Chinese President Xi Jinping in Beijing, with both stating opposition to Taiwan independence and desire for a peaceful resolution. Cheng stressed shared cultural heritage and suggested she would slow Taiwan's military build-up. The meeting is the highest-level between Taiwanese and Chinese leaders since 2015.
+
+================================================================================
 RUN TIME UTC: 2026-04-10T06:53:26Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
