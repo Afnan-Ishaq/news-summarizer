@@ -1,5 +1,97 @@
 [
   {
+    "time": "2026-04-10T15:55:23Z",
+    "window_hours": 6,
+    "article_count": 14,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours. The reports focus on ongoing crises in Gaza and the Middle East, geopolitical tensions involving the US, NATO, Cuba, and Russia-Ukraine, as well as domestic stories from sports, space, and politics.",
+    "articles": [
+      {
+        "title": "Gaza families still unable to bury dead six months into ‘ceasefire’ | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire",
+        "published": "2026-04-10T11:06:19Z",
+        "summary": "Six months into a ceasefire agreement, thousands of Palestinian families in Gaza cannot bury loved ones believed trapped under rubble, with about 10,000 people still missing. A father in Bureij refugee camp says he cannot retrieve his children's bodies without heavy equipment, which has not arrived despite ceasefire provisions for recovery. Israeli attacks have continued during this period, with hundreds killed since the truce began."
+      },
+      {
+        "title": "Cuban president defiant despite Trump pressure to resign | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/cuban-president-defiant-despite-trump-pressure-to-resign",
+        "published": "2026-04-10T11:34:14Z",
+        "summary": "Cuban President Miguel Diaz-Canel says he will not resign under US pressure, stating Cuba is a sovereign state not subject to US designs. The Trump administration has escalated threats, imposed an oil blockade, and hinted at military action against the island. Despite the pressure, Russia remains a close ally, with a Russian oil tanker recently reaching Cuba to address critical shortages."
+      },
+      {
+        "title": "‘Closer to a break than ever’: Can NATO survive if Trump pulls the US out? | NATO News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/closer-to-a-break-than-ever-can-nato-survive-if-trump-pulls-the-us-out",
+        "published": "2026-04-10T11:44:10Z",
+        "summary": "Analysts say NATO is closer to a break than ever due to a deep rift over allies not joining the US war on Iran. While formally leaving NATO would require Congressional approval, President Trump could undermine it by withdrawing troops from Europe or ceasing military coordination. Experts state that such disengagement would severely damage the alliance's credibility and effectiveness."
+      },
+      {
+        "title": "Sorry Keir Starmer, the Middle East does not listen to Britain any more | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/10/sorry-keir-starmer-the-middle-east-does-not-listen-to-britain-any-more",
+        "published": "2026-04-10T11:53:38Z",
+        "summary": "This opinion piece argues that despite UK Prime Minister Keir Starmer's diplomatic visit to the Gulf, Britain is no longer a decisive actor in the Middle East. It states that key decisions are being made in Washington and Tehran, with Britain bypassed due to eroded influence from the Iraq war, Brexit, and its stance on Gaza. The author concludes that UK diplomacy in the region is now performance without real influence."
+      },
+      {
+        "title": "Liverpool boss Slot says club and fans back him before Anfield protests | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/10/liverpool-boss-slot-says-club-and-fans-back-him-ahead-of-anfield-protests",
+        "published": "2026-04-10T12:53:42Z",
+        "summary": "Liverpool manager Arne Slot says he feels 'complete support' from the club's hierarchy and fans despite a poor run of form and planned protests over rising ticket prices. The team has lost three consecutive matches and is in a tight race for Champions League qualification. Slot hopes the famous Anfield atmosphere will not be affected by the planned fan protests."
+      },
+      {
+        "title": "Egypt and Al-Ahly keeper El-Shenawy banned four games for striking referee | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/10/egypt-and-al-ahly-keeper-el-shenawy-banned-four-games-for-striking-referee",
+        "published": "2026-04-10T12:54:30Z",
+        "summary": "Egypt and Al-Ahly goalkeeper Mohamed El-Shenawy has been banned for four matches and fined for striking a referee on the head. The incident occurred after a penalty appeal was denied in stoppage time during a 1-1 draw. The ban will sideline him until the final week of the league playoffs."
+      },
+      {
+        "title": "‘Neither war nor peace’: What Gaza looks like six months into ‘ceasefire’ | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire",
+        "published": "2026-04-10T13:17:37Z",
+        "summary": "Six months after a ceasefire agreement, conditions in Gaza remain fragile with no tangible improvement in humanitarian or security conditions. The agreement's provisions for a full ceasefire, Israeli withdrawal, and expanded aid have not been fulfilled as promised. Israeli attacks have continued, killing at least 700 people during the ceasefire period, leaving civilians trapped in instability."
+      },
+      {
+        "title": "Russia suffers ‘record’ soldier casualties as Ukraine ups drone production | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/ukraine-says-russia-suffers-record-losses-of-soldiers",
+        "published": "2026-04-10T13:19:33Z",
+        "summary": "Ukraine reports Russian soldier casualties reached a new monthly high in March, largely due to increased drone strikes. Ukrainian figures suggest Russian recruitment is falling short of its annual target, leading to a manpower weakness. The territory Russia captures for its losses is also in long-term decline, according to a Washington-based think tank."
+      },
+      {
+        "title": "Artemis II splashdown: When it lands, risks and how to watch live | Space News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/artemis-ii-splashdown-when-it-lands-risks-and-how-to-watch-live",
+        "published": "2026-04-10T14:13:52Z",
+        "summary": "NASA's Artemis II mission is set to conclude with the Orion spacecraft splashing down in the Pacific Ocean off San Diego. The splashdown, a critical test for future moon missions, is scheduled for April 11 at 00:07 GMT. Recovery teams will retrieve the four astronauts after the capsule re-enters Earth's atmosphere at high speed."
+      },
+      {
+        "title": "Pakistan sets modest goal for US-Iran summit: A deal to keep talks going | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going",
+        "published": "2026-04-10T14:26:44Z",
+        "summary": "Pakistan aims for a modest outcome from US-Iran talks in Islamabad: an agreement to continue dialogue. The negotiations, following a two-week ceasefire, will be conducted as 'proximity talks' with Pakistani officials shuttling messages between separate rooms. Experts say a major breakthrough is not expected, but keeping talks alive is the immediate goal."
+      },
+      {
+        "title": "Zelenskyy says Ukrainian interceptors downed Iran drones in the Middle East | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/zelenskyy-says-ukrainian-interceptors-downed-iran-drones-in-the-middle-east",
+        "published": "2026-04-10T15:19:16Z",
+        "summary": "Ukrainian President Volodymyr Zelenskyy confirms that Ukrainian technology was used to shoot down Iranian drones in several Middle Eastern countries. He stated that Ukrainian experts were deployed to support air defence systems in the region. In exchange, Kyiv is receiving weapons to protect its own energy infrastructure and, in some cases, financial arrangements."
+      },
+      {
+        "title": "Inflation rises in US amid Iran war, Hormuz blockade | Inflation News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/inflation-rises-in-us-amid-iran-war-hormuz-blockade",
+        "published": "2026-04-10T15:20:38Z",
+        "summary": "US consumer prices rose 0.9% in March, one of the highest short-term rates in years, largely driven by energy price spikes due to the war on Iran and the Strait of Hormuz blockade. Gasoline prices increased by 21.2%. Although a ceasefire has been agreed, marine traffic through the strait remains limited and US petrol prices are still above $4 per gallon."
+      },
+      {
+        "title": "Potholes and progress: Mamdani reflects on 100 days as New York’s mayor | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/10/potholes-and-progress-mamdani-reflects-on-100-days-as-new-yorks-mayor",
+        "published": "2026-04-10T15:36:49Z",
+        "summary": "New York Mayor Zohran Mamdani, the city's first Muslim mayor, reflects on his first 100 days marked by childcare reforms and pothole fixes. A major victory was securing funding for universal childcare, starting with 2,000 new daycare seats in lower-income neighborhoods. His tenure has focused on affordability and working-class issues, though he faced criticism from within his own party."
+      },
+      {
+        "title": "In Peru’s presidential race, a pro-Trump frontrunner sinks in final stretch | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/longform/2026/4/10/in-perus-presidential-race-a-pro-trump-frontrunner-sinks-in-final-stretch",
+        "published": "2026-04-10T15:49:05Z",
+        "summary": "Peruvian presidential candidate Rafael Lopez Aliaga, who pitched himself as pro-Trump, has fallen in the polls ahead of Sunday's vote. His support has dropped to 7%, overtaken by right-wing rival Keiko Fujimori. Analysts suggest Trump's aggressive foreign policy has diminished his appeal in Latin America, and the election has focused more on domestic issues."
+      }
+    ]
+  },
+  {
     "time": "2026-04-10T10:56:51Z",
     "window_hours": 6,
     "article_count": 8,
