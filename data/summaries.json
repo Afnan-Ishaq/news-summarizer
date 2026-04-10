@@ -1,5 +1,67 @@
 [
   {
+    "time": "2026-04-10T02:37:53Z",
+    "window_hours": 6,
+    "article_count": 9,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours. Key stories include a US Justice Department probe into the NFL, political developments related to the Epstein case, and significant events in sports, international relations, and conflict zones.",
+    "articles": [
+      {
+        "title": "US Justice Department opens probe into NFL over anticompetitive practices",
+        "url": "https://www.aljazeera.com/sports/2026/4/9/us-justice-department-opens-probe-into-nfl-over-anticompetitive-practices",
+        "published": "2026-04-09T20:57:46Z",
+        "summary": "The US Justice Department has opened an investigation into whether the NFL has engaged in anticompetitive practices, particularly concerning broadcast sales to streaming services. The NFL stated that over 87% of its games are on free broadcast TV. This follows previous regulatory concerns about the shift of live sports to subscription services."
+      },
+      {
+        "title": "US First Lady Melania Trump denies connection to Epstein in rare speech",
+        "url": "https://www.aljazeera.com/news/2026/4/9/us-first-lady-melania-trump-denies-connection-to-epstein-in-rare-speech",
+        "published": "2026-04-09T21:11:57Z",
+        "summary": "First Lady Melania Trump denied any connection to Jeffrey Epstein or Ghislaine Maxwell in a rare White House speech. She specifically refuted rumors of meeting Donald Trump on Epstein's plane and stated her name does not appear in related court documents. She called for Congress to hold a hearing for Epstein survivors."
+      },
+      {
+        "title": "Real Madrid vs Girona: La Liga – teams, start, kickoff time, lineups",
+        "url": "https://www.aljazeera.com/sports/2026/4/9/real-madrid-vs-girona-la-liga-teams-start-kickoff-time-lineups",
+        "published": "2026-04-09T21:17:01Z",
+        "summary": "Real Madrid faces Girona in a critical La Liga match after consecutive losses, trailing Barcelona by seven points. The article previews the match details and notes Real Madrid's challenging week, which also includes a Champions League return leg against Bayern Munich. It provides context on both teams' recent form."
+      },
+      {
+        "title": "CAF President Motsepe rejects Senegal’s corruption claim amid AFCON fallout",
+        "url": "https://www.aljazeera.com/sports/2026/4/9/caf-president-motsepe-rejects-senegals-corruption-claim-after-afcon-furore",
+        "published": "2026-04-09T21:33:43Z",
+        "summary": "CAF President Patrice Motsepe rejected corruption accusations from Senegal's government following CAF's decision to strip Senegal of its AFCON title and award it to Morocco. Motsepe welcomed any legal action and expressed confidence in the Court of Arbitration for Sport's pending review. The decision was based on Senegal leaving the field during the final."
+      },
+      {
+        "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
+        "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks",
+        "published": "2026-04-09T21:36:43Z",
+        "summary": "Hospitals in Beirut are overwhelmed after Israeli attacks, with one hospital receiving 76 injured and six dead in under an hour. The Lebanese Health Ministry reported a preliminary toll of 303 killed and 1,150 injured, with many victims being children and civilians. Medical workers described the intensity of the attacks as unprecedented."
+      },
+      {
+        "title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
+        "url": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing",
+        "published": "2026-04-09T22:02:12Z",
+        "summary": "Democrats on the House Oversight Committee accused former Attorney General Pam Bondi of defying a subpoena to testify about the handling of Jeffrey Epstein files. They warned she could be held in contempt of Congress. Bondi, who was fired on April 2, had been subpoenaed last month regarding the release of records under the Epstein Files Transparency Act."
+      },
+      {
+        "title": "Judge bars Trump administration from nixing protected status for Ethiopians",
+        "url": "https://www.aljazeera.com/news/2026/4/9/judge-bars-trump-administration-from-nixing-protected-status-for-ethiopians",
+        "published": "2026-04-09T22:35:26Z",
+        "summary": "A federal judge blocked the Trump administration from revoking Temporary Protected Status (TPS) for about 5,000 Ethiopians, ruling the administration ignored congressional procedures. The judge stated presidential whims cannot supplant statutory obligations. The Department of Homeland Security criticized the ruling as judicial activism."
+      },
+      {
+        "title": "Police in Venezuela block protesters calling for higher wages, pensions",
+        "url": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions",
+        "published": "2026-04-09T22:50:43Z",
+        "summary": "Police in Caracas blocked protesters marching to demand higher wages and pensions. Acting President Delcy Rodriguez had asked for patience, promising a wage increase on May 1. Protesters, however, demanded a salary with real purchasing power, as many public sector workers survive on roughly $160 per month."
+      },
+      {
+        "title": "Ecuador hikes tariffs to 100-percent in feud with neighbour Colombia",
+        "url": "https://www.aljazeera.com/news/2026/4/9/ecuador-hikes-tariffs-to-100-percent-in-feud-with-neighbour-colombia",
+        "published": "2026-04-09T23:33:53Z",
+        "summary": "Ecuador increased tariffs on Colombian imports to 100%, accusing Colombia of failing to address drug trafficking and border security. Colombian President Gustavo Petro responded that this action signifies the end of the Andean Pact for Colombia and called for a shift toward the Mercosur trade alliance. This is the latest escalation in a ongoing dispute between the two leaders."
+      }
+    ]
+  },
+  {
     "time": "2026-04-09T20:53:56Z",
     "window_hours": 6,
     "article_count": 14,
