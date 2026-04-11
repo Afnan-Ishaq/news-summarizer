@@ -1,4 +1,38 @@
 ================================================================================
+RUN TIME UTC: 2026-04-11T02:23:48Z
+WINDOW: Last 6 hours
+ARTICLES USED: 5
+
+OVERALL SUMMARY
+This batch of articles covers a range of international news from sports and technology to diplomacy and space exploration. Key stories include a significant football result affecting the Spanish league title race, an attack on a tech CEO's home, a trade dispute between South American nations, a new security partnership, and the successful return of a lunar mission crew.
+
+ARTICLE BREAKDOWN
+[1] Real Madrid hand Barcelona huge La Liga title chance after draw with Girona | Football News | Al Jazeera
+Published: 2026-04-10T21:23:29Z
+URL: https://www.aljazeera.com/sports/2026/4/10/real-madrid-hand-barcelona-huge-la-liga-title-chance-after-draw-with-girona
+Summary: Real Madrid drew 1-1 with Girona in La Liga, extending their winless run. The result means league leaders Barcelona can move nine points clear at the top if they win their next match. Real Madrid's stuttering form has tilted the title race firmly in favor of their rivals.
+
+[2] OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack | Crime News | Al Jazeera
+Published: 2026-04-10T22:29:07Z
+URL: https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack
+Summary: A 20-year-old man was arrested after an improvised incendiary device was thrown at the San Francisco residence of OpenAI CEO Sam Altman. The attack ignited part of an exterior gate, but no one was hurt. The suspect was later located near OpenAI's headquarters, and the incident occurs amid heightened security concerns and activist criticism of the company.
+
+[3] Colombia responds to Ecuador’s tariff hike with 100-percent import tax | Government News | Al Jazeera
+Published: 2026-04-10T23:36:40Z
+URL: https://www.aljazeera.com/news/2026/4/10/colombia-responds-to-ecuadors-tariff-hike-with-100-percent-import-tax
+Summary: Colombia has announced it will raise tariffs on imports from Ecuador to 100 percent, matching a rate Ecuador set a day earlier. This tit-for-tat move escalates a trade and diplomatic spat linked to accusations over drug trafficking and disputes about the imprisonment of former Ecuadorian Vice President Jorge Glas. Colombian officials stated diplomatic efforts had been exhausted before implementing the countermeasures.
+
+[4] Brazil announces US partnership to intercept weapons, drug trafficking | Government News | Al Jazeera
+Published: 2026-04-10T23:39:22Z
+URL: https://www.aljazeera.com/news/2026/4/10/brazil-announces-us-partnership-to-intercept-weapons-drug-trafficking
+Summary: Brazil has announced a new security partnership with the United States to combat the illicit traffic of drugs and weapons. The deal, called the DESARMA programme, involves real-time data sharing, cargo tracking, and joint operations. The Brazilian government revealed it seized over 1,160 illegally imported arms from the US in the past year, which largely end up with criminal networks.
+
+[5] Artemis II splashdown: Astronauts return to Earth after lunar mission | Science and Technology News | Al Jazeera
+Published: 2026-04-11T00:08:15Z
+URL: https://www.aljazeera.com/news/2026/4/11/artemis-ii-splashdown-astronauts-return-to-earth-after-lunar-mission
+Summary: NASA's Artemis II crew has safely splashed down in the Pacific Ocean, completing the first human mission to travel around the Moon and back in over 50 years. The astronauts underwent a high-speed re-entry and parachute landing after their 10-day voyage. The mission, which set several historic firsts, is seen as a critical test flight for future lunar landing plans.
+
+================================================================================
 RUN TIME UTC: 2026-04-10T20:39:11Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
