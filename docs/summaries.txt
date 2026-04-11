@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-11T20:35:51Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last six hours, including a violent police shooting in New York, a temporary Easter ceasefire in Ukraine, and political developments in Iraq. Other stories detail regional conflicts in the Middle East, a US court ruling on White House construction, a sports result, and diplomatic talks.
+
+ARTICLE BREAKDOWN
+[1] Machete-wielding man killed by police in New York’s Grand Central station | Crime News | Al Jazeera
+Published: 2026-04-11T15:51:07Z
+URL: https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station
+Summary: A man wielding a machete was fatally shot by police at New York's Grand Central station after allegedly wounding three elderly individuals. The police responded to a call about a man with a knife, and an officer opened fire when the man did not drop the weapon. The three victims were hospitalized in stable condition, and the suspect's identity and motives are not yet known.
+
+[2] Russia-Ukraine Orthodox Easter ceasefire begins | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-11T16:09:51Z
+URL: https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins
+Summary: A 32-hour ceasefire between Russia and Ukraine has begun for Orthodox Easter, with both sides agreeing to observe it if the other does. Hours before the truce, Russia launched drone attacks killing four people in Ukraine, while Ukrainian drone attacks killed four in Russian-occupied areas. The two sides also exchanged 175 prisoners of war each, but previous ceasefires have been marred by violations.
+
+[3] Iraq parliament elects Kurdish politician Nizar Amedi as president | Elections News | Al Jazeera
+Published: 2026-04-11T17:24:02Z
+URL: https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president
+Summary: Iraq's parliament elected Nizar Amedi as president, ending a five-month political deadlock. Amedi, nominated by the Patriotic Union of Kurdistan, secured 227 votes and pledged an 'Iraq First' approach. Attention now turns to the selection of a prime minister, a process complicated by sectarian power-sharing rules and US opposition to the potential nomination of former Prime Minister Nouri al-Maliki.
+
+[4] Ceasefire brings some relief for Iranians but economic outlook remains grim | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-11T17:29:23Z
+URL: https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim
+Summary: Activity in Tehran's Grand Bazaar has increased slightly following a ceasefire in the US-Israel war on Iran, but sales remain slow compared to pre-war levels. Vendors report price increases of 20-30% and near-complete stagnation, exacerbated by a nationwide internet shutdown that has crippled online commerce. The economic hardship continues despite the temporary pause in fighting.
+
+[5] Israeli settlers kill Palestinian during raid on occupied West Bank village | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-11T18:47:48Z
+URL: https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village
+Summary: Israeli settlers killed a 23-year-old Palestinian man, Ali Majed Hamadneh, during a raid on the village of Deir Jarir in the occupied West Bank. The Palestinian news agency reported armed settlers, protected by Israeli forces, opened fire on residents. The raid comes two days after Israel approved 34 new settlements, which are illegal under international law, amid a surge in settler violence.
+
+[6] US appeals court extends deadline to halt White House ballroom construction | Donald Trump News | Al Jazeera
+Published: 2026-04-11T18:58:53Z
+URL: https://www.aljazeera.com/news/2026/4/11/us-appeals-court-extends-deadline-to-halt-white-house-ballroom-construction
+Summary: A US appeals court extended a deadline to halt construction on a White House ballroom until April 17, allowing the Trump administration time to seek Supreme Court review. The court's majority, however, questioned the administration's national security arguments for the project, noting it had not explained how the injunction interfered with existing safety plans. The ruling followed a lower court order that paused the construction for lack of congressional authorization.
+
+[7] Barcelona move 9 clear of Real Madrid with derby win as La Liga title nears | Football News | Al Jazeera
+Published: 2026-04-11T19:14:46Z
+URL: https://www.aljazeera.com/sports/2026/4/11/barcelona-move-9-clear-of-real-madrid-with-derby-win-as-la-liga-title-nears
+Summary: Barcelona defeated cross-city rivals Espanyol 4-1, with Lamine Yamal setting up two goals for Ferran Torres and scoring one himself. The win extends Barcelona's lead at the top of La Liga to nine points over Real Madrid with seven rounds remaining. The victory comes after both Barcelona and Real Madrid suffered losses in the Champions League quarterfinals earlier in the week.
+
+[8] Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire | Conflict News | Al Jazeera
+Published: 2026-04-11T19:35:54Z
+URL: https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire
+Summary: Pakistan deployed fighter jets to a Saudi airbase under a mutual defence pact signed in 2025, which treats an attack on one as an attack on the other. The deployment coincides with Pakistan hosting US-Iran ceasefire talks in Islamabad. An analyst suggested the move is more a signal of Pakistan's commitments to Saudi Arabia than a significant military escalation.
+
+[9] US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-11T19:38:03Z
+URL: https://www.aljazeera.com/news/2026/4/11/us-says-two-naval-ships-transited-strait-of-hormuz-for-mine-clearing
+Summary: The US military command CENTCOM stated two destroyers transited the Strait of Hormuz to clear sea mines it says were laid by Iran's Revolutionary Guards, a claim Iran swiftly denied. A US admiral hailed it as the start of establishing a new safe passage for commerce. The back-and-forth occurred as US and Iranian delegations held high-level talks in Islamabad, with control of the strategic waterway being a key issue.
+
+[10] Israeli strikes kill at least 18 people across southern Lebanon | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-11T20:25:03Z
+URL: https://www.aljazeera.com/news/2026/4/11/israeli-strikes-kill-at-least-18-people-across-southern-lebanon
+Summary: Israeli strikes killed at least 18 people in southern Lebanon, bringing the total death toll from the conflict with Hezbollah to over 2,000, according to Lebanon's Health Ministry. The violence continues as Hezbollah rejects upcoming direct negotiations between Lebanon and Israel, which are scheduled to be held in Washington. Protesters in Beirut demonstrated against the talks, with some calling those who engage with Israel 'Zionists'.
+
+================================================================================
 RUN TIME UTC: 2026-04-11T15:35:57Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
