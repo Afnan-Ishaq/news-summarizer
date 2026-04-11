@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-11T15:35:57Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+This batch of articles covers a range of international political, conflict, and sports news from the last six hours. Key themes include diplomatic tensions between Israel and South Korea, US-Iran peace talks in Pakistan, and significant elections in Hungary and Peru. Other stories report on developments in Libya, a protest in the UK, and sports results.
+
+ARTICLE BREAKDOWN
+[1] Israel in row with South Korean leader over Palestinian abuse concerns | Crimes Against Humanity News | Al Jazeera
+Published: 2026-04-11T10:47:55Z
+URL: https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns
+Summary: A diplomatic dispute has erupted after South Korean President Lee Jae Myung shared a verified video showing Israeli soldiers abusing Palestinians. Israel's foreign ministry stated the case had been 'investigated and addressed,' while President Lee criticized Israel for not reflecting on global criticism. South Korea's foreign ministry attempted to de-escalate, framing the president's comments as a call for universal human rights.
+
+[2] We need a regional agreement for the Strait of Hormuz | United Nations | Al Jazeera
+Published: 2026-04-11T10:56:33Z
+URL: https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz
+Summary: This opinion piece argues for a long-term, law-based regional agreement to govern the Strait of Hormuz, following a ceasefire announcement that reopened the strait. It states that Iran and its Arab neighbors have the greatest stake in a stable waterway for trade. The article cites existing international maritime law, including UNCLOS, as providing a legal framework for such an agreement, including rules for unimpeded transit passage.
+
+[3] Hungary’s Viktor Orban struggling for political survival ahead of vote | Elections News | Al Jazeera
+Published: 2026-04-11T12:04:15Z
+URL: https://www.aljazeera.com/news/2026/4/11/hungarys-viktor-orban-struggling-for-political-survival-ahead-of-vote
+Summary: Hungarian Prime Minister Viktor Orban faces a close parliamentary election on Sunday, with polls showing his Fidesz party trailing the center-right Tisza party led by Peter Magyar. The article reports that a recent visit by US Vice President JD Vance and an endorsement from President Donald Trump did not improve Orban's standing and may have cost him votes due to public frustration over the Iran war. Long-time supporters are cited as abandoning Orban over issues like corruption, the healthcare system, and his stance on the Ukraine war.
+
+[4] Makeshift Gaza university offers chance to resurrect academic studies | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-11T12:15:32Z
+URL: https://www.aljazeera.com/features/2026/4/11/makeshift-gaza-university-offers-chance-to-resurrect-academic-studies
+Summary: A makeshift 'University City' built in al-Mawasi, Khan Younis, offers a physical academic space for Gaza students whose universities have been destroyed or repurposed as shelters. The solar-powered facility, created by the NGO Scholars Without Borders, has six halls that can accommodate up to 600 students daily and is shared by multiple institutions on a rotating schedule. It aims to provide a sense of normalcy and host in-person classes, particularly practical ones, for students struggling with displacement and scarce resources.
+
+[5] Libya approves first unified budget in more than a decade | Energy News | Al Jazeera
+Published: 2026-04-11T13:18:51Z
+URL: https://www.aljazeera.com/news/2026/4/11/libya-approves-first-unified-budget-in-more-than-a-decade
+Summary: Libya's rival legislative bodies have approved a unified state budget for the first time since 2013, in a rare moment of cooperation. The Central Bank of Libya described the move as a step toward financial stability, showing the country is 'capable of overcoming its differences.' The agreement comes as global demand for Libya's oil has increased due to disruptions elsewhere, though political divisions and rival military control in the east persist.
+
+[6] US-Iran direct talks on ending war under way in Pakistan | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-11T13:26:53Z
+URL: https://www.aljazeera.com/news/2026/4/11/us-iran-talks-on-ending-war-begin-in-pakistan
+Summary: The United States and Iran have begun direct talks in Islamabad, Pakistan, to end their six-week-old war, following a fragile ceasefire. The US delegation is led by Vice President JD Vance, while Iran's is led by parliamentary Speaker Mohammad Bagher Ghalibaf. According to Al Jazeera sources, there has been some progress on basic conditions, including discussions about a ceasefire in Lebanon and the possible unfreezing of Iranian assets, though these points need confirmation.
+
+[7] Arsenal shocked by Bournemouth, offering Man City Premier League lifeline | Football News | Al Jazeera
+Published: 2026-04-11T13:36:18Z
+URL: https://www.aljazeera.com/sports/2026/4/11/arsenal-shocked-by-bournemouth-offering-man-city-premier-league-lifeline
+Summary: Arsenal lost 2-1 at home to Bournemouth, giving Manchester City a chance to close the gap in the Premier League title race. Alex Scott scored the winning goal in the 74th minute for Bournemouth. Arsenal still leads by nine points, but Manchester City has two games in hand and can reduce the deficit if they win their next match.
+
+[8] Police begin arrests at UK protest against Palestine Action ban | Protests News | Al Jazeera
+Published: 2026-04-11T15:01:18Z
+URL: https://www.aljazeera.com/news/2026/4/11/police-begin-arrests-at-uk-protest-against-palestine-action-ban
+Summary: Police began arresting individuals during a mass vigil in London's Trafalgar Square protesting the UK government's ban on the campaign group Palestine Action. The protest was organized by Defend Our Juries, which demanded the ban be lifted and charges dropped. The article notes that the High Court had previously ruled the proscription unlawful, but the Metropolitan Police later resumed arrests for showing support, a move critics say defies the court.
+
+[9] Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov | Boxing News | Al Jazeera
+Published: 2026-04-11T15:04:46Z
+URL: https://www.aljazeera.com/sports/2026/4/11/hungry-fury-light-and-lean-for-heavyweight-comeback-fight-with-makhmudov
+Summary: Tyson Fury weighed in at 267.9 pounds for his heavyweight comeback fight against Arslanbek Makhmudov, which is lighter than his last fight but still three pounds heavier than his opponent. Fury, coming out of retirement, promised a knockout victory and stated his goal is to reclaim world championship belts. The fight will be broadcast on Netflix, highlighting Fury's continued commercial appeal in boxing.
+
+[10] Peru holds presidential election amid a decade of political tumult | Elections News | Al Jazeera
+Published: 2026-04-11T15:22:21Z
+URL: https://www.aljazeera.com/news/longform/2026/4/11/peru-holds-presidential-election-amid-a-decade-of-political-tumult
+Summary: Peru is holding a presidential election on Sunday amid a decade of political instability that has seen nine presidents, most implicated in corruption. The race features a record 35 candidates, with voter apathy and uncertainty high, and polls show many voters are still undecided. Frontrunner Keiko Fujimori is competing against several other contenders, including Ricardo Belmont, for a spot in the expected June run-off.
+
+================================================================================
 RUN TIME UTC: 2026-04-11T10:35:16Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
