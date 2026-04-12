@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-04-12T10:39:50Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours, including sports results, geopolitical conflict updates, a major protest, the death of a cultural icon, and an energy infrastructure report. The stories span events in the US, Brazil, Iran, Australia, the UK, India, and Saudi Arabia.",
+    "articles": [
+      {
+        "title": "UFC 327: Ulberg wins light-heavyweight belt with knockout in front of Trump | Mixed Martial Arts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/12/ufc-327-ulberg-wins-light-heavyweight-belt-with-knockout-in-front-of-trump",
+        "published": "2026-04-12T06:27:30Z",
+        "summary": "Carlos Ulberg won the vacant UFC light heavyweight title with a first-round knockout of Jiri Prochazka at UFC 327 in Miami. The fight took place with former US President Donald Trump in attendance. Ulberg secured the victory despite appearing to suffer a knee injury early in the round."
+      },
+      {
+        "title": "Neymar has to prove his fitness for Brazil’s World Cup squad: Ancelotti | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/12/neymar-has-to-prove-his-fitness-for-brazils-world-cup-squad-ancelotti",
+        "published": "2026-04-12T06:56:08Z",
+        "summary": "Brazil coach Carlo Ancelotti says Neymar could earn a place in the World Cup squad if he proves his fitness in the next two months. Neymar, Brazil's all-time leading scorer, has not played for the national team since a serious knee injury in October 2023. Ancelotti stated the forward is being evaluated and needs to continue improving his fitness."
+      },
+      {
+        "title": "Iran war: What is happening on day 44 of the US-Iran conflict? | Explainer News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict",
+        "published": "2026-04-12T08:07:31Z",
+        "summary": "Lengthy talks between the US and Iran in Islamabad have ended without an agreement to permanently end their war, jeopardizing a fragile ceasefire. Each side blamed the other for the failure of the 21-hour negotiations. US Vice President JD Vance, leading the delegation, stated the US presented a final proposal and would see if Iran accepts it."
+      },
+      {
+        "title": "Teen sprint star Gout powers to 200m win in 19.67 seconds | Athletics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/12/teen-sprint-star-gout-powers-to-200m-win-in-19-67-seconds",
+        "published": "2026-04-12T09:33:38Z",
+        "summary": "Australian teenage sprinter Gout Gout broke the world Under-20 record in the 200m with a time of 19.67 seconds at the Australian Athletics Championships. His time makes him faster than Usain Bolt was at the same age. Fellow Australian Aidan Murphy also ran under 20 seconds, finishing second with 19.88."
+      },
+      {
+        "title": "More than 500 people arrested at London rally for Palestine Action | Human Rights News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london",
+        "published": "2026-04-12T09:36:42Z",
+        "summary": "London police arrested 523 people during a pro-Palestinian sit-down demonstration in Trafalgar Square organized by the group Palestine Action. The arrests were for holding placards supporting the group, which the UK government had designated a 'terrorist' organization, a ban later overturned by the High Court. Protest organizers accused the government of complicity in genocide in Gaza and criticized the police crackdown."
+      },
+      {
+        "title": "Legendary Indian Bollywood singer Asha Bhosle dies aged 92 | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/12/legendary-bollywood-singer-asha-bhosle-dies-aged-92",
+        "published": "2026-04-12T09:40:55Z",
+        "summary": "Legendary Indian playback singer Asha Bhosle has died in Mumbai at the age of 92. She recorded more than 12,000 songs in multiple Indian languages over a seven-decade career and was a two-time Grammy nominee. Tributes have poured in from Indian leaders and music industry figures following her death."
+      },
+      {
+        "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks",
+        "published": "2026-04-12T09:47:24Z",
+        "summary": "Saudi Arabia has restored its key East-West oil pipeline to full capacity, pumping about 7 million barrels per day, after attacks during the US-Iran war. The kingdom's energy ministry also stated production at the Manifa oilfield has been fully restored, though work continues to restore output at the Khurais field. The attacks had previously reduced the pipeline's daily output by 700,000 barrels."
+      }
+    ]
+  },
+  {
     "time": "2026-04-12T06:23:50Z",
     "window_hours": 6,
     "article_count": 4,
