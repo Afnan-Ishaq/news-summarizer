@@ -1,4 +1,18 @@
 ================================================================================
+RUN TIME UTC: 2026-04-12T02:40:01Z
+WINDOW: Last 6 hours
+ARTICLES USED: 1
+
+OVERALL SUMMARY
+The articles cover a major boxing comeback victory and subsequent call-out, along with several football stories about Premier League title race developments and a key La Liga result. The sports news focuses on individual athlete performances and team competitions.
+
+ARTICLE BREAKDOWN
+[1] Fury beats Makhmudov in heavyweight boxing comeback, then calls out Joshua | Boxing News | Al Jazeera
+Published: 2026-04-11T22:28:58Z
+URL: https://www.aljazeera.com/sports/2026/4/11/fury-beats-makhmudov-in-heavyweight-boxing-comeback-then-calls-out-joshua
+Summary: Tyson Fury defeated Arslanbek Makhmudov by unanimous decision in his heavyweight boxing comeback fight. Fury won decisively on the scorecards after 12 rounds. Following the victory, a confrontation occurred with Anthony Joshua at ringside, with both fighters exchanging words about a potential future bout.
+
+================================================================================
 RUN TIME UTC: 2026-04-11T20:35:51Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10

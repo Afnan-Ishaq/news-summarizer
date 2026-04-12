@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-04-12T02:40:01Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "The articles cover a major boxing comeback victory and subsequent call-out, along with several football stories about Premier League title race developments and a key La Liga result. The sports news focuses on individual athlete performances and team competitions.",
+    "articles": [
+      {
+        "title": "Fury beats Makhmudov in heavyweight boxing comeback, then calls out Joshua | Boxing News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/11/fury-beats-makhmudov-in-heavyweight-boxing-comeback-then-calls-out-joshua",
+        "published": "2026-04-11T22:28:58Z",
+        "summary": "Tyson Fury defeated Arslanbek Makhmudov by unanimous decision in his heavyweight boxing comeback fight. Fury won decisively on the scorecards after 12 rounds. Following the victory, a confrontation occurred with Anthony Joshua at ringside, with both fighters exchanging words about a potential future bout."
+      }
+    ]
+  },
+  {
     "time": "2026-04-11T20:35:51Z",
     "window_hours": 6,
     "article_count": 10,
