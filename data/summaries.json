@@ -1,5 +1,37 @@
 [
   {
+    "time": "2026-04-12T06:23:50Z",
+    "window_hours": 6,
+    "article_count": 4,
+    "overall_summary": "The articles cover ongoing tensions between the US and Iran, focusing on maritime disputes in the Strait of Hormuz and failed peace talks. A separate article reports on Hungary's parliamentary elections.",
+    "articles": [
+      {
+        "title": "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says | Shipping News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/12/iran-must-not-be-allowed-charge-tolls-in-strait-of-hormuz-un-watchdog-says",
+        "published": "2026-04-12T03:20:23Z",
+        "summary": "The head of the International Maritime Organization, Arsenio Dominguez, says Iran's bid to charge tolls for ships transiting the Strait of Hormuz is illegal and against international law. He called on the international community to reject such tolls, stating it would set a detrimental precedent for global shipping. His comments come amid a fragile US-Iran ceasefire and stalled talks, with shipping in the strait largely at a standstill."
+      },
+      {
+        "title": "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire",
+        "published": "2026-04-12T05:00:33Z",
+        "summary": "Three supertankers laden with oil have passed through the Strait of Hormuz during the ceasefire, according to shipping data. The tankers, capable of carrying 2 million barrels each, exited a passage that bypasses Iran's Larak Island. However, hundreds of tankers remain stuck in the Gulf, and the strait's blockage has previously disrupted global energy supplies and sent oil prices soaring."
+      },
+      {
+        "title": "US and Iran fail to reach peace deal after marathon talks in Pakistan | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan",
+        "published": "2026-04-12T05:19:04Z",
+        "summary": "High-level talks between the US and Iran in Islamabad have ended without a peace deal. US Vice President JD Vance stated Iran refused to accept US terms, including a commitment not to pursue nuclear weapons. An Iranian spokesperson said no one expected an agreement in a single session, while Pakistan, the mediator, urged both sides to continue efforts for a durable peace."
+      },
+      {
+        "title": "Hungarians vote as PM Orban faces toughest election challenge in years | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years",
+        "published": "2026-04-12T05:57:35Z",
+        "summary": "Polls have opened in Hungary's parliamentary elections, with Prime Minister Viktor Orban facing his biggest electoral challenge after 16 years in power. Opinion polls show his Fidesz party trailing the opposition Tisza party led by Peter Magyar. Orban has framed the election as a choice between 'war and peace,' while many Hungarians are reportedly weary of economic stagnation and reports of government-linked oligarchs amassing wealth."
+      }
+    ]
+  },
+  {
     "time": "2026-04-12T02:40:01Z",
     "window_hours": 6,
     "article_count": 1,
