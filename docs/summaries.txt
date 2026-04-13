@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-04-13T16:15:06Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The articles cover a tense period following the breakdown of US-Iran talks in Islamabad, leading to a US naval blockade in the Strait of Hormuz and continued regional violence. They also report on domestic protests in India, Israeli military actions in Lebanon, Gaza, and the West Bank, a US legal ruling against Donald Trump, and a lighter story about football memes.
+
+ARTICLE BREAKDOWN
+[1] How the US-Iran talks in Islamabad unfolded | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-13T11:21:05Z
+URL: https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded
+Summary: The article describes the high-security preparations in Islamabad for direct US-Iran ceasefire talks. It details the arrival of delegations and the controlled environment at the Serena Hotel, setting the stage for a high-stakes diplomatic engagement. The report notes the fundamental differences in negotiating positions, with Iran setting conditions related to Lebanon and frozen assets.
+
+[2] Tear gas fired at India workers demanding higher wages as living costs rise | Workers' Rights News | Al Jazeera
+Published: 2026-04-13T11:35:21Z
+URL: https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise
+Summary: Police used tear gas to quell a violent protest by factory workers in Noida, India, who were demanding higher wages. The protest, which involved torched vehicles and stone-throwing, occurred as living costs have risen globally due to the US-Israel war on Iran impacting fuel supplies. A worker listed demands including fixed duty hours and proper overtime pay.
+
+[3] Israel is trying to change Jerusalem’s religious identity | Israel-Palestine conflict | Al Jazeera
+Published: 2026-04-13T12:02:43Z
+URL: https://www.aljazeera.com/opinions/2026/4/13/israel-is-trying-to-change-jerusalems-religious-identity
+Summary: This opinion piece argues Israel is actively trying to impose new rules to establish full control over Muslim and Christian religious life in Jerusalem, violating the long-standing Status Quo. It cites incidents like attacks on Palestinian Christians and the storming of Al-Aqsa Mosque by an Israeli minister. The article states this policy treats Palestinians as mere residents, conflicting with the Zionist idea of an exclusively Jewish Jerusalem.
+
+[4] At least six killed in Israeli strikes in southern Lebanon | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-13T12:39:20Z
+URL: https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon
+Summary: Israeli attacks killed at least six people in southern Lebanon, including strikes on towns and a Red Cross centre. The Israeli military announced it has surrounded the town of Bint Jbeil, claiming significant advances in its invasion. Hezbollah reported engaging in intense clashes with Israeli forces in the strategically symbolic town.
+
+[5] Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-13T12:52:40Z
+URL: https://www.aljazeera.com/news/2026/4/13/israeli-forces-kill-three-palestinians-in-gaza-arrest-dozens-in-west-bank
+Summary: An Israeli air attack killed three people in Deir el-Balah, central Gaza, as mediators met Hamas leaders in Cairo to discuss a fragile ceasefire. Simultaneously, Israeli forces arrested at least 30 Palestinians in raids across the occupied West Bank. The article states over 750 Palestinians have been killed since the US-brokered ceasefire began in October.
+
+[6] Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-13T13:54:35Z
+URL: https://www.aljazeera.com/news/2026/4/13/pakistan-eyes-narrow-window-to-resuscitate-us-iran-talks-after-breakdown
+Summary: Marathon US-Iran talks in Islamabad ended without an agreement, leaving a fragile two-week ceasefire as the only barrier to renewed war. Pakistan, the mediator, stated it would continue trying to facilitate dialogue. The talks faltered over Iran's nuclear programme, with the US delegation presenting a final offer and correcting what they described as Iranian misperceptions.
+
+[7] Trump’s threat to blockade Hormuz: Why it’s the latest major escalation | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-13T14:14:35Z
+URL: https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation
+Summary: Analysts say President Donald Trump's announcement of a US Navy blockade of the Strait of Hormuz is a major escalation following the failed talks with Iran. The blockade aims to pressure Iran and would target all maritime traffic entering and exiting Iranian ports. The article notes the strait is a vital chokepoint for global energy, and Iran had allowed shipping during the ceasefire, sometimes for a fee.
+
+[8] Trump says Iranian ships will be ‘eliminated’ as US naval blockade begins | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-13T14:36:46Z
+URL: https://www.aljazeera.com/news/2026/4/13/trump-says-iranian-ships-will-be-eliminated-as-us-naval-blockade-begins
+Summary: As the US naval blockade of Iranian ports began, Iran criticized it as revenge against the global economy. President Trump warned that any Iranian military ships approaching the blockade zone would be 'eliminated'. The UK announced it would not support the blockade, and Iranian officials warned it would raise gasoline prices in the US.
+
+[9] US judge dismisses Trump’s $10bn lawsuit against WSJ over Epstein story | Donald Trump News | Al Jazeera
+Published: 2026-04-13T14:57:22Z
+URL: https://www.aljazeera.com/news/2026/4/13/us-judge-dismisses-trumps-10bn-lawsuit-against-wsj-over-epstein-story
+Summary: A US federal judge dismissed President Donald Trump's $10bn defamation lawsuit against the Wall Street Journal over a story about his ties to Jeffrey Epstein. The judge ruled Trump did not meet the 'actual malice' standard required for public figures, noting the paper sought his comment and printed his denial. Trump can file an amended lawsuit by late April.
+
+[10] What do we know about sea mines in and around the Strait of Hormuz? | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-13T15:12:25Z
+URL: https://www.aljazeera.com/economy/2026/4/13/what-do-we-know-about-sea-mines-in-and-around-the-strait-of-hormuz
+Summary: The article details the threat of naval mines in the Strait of Hormuz, which the US military plans to clear. It explains that Iran released a map showing a new safe route, warning of mines in the main traffic zone. The piece describes different types of mines in Iran's arsenal and notes their psychological power to paralyse global trade is a significant threat.
+
+[11] ‘Drinking Arsenal tears’: How the Gunners’ stumble sparked a meme frenzy | Football News | Al Jazeera
+Published: 2026-04-13T15:26:37Z
+URL: https://www.aljazeera.com/sports/2026/4/13/drinking-arsenal-tears-how-the-gunners-stumble-sparked-a-meme-frenzy
+Summary: A Manchester City fan's celebration, miming a drink from an Arsenal-branded bottle, went viral as a meme mocking Arsenal's recent losses. The stunt occurred after City's win, which closed the gap on Premier League leaders Arsenal. The article notes Arsenal's stumble has reignited the title race and provided fodder for rival fans.
+
+================================================================================
 RUN TIME UTC: 2026-04-13T11:19:33Z
 WINDOW: Last 6 hours
 ARTICLES USED: 14
