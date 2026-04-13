@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-04-13T07:13:51Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+The articles cover two distinct stories from the last six hours. One reports on a political dispute between US President Donald Trump and Pope Leo XIV, while the other details a major tennis victory by Jannik Sinner at the Monte Carlo Masters.
+
+ARTICLE BREAKDOWN
+[1] ‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal | Donald Trump News | Al Jazeera
+Published: 2026-04-13T05:42:51Z
+URL: https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal
+Summary: US President Donald Trump has launched a social media attack on Pope Leo XIV, calling him 'weak on crime' and 'terrible for foreign policy.' Trump's criticism appears to be a response to the Pope's recent remarks condemning the US-Israeli war on Iran and urging world leaders to end bloodshed. Trump also suggested he was responsible for Leo's election as the first US-born pope.
+
+[2] Sinner beats Alcaraz in straight sets to win Monte Carlo; reclaim No.1 spot | Tennis News | Al Jazeera
+Published: 2026-04-13T06:05:29Z
+URL: https://www.aljazeera.com/sports/2026/4/13/sinner-beats-alcaraz-in-straight-sets-to-win-monte-carlo-reclaim-no-1-spot
+Summary: Italy's Jannik Sinner defeated Spain's Carlos Alcaraz in straight sets (7-6(5), 6-3) to win the Monte Carlo Masters. This victory marks Sinner's first Masters title on clay and allows him to reclaim the world number one ranking from Alcaraz. The win also makes Sinner only the second player, after Novak Djokovic, to win the 'Sunshine Double' (Indian Wells and Miami) and Monte Carlo in the same season.
+
+================================================================================
 RUN TIME UTC: 2026-04-13T02:45:37Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
