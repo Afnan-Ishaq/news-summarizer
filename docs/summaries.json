@@ -1,5 +1,85 @@
 [
   {
+    "time": "2026-04-13T20:57:17Z",
+    "window_hours": 6,
+    "article_count": 12,
+    "overall_summary": "The articles cover a range of international news from the last six hours, including sports, politics, and conflict. Key themes include a major football match preview, geopolitical shifts in Hungary, regional tensions in the Gulf, and legal or diplomatic developments involving several countries.",
+    "articles": [
+      {
+        "title": "Atletico Madrid vs Barcelona: Champions League – team news, start, lineups | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/13/atletico-madrid-vs-barcelona-champions-league-team-news-start",
+        "published": "2026-04-13T16:13:34Z",
+        "summary": "The article previews the Champions League quarterfinal second leg between Atletico Madrid and Barcelona. Atletico leads 2-0 from the first leg and is favored due to strong home form, while Barcelona aims to overcome the deficit to keep its title hopes alive. It also notes both teams' recent La Liga results, with Barcelona winning and Atletico losing after rotation."
+      },
+      {
+        "title": "Iran releases assets of women’s football captain in Australia asylum row | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/13/iran-releases-assets-of-womens-football-captain-in-australia-asylum-row",
+        "published": "2026-04-13T16:23:44Z",
+        "summary": "Iran's judiciary has released the assets of women's football captain Zahra Ghanbari, which had been seized after she sought asylum in Australia. Ghanbari was among six players who sought asylum but later returned to Iran, where they received a welcome. The article mentions the context of the Asian Cup and the US-Israel war on Iran, noting players reported facing pressure over their decisions."
+      },
+      {
+        "title": "PM-in-waiting Peter Magyar lays out vision for Hungary after ousting Orban | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/hungary-election",
+        "published": "2026-04-13T16:54:37Z",
+        "summary": "Peter Magyar, Hungary's prime minister-in-waiting, has pledged to restore EU relations and implement anti-corruption reforms after his party's election victory. He plans constitutional changes to limit prime ministerial terms and end reliance on Russian energy by 2035. However, his approach towards Ukraine remains unclear, though he is expected to unblock EU funds for Hungary."
+      },
+      {
+        "title": "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/bahrain-summons-iraqi-envoy-as-pro-iranian-attacks-persist-in-gulf",
+        "published": "2026-04-13T16:58:09Z",
+        "summary": "Bahrain has summoned an Iraqi diplomat to protest continued drone attacks from Iraq targeting Gulf states, despite a US-Iran ceasefire. This follows similar action by Saudi Arabia, reflecting regional alarm over pro-Iranian groups based in Iraq. Baghdad has rejected the use of its territory for attacks and offered to address evidence, but the incidents are straining rebuilt ties with Arab neighbours."
+      },
+      {
+        "title": "Flag, anthem restrictions dropped for Russian, Belarusian swimmers | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/flag-anthem-restrictions-dropped-for-russian-belarusian-swimmers",
+        "published": "2026-04-13T18:50:20Z",
+        "summary": "World Aquatics has lifted a ban on Russian and Belarusian athletes, allowing them to compete under their national flags and anthems at international events. The decision eases restrictions imposed after Russia's 2022 invasion of Ukraine, though athletes must pass anti-doping controls. This follows a similar move by the International Paralympic Committee for the 2026 Winter Paralympics."
+      },
+      {
+        "title": "French court rules cement giant Lafarge guilty of funding Syria ‘terrorism’ | ISIL/ISIS News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism",
+        "published": "2026-04-13T18:52:20Z",
+        "summary": "A French court found Lafarge guilty of financing terrorism by paying armed groups, including ISIL, to operate in Syria during the civil war. The company was fined, and assets were confiscated, while former CEO Bruno Lafont was sentenced to six years in jail. The court stated payments were made to keep a plant running for economic reasons, marking the first such corporate terrorism financing case in France."
+      },
+      {
+        "title": "Orban was defeated in Hungary, but Orbanism lives on | European Union | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/13/orban-was-defeated-in-hungary-but-orbanism-lives-on",
+        "published": "2026-04-13T18:56:31Z",
+        "summary": "This opinion piece argues that while Viktor Orban lost Hungary's election, his political ideology persists in Europe. It criticizes the EU's leadership for illiberal tendencies and militarism, suggesting the winner, Peter Magyar, shares similar values on issues like immigration and Ukraine. The author contends that Orban's defeat is a Pyrrhic victory as the continent's shift to the right continues."
+      },
+      {
+        "title": "Is Magyar’s election win the end of the EU’s troubles with Hungary? | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary",
+        "published": "2026-04-13T19:13:49Z",
+        "summary": "Peter Magyar's election win may end Hungary's EU isolation, with experts expecting a more collaborative relationship. Magyar prioritizes unlocking EU funds to address economic struggles like high inflation and slow growth. While he opposes military support for Ukraine, he is likely to remove a veto on a EU loan to Kyiv as part of a tradeoff for Hungarian funds."
+      },
+      {
+        "title": "Trump deletes image of himself as Jesus-like saviour after backlash | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/trump-draws-backlash-over-posting-image-depicting-him-as-jesus-like-saviour",
+        "published": "2026-04-13T19:58:09Z",
+        "summary": "US President Donald Trump faced backlash after posting an AI-generated image depicting him as a Jesus-like figure, which he later deleted. He also criticized Pope Leo XIV, drawing condemnation from Catholic leaders and international figures like Italian Prime Minister Giorgia Meloni. Tensions between the White House and Vatican have been building over issues including immigration and the US-Israel war on Iran."
+      },
+      {
+        "title": "Colombia to cull hippo population founded by drug lord | Wildlife News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/colombia-to-cull-hippo-population-founded-by-drug-lord",
+        "published": "2026-04-13T20:09:52Z",
+        "summary": "Colombia has approved plans to cull up to 80 hippos, an invasive species introduced by drug lord Pablo Escobar in the 1980s. The population has grown to around 170, posing threats to locals and wildlife, with previous control methods like sterilization proving ineffective. While the hippos are a tourist attraction, animal welfare activists oppose culling, citing ethical concerns."
+      },
+      {
+        "title": "Brazilian ex-intelligence chief detained by US immigration authorities | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/brazilian-ex-intelligence-chief-detained-by-us-immigration-authorities",
+        "published": "2026-04-13T20:16:45Z",
+        "summary": "Brazilian former intelligence chief Alexandre Ramagem has been detained by US immigration authorities after fleeing Brazil following a conviction for involvement in a coup plot. Brazil seeks his extradition, but an ally claims the detention was for a traffic infraction and that Ramagem has a pending asylum application. Ramagem was sentenced in connection with efforts to keep former President Jair Bolsonaro in power."
+      },
+      {
+        "title": "Bernie Sanders vows to push resolution to block US weapons to Israel | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel",
+        "published": "2026-04-13T20:28:48Z",
+        "summary": "US Senator Bernie Sanders plans to force a vote on a resolution to block weapons sales to Israel, testing Democratic support amid the war with Iran. The bill is unlikely to pass the Republican-controlled Senate but reflects eroding US public backing for Israel. Sanders cited the Netanyahu government's actions in Gaza, and the move follows a similar failed resolution in 2025."
+      }
+    ]
+  },
+  {
     "time": "2026-04-13T16:15:06Z",
     "window_hours": 6,
     "article_count": 11,
