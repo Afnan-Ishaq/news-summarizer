@@ -1,5 +1,97 @@
 [
   {
+    "time": "2026-04-13T11:19:33Z",
+    "window_hours": 6,
+    "article_count": 14,
+    "overall_summary": "The articles cover escalating tensions in the Middle East, including a US blockade threat against Iran and Israel-Lebanon talks, alongside significant political changes in Hungary and Australia, a papal visit to Africa, and reports on humanitarian crises in Sudan and a fatal attack on a football team in Ghana.",
+    "articles": [
+      {
+        "title": "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon? | Explainer News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/who-is-israels-us-envoy-leading-negotiations-with-lebanon",
+        "published": "2026-04-13T07:24:30Z",
+        "summary": "Israel's ambassador to the US, Yechiel Leiter, held a first-ever phone call with his Lebanese counterpart, marking a break in tradition as the two countries lack formal relations. Leiter, a US-born settlement activist with far-right ties, stated that Israel will begin official peace talks with Lebanon next week but refused to discuss a ceasefire with Hezbollah. The call occurs amid global pressure on Israel to end its invasion of Lebanon, which has caused significant casualties and displacement."
+      },
+      {
+        "title": "Iran war: What is happening on day 45 of the US-Iran conflict? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict",
+        "published": "2026-04-13T07:30:10Z",
+        "summary": "The US military announced it will begin a blockade of all Iranian ports after President Donald Trump declared a naval blocking of the Strait of Hormuz, following failed peace talks in Islamabad. Iran's Islamic Revolutionary Guards warned that military vessels approaching the strait would be considered a ceasefire breach, risking escalation. Iranian officials, including the foreign minister and parliament speaker, condemned the US threat, with oil prices surging past $100 a barrel."
+      },
+      {
+        "title": "Pope Leo lands in Algeria for historic visit as he starts Africa tour | Religion News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/pope-leo-heads-to-algeria-as-he-starts-four-country-africa-tour",
+        "published": "2026-04-13T07:36:21Z",
+        "summary": "Pope Leo XIV arrived in Algeria, marking the first papal visit to the Muslim-majority country, as part of an 11-day tour that includes Cameroon, Angola, and Equatorial Guinea. The trip aims to build bridges between Christian and Muslim worlds, with the pope expected to address topics like Catholic-Muslim dialogue and political corruption. His itinerary includes visits to the Great Mosque of Algiers and the Basilica of Our Lady of Africa, paying tribute to victims of Algeria's war of independence."
+      },
+      {
+        "title": "Why oil prices aren’t what you think – and what it means for global supply | Oil and Gas | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/13/why-oil-prices-arent-what-you-think-and-what-it-means-for-global-supply",
+        "published": "2026-04-13T08:14:22Z",
+        "summary": "Oil prices have surged since the US-Israel war on Iran began, with the main international benchmark topping $103 a barrel after Trump's blockade announcement. The article explains a growing gap between physical spot prices (like Dated Brent) and futures prices, reflecting a mismatch between supply perceptions and reality due to Iran's effective shutdown of the Strait of Hormuz. This disruption, allowing only minimal vessel transit, is causing one of the biggest energy shocks in history."
+      },
+      {
+        "title": "Australia appoints female army chief for the first time in history | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/australia-appoints-female-army-chief-for-the-first-time-in-history",
+        "published": "2026-04-13T08:22:36Z",
+        "summary": "Australia appointed Lieutenant General Susan Coyle as its first female army chief in the force's 125-year history, part of a defence leadership reshuffle. Coyle, with nearly 40 years of service including operations in Afghanistan and the Middle East, will take over in July as the military seeks to boost female representation amid allegations of systemic sexual harassment. The government also appointed Vice Admiral Mark Hammond as the new head of the Australian Defence Force."
+      },
+      {
+        "title": "Ghanaian footballer Dominic Frimpong killed in armed attack on team bus | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/13/ghanaian-footballer-dominic-frimpong-killed-in-armed-attack-on-team-bus",
+        "published": "2026-04-13T08:30:15Z",
+        "summary": "Ghanaian footballer Dominic Frimpong was killed during an armed robbery on his club Berekum Chelsea's team bus as they returned from an away match. The attack occurred between Goaso and Bibiani, with masked armed men shooting at the bus, prompting players and staff to flee. The Ghana Football Association called it a tragic loss and stated it would strengthen security for domestic travel, noting a similar incident in 2023."
+      },
+      {
+        "title": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/13/refugee-in-my-own-city-surviving-tehrans-bombing-with-my-cat-for-company",
+        "published": "2026-04-13T08:37:23Z",
+        "summary": "Sana, a 27-year-old Tehran resident, describes surviving relentless bombings since the US-Israel war on Iran began, refusing to flee the city as she did during a previous conflict. She and her roommate have adapted to a grim routine, anticipating strikes at certain hours and relying on supermarket deliveries to avoid going outside. The personal account highlights the psychological toll and daily challenges of living under bombardment."
+      },
+      {
+        "title": "Cuba sent doctors. Washington sent a destroyer. | Opinions | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/13/cuba-sent-doctors-washington-sent-a-destroyer",
+        "published": "2026-04-13T08:38:35Z",
+        "summary": "The opinion piece contrasts Cuba's history of international medical solidarity with the US blockade, enforced by military vessels like a destroyer. It criticizes US media for framing Cuba as a failed state and highlights Trump's statements about 'taking' Cuba, arguing this reflects a long-standing imperial logic. The author shares personal experiences of racial surveillance in Cuba to draw parallels with US systemic racism."
+      },
+      {
+        "title": "US blockade of Iran would worsen global energy crisis, analysts say | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say",
+        "published": "2026-04-13T09:52:16Z",
+        "summary": "Analysts warn that Trump's planned naval blockade of Iran would exacerbate the global energy crisis by further crippling international shipping and pushing oil prices higher. While the US military says the blockade will only affect ships entering Iranian ports, experts note it could effectively block the Strait of Hormuz due to insurance risks and fear of Iranian retaliation. The move marks a reversal from recent US sanctions waivers on Iranian oil exports."
+      },
+      {
+        "title": "Millions in war-ravaged Sudan surviving on one meal a day, say NGOs | Humanitarian Crises News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/millions-in-war-ravaged-sudan-surviving-on-one-meal-a-day-say-ngos",
+        "published": "2026-04-13T09:59:36Z",
+        "summary": "A report by several NGOs states that millions in Sudan are surviving on just one meal a day, with many resorting to eating leaves and animal feed, particularly in conflict-hit North Darfur and South Kordofan. The war between the Sudanese army and Rapid Support Forces, entering its third year, has caused widespread hunger and displacement amid one of the world's largest humanitarian crises. The crisis is compounded by economic collapse and climate change, with famine conditions confirmed in some areas."
+      },
+      {
+        "title": "How a UK military college sought to distance itself from ban on Israelis | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/how-a-uk-military-college-sought-to-distance-itself-from-ban-on-israelis",
+        "published": "2026-04-13T10:14:12Z",
+        "summary": "Emails reveal that the UK's Royal College of Defence Studies sought to distance itself from a government ban on Israelis attending, over concerns about its reputation as an inclusive institution. The college's commandant asked a senior military official to ensure the public understood that the ban was a government decision, not the college's, as it does not select participants. The ban was announced last September amid condemnation of Israel's war on Gaza."
+      },
+      {
+        "title": "Starmer says UK will not support US blockade of Strait of Hormuz | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz",
+        "published": "2026-04-13T10:15:49Z",
+        "summary": "UK Prime Minister Keir Starmer stated that Britain will not join the US blockade of the Strait of Hormuz, emphasizing the need to reopen the strategic waterway for global oil supplies. He maintained a careful stance, not directly criticizing Trump while affirming the UK's non-involvement in the war. Other US allies, including France, also criticized the blockade, with France and the UK planning a conference to restore freedom of navigation."
+      },
+      {
+        "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy",
+        "published": "2026-04-13T10:52:32Z",
+        "summary": "Iran's military condemned the US plan to blockade its ports as illegal and akin to piracy, warning that no Gulf ports would be safe if Iran's are threatened. The statement followed the US announcement of a blockade starting at 14:00 GMT after peace talks collapsed, though a ceasefire between the warring sides remains in effect. Oil prices jumped nearly 8% following the threats, with both WTI and Brent benchmarks topping $100 a barrel."
+      },
+      {
+        "title": "Who is Peter Magyar, Hungary’s new leader who trounced Viktor Orban? | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/who-is-peter-magyar-hungarys-new-leader-who-trounced-viktor-orban",
+        "published": "2026-04-13T10:55:52Z",
+        "summary": "Peter Magyar's centre-right Tisza party won a landslide victory in Hungary's parliamentary election, ending Viktor Orban's 16-year rule with a two-thirds majority. Magyar, a former Orban loyalist and lawyer, inspired by Orban's pro-democracy past, now leads a government promising change. His victory speech emphasized truth prevailing over lies, marking a significant political shift in Hungary."
+      }
+    ]
+  },
+  {
     "time": "2026-04-13T07:13:51Z",
     "window_hours": 6,
     "article_count": 2,
