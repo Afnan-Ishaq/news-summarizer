@@ -1,4 +1,83 @@
 ================================================================================
+RUN TIME UTC: 2026-04-14T16:09:30Z
+WINDOW: Last 6 hours
+ARTICLES USED: 14
+
+OVERALL SUMMARY
+This batch of articles covers significant developments in the US-Israel war on Iran and its global economic impact, alongside major sports news. The key themes include the IEA forecasting a plunge in global oil demand due to Middle East disruptions, the US implementing a naval blockade on Iran, and various geopolitical analyses. Sports stories feature cricket controversies, Champions League football, and cycling accidents.
+
+ARTICLE BREAKDOWN
+[1] Global oil demand to plunge amid disruptions caused by war on Iran: IEA | Oil and Gas News | Al Jazeera
+Published: 2026-04-14T10:59:11Z
+URL: https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions
+Summary: The International Energy Agency (IEA) has sharply cut its forecasts for global oil supply and demand growth, projecting a fall of 80,000 barrels per day this year. It cites disruptions from the US-Israel war on Iran, including Iran's closure of the Strait of Hormuz and the subsequent US blockade of Iranian ports, as causing the largest oil supply disruption in history. The IEA warns that 'demand destruction' will spread due to scarcity and higher prices.
+
+[2] IPL switch leads to two-year PSL ban for Zimbabwe’s Muzarabani | Cricket News | Al Jazeera
+Published: 2026-04-14T11:41:09Z
+URL: https://www.aljazeera.com/sports/2026/4/14/blessing-muzarabani-given-two-year-psl-ban-after-ipl-switch
+Summary: Zimbabwe fast bowler Blessing Muzarabani has been banned from the Pakistan Super League for two years after joining the Indian Premier League's Kolkata Knight Riders. This occurred despite him having previously agreed to play for the PSL team Islamabad United. The Pakistan Cricket Board stated the move violated contractual obligations and principles of good faith.
+
+[3] Champions League: Barcelona handball claim against Atletico Madrid rejected | Football News | Al Jazeera
+Published: 2026-04-14T12:10:54Z
+URL: https://www.aljazeera.com/sports/2026/4/14/champions-league-barcelona-handball-claim-against-atletico-madrid-rejected
+Summary: UEFA has rejected Barcelona's complaint over a handball incident in their Champions League quarterfinal first leg defeat to Atletico Madrid. Barcelona had argued that a decision not to award a penalty for an alleged handball by Atletico's Marc Pubill was a 'major error'. UEFA's Control Ethics and Disciplinary Body declared the protest inadmissible.
+
+[4] How many ships have passed the Strait of Hormuz and how many were attacked? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T12:27:48Z
+URL: https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked
+Summary: Ship-tracking data shows 279 ships have passed through the Strait of Hormuz between February 28 and April 12, with 22 attacked since the war on Iran began. This represents a more than 95 percent drop from pre-war traffic levels. The article details conflicting navigation instructions from the US and Iran and notes that three tankers transited the strait on Tuesday without being affected by the US blockade, as they were not heading to Iranian ports.
+
+[5] How much will US Hormuz blockade hurt Iran, and does Tehran have an escape? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T12:31:48Z
+URL: https://www.aljazeera.com/news/2026/4/14/how-much-will-us-hormuz-blockade-hurt-iran-and-does-tehran-have-an-escape
+Summary: The article analyzes the potential impact of the US naval blockade on Iran's economy, particularly its oil revenue. It notes that Iran earned nearly $5 billion from oil exports in the past month while controlling the Strait of Hormuz, a 40% increase from pre-war levels. However, experts say the blockade now directly threatens Tehran's capacity to export crude oil, which accounts for about 80% of its total exports.
+
+[6] Iran remains an obstacle to the ‘Greater Israel’ project | Israel-Palestine conflict | Al Jazeera
+Published: 2026-04-14T12:33:01Z
+URL: https://www.aljazeera.com/opinions/2026/4/14/iran-remains-an-obstacle-to-the-greater-israel-project
+Summary: This opinion piece argues that Israel's failure to defeat Iran in the current war is a major setback for its 'Greater Israel' project, a Zionist strategy seeking territorial expansion and military dominance in the Middle East. It states that Iranian resistance has stood in the way of Israeli ambitions to expand north into Lebanon and Syria, east into Jordan, and south into Egypt's Sinai Peninsula.
+
+[7] India cricket slammed for ‘Orwellian’ control of global game by Wisden | Cricket News | Al Jazeera
+Published: 2026-04-14T12:34:55Z
+URL: https://www.aljazeera.com/sports/2026/4/14/india-cricket-slammed-for-orwellian-control-of-global-game-by-wisden
+Summary: The UK-based Wisden Cricketers' Almanack has criticized what it calls an 'increasingly Orwellian' and politicized Indian dominance of global cricket administration. Editor Lawrence Booth highlights the Indian leadership of the ICC and describes the Board of Control for Cricket in India (BCCI) as 'the sporting adjunct of India's ruling BJP'. The critique cites examples where politics intruded upon the sport, including the 2025 Asia Cup held during a brief India-Pakistan war.
+
+[8] Jailed Senegal fans deny wrongdoing in AFCON final chaos in Morocco | Football News | Al Jazeera
+Published: 2026-04-14T12:41:48Z
+URL: https://www.aljazeera.com/sports/2026/4/14/jailed-senegal-fans-deny-wrongdoing-in-afcon-final-chaos-in-morocco
+Summary: Eighteen Senegalese football fans, convicted over a pitch invasion during the Africa Cup of Nations final in Morocco, have denied any wrongdoing in an appeals court. They argued they were forced onto the pitch to escape a surging crowd and projectiles, not to protest a refereeing decision. The court upheld their prison sentences, which range from three to 12 months, and the judge has yet to respond to a defence request to review video evidence of the incidents.
+
+[9] Italy suspends defence agreement with Israel | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-14T12:55:54Z
+URL: https://www.aljazeera.com/news/2026/4/14/italian-suspends-defence-agreement-with-israel
+Summary: Italy has suspended the automatic renewal of a defence cooperation agreement with Israel, according to Prime Minister Giorgia Meloni. The agreement, which involves the exchange of military equipment and technology research, has been automatically renewed every five years since 2006. The decision follows recent tensions, including an Italian protest after Israeli forces fired warning shots at a convoy of Italian peacekeepers in Lebanon.
+
+[10] Can Pakistan juggle US-Iran mediation with Saudi defence commitments? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T13:19:02Z
+URL: https://www.aljazeera.com/news/2026/4/14/can-pakistan-juggle-us-iran-mediation-with-saudi-defence-commitments
+Summary: The article examines Pakistan's delicate balancing act as it mediates between the US and Iran while simultaneously deploying military forces to Saudi Arabia under a mutual defence agreement. Pakistani officials say they can manage both roles, but the act could become more complicated as the US blockade of Iran takes effect and a ceasefire deadline approaches. The deployment to Saudi Arabia underscores Pakistan's commitment to a key ally that has been hit by Iranian attacks.
+
+[11] Spain’s Guardemo still critical in ICU 2 weeks after cycling crash with car | Cycling News | Al Jazeera
+Published: 2026-04-14T13:48:59Z
+URL: https://www.aljazeera.com/sports/2026/4/14/spains-guardemo-still-critical-in-icu-2-weeks-after-cycling-crash-with-car
+Summary: Spanish cyclist Jaume Guardeno remains in critical condition in a hospital intensive care unit two weeks after a training crash where he collided with a vehicle. The 23-year-old sustained serious head injuries. His team states his condition is stable within its seriousness, and he is scheduled for further medical procedures.
+
+[12] Why are the US, Iran arguing over duration of uranium enrichment ban? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T14:52:24Z
+URL: https://www.aljazeera.com/news/2026/4/14/why-are-the-us-iran-arguing-over-duration-of-uranium-enrichment-ban
+Summary: A critical stumbling block in US-Iran negotiations is the duration of a proposed ban on Iran's uranium enrichment program. The US reportedly wants Iran to suspend enrichment for 20 years in exchange for sanctions relief, while Iran has only agreed to a five-year moratorium. The disagreement contributed to the breakdown of talks in Islamabad over the weekend, with uranium enrichment being a central element of US demands regarding Iran's nuclear capabilities.
+
+[13] Historic but not enough? Colombia’s Gustavo Petro defends cocaine seizures | Drugs News | Al Jazeera
+Published: 2026-04-14T15:25:28Z
+URL: https://www.aljazeera.com/news/longform/2026/4/14/historic-but-not-enough-colombias-gustavo-petro-defends-cocaine-seizures
+Summary: Colombian President Gustavo Petro is highlighting record cocaine seizures to counter US criticism of his drug policy, after the US decertified Colombia as an ally. His administration seized 985 tonnes of cocaine in 2025, a historic high. However, experts caution that seizures alone may not lessen US pressure, as Petro has cut back on forced coca eradication—a key US demand—in favor of a strategy focusing on interdiction and human rights.
+
+[14] Bayern Munich vs Real Madrid: UEFA Champions League – teams, start, lineups | Football News | Al Jazeera
+Published: 2026-04-14T16:04:47Z
+URL: https://www.aljazeera.com/sports/2026/4/14/bayern-munich-vs-real-madrid-uefa-champions-league-teams-start-lineups
+Summary: This is a preview for the UEFA Champions League quarterfinal second leg between Bayern Munich and Real Madrid. Real Madrid must overturn a 2-1 aggregate deficit when they play in Munich. The preview notes that Real Madrid's star forward Kylian Mbappe is a slight doubt due to a facial injury but is expected to play in the crucial match.
+
+================================================================================
 RUN TIME UTC: 2026-04-14T11:04:55Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
