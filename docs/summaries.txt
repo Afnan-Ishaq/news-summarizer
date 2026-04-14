@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-04-14T06:53:00Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last six hours, including a US military strike in the Pacific, a super typhoon approaching islands, the humanitarian crisis in Sudan, a new US-Indonesia defence agreement, financial market reactions to geopolitical news, a trial over Diego Maradona's death, an analysis of the Sea of Azov after Russia's invasion, and a senior Chinese diplomat's dismissal.
+
+ARTICLE BREAKDOWN
+[1] US military kills two men in new strike on vessel in eastern Pacific | Crimes Against Humanity News | Al Jazeera
+Published: 2026-04-14T02:47:36Z
+URL: https://www.aljazeera.com/news/2026/4/14/us-military-kills-two-men-in-new-strike-on-vessel-in-eastern-pacific
+Summary: The US military conducted a strike on a vessel in the eastern Pacific, killing two people it described as 'male narco-terrorists'. This brings the death toll from such US strikes since September to at least 170. International law experts and human rights groups have accused the Trump administration of carrying out extrajudicial killings in international waters.
+
+[2] Super Typhoon Sinlaku bears down on Northern Mariana Islands, Guam | Weather News | Al Jazeera
+Published: 2026-04-14T04:08:03Z
+URL: https://www.aljazeera.com/news/2026/4/14/super-typhoon-sinlaku-bears-down-on-northern-mariana-islands-guam
+Summary: Super Typhoon Sinlaku, the strongest storm of 2026 so far, is approaching the Northern Mariana Islands and Guam. While weakening, it is expected to bring destructive winds, heavy rain, and flooding to the region. Guam is under a tropical storm warning and typhoon watch, with dangerous sea conditions expected.
+
+[3] Three babies born into Sudan war every minute, charity warns | Sudan war News | Al Jazeera
+Published: 2026-04-14T04:52:57Z
+URL: https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns
+Summary: Save the Children warns that three babies are born every minute in Sudan amid a war that has created the world's worst humanitarian crisis. The conflict has strained the healthcare system, increasing maternal mortality and leaving up to 80% of health facilities in conflict zones nonoperational. The charity calls for the protection of civilians and access for humanitarian aid.
+
+[4] Indonesia, US sign ‘major’ defence cooperation agreement | Military News | Al Jazeera
+Published: 2026-04-14T05:10:24Z
+URL: https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement
+Summary: The US and Indonesia have signed a major defence cooperation partnership aimed at maintaining stability in the Asia Pacific. The agreement includes co-developing advanced defence technologies and follows reports of discussions about granting US military aircraft overflight access in Indonesia. Indonesian officials stated that any such deal is not final and must protect Indonesia's sovereignty.
+
+[5] Asia’s stock markets surge, oil falls on hopes for US-Iran talks | Financial Markets News | Al Jazeera
+Published: 2026-04-14T05:47:01Z
+URL: https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks
+Summary: Asian stock markets rose and oil prices fell due to renewed hopes for US-Iran talks after President Trump said Iranian officials were open to a deal. This occurred despite a US naval blockade on Iranian ports, which had previously driven oil prices higher. The blockade has significantly reduced shipping traffic through the Strait of Hormuz.
+
+[6] New trial over football great Maradona’s death begins in Argentina | Football News | Al Jazeera
+Published: 2026-04-14T06:25:29Z
+URL: https://www.aljazeera.com/sports/2026/4/14/new-trial-over-football-great-maradonas-death-begins-in-argentina
+Summary: A new trial has begun in Argentina to determine if the medical team of football legend Diego Maradona was responsible for his death in 2020. Seven medical staff are charged with negligent homicide, a charge they deny. The trial was restarted after the first one was annulled due to a judicial scandal involving one of the judges.
+
+[7] The Sea of Azov: Ukraine’s loss but hardly Russia’s gain | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-14T06:27:49Z
+URL: https://www.aljazeera.com/features/2026/4/14/the-sea-of-azov-ukraines-loss-but-hardly-russias-gain
+Summary: The article describes the Sea of Azov's transformation from a recreational and industrial hub for Ukraine to a war zone seized by Russia in 2022. It focuses on the story of a displaced businesswoman from Mariupol, illustrating the personal and economic devastation. Analysts cited suggest Russia's gains from controlling the area are minimal, with Ukraine's major steel plants now in ruins.
+
+[8] China dismisses Vice Minister of Foreign Affairs Sun Weidong | Xi Jinping News | Al Jazeera
+Published: 2026-04-14T06:31:49Z
+URL: https://www.aljazeera.com/news/2026/4/14/china-dismisses-vice-minister-of-foreign-affairs-sun-weidong
+Summary: China has dismissed Vice Foreign Minister Sun Weidong, with the announcement providing no reason for his removal. Such dismissals often indicate high-level disciplinary action. The move occurs amid President Xi Jinping's ongoing anticorruption campaign, which disciplined nearly a million people last year.
+
+================================================================================
 RUN TIME UTC: 2026-04-14T02:38:41Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
