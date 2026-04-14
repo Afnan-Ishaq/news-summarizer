@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-04-14T02:38:41Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The articles cover a range of international news from the last 6 hours, including a maritime dispute in the South China Sea, a presidential election in Benin, US domestic policy on housing, UN criticism of Israel's actions, rising energy prices, tensions in Lebanon, and a criminal attack on a tech CEO.",
+    "articles": [
+      {
+        "title": "Philippines accuses China of using cyanide to poison South China Sea atoll | South China Sea News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll",
+        "published": "2026-04-13T21:05:33Z",
+        "summary": "Philippine security officials accuse China of using cyanide for 'sabotage' against fish populations near a disputed atoll, saying seized bottles from Chinese boats tested positive for the toxin. They warn it could harm marine life and weaken the reef supporting a grounded Philippine warship. China's Foreign Ministry rejected the accusations as a 'stunt' with no credibility."
+      },
+      {
+        "title": "Benin’s Wadagni wins presidential election with landslide 94% of votes | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote",
+        "published": "2026-04-13T21:34:24Z",
+        "summary": "Benin's Finance Minister Romuald Wadagni, the chosen successor of outgoing President Patrice Talon, has won the presidential election with over 94% of the vote based on provisional results. The election saw a voter turnout of 58.78%, and the main opposition candidate conceded defeat. The incoming president faces challenges including security issues from an al-Qaeda affiliate in the north and addressing living standards."
+      },
+      {
+        "title": "New White House report has plans to fix US housing shortage of 10 million | Housing News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/13/new-white-house-report-has-plans-to-fix-us-housing-shortage-of-10-million",
+        "published": "2026-04-13T21:59:05Z",
+        "summary": "A new White House report estimates the US has a shortage of 10 million homes, blaming a slowdown in construction after the 2008 financial crisis. The report argues that reducing regulatory burdens could increase construction, stabilize prices, and boost economic growth. It comes as President Donald Trump, whose approval has slumped over issues like housing costs, has signed orders to ease regulations but has also expressed a desire to keep home prices high for existing owners."
+      },
+      {
+        "title": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank",
+        "published": "2026-04-13T22:04:16Z",
+        "summary": "UN human rights experts have condemned Israeli attacks on displaced Palestinians in Gaza, detailing March incidents where air strikes set tents on fire, killing many. They also criticized a sharp escalation in forced displacement in the occupied West Bank, driven by the Israeli army and 'state-backed settler terrorism'. The experts said these actions show a broader policy of ethnic cleansing and called on Israel to end forced displacement and for states to end their assistance to Israel's occupation."
+      },
+      {
+        "title": "Energy prices rise despite Jones Act suspension by Trump | Shipping News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump",
+        "published": "2026-04-13T22:17:07Z",
+        "summary": "Energy and shipping costs have continued to surge despite a 60-day US presidential waiver of the Jones Act, a law restricting domestic shipping to US vessels. The waiver, intended to lower costs, has had a minimal impact as oil prices have spiked due to the US-Israel war on Iran disrupting the Strait of Hormuz. Shipping container costs have jumped more than 10% in a month, and US gas prices have risen significantly."
+      },
+      {
+        "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks | Hezbollah News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks",
+        "published": "2026-04-13T22:46:50Z",
+        "summary": "Hezbollah leader Naim Qassem has urged the Lebanese government not to attend planned talks with Israel in Washington, DC, calling them a 'futile' ploy to pressure the group into disarming. He stated that the goal of the negotiations, as stated by Israeli Prime Minister Benjamin Netanyahu, is to disarm Hezbollah. Qassem's speech comes amid intensified Israeli attacks on Lebanon, which have killed thousands and displaced over a million people since early March."
+      },
+      {
+        "title": "Man charged with attempted murder after attack on OpenAI CEO Altman’s home | Technology News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/14/man-charged-with-attempted-murder-after-attack-on-openai-ceo-altmans-home",
+        "published": "2026-04-14T02:27:59Z",
+        "summary": "A 20-year-old man from Texas, Daniel Moreno-Gama, has been charged with attempted murder and arson after allegedly throwing a Molotov cocktail at the San Francisco home of OpenAI CEO Sam Altman. Authorities say he then traveled to OpenAI's headquarters, where he threatened to burn it down. Police recovered incendiary devices and a document expressing opposition to artificial intelligence and tech executives, including Altman."
+      }
+    ]
+  },
+  {
     "time": "2026-04-13T20:57:17Z",
     "window_hours": 6,
     "article_count": 12,
