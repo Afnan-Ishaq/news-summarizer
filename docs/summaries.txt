@@ -1,4 +1,73 @@
 ================================================================================
+RUN TIME UTC: 2026-04-14T11:04:55Z
+WINDOW: Last 6 hours
+ARTICLES USED: 12
+
+OVERALL SUMMARY
+The articles cover a range of topics from the ongoing US-Iran conflict and its regional impacts, including a blockade in the Strait of Hormuz and related diplomatic efforts. Other stories include sports news, developments in the Israel-Palestine conflict, and social issues.
+
+ARTICLE BREAKDOWN
+[1] Iran war: What is happening on day 46 of the US-Iran conflict? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T06:58:20Z
+URL: https://www.aljazeera.com/news/2026/4/14/iran-war-what-is-happening-on-day-46-of-the-us-iran-conflict
+Summary: The US has enforced a blockade on Iranian ports, which Iran calls 'illegal piracy' and has prompted protests in Tehran. Diplomatic efforts to revive talks continue, with Pakistan offering to host negotiations, while various international actors comment on the situation. The blockade and conflict are causing shipping disruptions in the Strait of Hormuz, with reports of stranded vessels.
+
+[2] Yamal seeks inspiration from LeBron, Neymar for Champions League comeback | World Cup 2026 News | Al Jazeera
+Published: 2026-04-14T07:43:52Z
+URL: https://www.aljazeera.com/sports/2026/4/14/yamal-seeks-inspiration-from-lebron-neymar-for-champions-league-comeback
+Summary: Barcelona player Lamine Yamal says he is drawing inspiration from LeBron James's 2016 NBA comeback and Neymar's 2017 Champions League performance as his team prepares for a quarterfinal match against Atletico Madrid. Yamal also expressed hope that Neymar, his idol, will be included in Brazil's World Cup squad. Barcelona coach Hansi Flick expressed confidence in his team's ability to overcome a 2-0 deficit from the first leg.
+
+[3] Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-14T08:12:55Z
+URL: https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens
+Summary: Holy sites in occupied East Jerusalem reopened following a US-Iran ceasefire announcement, but celebrations were accompanied by a heavy Israeli security presence and incidents like the arrest of Palestinian Christian scouts. Israeli National Security Minister Itamar Ben-Gvir visited the Al-Aqsa Mosque compound, declaring increased normalization of Jewish prayer there. Meanwhile, Israeli attacks continued in Gaza, resulting in civilian casualties including the killing of an Al Jazeera journalist.
+
+[4] Carlos Queiroz named Ghana head coach before World Cup | World Cup 2026 News | Al Jazeera
+Published: 2026-04-14T08:19:35Z
+URL: https://www.aljazeera.com/sports/2026/4/14/carlos-queiroz-named-ghana-head-coach-before-world-cup
+Summary: Ghana has appointed Carlos Queiroz as head coach of the men's national team less than two months before the World Cup, following the dismissal of Otto Addo. Queiroz, who has extensive World Cup experience coaching Portugal and Iran, described the role as a 'mission'. Ghana is in Group L with Croatia, England, and Panama and has warm-up matches scheduled.
+
+[5] World faces food ‘catastrophe’ if Strait of Hormuz disruption persists: FAO | Food News | Al Jazeera
+Published: 2026-04-14T08:52:52Z
+URL: https://www.aljazeera.com/news/2026/4/14/fao-warns-strait-of-hormuz-disruption-risks-triggering-a-global-food-crisis
+Summary: The UN's Food and Agriculture Organization warns that a prolonged disruption in the Strait of Hormuz could lead to a global food 'catastrophe', as a significant portion of key agricultural inputs like fertilizer transit through the waterway. While current food stocks are absorbing the shock, prolonged blockage could lead to higher commodity prices and inflation later this year and into 2027. The FAO stresses the urgency of resuming traffic to avoid a crisis, noting poorer countries are most exposed.
+
+[6] Russia’s Lavrov visits China as US pressures Iran with Hormuz blockade | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T09:08:45Z
+URL: https://www.aljazeera.com/news/2026/4/14/russian-fm-lavrov-visits-china-to-discuss-middle-east-crisis
+Summary: Russian Foreign Minister Sergey Lavrov visited China, with both countries being vocal critics of the US-Israel war on Iran. The visit comes as the US blockade of the Strait of Hormuz affects China's oil imports from Iran. China criticized the blockade, calling for the strait's security and unimpeded flow, while Lavrov discussed the Middle East crisis with his Iranian counterpart, emphasizing the need to prevent further armed confrontation.
+
+[7] Maradona’s childhood home becomes soup kitchen for those in need | Football News | Al Jazeera
+Published: 2026-04-14T09:10:25Z
+URL: https://www.aljazeera.com/gallery/2026/4/14/maradonas-childhood-home-now-a-soup-kitchen-for-the-needy
+Summary: The childhood home of the late football legend Diego Maradona in a Buenos Aires suburb has been converted into a soup kitchen serving meals to locals affected by economic austerity measures. Volunteers prepare food in the yard, distributing it to residents facing hardship. The initiative is seen as continuing Maradona's legacy of compassion in the community where he grew up in poverty.
+
+[8] Sanctioned tankers transit Strait of Hormuz amid US blockade | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T09:58:36Z
+URL: https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade
+Summary: At least three vessels, including two US-sanctioned tankers, transited the Strait of Hormuz on the first full day of the US blockade on ships calling at Iranian ports. These vessels were not heading to Iranian ports and were therefore not affected by the blockade. The article notes the complex situation for commercial shipping and the risk of escalation if Iranian vessels are stopped.
+
+[9] Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T10:16:25Z
+URL: https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos
+Summary: Iran has condemned YouTube's suspension of an account belonging to Explosive Media, a pro-Iranian group that produces Lego-style AI videos, including one mocking US President Donald Trump. Iran's Foreign Ministry spokesman accused the platform of trying to suppress the truth about the US-Israel war on Iran. The group's videos have garnered millions of views during the conflict.
+
+[10] Israel-Lebanon direct talks in the US: All to know | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T10:27:12Z
+URL: https://www.aljazeera.com/news/2026/4/14/israel-lebanon-direct-talks-in-the-us-all-to-know
+Summary: The ambassadors of Lebanon and Israel are set for US-brokered direct talks in Washington, DC, the first such bilateral engagement since 1993. Lebanon aims to secure a ceasefire, while Israel seeks the disarmament of Hezbollah. Hezbollah has rejected the talks, urging the Lebanese government to pull out, calling them 'futile'.
+
+[11] Union Berlin denounces sexist abuse aimed at female manager Marie-Lou Eta | Football News | Al Jazeera
+Published: 2026-04-14T10:39:00Z
+URL: https://www.aljazeera.com/sports/2026/4/14/union-berlin-denounces-sexist-abuse-aimed-at-female-manager-marie-lou-eta
+Summary: Union Berlin has condemned sexist online abuse directed at Marie-Louise Eta after she became the first woman to take charge of a men's Bundesliga team as interim head coach. Club officials expressed full confidence in Eta and pushed back against derogatory comments on social media. Eta will oversee the men's team for the remainder of the season before moving to the club's women's side.
+
+[12] Ice hockey coach admits to faking COVID certificate to enter China Olympics | Olympics News | Al Jazeera
+Published: 2026-04-14T10:39:35Z
+URL: https://www.aljazeera.com/sports/2026/4/14/ice-hockey-coach-admits-to-faking-covid-certificate-to-enter-china-olympics
+Summary: Swiss Ice Hockey coach Patrick Fischer has admitted to using a falsified COVID-19 vaccination certificate to travel to the 2022 Winter Olympics in Beijing, circumventing China's strict travel restrictions. Fischer said he made a 'serious mistake' but did not want to let his team down. The Swiss Ice Hockey Federation considers the matter closed as Fischer is already due to step down after the upcoming World Championship.
+
+================================================================================
 RUN TIME UTC: 2026-04-14T06:53:00Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
