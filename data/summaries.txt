@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-04-15T02:36:37Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+This batch of articles covers a range of international news from the last 6 hours, including political controversies in Canada and the US, a major football result, diplomatic talks in the Middle East, economic calls from Venezuela, a tragedy in Haiti, and renewed violence in Gaza.
+
+ARTICLE BREAKDOWN
+[1] Canada faces calls to rescind planned cuts to refugee healthcare scheme | Refugees News | Al Jazeera
+Published: 2026-04-14T21:02:23Z
+URL: https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme
+Summary: Health workers and rights advocates are urging the Canadian government to reverse planned cuts to the Interim Federal Health Program (IFHP) for refugees and asylum seekers. The changes, set for May 1, will introduce co-payments for medications and supplemental services, which critics say will act as a 'de facto denial of care' for vulnerable newcomers. The government states the co-payments are necessary to manage demand and keep the program sustainable.
+
+[2] Atletico edge Barcelona on aggregate to reach Champions League semifinal | Football News | Al Jazeera
+Published: 2026-04-14T21:30:24Z
+URL: https://www.aljazeera.com/sports/2026/4/14/atletico-edge-barcelona-on-aggregate-to-reach-champions-league-semifinal
+Summary: Atletico Madrid advanced to the Champions League semifinals with a 3-2 aggregate victory over Barcelona, despite losing the second leg 2-1. Barcelona took an early two-goal lead, but a goal from Ademola Lookman gave Atletico the decisive aggregate edge. Barcelona's chances were hampered when Eric Garcia was sent off late in the match.
+
+[3] Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct | Sexual Assault News | Al Jazeera
+Published: 2026-04-14T21:49:03Z
+URL: https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct
+Summary: Democratic Representative Eric Swalwell has resigned from Congress following multiple sexual misconduct allegations. A fifth woman has accused him of drugging and raping her in 2018. Swalwell has denied the allegations but apologized for 'mistakes in judgment' and stepped down amid calls for his expulsion.
+
+[4] Israel and Lebanon hold rare talks in Washington, DC, amid Iran war | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-14T23:08:43Z
+URL: https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war
+Summary: Israeli and Lebanese officials held their first direct talks since 1983 in Washington, DC, amid Israel's ongoing military campaign against Hezbollah in Lebanon. Israel pressed for Hezbollah's disarmament, while Lebanon called for a ceasefire and humanitarian relief. Both sides described the talks as constructive, but US officials acknowledged progress would take time.
+
+[5] Delcy Rodriguez calls for a ‘Venezuela free of sanctions’ amid US detente | Business and Economy News | Al Jazeera
+Published: 2026-04-14T23:47:20Z
+URL: https://www.aljazeera.com/news/2026/4/14/delcy-rodriguez-calls-for-a-venezuela-free-of-sanctions-amid-us-detente
+Summary: Venezuela's interim President Delcy Rodriguez called for the United States to fully lift economic sanctions, arguing that limited recent relief is insufficient to stabilize the country's crisis-hit economy. She framed the removal of sanctions as necessary to provide legal certainty for foreign investors. Rodriguez's government has faced recent protests over low wages and pensions.
+
+[6] Haiti’s Culture Ministry fires workers over citadel stampede that killed 25 | Government News | Al Jazeera
+Published: 2026-04-15T00:11:37Z
+URL: https://www.aljazeera.com/news/2026/4/15/haitis-culture-ministry-fires-workers-over-citadel-stampede-that-killed-25
+Summary: Haiti has begun three days of national mourning after a stampede at the Citadelle Laferriere killed at least 25 people. The Ministry of Culture and Communication fired two officials for 'serious negligence' and 'biased passivity' in connection with the incident. Nine suspects, including police officers, have been arrested as an investigation continues.
+
+[7] Israeli attacks kill 11, including two children, in day of strikes on Gaza | Gaza News | Al Jazeera
+Published: 2026-04-15T01:16:20Z
+URL: https://www.aljazeera.com/news/2026/4/15/israeli-attacks-kill-11-including-two-children-in-day-of-strikes-on-gaza
+Summary: Israeli attacks killed at least 11 Palestinians, including two children, in strikes across Gaza. The strikes, which hit locations including Gaza City and the Shati refugee camp, are described as violations of a ceasefire that began in October. Gaza health authorities report nearly 760 Palestinians have been killed since that truce was agreed upon.
+
+================================================================================
 RUN TIME UTC: 2026-04-14T20:57:15Z
 WINDOW: Last 6 hours
 ARTICLES USED: 18
