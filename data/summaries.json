@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-04-15T06:55:33Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The articles cover a range of international news from the last six hours, including US military actions in the Pacific and a blockade of Iran, diplomatic appointments, and sports results. Several stories focus on ongoing conflicts and geopolitical tensions.",
+    "articles": [
+      {
+        "title": "US forces kill 4 people in latest strike on vessels in eastern Pacific | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/15/us-forces-kill-4-people-in-latest-strike-on-vessels-in-eastern-pacific",
+        "published": "2026-04-15T02:54:08Z",
+        "summary": "US Southern Command announced a strike that killed four people on a vessel in the eastern Pacific Ocean, claiming they were 'narco-terrorists' without providing evidence. This marks the fourth such deadly US strike in four days, bringing the overall death toll to at least 175 since early September. Critics, including international legal experts, call the campaign 'extrajudicial killings' and question its effectiveness, noting fentanyl typically enters the US over land from Mexico."
+      },
+      {
+        "title": "South Africa appoints former apartheid-era negotiator as US ambassador | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/15/south-africa-appoints-former-apartheid-era-negotiator-as-us-ambassador",
+        "published": "2026-04-15T04:26:38Z",
+        "summary": "South Africa has appointed Roelf Meyer, a former apartheid-era negotiator, as its next ambassador to the United States. This move is seen as an attempt to improve relations with Washington after a turbulent year that saw the previous ambassador expelled by President Donald Trump. Meyer, who helped negotiate the end of white minority rule, is set to take up the post once protocols are completed."
+      },
+      {
+        "title": "US military says blockade of Iran ports ‘completely’ halts economic trade | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade",
+        "published": "2026-04-15T05:17:44Z",
+        "summary": "US Central Command claims its blockade of Iranian ports has 'completely halted' economic trade by sea, involving over 10,000 personnel. The blockade, enforced against vessels of all nations, is intended to pressure Tehran to accept US terms for ending the war. Iran considers the blockade a violation of the ceasefire, and an analyst notes the situation remains fragile."
+      },
+      {
+        "title": "Avdija scores 41 as Trail Blazers upset Suns in NBA West play-in | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/15/avdija-scores-41-as-trail-blazers-upset-suns-in-nba-west-play-in",
+        "published": "2026-04-15T05:56:23Z",
+        "summary": "Deni Avdija scored 41 points, leading the Portland Trail Blazers to a 114-110 comeback victory over the Phoenix Suns in an NBA play-in game. The win ends Portland's four-year playoff drought, earning them a first-round series against the San Antonio Spurs. Phoenix will get another chance to make the playoffs in a Friday game."
+      },
+      {
+        "title": "England beat Spain 1-0 to lead Women’s World Cup 2027 qualifying group | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/15/england-beat-spain-1-0-to-lead-womens-world-cup-2027-qualifying-group",
+        "published": "2026-04-15T06:21:40Z",
+        "summary": "England defeated Spain 1-0 in a Women's World Cup 2027 qualifier, with Lauren Hemp scoring an early goal. The victory moves England to the top of their qualifying group. In other matches, Norway, Germany, the Netherlands, Ireland, and Denmark also secured wins in their respective groups."
+      },
+      {
+        "title": "Iran says $270bn war loss must be compensated, as fresh talks with US loom | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/15/iran-says-270bn-war-loss-must-be-compensated-as-fresh-talks-with-us-loom",
+        "published": "2026-04-15T06:28:44Z",
+        "summary": "Iran is demanding compensation for an estimated $270 billion in damages from the US-Israel war, citing destruction of critical infrastructure like oil facilities and civilian aircraft. The issue was discussed in recent negotiations and will be raised in any future talks. Iranian officials state the government lacks resources to repay civilians for damaged or destroyed homes."
+      },
+      {
+        "title": "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’ | Xi Jinping News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious",
+        "published": "2026-04-15T06:37:14Z",
+        "summary": "Chinese President Xi Jinping met with Russian Foreign Minister Sergey Lavrov, calling for closer strategic coordination and describing China-Russia relations as 'precious' amid global turmoil. The discussions appeared to reference concerns over the Strait of Hormuz blockade and potential global food crises. Lavrov suggested Russia could help compensate for China's energy shortages."
+      }
+    ]
+  },
+  {
     "time": "2026-04-15T02:36:37Z",
     "window_hours": 6,
     "article_count": 7,
