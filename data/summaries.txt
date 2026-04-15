@@ -1,4 +1,93 @@
 ================================================================================
+RUN TIME UTC: 2026-04-15T16:07:46Z
+WINDOW: Last 6 hours
+ARTICLES USED: 16
+
+OVERALL SUMMARY
+This batch of articles covers a range of international news from the last 6 hours, including sports, legal proceedings, geopolitical tensions, and conflicts. Major themes include the ongoing US-Iran war and related diplomacy, regional violence in Lebanon and Gaza, and significant sporting events and incidents.
+
+ARTICLE BREAKDOWN
+[1] Barcelona starlets to learn from Atletico Madrid Champions League defeat | Football News | Al Jazeera
+Published: 2026-04-15T11:05:01Z
+URL: https://www.aljazeera.com/sports/2026/4/15/barcelona-starlets-to-learn-from-atletico-madrid-champions-league-defeat
+Summary: Barcelona was eliminated from the Champions League by Atletico Madrid 3-2 on aggregate despite winning the second leg 2-1. Coach Hansi Flick said the young team, led by teenager Lamine Yamal, must learn from this experience and improve. The club faces uncertainty over several veteran players' futures but remains focused on winning the domestic league title.
+
+[2] Maradona’s medical team could have saved his life, prosecutor says | Courts News | Al Jazeera
+Published: 2026-04-15T11:36:20Z
+URL: https://www.aljazeera.com/sports/2026/4/15/maradonas-medical-team-could-have-saved-his-life-prosecutor-says
+Summary: A prosecutor in Argentina has accused Diego Maradona's medical team of being a 'bunch of amateurs' whose negligence led to his death. The prosecutor stated Maradona 'began to die 12 hours before his actual death' and that transferring him to a clinic could have saved his life. Seven healthcare professionals are on trial for homicide, facing potential prison terms of 8 to 25 years.
+
+[3] Double standards? Why Iran’s nukes are scrutinised, Israel gets a pass | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-15T11:40:33Z
+URL: https://www.aljazeera.com/news/2026/4/15/double-standards-why-irans-nukes-are-scrutinised-israel-gets-a-pass
+Summary: The article contrasts the intense international scrutiny of Iran's nuclear program with the lack of pressure on Israel, which is widely believed to possess nuclear weapons but maintains a policy of ambiguity. It notes that Israel and the US have waged wars on Iran, citing nuclear concerns, killing over 2,600 Iranians. Critics argue this represents a double standard in nuclear non-proliferation efforts.
+
+[4] England cricket captain Stokes ‘lucky’ to be alive after facial injury | Cricket News | Al Jazeera
+Published: 2026-04-15T11:46:25Z
+URL: https://www.aljazeera.com/sports/2026/4/15/england-cricket-captain-stokes-lucky-to-be-alive-after-facial-injury
+Summary: England Test captain Ben Stokes says he feels 'quite lucky' to be alive after being hit in the face by a cricket ball during a net session in February, which required surgery for a broken cheekbone. He stated that being a couple of inches off could have been fatal. Stokes is recovering and plans to play county cricket next month before leading England in a Test series against New Zealand.
+
+[5] Anger in Lebanon as Israel launches deadly strikes despite diplomatic drive | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-15T11:52:17Z
+URL: https://www.aljazeera.com/news/2026/4/15/anger-in-lebanon-as-israel-launches-deadly-strikes-despite-diplomatic-drive
+Summary: Israel launched deadly strikes on southern Lebanon, killing at least 13 people, just one day after Lebanese and Israeli envoys held rare direct talks in Washington. There is public anger in Lebanon over the government engaging with Israel while attacks continue. A Hezbollah lawmaker criticized the negotiations, accusing the government of making concessions and leaving the south vulnerable.
+
+[6] Asian Cup 2027 draw in Saudi Arabia moved to May 9 over Iran war | Football News | Al Jazeera
+Published: 2026-04-15T12:01:37Z
+URL: https://www.aljazeera.com/sports/2026/4/15/saudi-arabia-hosted-asian-cup-draw-rescheduled-due-to-us-israel-war-on-iran
+Summary: The draw for the 2027 AFC Asian Cup in Saudi Arabia has been postponed from last Saturday to May 9. The Asian Football Confederation stated the delay was due to the US-Israel war on Iran disrupting regional sporting events, to ensure full participation of stakeholders. Saudi Arabia will host the 24-team tournament in January and February 2027.
+
+[7] At least nine people killed in Turkiye’s second school shooting in two days | Gun Violence News | Al Jazeera
+Published: 2026-04-15T12:19:44Z
+URL: https://www.aljazeera.com/news/2026/4/15/four-killed-in-turkiyes-second-school-shooting-in-two-days
+Summary: A student shot and killed at least nine people, including eight students and a teacher, and wounded 13 others at a middle school in Kahramanmaras province. The attacker, an eighth-grade student who used his father's guns, is also dead. This is the second school shooting in Turkiye in two days, following an attack in Sanliurfa province on Tuesday.
+
+[8] As world focuses on Iran, Israel ‘engineering starvation policy’ in Gaza | Gaza News | Al Jazeera
+Published: 2026-04-15T12:40:39Z
+URL: https://www.aljazeera.com/economy/2026/4/15/as-world-focuses-on-iran-israel-engineering-starvation-policy-in-gaza
+Summary: The article reports that while global attention is on the Iran war, Israel has escalated attacks on Gaza and severely restricted aid, creating what experts call an 'engineered, compounded famine'. It states that aid truck entries are far below the amounts stipulated in a ceasefire agreement, with fuel deliveries at only 14% of the promised level. Israeli attacks have continued frequently, including during peak tensions with Iran.
+
+[9] What are Iran’s $100bn in frozen assets and where are they held? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-15T13:40:53Z
+URL: https://www.aljazeera.com/news/2026/4/15/what-are-irans-100bn-in-frozen-assets-and-where-are-they-held
+Summary: Iran's frozen assets, estimated at over $100bn held in foreign banks, have become a central issue in ceasefire talks with the US. These assets, largely revenues from oil sales, have been blocked by sanctions. Iran's parliament speaker said the assets must be released before negotiations, but the US has dismissed reports of agreeing to unfreeze them.
+
+[10] US-Iran talks: What’s the latest on mediation efforts? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-15T13:55:40Z
+URL: https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts
+Summary: A diplomatic push is underway to revive US-Iran talks during a fragile two-week ceasefire set to expire on April 22. The first round of talks in Islamabad failed to secure an agreement. Reports suggest a second round could happen soon, but there are conflicting reports about an agreement to extend the ceasefire to allow for more diplomacy.
+
+[11] ‘Erosion of a country’s future’: What has the war cost Sudan? | Conflict News | Al Jazeera
+Published: 2026-04-15T14:24:12Z
+URL: https://www.aljazeera.com/news/2026/4/15/erosion-of-a-countrys-future-what-has-the-war-cost-sudan
+Summary: Three years of civil war in Sudan have killed over 40,000 people, displaced about 14 million, and caused extensive damage to civilian infrastructure. A UN report warns the war has triggered a systemic economic collapse, with Sudan losing $6.4bn in GDP in 2023 alone. Even if peace is achieved in 2026, the country is projected to lose an estimated $18.8bn in GDP by 2043.
+
+[12] Barcelona’s Lamine Yamal vows to win Champions League after Atletico defeat | Football News | Al Jazeera
+Published: 2026-04-15T14:56:49Z
+URL: https://www.aljazeera.com/sports/2026/4/15/barcelonas-lamine-yamal-vows-to-win-champions-league-after-atletico-defeat
+Summary: Barcelona teenager Lamine Yamal has vowed to win the Champions League with the club following their quarterfinal elimination by Atletico Madrid. In an Instagram post, he said giving up is not an option and promised to fulfill his word to bring the trophy to Barcelona. The club's president-elect also criticized the refereeing in both legs as 'shameful' and said Barcelona would file a formal complaint with UEFA.
+
+[13] US sending 10,000 more troops to Middle East despite Iran ceasefire | News | Al Jazeera
+Published: 2026-04-15T15:27:37Z
+URL: https://www.aljazeera.com/news/2026/4/15/us-sending-10000-more-troops-to-middle-east-despite-iran-ceasefire
+Summary: The US is sending over 10,000 additional troops to the Middle East this month, according to a Washington Post report citing officials. The deployment includes about 6,000 troops on an aircraft carrier group and 4,200 Marines. This comes amid a ceasefire with Iran and as the US says it has implemented a naval blockade 'completely' halting maritime trade with Iran.
+
+[14] Iran warns US naval blockade threatens ceasefire | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-15T15:29:38Z
+URL: https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire
+Summary: A senior Iranian military commander warned that the continued US naval blockade in the Strait of Hormuz could lead to a violation of the current ceasefire. He stated Iran's armed forces would not allow any exports or imports to continue in the Persian Gulf and surrounding waters if the blockade persists. The comments come as Pakistani mediators visit Iran to discuss potential further talks with the US.
+
+[15] Can Japan’s arms industry gain from Trump trust loss? | Military News | Al Jazeera
+Published: 2026-04-15T15:42:23Z
+URL: https://www.aljazeera.com/news/2026/4/15/can-japans-arms-industry-gain-from-trump-trust-loss
+Summary: Japan has eased its arms export rules, breaking with decades of pacifist policy. This move comes as US allies increase military spending amid declining trust in US security commitments under President Trump. Japan recently approved a record defence budget and its defence contractors are reportedly hiring to capitalize on expected demand from countries like the Philippines and Poland.
+
+[16] Trump escalates threats to fire US Federal Reserve Chair Powell | Banks News | Al Jazeera
+Published: 2026-04-15T15:44:09Z
+URL: https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell
+Summary: US President Donald Trump threatened to fire Federal Reserve Chair Jerome Powell from the Fed's board if Powell does not step down voluntarily when his term ends on May 15. Trump has long criticized the Fed's interest rate policy and sought more control over the central bank. His nominee to succeed Powell, Kevin Warsh, faces an uncertain confirmation process in the Senate.
+
+================================================================================
 RUN TIME UTC: 2026-04-15T11:00:23Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
