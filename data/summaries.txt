@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-15T20:51:38Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+This batch of articles covers a range of international political and conflict developments. Key themes include diplomatic shifts concerning Israel, with Italy suspending a defense pact and UN experts calling for an arms embargo. The US-Iran conflict and related diplomacy feature prominently, alongside domestic political stories from the US, Hungary, and a humanitarian crisis in Sudan.
+
+ARTICLE BREAKDOWN
+[1] Why has Italy’s Giorgia Meloni suspended a defence pact with Israel? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-15T16:10:11Z
+URL: https://www.aljazeera.com/news/2026/4/15/why-has-italys-giorgia-meloni-suspended-a-defence-pact-with-israel
+Summary: Italy has suspended a long-standing defense agreement with Israel, a move analysts say is more symbolic than concretely impactful but marks an unprecedented reversal by a staunch ally. The suspension follows recent diplomatic tensions, including Italy condemning Israeli attacks in Lebanon. Israel has downplayed the decision, saying the pact never materialized substantially.
+
+[2] Netanyahu sees Lebanon as his last chance for a ‘win’ | Israel attacks Lebanon | Al Jazeera
+Published: 2026-04-15T16:38:12Z
+URL: https://www.aljazeera.com/opinions/2026/4/15/netanyahu-sees-lebanon-as-his-last-chance-for-a
+Summary: This opinion piece argues that Israeli Prime Minister Benjamin Netanyahu's campaign in Lebanon is driven by a domestic need for a political victory after perceived failures in Gaza and against Iran. It suggests that despite strategic rationales, the goal of disarming Hezbollah through potential occupation is Netanyahu's remaining opportunity to claim triumph, though occupation would bring protracted conflict.
+
+[3] UN experts urge member states to suspend Israel arms transfers | United Nations News | Al Jazeera
+Published: 2026-04-15T17:07:29Z
+URL: https://www.aljazeera.com/news/2026/4/15/un-experts-urge-member-states-to-suspend-israel-arms-transfers
+Summary: A group of UN experts has condemned Israel's bombardment of Lebanon as a violation of the UN Charter and called on member states to halt all arms transfers to Israel. They cited the April 8 attacks that killed hundreds and accused Israel of forced displacement and actions pointing to ethnic cleansing. The appeal comes as Israel continues its military operations in Lebanon, which it says are separate from a ceasefire with Iran.
+
+[4] Countries pledge $1.5bn for Sudan crisis as war enters fourth year | Sudan war News | Al Jazeera
+Published: 2026-04-15T17:57:18Z
+URL: https://www.aljazeera.com/news/2026/4/15/countries-pledge-1-5bn-for-sudan-crisis-as-war-enters-fourth-year
+Summary: International donors pledged 1.3 billion euros ($1.5bn) for humanitarian aid in Sudan at a conference in Berlin marking the war's third anniversary. UN Secretary-General Antonio Guterres called for an end to the conflict, which has left nearly 34 million people in need. Sudan's government rejected the conference as a 'colonial tutelage approach,' criticizing the exclusion of the warring parties.
+
+[5] What is Trump-backed SAVE America Act and what could it mean for US vote? | US Midterm Elections 2026 News | Al Jazeera
+Published: 2026-04-15T18:29:00Z
+URL: https://www.aljazeera.com/news/2026/4/15/what-is-trump-backed-save-america-act-and-what-could-it-mean-for-us-vote
+Summary: The US Senate is debating the SAVE America Act, a voting law championed by President Donald Trump that would require proof of citizenship for voter registration and stricter ID requirements. The bill, which passed the House along party lines, faces a Senate hurdle as it likely needs 60 votes. Critics argue it risks disenfranchising voters, while supporters claim it boosts election security.
+
+[6] Pope Leo visits Cameroon with message of peace amid attacks from Trump | Conflict News | Al Jazeera
+Published: 2026-04-15T18:57:57Z
+URL: https://www.aljazeera.com/news/2026/4/15/pope-leo-visits-cameroon-with-message-of-peace-amid-attacks-from-trump
+Summary: Pope Leo XIV has arrived in Cameroon as part of an African tour, delivering a message of peace and anti-corruption that has drawn criticism from US President Donald Trump. The pope called for breaking 'chains of corruption' and has been outspoken in criticizing the US-Israel war on Iran. Trump has previously attacked the pope on social media, accusing him of being weak and politically aligned.
+
+[7] Pakistan army chief in Tehran to advance next round of US-Iran talks | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-15T19:27:34Z
+URL: https://www.aljazeera.com/news/2026/4/15/pakistan-army-chief-in-tehran-to-advance-next-round-of-us-iran-talks
+Summary: A high-level Pakistani delegation led by Army Chief Asim Munir is in Tehran to mediate a new round of US-Iran talks ahead of a fragile truce expiration. The mediation aims to extend the ceasefire and reach a deal, with US officials expressing optimism. Tensions persist, however, as the US maintains a naval blockade on Iranian ports, which Iran has condemned.
+
+[8] US Senate rejects another war powers resolution to limit Trump on Iran | Donald Trump News | Al Jazeera
+Published: 2026-04-15T19:53:49Z
+URL: https://www.aljazeera.com/news/2026/4/15/us-senate-rejects-another-war-powers-resolution-to-limit-trump-on-iran
+Summary: The US Senate has rejected, for the fourth time, a resolution to limit President Donald Trump's authority to wage war with Iran. The vote fell mostly along party lines. Supporters argue Trump acted outside constitutional authority, while opponents maintain he is acting within his presidential duties to defend the United States.
+
+[9] Hungary’s Magyar urges president to quit, vows to overhaul state media | Politics News | Al Jazeera
+Published: 2026-04-15T19:56:29Z
+URL: https://www.aljazeera.com/news/2026/4/15/hungarys-magyar-urges-president-to-quit-vows-to-overhaul-state-media
+Summary: Hungary's Prime Minister-elect Peter Magyar has called for the president to resign and pledged to overhaul state media, which he accused of being a propaganda machine under the previous government. Magyar, whose party won a landslide victory, said his government could be formed by mid-May and outlined anti-corruption and media freedom as priorities to unlock blocked EU funds.
+
+[10] Could the US oil blockade snuff out the Cuban cigar? | International Trade News | Al Jazeera
+Published: 2026-04-15T20:08:28Z
+URL: https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar
+Summary: A US-led de facto oil blockade on Cuba is severely impacting the country's iconic cigar industry. Fuel shortages and power outages are disrupting tobacco cultivation, manufacturing, and transportation. Despite being a top export, the industry faces major operational challenges, with one shop manager reporting a month without a shipment of premium cigars.
+
+================================================================================
 RUN TIME UTC: 2026-04-15T16:07:46Z
 WINDOW: Last 6 hours
 ARTICLES USED: 16
