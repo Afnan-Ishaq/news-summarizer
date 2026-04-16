@@ -1,4 +1,108 @@
 ================================================================================
+RUN TIME UTC: 2026-04-16T16:25:02Z
+WINDOW: Last 6 hours
+ARTICLES USED: 19
+
+OVERALL SUMMARY
+This batch of articles covers a range of international conflicts, diplomatic moves, and social issues. Major themes include the ongoing US-Israel war with Iran and its regional fallout, the war in Ukraine, and internal political developments in countries like India and South Africa.
+
+ARTICLE BREAKDOWN
+[1] ‘Sent to be killed’: How Russia forces migrants to fight in Ukraine | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-16T10:45:39Z
+URL: https://www.aljazeera.com/features/2026/4/16/sent-to-be-killed-how-russia-forces-migrants-to-fight-in-ukraine
+Summary: The article details how Russia is coercing tens of thousands of labor migrants from Central Asia to fight in Ukraine, using tactics like threats and promises of money and amnesty. It focuses on the case of one Tajik man who says he was arrested on false charges and given the choice between fighting or being placed in a cell with HIV-infected inmates. Human rights groups report these soldiers have a life expectancy of about four months on the front line.
+
+[2] Israeli army says soldiers accused of abusing Palestinian to return to duty | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-16T11:17:51Z
+URL: https://www.aljazeera.com/news/2026/4/16/israeli-army-says-soldiers-accused-of-abusing-palestinian-to-return-to-duty
+Summary: The Israeli military chief has authorized five soldiers, accused of sexually assaulting a Palestinian detainee, to return to reserve service after charges against them were dropped. An internal military inquiry into their conduct is still ongoing. Rights groups have condemned the decision, calling it an example of impunity for crimes against Palestinians.
+
+[3] Ceasefire in Lebanon ‘as important’ as in Iran, Ghalibaf says | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-16T11:44:25Z
+URL: https://www.aljazeera.com/news/2026/4/16/ceasefire-in-lebanon-as-important-as-in-iran-says-ghalibaf
+Summary: Iran's parliament speaker, Mohammad Bagher Ghalibaf, told his Lebanese counterpart that a ceasefire in Lebanon is as important as one in Iran. He stated Tehran is striving to compel the US and Israel to establish a permanent ceasefire in all conflict zones. The article notes that over 1.2 million Lebanese have been displaced and a key bridge has been destroyed, worsening the humanitarian crisis.
+
+[4] Who is Roelf Meyer, South Africa’s new ambassador to the US? | News | Al Jazeera
+Published: 2026-04-16T11:51:40Z
+URL: https://www.aljazeera.com/news/2026/4/16/who-is-roelf-meyer-south-africas-new-ambassador-to-the-us-2
+Summary: South Africa has appointed Roelf Meyer, a former apartheid-era minister and negotiator, as its new ambassador to the United States in an effort to mend strained ties. Relations deteriorated under US President Donald Trump, who has criticized South Africa's affirmative action policies and its genocide case against Israel at the ICJ. Meyer replaces an ambassador who was expelled last year after accusing Trump of leading a 'white supremacist' movement.
+
+[5] Can historic Israel-Lebanon talks lead to ceasefire? | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-16T12:04:53Z
+URL: https://www.aljazeera.com/news/2026/4/16/can-historic-israel-lebanon-talks-lead-to-ceasefire
+Summary: US President Donald Trump announced that the leaders of Israel and Lebanon would speak for the first time in 34 years, raising hopes for diplomacy amid intense fighting. The article notes that over 2,000 people have been killed in Lebanon and more than one million displaced. It states that the success of any talks is unclear, as objectives differ and the situation is tied to broader negotiations involving Iran.
+
+[6] Why the Iran war did not go according to US plans | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-16T12:29:51Z
+URL: https://www.aljazeera.com/opinions/2026/4/16/why-the-iran-war-did-not-go-according-to-us-plans
+Summary: This opinion article argues the US made several miscalculations in its war with Iran, expecting a short conflict but instead facing a prolonged war of attrition. It lists mistakes such as misreading Iran's strategy, underestimating its military capabilities, and incorrectly predicting domestic instability in Iran. The article states these errors led to heavy military, economic, and political costs for the US.
+
+[7] India plans more seats for women in parliament, links it to ‘delimitation’ | Women News | Al Jazeera
+Published: 2026-04-16T12:38:16Z
+URL: https://www.aljazeera.com/news/2026/4/16/india-plans-more-seats-for-women-in-parliament-links-it-to-delimitation
+Summary: The Indian government is linking the implementation of a law reserving 33% of parliamentary seats for women to a redrawing of constituency boundaries based on population. The delimitation process would also increase the total number of seats in parliament. Opposition parties have raised concerns that this population-based approach could benefit the ruling BJP, which draws more support from the densely populated north.
+
+[8] Pope Leo decries world ruled by ‘tyrants’ after Trump attacks | News | Al Jazeera
+Published: 2026-04-16T13:08:34Z
+URL: https://www.aljazeera.com/news/2026/4/16/pope-leo-decries-world-ruled-by-tyrants-after-trump-attacks
+Summary: Pope Leo XIV, during a visit to Cameroon, criticized a 'handful of tyrants' he said are ravaging the world with war and exploitation. He warned against manipulating religion for military, economic, or political gain. His comments came days after US President Donald Trump attacked him on social media.
+
+[9] Legal migrants remain vulnerable to trafficking | Migration | Al Jazeera
+Published: 2026-04-16T13:30:23Z
+URL: https://www.aljazeera.com/opinions/2026/4/16/legal-migrants-remain-vulnerable-to-trafficking
+Summary: This opinion piece argues that legal migrants on temporary work visas remain vulnerable to trafficking and exploitation, not just undocumented migrants. It states that visa systems tying workers to a single employer can lead to debt bondage, passport confiscation, and threats of deportation. The article uses the example of a Moldovan woman who was trafficked to Germany through a seemingly legitimate recruitment process.
+
+[10] Hegseth says US to keep Iran port blockade in Hormuz, ready for new attacks | Donald Trump News | Al Jazeera
+Published: 2026-04-16T13:56:32Z
+URL: https://www.aljazeera.com/news/2026/4/16/hegseth-says-us-blockade-to-continue-ready-for-new-attacks-on-iran-energy
+Summary: US Defense Secretary Pete Hegseth said the military blockade of Iran's ports in the Strait of Hormuz will continue 'as long as it takes' and that the US remains 'locked and loaded' to attack Iran's energy facilities. He stated the US prefers a diplomatic resolution but is prepared to resume attacks if Iran 'chooses poorly'. The comments come amid a tenuous pause in fighting and ongoing diplomatic efforts.
+
+[11] FIFA ‘surprised’ by US backlash as transport costs skyrocket at World Cup | World Cup 2026 News | Al Jazeera
+Published: 2026-04-16T14:13:31Z
+URL: https://www.aljazeera.com/sports/2026/4/16/fifa-surprised-by-us-backlash-as-transport-costs-skyrocket-at-world-cup
+Summary: US officials, including a senator and the governor of New Jersey, are calling on FIFA to help pay for public transportation costs for the 2026 World Cup after reports of massive price hikes. Train fares for games in New Jersey are reported to potentially exceed $100 each way, compared to a standard fare of $12.90. The officials argue FIFA, which stands to make billions, should not burden local taxpayers with the transport bill.
+
+[12] Who will lead Real Madrid’s ‘revolution’ after Champions League exit? | Football News | Al Jazeera
+Published: 2026-04-16T14:14:41Z
+URL: https://www.aljazeera.com/sports/2026/4/16/real-madrid-face-latest-revolution-after-champions-league-exit-at-bayern
+Summary: Following Real Madrid's elimination from the Champions League, Spanish media reports suggest the club is braced for a 'revolution'. Interim coach Alvaro Arbeloa, whose team lost to Bayern Munich, is not expected to keep the job permanently. The article states that failure is rarely tolerated at the club without someone paying the price.
+
+[13] Doping is a ‘big problem’ in India, global anti-doping body chief says | Olympics News | Al Jazeera
+Published: 2026-04-16T14:16:14Z
+URL: https://www.aljazeera.com/sports/2026/4/16/doping-is-a-big-problem-in-india-global-anti-doping-body-chief-says
+Summary: The head of the World Anti-Doping Agency (WADA) says a crackdown on India's performance-enhancing drugs production industry, the world's biggest, is key to tackling doping. WADA is working with Indian law enforcement like the CBI to target the supply chain and criminal networks. India has topped the list of global sports drug cheats for three years in a row.
+
+[14] After three years of war, Sudan army and RSF locked in military impasse | Sudan war News | Al Jazeera
+Published: 2026-04-16T14:19:16Z
+URL: https://www.aljazeera.com/news/2026/4/16/after-three-years-of-war-sudan-army-and-rsf-locked-in-military-impasse
+Summary: As Sudan's war enters its fourth year, the army and the paramilitary Rapid Support Forces (RSF) are locked in a military impasse with neither side achieving decisive victory. The army controls the north, center, east, and capital, while the RSF controls Darfur and large parts of the Kordofan region. The humanitarian situation remains grim, particularly in Darfur.
+
+[15] Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict | Business and Economy News | Al Jazeera
+Published: 2026-04-16T14:24:38Z
+URL: https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict
+Summary: Turkish missile manufacturer Roketsan aims to become a top 10 global defence exporter, capitalizing on rising global demand for drone and missile technology. The company's growth is part of Turkiye's broader push to build a self-reliant defence industry after facing Western embargoes. Turkiye's defence industry reported $10bn in exports in 2025.
+
+[16] UK police arrest 3 after attempted arson at Persian-language media centre | Police News | Al Jazeera
+Published: 2026-04-16T15:42:41Z
+URL: https://www.aljazeera.com/news/2026/4/16/uk-police-arrest-3-after-attempted-arson-at-persian-language-media-centre
+Summary: UK police have arrested three people after an attempted arson attack on the offices of a Persian-language media organization in London. Reports indicate the target was the parent company of Iran International, a channel critical of Iran's government. Police say an 'ignited container' was thrown but caused no damage or injuries, and counter-terrorism detectives are leading the investigation.
+
+[17] Jet fuel shortage: Why Iran war could ground flights in Europe | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-16T15:44:23Z
+URL: https://www.aljazeera.com/news/2026/4/16/jet-fuel-shortage-why-iran-war-could-ground-flights-in-europe
+Summary: A critical shortage of jet fuel, stemming from the US-Iran war's disruption of oil supplies through the Strait of Hormuz, could ground flights in Europe. The head of the International Energy Agency warned Europe may have only about six weeks of jet fuel left. Europe is particularly vulnerable as it relies heavily on Middle East imports for its jet fuel.
+
+[18] Israel says it’s West’s defender, but cares little for European critics | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-16T15:47:56Z
+URL: https://www.aljazeera.com/news/2026/4/16/israel-says-its-wests-defender-but-cares-little-for-european-critics
+Summary: The article describes how Israel is facing deepening criticism and isolation from European allies over its widening wars. Israeli Prime Minister Benjamin Netanyahu recently claimed Israel is defending Western values against barbarism and that Europe suffers from 'moral weakness'. Analysts note this reflects a long-standing view on the Israeli right that it acts as the West's defender.
+
+[19] Trump says Israel and Lebanon agree to temporary ceasefire | News | Al Jazeera
+Published: 2026-04-16T15:52:19Z
+URL: https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanon-agree-to-temporary-ceasefire
+Summary: US President Donald Trump announced that Israel and Lebanon have agreed to a 10-day ceasefire, set to begin at 5pm EST on Thursday. He stated the agreement came after he spoke with Israeli Prime Minister Benjamin Netanyahu and Lebanese President Joseph Aoun.
+
+================================================================================
 RUN TIME UTC: 2026-04-16T11:05:28Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
