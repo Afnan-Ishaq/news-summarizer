@@ -1,5 +1,103 @@
 [
   {
+    "time": "2026-04-16T20:51:34Z",
+    "window_hours": 6,
+    "article_count": 15,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours, including geopolitical developments in Syria and US-Iran diplomacy, human interest stories from Gaza and Turkey, domestic US politics and crime, sports news, and regional tensions in Lebanon and Cuba.",
+    "articles": [
+      {
+        "title": "Syria takes control of all bases where US forces were deployed | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed",
+        "published": "2026-04-16T16:06:23Z",
+        "summary": "Syria has taken full control of all military sites where US forces had been deployed, following the final convoy's departure from Qasrak air base. The handover, which Damascus says was coordinated with the US, completes a process linked to the integration of Kurdish-led SDF fighters into national structures. This follows deals struck earlier in the year that brought Kurdish fighters into the national army and transferred control of border crossings and institutions to Damascus."
+      },
+      {
+        "title": "No date set for US-Iran talks, as Pakistan pushes to keep diplomacy alive | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/no-date-set-for-us-iran-talks-as-pakistan-pushes-to-keep-diplomacy-alive",
+        "published": "2026-04-16T17:03:36Z",
+        "summary": "Pakistan's Foreign Ministry confirmed the US and Iran are discussing a second meeting through Islamabad to end their nearly seven-week war, but no date has been set. Pakistan's civil and military leadership is engaged in a regional diplomatic push, with the Prime Minister touring Gulf states and the army chief meeting officials in Tehran. Iran's ambassador stated Tehran would only hold talks with Washington in Pakistan, citing trust."
+      },
+      {
+        "title": "'Whose is he?': A Gaza father's fight for a child who might not be his | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/whose-is-he-a-gaza-fathers-fight-for-a-child-who-might-not-be-his",
+        "published": "2026-04-16T17:51:01Z",
+        "summary": "Mohammed Lubbad's wife Amal was killed in an Israeli air strike in October 2023 while eight months pregnant, but he was later told she had given birth via C-section. He has been searching for his son since, amid the chaos of war, with leads pointing to a baby possibly among premature infants at al-Shifa Hospital. The search has become more complicated as a baby matching the description was identified and registered by another family, leading to a dispute."
+      },
+      {
+        "title": "'Endless grief': Turkiye mourns victims of second school shooting in a week | Gun Violence News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/endless-grief-turkey-mourns-victims-of-second-school-shooting-in-a-week",
+        "published": "2026-04-16T17:55:48Z",
+        "summary": "Turkiye is mourning after a second school shooting in a week, where a 14-year-old student opened fire at the Ayser Calik School in Kahramanmaras, killing 10 people including a teacher. The attacker, who used his father's guns, was later found dead. This follows a separate school shooting in Sanliurfa province two days earlier, and authorities have detained dozens over alleged threatening social media posts."
+      },
+      {
+        "title": "Virginia ex-lieutenant governor Justin Fairfax kills wife, himself: Police | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/former-lieutenant-governor-of-virginia-kills-wife-and-himself-police-say",
+        "published": "2026-04-16T18:02:57Z",
+        "summary": "Former Virginia Lieutenant Governor Justin Fairfax shot and killed his wife, Cerina Fairfax, before taking his own life in their home, according to police. Authorities believe the incident was related to the couple's ongoing divorce, noting Fairfax had recently been served court paperwork. Fairfax, a Democrat who faced sexual assault allegations in 2019, had largely disappeared from politics after a failed gubernatorial bid."
+      },
+      {
+        "title": "Barcelona appeal to UEFA over Laws of Game failure in Champions League exit | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/barcelona-appeal-to-uefa-over-laws-of-game-failure-in-champions-league-exit",
+        "published": "2026-04-16T18:08:56Z",
+        "summary": "Barcelona have lodged another complaint with UEFA, arguing that several refereeing decisions across their Champions League quarterfinal defeat to Atletico Madrid did not comply with the Laws of the Game. The club cited a lack of appropriate VAR intervention in key incidents, which they believe impacted the tie's outcome. This comes after UEFA rejected an initial appeal from Barcelona about a handball incident in the first leg."
+      },
+      {
+        "title": "Ex-Arsenal and Liverpool keeper Manninger killed in car crash with train | Sport News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/former-arsenal-and-juventus-keeper-killed-in-austria-car-crash-with-train",
+        "published": "2026-04-16T18:18:48Z",
+        "summary": "Former Austria, Arsenal, and Liverpool goalkeeper Alex Manninger has died at age 48 after the car he was driving was hit by a train at a crossing near Salzburg. Manninger, who won 33 caps for Austria and played for several top clubs including Juventus, retired in 2017. Police said the driver was alone in the vehicle and resuscitation attempts were unsuccessful."
+      },
+      {
+        "title": "US House votes down latest effort to curtail Trump's power to wage Iran war | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/us-house-votes-down-latest-effort-to-curtail-trumps-power-to-wage-iran-war",
+        "published": "2026-04-16T18:51:18Z",
+        "summary": "The US House of Representatives voted down a resolution to curtail President Donald Trump's power to wage war with Iran by a single vote, 213-214. The vote showed increased Democratic consolidation on the issue, with only one Republican supporting the measure. This follows a similar failed vote in the Senate, underscoring Republican wariness about constraining Trump's military actions."
+      },
+      {
+        "title": "World Cup 2026: Football fans outraged by United States transit prices | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/world-cup-2026-football-fans-outraged-by-united-states-transit-prices",
+        "published": "2026-04-16T19:19:00Z",
+        "summary": "Football fans have expressed outrage at sharply increased transit fares to reach World Cup 2026 matches in the US, with reports of tickets costing over $100 for journeys that normally cost under $13. US politicians, including a New Jersey governor and a Senate leader, have blamed FIFA and suggested the governing body should subsidize the costs. FIFA issued a statement criticizing the price hikes, referencing original host city agreements that required free transportation."
+      },
+      {
+        "title": "Lionel Messi buys Barcelona-based Spanish football club Cornella | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/lionel-messi-buys-barcelona-based-spanish-club-cornella",
+        "published": "2026-04-16T19:19:03Z",
+        "summary": "Argentinian football star Lionel Messi has acquired UE Cornella, a fifth-division club based in Barcelona. The club announced the deal, stating it marks a new chapter guided by a long-term vision combining ambition and local roots. Messi, who spent most of his career at FC Barcelona, is aiming to compete in the 2026 World Cup to defend Argentina's title."
+      },
+      {
+        "title": "Cuban president defiant amid US pressure and energy blockade threats | Conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/cuban-president-defiant-amid-us-pressure-and-energy-blockade-threats",
+        "published": "2026-04-16T19:42:15Z",
+        "summary": "Cuban President Miguel Diaz-Canel stated that Cuba does not seek conflict with the US but is prepared to fight if necessary, marking the anniversary of the socialist revolutionary declaration. He cited threats of US military aggression and an intensified energy blockade, which has caused fuel shortages and blackouts. Diaz-Canel described Cuba as a 'besieged state' facing multidimensional economic warfare."
+      },
+      {
+        "title": "Senate vote on arms sale shows 'massive cracks' in US support for Israel | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/senate-vote-on-arms-sale-shows-massive-cracks-in-us-support-for-israel",
+        "published": "2026-04-16T20:03:08Z",
+        "summary": "A US Senate vote to block the sale of military bulldozers to Israel was defeated, but rights advocates hail it as a historic shift, with 40 out of 47 Democratic senators supporting the measure. Activists say the vote reflects growing frustration with Israeli policies and aligns with public opinion opposing unconditional aid. The vote count was more than double the opposition to a similar arms sale measure in 2024."
+      },
+      {
+        "title": "Sectarian fears increase as a Beirut area says no to displacement centre | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/sectarian-fears-increase-as-a-beirut-area-says-no-to-displacement-centre",
+        "published": "2026-04-16T20:08:25Z",
+        "summary": "Tensions have risen in Beirut's Karantina neighborhood after a government-planned centre for people displaced by Israel's war on Lebanon was cancelled following public outcry. Some objections had sectarian motivations, with parts of the Christian population opposing housing predominantly Shia displaced people, using language reminiscent of the civil war. Fears exist that the war is exacerbating internal Lebanese disputes and could push communities toward confrontation."
+      },
+      {
+        "title": "UK's Starmer under fire over report Mandelson failed security vetting | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting",
+        "published": "2026-04-16T20:22:38Z",
+        "summary": "UK Prime Minister Keir Starmer faces pressure over reports that former ambassador to Washington Peter Mandelson failed security vetting but was cleared by Foreign Office officials. A government spokesperson denied Starmer had any knowledge of the override. Opposition leaders have accused Starmer of misleading Parliament and called for his resignation, while police are investigating Mandelson over allegations of leaking sensitive documents to Jeffrey Epstein."
+      },
+      {
+        "title": "AOC, Boebert join calls for sexual misconduct accountability in Congress | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/16/aoc-boebert-join-calls-for-sexual-misconduct-accountability-in-congress",
+        "published": "2026-04-16T20:40:05Z",
+        "summary": "Lawmakers from across the political spectrum, including Democrat Alexandria Ocasio-Cortez and Republican Lauren Boebert, have called for more accountability for sexual misconduct in Congress. This follows the resignations of two representatives amid allegations. Ocasio-Cortez called the resignations an 'important turning point,' while Boebert said she is pursuing efforts to strip the resigned members of their federal pensions."
+      }
+    ]
+  },
+  {
     "time": "2026-04-16T16:25:02Z",
     "window_hours": 6,
     "article_count": 19,
