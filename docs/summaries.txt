@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-04-16T02:44:13Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last 6 hours, including diplomatic moves in the Horn of Africa, a major US antitrust verdict, Champions League football drama, political investigations and elections in Latin America, a controversial new law in El Salvador, a Russian attack in Ukraine, and a fugitive's release in the US.
+
+ARTICLE BREAKDOWN
+[1] Israel appoints first ambassador to Somaliland | Border Disputes News | Al Jazeera
+Published: 2026-04-15T21:05:27Z
+URL: https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland
+Summary: Israel has appointed its first ambassador to Somaliland, Michael Lotem, months after becoming the first country to recognize the breakaway region. Somaliland's president praised Israel as a reliable partner, while Somalia's government condemned the move as a breach of its sovereignty. The partnership has developed rapidly since December, involving diplomatic visits and discussions on trade and security cooperation, drawing wide international condemnation.
+
+[2] US jury finds Ticketmaster and Live Nation had anticompetitive monopoly | Business and Economy News | Al Jazeera
+Published: 2026-04-15T21:28:59Z
+URL: https://www.aljazeera.com/economy/2026/4/15/us-jury-finds-ticketmaster-and-live-nation-had-anticompetitive-monopoly
+Summary: A New York jury found that Live Nation and its subsidiary Ticketmaster maintained a harmful monopoly over major concert venues. The verdict could cost the companies hundreds of millions of dollars in overcharge reimbursements and potential penalties, and may lead to court-ordered divestitures. The civil case, led by US states, accused Live Nation of smothering competition, while the company argued its success was not illegal.
+
+[3] Bayern knock Real Madrid out of Champions League in quarterfinal classic | Football News | Al Jazeera
+Published: 2026-04-15T21:31:04Z
+URL: https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals
+Summary: Bayern Munich defeated Real Madrid 4-3 in a dramatic Champions League quarterfinal, advancing 6-4 on aggregate after late goals from Luis Diaz and Michael Olise. The match saw Real Madrid take the lead three times in the first half and a red card for Eduardo Camavinga, with tempers flaring after the final whistle. Bayern will face Paris St Germain in the semifinals.
+
+[4] Brazil’s police open a probe into presidential candidate Flavio Bolsonaro | Courts News | Al Jazeera
+Published: 2026-04-15T21:45:31Z
+URL: https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro
+Summary: Brazil's Supreme Court has ordered a Federal Police investigation into whether presidential candidate Flavio Bolsonaro committed defamation against President Lula da Silva. The probe centers on social media posts from January where Bolsonaro insinuated Lula was linked to crimes like drug trafficking. Bolsonaro's spokesperson denounced the investigation as a violation of his rights, while polls show a tight race between the two ahead of October's election.
+
+[5] Peru’s ballot count drags on amid frustration with presidential election | Elections News | Al Jazeera
+Published: 2026-04-15T23:06:31Z
+URL: https://www.aljazeera.com/news/2026/4/15/perus-ballot-count-drags-on-amid-frustration-with-presidential-election
+Summary: Peru's presidential election vote count continues three days after the poll, with leftist candidate Roberto Sanchez moving into second place. The election was marred by logistical chaos and delays, fueling public skepticism and fraud claims from some candidates. With about 90% of votes counted, Keiko Fujimori leads, while Sanchez and Rafael Lopez Aliaga are in a tight race for the second runoff spot.
+
+[6] El Salvador publishes law allowing life sentences for minors as young as 12 | Crime News | Al Jazeera
+Published: 2026-04-15T23:45:44Z
+URL: https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12
+Summary: El Salvador has published a new law allowing life imprisonment for minors as young as 12 convicted of severe crimes like homicide or terrorism, set to take effect April 26. The measure is part of President Nayib Bukele's hardline anti-gang policies under a prolonged state of emergency. UN agencies have expressed deep concern, warning it contradicts children's rights and is unlikely to reduce crime.
+
+[7] Russian attack on Ukraine’s Kyiv kills 12-year-old child, wounds 10 | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-16T01:06:01Z
+URL: https://www.aljazeera.com/news/2026/4/16/russian-attack-on-ukraines-kyiv-kills-12-year-old-child-wounds-10
+Summary: A Russian attack on Kyiv killed a 12-year-old child and wounded at least 10 people, including medics, according to the city's mayor. Rocket fragments hit a residential building in the Podilskyi district, causing a fire, while debris also sparked a large fire in the Obolonsky district. Separate attacks in Dnipro, Kharkiv, and Odessa wounded additional civilians.
+
+[8] Brazil’s fugitive ex-spy chief freed in the US after ICE detention | News | Al Jazeera
+Published: 2026-04-16T01:18:06Z
+URL: https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention
+Summary: Former Brazilian intelligence chief Alexandre Ramagem, convicted for his role in a coup plot, has been released from US immigration detention after being held by ICE in Florida. Ramagem fled Brazil before serving a 16-year sentence. Brazil has requested his extradition, but a commentator stated his detention was for a traffic infraction and that he has a pending asylum application.
+
+================================================================================
 RUN TIME UTC: 2026-04-15T20:51:38Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
