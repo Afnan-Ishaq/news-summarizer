@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-04-16T06:56:59Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+This batch of articles covers diplomatic developments in the US-Iran conflict and Israel-Lebanon tensions, alongside a sports result and a US military action. The reports highlight mediation efforts, potential leader talks, and ongoing military actions.
+
+ARTICLE BREAKDOWN
+[1] Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-16T03:37:24Z
+URL: https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates
+Summary: Pakistani officials expect a 'major breakthrough' in US-Iran talks on Tehran's nuclear program, according to sources. A high-level Pakistani delegation is in Tehran to relay messages, with the central sticking points being the duration of an enrichment freeze and the disposal of Iran's stockpile of highly enriched uranium. The shuttle diplomacy follows unsuccessful weekend talks, with mediators also addressing control of the Strait of Hormuz and wartime compensation.
+
+[2] Trump says Israel and Lebanon’s leaders will speak on Thursday | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-16T03:51:27Z
+URL: https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday
+Summary: US President Donald Trump announced that the leaders of Israel and Lebanon will speak directly for the first time in 34 years on Thursday. The announcement follows direct diplomatic talks between the countries' ambassadors in Washington. There was no immediate comment from Israel or Lebanon, and the report notes such contact is considered taboo in Lebanon while the countries are technically at war and Israel continues its attacks.
+
+[3] The pope has shown the world how to stand up to Trump | Donald Trump | Al Jazeera
+Published: 2026-04-16T05:35:31Z
+URL: https://www.aljazeera.com/opinions/2026/4/16/the-pope-has-shown-the-world-how-to-stand-up-to-trump
+Summary: This opinion piece argues that Pope Leo XIV has taken a blunt, public stand against US President Donald Trump, rejecting appeasement. It states the pope has openly criticized Trump's threats and the war on Iran, framing it as a rejection of the notion that the conflict is a sanctioned holy war. The article contrasts the pope's approach with that of other world leaders it says have chosen to mollify Trump.
+
+[4] Curry scores 35 as Warriors upset Clippers to extend playoff run | Basketball News | Al Jazeera
+Published: 2026-04-16T05:59:57Z
+URL: https://www.aljazeera.com/sports/2026/4/16/warriors-upset-clippers-in-nba-west-play-in-extend-playoff-run
+Summary: The Golden State Warriors defeated the Los Angeles Clippers 126-121 in an NBA Western Conference play-in tournament game. Stephen Curry scored 35 points, but Al Horford's late three-pointers were pivotal in a game-ending run. The Warriors advance to a final play-in game against the Phoenix Suns, while the loss ends the Clippers' season.
+
+[5] Iran war: What is happening on day 48 of the US-Iran conflict? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-16T06:13:28Z
+URL: https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict
+Summary: Diplomatic efforts to revive US-Iran negotiations are intensifying, with Pakistan mediating high-level talks in Tehran and the Gulf. The report details ongoing contacts and optimism for a new round of talks, but notes tensions remain high, including an Iranian warning about targeting US ships in the Strait of Hormuz. It also mentions international diplomatic engagements involving China, Saudi Arabia, and Qatar related to the conflict.
+
+[6] US military kills three in new Eastern Pacific boat strike | Military News | Al Jazeera
+Published: 2026-04-16T06:34:58Z
+URL: https://www.aljazeera.com/news/2026/4/16/us-military-kills-three-in-new-eastern-pacific-boat-strike
+Summary: The US military says it attacked a vessel in the Eastern Pacific, killing three people it accuses of narco-trafficking. This is the latest in a series of such strikes that rights groups, including Human Rights Watch, have criticized as unlawful extrajudicial killings. The report notes experts question the legality and effectiveness of the strikes, arguing that drug trafficking allegations should be handled through the legal system.
+
+================================================================================
 RUN TIME UTC: 2026-04-16T02:44:13Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
