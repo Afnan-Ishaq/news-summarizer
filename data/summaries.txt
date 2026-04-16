@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-16T11:05:28Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+This batch of articles covers a range of global news from the last six hours, focusing on regional impacts of the US-Israel war on Iran, domestic political and economic crises, and local humanitarian struggles. Stories span from Kashmir to Australia, highlighting community aid, electoral disputes, industrial accidents, and the daily challenges of survival in conflict zones.
+
+ARTICLE BREAKDOWN
+[1] Why many Kashmiris are donating gold, breaking piggy banks for Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-16T06:56:55Z
+URL: https://www.aljazeera.com/news/2026/4/16/why-many-kashmiris-are-donating-gold-breaking-piggy-banks-for-iran
+Summary: In Indian-administered Kashmir, many people are donating personal valuables like gold, savings, and household items to aid civilians in Iran affected by the US-Israel war. This effort, driven by a centuries-old historical bond, involves contributions from both Shia and Sunni communities, with families simplifying Eid celebrations to redirect resources. The campaign has drawn recognition from Iranian authorities and some concern from Indian officials over fund collection methods.
+
+[2] Muslims the target? Fury as millions lose voting rights in India’s Bengal | Elections News | Al Jazeera
+Published: 2026-04-16T07:51:30Z
+URL: https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal
+Summary: A controversial revision of electoral rolls in West Bengal, India, has removed more than nine million people from voter lists ahead of state elections. Many, like 73-year-old Nabijan Mondal, were excluded due to discrepancies between their voter card names and other official documents. Critics argue the process disproportionately affects Muslims, who constitute about 27% of the state's population, and with special tribunals unable to handle the volume of cases before polling, millions may be unable to vote.
+
+[3] Fire breaks out at crucial Australian refinery, raising fuel supply fears | Business and Economy News | Al Jazeera
+Published: 2026-04-16T08:44:46Z
+URL: https://www.aljazeera.com/news/2026/4/16/fire-breaks-out-at-crucial-australian-refinery-raising-fuel-supply-fears
+Summary: A major fire caused by a gas leak has erupted at Viva Energy's oil refinery in Geelong, Australia, which produces about 10% of the nation's fuel. The incident occurs as Australia, which imports 80% of its fuel, faces supply pressures due to the Middle East conflict. Authorities have brought the blaze under control and urged against panic-buying, while the government has secured additional diesel shipments from Brunei and South Korea to mitigate shortages.
+
+[4] Afghan villagers turn to gold-panning to sustain livelihoods | Mining | Al Jazeera
+Published: 2026-04-16T08:52:00Z
+URL: https://www.aljazeera.com/gallery/2026/4/16/afghan-villagers-turn-to-gold-panning-to-sustain-livelihoods
+Summary: In eastern Afghanistan's Kunar province, hundreds of men are panning for gold dust in the Hindu Kush riverbeds due to scarce economic opportunities. Workers use basic methods like sieves and pans to extract small gold nuggets, with some claiming they can find up to a gram of gold worth about $125 in a week. This informal mining has provided a livelihood for over a decade in a region where Afghanistan's natural resources have been largely unexploited amid conflict.
+
+[5] South African politician Julius Malema sentenced to prison for firing gun | Courts News | Al Jazeera
+Published: 2026-04-16T09:09:56Z
+URL: https://www.aljazeera.com/news/2026/4/16/south-african-politician-julius-malema-sentenced-to-prison-for-firing-gun
+Summary: South African opposition leader Julius Malema has been sentenced to five years in prison for unlawfully firing a rifle at a 2018 party rally. The magistrate convicted him on charges including unlawful possession of a firearm and discharging a weapon in a public place, despite Malema's defense that the gun was a toy and the shots were celebratory. His lawyers have been granted leave to appeal, and if upheld, the sentence would bar him from serving as a lawmaker, dealing a setback to his Economic Freedom Fighters party.
+
+[6] Why are fuel price protests sweeping the Republic of Ireland? | Protests News | Al Jazeera
+Published: 2026-04-16T09:47:35Z
+URL: https://www.aljazeera.com/features/2026/4/16/why-are-fuel-price-protests-sweeping-the-republic-of-ireland
+Summary: Fuel price protests led by hauliers and farmers have swept the Republic of Ireland, with convoys blockading roads and infrastructure for over a week. Demonstrators cite fuel price increases of around 28% for diesel and 25% for petrol since the US-Israel war on Iran began and the Strait of Hormuz closure. The government has deployed the army to remove protesters, drawing comparisons to France's Yellow Vests movement, though protests in Northern Ireland have so far been muted.
+
+[7] 'Iran has to come' to the US for the World Cup, FIFA's Infantino says | World Cup 2026 News | Al Jazeera
+Published: 2026-04-16T09:50:43Z
+URL: https://www.aljazeera.com/sports/2026/4/16/iran-has-to-come-to-the-us-for-the-world-cup-fifas-infantino-says
+Summary: FIFA President Gianni Infantino insists Iran's national team will participate in the World Cup in the United States despite Iran's sports minister citing safety concerns amid the war with the US and Israel. Infantino, who visited the team in Turkey, said the players want to play and relocation of games to Mexico is not feasible. Iran is scheduled to play all its group stage matches on the US West Coast, with FIFA promising safety for the team.
+
+[8] DRC and M23 rebels eye peace monitoring agreement in Switzerland | Conflict News | Al Jazeera
+Published: 2026-04-16T09:53:00Z
+URL: https://www.aljazeera.com/news/2026/4/16/drc-and-m23-rebels-eye-peace-monitoring-agreement-in-switzerland
+Summary: The Democratic Republic of the Congo and M23 rebels are negotiating in Switzerland, with mediation by the US and Qatar, to establish a peace monitoring mechanism. Reports indicate an interim agreement has been signed to track humanitarian and security developments and monitor ceasefire violations. These talks occur amid ongoing clashes in eastern DRC, particularly in South Kivu, where civilians are caught in the fighting despite a December peace accord.
+
+[9] Sudan power crisis: Studying using candles, counting gas station trips | Sudan war News | Al Jazeera
+Published: 2026-04-16T10:33:43Z
+URL: https://www.aljazeera.com/news/2026/4/16/sudan-power-crisis-studying-using-candles-counting-gas-station-trips
+Summary: Sudan is experiencing crippling power cuts exacerbated by the war and global energy disruptions from the US-Israel conflict with Iran, severely impacting daily life. Residents like Husna Mohamed face challenges such as fetching water manually and studying by candlelight, while surging fuel prices and currency devaluation increase costs. The government's promise to restore services in Khartoum has proven difficult amid the ongoing conflict and economic turmoil.
+
+[10] Forced to drop out: Yemen's children trade school for survival | Education News | Al Jazeera
+Published: 2026-04-16T10:36:28Z
+URL: https://www.aljazeera.com/features/2026/4/16/forced-to-drop-out-yemens-children-trade-school-for-survival
+Summary: In Yemen, millions of children like 14-year-old Qasim have dropped out of school to work, collecting plastic bottles to help their families afford basic meals. UNICEF estimates 3.2 million school-aged children are out of school, with parents prioritizing survival over education after years of conflict. Qasim's father expresses that seeing a hungry child is more painful than seeing a child leave school, reflecting the dire economic conditions despite a ceasefire.
+
+================================================================================
 RUN TIME UTC: 2026-04-16T06:56:59Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
