@@ -1,5 +1,121 @@
 [
   {
+    "time": "2026-04-17T16:03:55Z",
+    "window_hours": 6,
+    "article_count": 18,
+    "overall_summary": "This batch of articles covers a range of international news from the last 6 hours, with a focus on Middle East conflicts, including a new Israel-Lebanon ceasefire and ongoing violence in Gaza. Other topics include European politics, sports updates, and regional analyses.",
+    "articles": [
+      {
+        "title": "What we know about the Israel-Lebanon ceasefire | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/what-we-know-about-the-israel-lebanon-ceasefire",
+        "published": "2026-04-17T10:57:23Z",
+        "summary": "A 10-day ceasefire between Israel and Lebanon, announced by US President Donald Trump, has taken effect to allow negotiations for a more permanent agreement. The ceasefire follows six weeks of fighting between Israel and Hezbollah, though Lebanon's army reported several violations by Israeli forces. Hezbollah has stated it will approach the ceasefire with caution, and Israel has demanded the group disarm."
+      },
+      {
+        "title": "Israeli attacks kill several over two days in Gaza despite ‘ceasefire’ | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/israeli-attacks-kill-several-over-two-days-in-gaza-despite-ceasefire",
+        "published": "2026-04-17T11:11:31Z",
+        "summary": "Several Palestinians have been killed in separate Israeli attacks on Gaza over two days, despite a ceasefire that is in its seventh month. The attacks, which included drone strikes and shootings, occurred in areas like Beit Lahiya and Gaza City. Gaza's Government Media Office states Israel has committed 2,400 violations of the ceasefire, which began between Israel and Hamas in October."
+      },
+      {
+        "title": "Tennis: Djokovic pulls out of Madrid Open over injury concerns | Tennis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/tennis-djokovic-pulls-out-of-madrid-open-over-injury-concerns",
+        "published": "2026-04-17T11:42:59Z",
+        "summary": "Novak Djokovic has withdrawn from the upcoming Madrid Open due to injury concerns, continuing his recovery from a shoulder issue. The 38-year-old has played only two tournaments this year, raising fitness questions ahead of the French Open. He is next scheduled to compete at the Italian Open in Rome."
+      },
+      {
+        "title": "The Iran war has exposed the limits of neutrality | GCC | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/17/the-iran-war-has-exposed-the-limits-of-neutrality",
+        "published": "2026-04-17T12:23:19Z",
+        "summary": "This opinion piece argues that the US-Israeli war on Iran has revealed the concept of neutrality to be unviable in the contemporary Middle East. It states that the conflict's transnational nature, involving proxies and threats to global energy supplies, draws all states into the crisis. The article cites examples like Qatar facing Iranian strikes despite its mediation efforts, highlighting how regional instability directly impacts the global economy."
+      },
+      {
+        "title": "Pope Leo calls on Cameroonians to reject violence as 120,000 join Mass | Religion News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/pope-leo-calls-on-cameroonians-to-reject-violence-as-120000-join-mass",
+        "published": "2026-04-17T12:32:00Z",
+        "summary": "Pope Leo XIV addressed a crowd of about 120,000 in Douala, Cameroon, urging the youth to reject violence and corruption. His homily called for faith and the pursuit of the common good. The visit is part of a four-country African tour, during which the Pope has also made comments critical of the war in Iran."
+      },
+      {
+        "title": "Can Hungary wean itself off Russian energy, as its new leader has promised? | Explainer News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/can-hungary-wean-itself-off-russian-energy-as-its-new-leader-has-promised",
+        "published": "2026-04-17T12:36:11Z",
+        "summary": "Newly elected Hungarian leader Peter Magyar has promised to end Russian oil imports by 2035 and steer the country back towards the EU. This follows the rule of Viktor Orban, who deepened ties with Russia and increased Hungary's reliance on Russian crude to 93% by 2025. The article questions the realism of this goal, noting Hungary's dependence on the Russian Druzhba pipeline, which has recently suffered damage in Ukraine."
+      },
+      {
+        "title": "Macron and Starmer host allies for summit on Hormuz maritime security | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/macron-and-starmer-host-allies-for-summit-on-hormuz-maritime-security",
+        "published": "2026-04-17T12:45:32Z",
+        "summary": "France and the UK are convening dozens of countries to discuss plans for a multinational maritime force to secure the Strait of Hormuz after the war with Iran ends. The US is not part of the talks. The initiative aims to restore free passage through the strait, which has been blockaded by Iran, causing major economic disruption."
+      },
+      {
+        "title": "Bulgaria elections: Who’s running and what’s at stake? | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/bulgaria-elections-whos-running-and-whats-at-stake",
+        "published": "2026-04-17T12:56:29Z",
+        "summary": "Bulgaria is holding a snap parliamentary election on April 19, its eighth in five years, amid political instability and corruption protests. The election follows the resignation of the previous government in December. Polls suggest nearly half of citizens believe a single party should have a majority to govern."
+      },
+      {
+        "title": "World Cup 2026: Saudi Arabia sack coach Herve Renard | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/saudi-arabia-sack-coach-herve-renard-ahead-of-fifa-world-cup-2026",
+        "published": "2026-04-17T13:20:52Z",
+        "summary": "Saudi Arabia has sacked coach Herve Renard less than two months before the start of the 2026 FIFA World Cup. Renard, who led the team at the 2022 World Cup, was in his second spell as coach. Former Greece international Georgios Donis is reportedly in talks to replace him."
+      },
+      {
+        "title": "The three clocks of the Iran war | Opinions | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/17/the-three-clocks-of-the-iran-war",
+        "published": "2026-04-17T13:20:56Z",
+        "summary": "This opinion analysis argues the US, Iran, and Israel are each fighting against different political timelines in the ongoing war. It states US President Trump needs a quick exit before midterm elections, Iran's strategy relies on endurance, and Israeli Prime Minister Netanyahu is depicted as needing a war with no clear end. The piece cites domestic political costs for Trump, including low approval ratings and rising inflation linked to the conflict."
+      },
+      {
+        "title": "Iran foreign minister says Strait of Hormuz ‘completely open’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/iran-foreign-minister-says-strait-of-hormuz-completely-open",
+        "published": "2026-04-17T13:37:00Z",
+        "summary": "Iran's foreign minister has declared the Strait of Hormuz \"completely open\" for all commercial vessels during the Israel-Lebanon ceasefire. The announcement came after a 10-day ceasefire was agreed between Israel and Lebanon. However, US President Trump stated the US naval blockade of Iran would remain in force."
+      },
+      {
+        "title": "‘Waiting without answers’: Gaza mother’s fear for her three imprisoned sons | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/17/waiting-without-answers-gaza-mothers-fear-for-her-three-imprisoned-sons",
+        "published": "2026-04-17T13:37:25Z",
+        "summary": "This feature story follows Inaam al-Dahdouh, a Gaza mother fearing for her three sons detained by Israel two years ago. Her fear has intensified following an Israeli law passed in March 2026 allowing the execution of Palestinian prisoners. The article notes a surge in Palestinian detainees, with over 9,600 currently held in Israeli prisons."
+      },
+      {
+        "title": "Manchester City vs Arsenal: Guardiola says defeat ends Premier League race | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/manchester-city-vs-arsenal-guardiola-says-loss-ends-premier-league-race",
+        "published": "2026-04-17T14:16:35Z",
+        "summary": "Manchester City manager Pep Guardiola has called Sunday's Premier League match against leaders Arsenal a \"final,\" stating a defeat would end his team's title hopes. City trail Arsenal by six points but have a game in hand. Guardiola said his team is confident and ready for the crucial showdown."
+      },
+      {
+        "title": "Can Pakistan secure Iran-US nuclear compromise, as Trump says deal ‘close’? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/can-pakistan-secure-iran-us-nuclear-compromise-as-trump-says-deal",
+        "published": "2026-04-17T14:54:34Z",
+        "summary": "US President Trump says a deal with Iran is \"very close,\" claiming Iran has agreed to hand over its enriched uranium stockpile. Iran's foreign ministry, however, stated that enrichment is a sovereign right and its public position remains unchanged. Pakistan is involved in diplomatic messaging between the two sides."
+      },
+      {
+        "title": "Controversy as Lebanese banker Sehnaoui is praised for supporting Israel | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/controversy-as-lebanese-banker-sehnaoui-is-praised-for-supporting-israel",
+        "published": "2026-04-17T14:55:10Z",
+        "summary": "Lebanese banker Antoun Sehnaoui has sparked controversy after being publicly praised for his support of Israel by US envoy Morgan Ortagus. Ortagus described Sehnaoui as coming from a family of \"Lebanese Christian Zionists.\" The praise comes as Israel's recent military actions in Lebanon have caused significant casualties and displacement."
+      },
+      {
+        "title": "Men caught competing as women in prestigious South African marathon | Olympics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/men-caught-competing-in-the-womens-prestigious-south-african-marathon",
+        "published": "2026-04-17T15:02:27Z",
+        "summary": "Two men have been disqualified from South Africa's Two Oceans Marathon after they finished in the top 10 of the women's race by swapping identification bibs. The deception was uncovered by a board member, and the men will face a disciplinary process. The legitimate women runners were subsequently recognized for their finishes."
+      },
+      {
+        "title": "Ukraine’s long-range strikes prompt new Russian threat against Europe | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/17/ukraines-long-range-strikes-prompt-new-russian-threat-against-europe",
+        "published": "2026-04-17T15:46:03Z",
+        "summary": "Russia has issued a warning to European countries after Ukraine secured new agreements with European defence companies for long-range drone production. The Russian defence ministry stated this escalates the situation and published a list of addresses of involved companies, calling them potential targets. This follows Ukrainian strikes that have damaged Russian oil and gas infrastructure."
+      },
+      {
+        "title": "Record number of Rohingya refugees died at sea last year, UNHCR says | Refugees News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/record-number-of-rohingya-refugees-died-at-sea-last-year-unhcr-says",
+        "published": "2026-04-17T15:50:59Z",
+        "summary": "The UN refugee agency reports that 2025 was the deadliest year on record for Rohingya refugees attempting maritime journeys, with nearly 900 reported dead or missing in the Bay of Bengal and Andaman Sea. Thousands continue to make the dangerous trips in 2026 due to limited prospects in refugee camps in Bangladesh. The UNHCR described the area as an \"unmarked graveyard\" for refugees."
+      }
+    ]
+  },
+  {
     "time": "2026-04-17T10:58:09Z",
     "window_hours": 6,
     "article_count": 8,
