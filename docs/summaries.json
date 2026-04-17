@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-04-17T10:58:09Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "This batch of articles covers a range of international news from the last 6 hours, including political statements on the Sudan war, a commemoration of Palestinian Prisoner's Day, economic impacts of the Iran war, a major prisoner pardon in Myanmar, a high-profile arrest in the US, Australia's energy security concerns, a cricket corruption investigation, and a fragile truce in southern Lebanon.",
+    "articles": [
+      {
+        "title": "Sudan’s Prime Minister: This is the path out of the horrors of war | Sudan war | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/17/sudans-prime-minister-this-is-the-path-out-of-the-horrors-of-war",
+        "published": "2026-04-17T06:58:38Z",
+        "summary": "In an opinion piece, Sudan's Prime Minister Kamil Idris outlines his Hope Government's initiative for peace. The initiative calls for a comprehensive ceasefire under international supervision, the assembly of rebel militia in designated locations, and facilitating the return of displaced people. It also proposes a model of transitional justice and a political track aimed at reaching an elected government through Sudanese-Sudanese dialogue."
+      },
+      {
+        "title": "Palestinian Prisoner’s Day: What happened in Palestine on April 17, 1971? | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/palestinian-prisoners-day-what-happened-in-palestine-on-april-17-1971",
+        "published": "2026-04-17T06:59:48Z",
+        "summary": "The article marks Palestinian Prisoner's Day, commemorated on April 17 since 1974. It notes that nearly 10,000 Palestinians are currently held in Israeli prisons, with about a third held under administrative detention without charge or trial. The report highlights Israel's new death penalty law targeting Palestinians, which rights groups call discriminatory, and details the detention of hundreds of children in military courts."
+      },
+      {
+        "title": "Iran war’s big winners: Wall Street, weapons firms, AI and green energy | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy",
+        "published": "2026-04-17T07:42:37Z",
+        "summary": "The article reports that while the IMF has downgraded global growth forecasts due to the US-Israeli war on Iran and the Strait of Hormuz shutdown, some industries are benefiting. It states that major investment banks like Morgan Stanley, Goldman Sachs, and JP Morgan Chase reported significant profit increases in Q1 2026, attributed to high trading volumes and client activity amid market volatility."
+      },
+      {
+        "title": "Myanmar pardons over 4,000 prisoners, including deposed president | Prison News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/myanmar-pardons-over-4000-prisoners-including-deposed-president",
+        "published": "2026-04-17T07:47:39Z",
+        "summary": "Myanmar's new president, coup leader Min Aung Hlaing, has granted amnesty to 4,335 prisoners. The pardon includes former President Win Myint and commutes all death sentences to life imprisonment. The article also notes that Aung San Suu Kyi's jail sentence has been reduced by one-sixth, according to her lawyer, though it is unclear if she will be moved to house arrest."
+      },
+      {
+        "title": "Rapper d4vd arrested on suspicion of murdering 14-year-old girl | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/rapper-d4vd-arrested-on-suspicion-of-murdering-14-year-old-girl",
+        "published": "2026-04-17T08:23:11Z",
+        "summary": "American rapper d4vd, whose real name is David Anthony Burke, has been arrested in Los Angeles on suspicion of murdering 14-year-old Celeste Rivas. Police found Rivas's dismembered body in the trunk of an impounded Tesla registered to Burke seven months ago. Burke's lawyers stated they will vigorously defend his innocence, and the DA's office will review the case for formal charges."
+      },
+      {
+        "title": "Australia scrambles to secure energy as war on Iran fuels uncertainty | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/17/australia-scrambles-to-secure-energy-as-war-on-iran-fuels-uncertainty",
+        "published": "2026-04-17T10:09:09Z",
+        "summary": "Australia is facing fuel shortages due to the war on Iran and the closure of the Strait of Hormuz, which has disrupted 20% of global oil and LNG shipments. The government is responding with fuel tax cuts and 'fuel diplomacy' visits to Southeast Asian countries to secure supplies. Experts warn these are short-term fixes for a structural vulnerability, as Australia imports about 80% of its refined fuel."
+      },
+      {
+        "title": "Canada T20 World Cup game under ICC scrutiny after corruption claim | Cricket News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/canada-t20-world-cup-game-under-icc-scrutiny-after-corruption-claim",
+        "published": "2026-04-17T10:18:10Z",
+        "summary": "The ICC is investigating Cricket Canada over allegations of match corruption, focusing on Canada's loss to New Zealand in a T20 World Cup game. Suspicion is centered on a specific over bowled by captain Dilpreet Bajwa. The investigation follows a CBC documentary that made wide-ranging accusations of corruption and poor governance against the national cricket body."
+      },
+      {
+        "title": "Lebanese return to devastated south as fragile 10-day truce takes hold | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/lebanese-return-to-devastated-south-as-fragile-10-day-truce-takes-hold",
+        "published": "2026-04-17T10:32:38Z",
+        "summary": "Displaced Lebanese are returning to southern Lebanon after a 10-day truce with Israel began, despite calls from the army to delay. Hezbollah warns it has its 'finger on the trigger' for any Israeli violations. The article reports early ceasefire violations by Israel and casualties from unexploded ordnance, while residents assess widespread destruction from over a month of attacks that killed more than 2,100 people."
+      }
+    ]
+  },
+  {
     "time": "2026-04-17T06:58:22Z",
     "window_hours": 6,
     "article_count": 12,
