@@ -1,5 +1,79 @@
 [
   {
+    "time": "2026-04-17T20:45:54Z",
+    "window_hours": 6,
+    "article_count": 11,
+    "overall_summary": "The articles cover a range of international news from the last 6 hours, including sports, US immigration policy, geopolitical developments in the Middle East, and humanitarian crises. Major themes include a key Premier League football match, US deportation agreements, the reopening of the Strait of Hormuz, and concerns over World Cup costs and famine in South Sudan.",
+    "articles": [
+      {
+        "title": "Arsenal to embrace ‘privilege’ not pressure of Man City Premier League tilt | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/arsenal-to-embrace-privilege-not-pressure-of-man-city-premier-league-tilt",
+        "published": "2026-04-17T16:20:02Z",
+        "summary": "Arsenal manager Mikel Arteta says his team should embrace the 'huge privilege' of facing Manchester City in a crucial Premier League title clash. Arsenal are six points clear but have a game in hand, and a City win would shift the balance. Arteta believes his players have the right character despite recent losses and past title race collapses."
+      },
+      {
+        "title": "Fifteen South American people deported from the US arrive in DR Congo | Migration News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/fifteen-south-american-people-deported-from-the-us-arrive-in-dr-congo",
+        "published": "2026-04-17T18:15:46Z",
+        "summary": "Fifteen people deported from the United States, including nationals from Peru and Ecuador, have arrived in the Democratic Republic of Congo. This is the first group under an agreement between the US and DRC, with Washington covering the costs. A lawyer says the deportees had legal protection in the US against being returned to their home countries, a policy criticized by rights groups."
+      },
+      {
+        "title": "What has Trump said before possible US-Iran talks and what could it mean? | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/what-has-trump-said-ahead-of-possible-us-iran-talks-and-what-could-it-mean",
+        "published": "2026-04-17T18:24:13Z",
+        "summary": "US President Donald Trump claimed on social media that Iran agreed to 'never close' the Strait of Hormuz and would turn over nuclear material ahead of possible talks. Iran confirmed reopening the strait for the duration of a ceasefire but pushed back on claims about its nuclear stockpile. An analyst suggests Trump's positive spin may aim to influence markets and prepare for further negotiation revelations."
+      },
+      {
+        "title": "Shipping firms seek clarifications before crossing Hormuz | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/17/shipping-firms-seek-clarifications-before-crossing-hormuz",
+        "published": "2026-04-17T18:35:10Z",
+        "summary": "Shipping companies have cautiously welcomed Iran's announcement that the Strait of Hormuz is open but say they need clarifications before sending vessels. They seek details on mine risks, Iranian conditions, and practical implementation, with some associations advising members to avoid the area. A senior Iranian official said transit would be restricted to safe lanes and require coordination with Iran's Revolutionary Guard Corps."
+      },
+      {
+        "title": "Scholar Rumeysa Ozturk returns to Turkiye following Trump deportation push | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/scholar-rumeysa-ozturk-returns-to-turkiye-following-trump-deportation-push",
+        "published": "2026-04-17T18:50:36Z",
+        "summary": "Doctoral student Rumeysa Ozturk has chosen to return to Turkiye after a nearly yearlong legal battle against deportation by the Trump administration. She cited 'state-imposed violence and hostility' in the US, where she was targeted for her pro-Palestinian advocacy. Ozturk was arrested after co-signing a student newspaper article calling for university divestment from Israel, though she has no criminal record."
+      },
+      {
+        "title": "US confirms transit fare spike to $150 for World Cup fans in New Jersey | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/us-confirms-transit-fare-spike-to-150-for-world-cup-fans-in-new-jersey",
+        "published": "2026-04-17T19:10:23Z",
+        "summary": "Transport officials confirmed a round-trip train fare of $150 for fans traveling from New York City to MetLife Stadium for World Cup matches, nearly 12 times the regular fare. New Jersey officials say the hike is necessary to recoup an estimated $62m in transit costs, with limited parking available. Other host cities like Boston are also implementing high transit costs, while some like Los Angeles and Philadelphia have pledged to keep fares unchanged."
+      },
+      {
+        "title": "World reacts to Strait of Hormuz reopening amid US-Iran conflict | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict",
+        "published": "2026-04-17T19:10:36Z",
+        "summary": "Iran's foreign minister and US President Donald Trump announced the Strait of Hormuz is open to commercial vessels, leading to cautious optimism from world leaders and industry. Trump claimed Iran agreed to never close it again but said a US naval blockade on Iranian ports remains. Meanwhile, France and the UK hosted a meeting of about 40 countries to discuss restoring freedom of navigation in the strait after the conflict."
+      },
+      {
+        "title": "US Congress extends controversial surveillance power under FISA for 10 days | Privacy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/us-congress-temporarily-extends-controversial-surveillance-power-under-fisa",
+        "published": "2026-04-17T19:20:08Z",
+        "summary": "The US Congress temporarily extended a controversial surveillance law, Section 702 of the Foreign Intelligence Surveillance Act (FISA), until April 30. The provision allows intelligence agencies to collect data of foreigners, including their contacts with US citizens, often without a warrant. The short-term extension followed a breakdown in efforts to secure a longer renewal, with debates ongoing about reforms to protect privacy."
+      },
+      {
+        "title": "UN warns South Sudan at risk of ‘full-scale famine’ as fighting intensifies | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/17/un-warns-south-sudan-at-risk-of-full-scale-famine-as-fighting-intensifies",
+        "published": "2026-04-17T19:59:26Z",
+        "summary": "The UN humanitarian chief warned that South Sudan is at risk of 'full-scale famine' due to intensifying fighting and rising hunger. He reported that over 7.5 million people will need food assistance this year, with emergency levels of food insecurity expected across all states. The warning comes as fighting escalates between government and opposition forces, displacing hundreds of thousands and hindering aid access."
+      },
+      {
+        "title": "Why Marie-Louise Eta’s appointment should be the norm, not the exception | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/why-marie-louise-etas-appointment-should-be-the-norm-not-the-exception",
+        "published": "2026-04-17T20:10:13Z",
+        "summary": "Marie-Louise Eta will make history as the first female head coach of a men's team in the German Bundesliga when Union Berlin play on Saturday. Experts argue her appointment should be a norm rather than an exception, highlighting the need for greater recognition of women's leadership in football. Eta, who has faced sexist abuse online, says she wants the focus to be on football once the match begins."
+      },
+      {
+        "title": "World Cup 2026: FIFA chief Infantino defends pricing and tickets in US | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/17/world-cup-2026-fifa-chief-infantino-defends-pricing-and-tickets-in-us",
+        "published": "2026-04-17T20:10:32Z",
+        "summary": "FIFA President Gianni Infantino defended high ticket prices for the 2026 World Cup, stating the event is the organization's only major revenue source every four years. He emphasized FIFA is a nonprofit that invests revenue back into football across 211 countries. Infantino noted the North American market is 'very special' and that FIFA introduced a $60 ticket option after initial complaints about pricing and availability."
+      }
+    ]
+  },
+  {
     "time": "2026-04-17T16:03:55Z",
     "window_hours": 6,
     "article_count": 18,
