@@ -1,4 +1,38 @@
 ================================================================================
+RUN TIME UTC: 2026-04-18T20:38:36Z
+WINDOW: Last 6 hours
+ARTICLES USED: 5
+
+OVERALL SUMMARY
+The articles cover a range of international political, health, and security developments. Topics include a Venezuelan opposition leader's gift to Donald Trump, a US executive order on psychedelic drugs, a deadly shooting in Ukraine, the plight of Sudanese refugees in North Africa, and a drug trafficking arrest in Mexico.
+
+ARTICLE BREAKDOWN
+[1] ‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump
+Published: 2026-04-18T16:08:43Z
+URL: https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump
+Summary: Venezuelan opposition leader Maria Corina Machado says she has no regrets about giving her Nobel Peace Prize medal to US President Donald Trump. She presented it to him in January after he ordered the military operation that captured Venezuelan President Nicolas Maduro. The Norwegian Nobel Committee stated the prize is nontransferable, and Machado is coordinating her return to Venezuela with the US government.
+
+[2] Trump joined by Joe Rogan as he signs order to speed up psychedelic review
+Published: 2026-04-18T17:46:57Z
+URL: https://www.aljazeera.com/news/2026/4/18/trump-joined-by-joe-rogan-as-he-signs-order-to-speed-up-psychedelic-review
+Summary: US President Donald Trump signed an executive order to accelerate the review of psychedelic drugs like ibogaine for potential medical treatments. He was joined by podcaster Joe Rogan, a proponent of ibogaine. The order directs at least $50 million to states advancing such programmes and comes as the FDA prepares to issue priority vouchers and clear the way for the first US human trials of ibogaine.
+
+[3] Ukraine police shoot dead gunman who killed six in Kyiv, took hostages
+Published: 2026-04-18T18:02:18Z
+URL: https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages
+Summary: A gunman killed at least six people in Kyiv before barricading himself in a supermarket and taking hostages. Ukrainian police stormed the building after failed negotiations and shot the attacker dead. The assailant was identified as a 58-year-old man born in Moscow, and at least 10 others were hospitalized.
+
+[4] Sudanese refugees trapped between borders and bureaucracy in Morocco
+Published: 2026-04-18T18:51:04Z
+URL: https://www.aljazeera.com/features/longform/2026/4/18/sudanese-refugees-trapped-between-borders-and-bureaucracy-in-morocco
+Summary: The article details the journey of Amir Ali, a 17-year-old Sudanese refugee who fled war and trafficking, only to be caught between Algerian and Moroccan border guards. Sudanese refugees are increasingly attempting to reach Morocco to claim asylum, viewing it as a safer alternative to crossing the Mediterranean. However, Morocco's promised asylum law is not yet implemented, leaving refugees with limited state support and dependent on UNHCR registration.
+
+[5] Mexico arrests suspected Hungarian drug trafficker amid crime crackdown
+Published: 2026-04-18T19:05:04Z
+URL: https://www.aljazeera.com/news/2026/4/18/mexico-arrests-suspected-hungarian-drug-trafficker-amid-crime-crackdown
+Summary: Mexico arrested Janos Balla, a Hungarian citizen on the EU's most wanted list, for drug trafficking. The arrest was made in Quintana Roo state following collaboration with Hungarian authorities. This is part of President Claudia Sheinbaum's harder line on cartels, a shift from her predecessor's policy, amid pressure from US President Donald Trump to combat drug trafficking.
+
+================================================================================
 RUN TIME UTC: 2026-04-18T15:38:41Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
