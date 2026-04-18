@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-04-18T15:38:41Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+The articles cover escalating tensions in the Middle East, focusing on the Strait of Hormuz crisis, ceasefire violations in Lebanon, and regional economic impacts. Additional stories address international opinions on slavery reparations, humanitarian incidents in Gaza, the US fentanyl crisis, and a deadly attack on UN peacekeepers.
+
+ARTICLE BREAKDOWN
+[1] As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges
+Published: 2026-04-18T10:29:06Z
+URL: https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges
+Summary: Oil prices fell sharply after Iran initially reopened the Strait of Hormuz during a ceasefire, only to close it again in response to the ongoing US blockade of Iranian ports. Brent crude dropped more than 9% to below $91 a barrel. The situation remains volatile as shipping firms seek clarifications and Pakistani officials attempt to mediate further US-Iran talks.
+
+[2] Turkiye woos investors amid Iran war fallout in Gulf economies
+Published: 2026-04-18T11:52:33Z
+URL: https://www.aljazeera.com/economy/2026/4/18/turkiye-woos-investors-amid-iran-war-fallout-in-gulf-economies
+Summary: Turkish officials are promoting Istanbul as a secure regional financial hub, seeking to capitalize on economic disruptions in Gulf states caused by the Iran war. President Erdogan views the crisis as an opportunity to advance Turkey's goal of becoming a leading financial center. The government is preparing incentive packages to attract foreign capital, positioning the country as a stable alternative.
+
+[3] Displaced Lebanese return as Israeli shelling violates ceasefire in south
+Published: 2026-04-18T11:53:02Z
+URL: https://www.aljazeera.com/news/2026/4/18/displaced-lebanese-return-as-israeli-shelling-violates-ceasefire-in-south
+Summary: Tens of thousands of displaced Lebanese families are returning home despite ongoing Israeli shelling and home demolitions near the southern border. A preliminary assessment found nearly 40,000 homes destroyed or damaged. While a 10-day ceasefire is in effect, Israeli forces continue demolition operations and have established a security zone extending into Lebanese territory.
+
+[4] Iran closes Strait of Hormuz again over US blockade of its ports
+Published: 2026-04-18T12:03:33Z
+URL: https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports
+Summary: Iran has closed the Strait of Hormuz again, citing the continued US blockade of its ports as acts of piracy. The closure came just hours after the waterway was reopened, with reports of Iranian gunboats firing at a merchant vessel. The conflicting reports have created uncertainty for shipping, with many vessels turning back despite the temporary ceasefire.
+
+[5] Slavery reparations are just, but who exactly owes whom?
+Published: 2026-04-18T13:00:34Z
+URL: https://www.aljazeera.com/opinions/2026/4/18/slavery-reparations-are-just-but-who-exactly-owes-whom
+Summary: This opinion piece argues that while slavery reparations are justified, the debate must acknowledge that some African elites benefited from the transatlantic slave trade through collaboration with European traders. The article complicates the simple narrative of European perpetrators and African victims, noting that African states like the Oyo Empire participated in capturing and selling enslaved people for profit.
+
+[6] Trump claims on Iranian concessions trigger questions, rejections in Tehran
+Published: 2026-04-18T13:03:35Z
+URL: https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran
+Summary: Donald Trump's claims about securing major concessions from Iran have sparked confusion and rejection in Tehran. Iranian officials, including Parliament Speaker Mohammad Bagher Ghalibaf, denied Trump's assertions about uranium transfers and Strait of Hormuz access. The Islamic Revolutionary Guard Corps subsequently announced renewed restrictions on the Strait, citing continued US blockade actions.
+
+[7] UNICEF 'outraged' after Israeli forces kill water truck drivers in Gaza
+Published: 2026-04-18T14:22:53Z
+URL: https://www.aljazeera.com/news/2026/4/18/unicef-outraged-after-israeli-forces-kill-water-truck-drivers-in-gaza
+Summary: UNICEF expressed outrage after Israeli forces killed two contracted water truck drivers delivering clean water in northern Gaza. The agency suspended activities at the site and called for an investigation and accountability. The incident occurred despite a ceasefire, with Palestinian authorities reporting over 750 Palestinians killed since the ceasefire took effect last October.
+
+[8] As fentanyl crisis evolves, experts say US is still 'behind the eight ball'
+Published: 2026-04-18T15:13:44Z
+URL: https://www.aljazeera.com/economy/2026/4/18/as-fentanyl-crisis-evolves-experts-say-us-is-still-behind-the-eight-ball
+Summary: The article profiles grassroots efforts in Dallas to combat fentanyl overdoses through door-to-door outreach with life-saving medication. While Dallas County saw a decrease in fentanyl deaths from 2023 to 2024, experts warn the US remains behind in addressing the crisis. The work of recovery organizations is reportedly hindered by the Trump administration's approach and cuts to health programs.
+
+[9] French soldier serving with UNIFIL killed in Lebanon attack
+Published: 2026-04-18T15:16:08Z
+URL: https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack
+Summary: A French UNIFIL soldier was killed and three others wounded in an attack in southern Lebanon that UN and French officials attribute to Hezbollah. The incident occurred days after an Israel-Lebanon ceasefire took effect. Hezbollah denied involvement, while French President Macron condemned the attack and urged Lebanese authorities to act against those responsible.
+
+================================================================================
 RUN TIME UTC: 2026-04-18T10:41:28Z
 WINDOW: Last 6 hours
 ARTICLES USED: 3
