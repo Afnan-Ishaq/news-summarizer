@@ -1,4 +1,38 @@
 ================================================================================
+RUN TIME UTC: 2026-04-18T02:30:01Z
+WINDOW: Last 6 hours
+ARTICLES USED: 5
+
+OVERALL SUMMARY
+The articles cover political crises in the UK and Peru, a ceasefire declaration in Lebanon, and legal actions involving former US President Donald Trump. The stories involve leadership pressure, international diplomacy, lawsuits, and election administration disputes.
+
+ARTICLE BREAKDOWN
+[1] Starmer rejects calls to quit as pressure mounts over Mandelson vetting | Politics News | Al Jazeera
+Published: 2026-04-17T20:44:59Z
+URL: https://www.aljazeera.com/news/2026/4/17/starmer-rejects-calls-to-quit-as-pressure-mounts-over-mandelson-vetting
+Summary: UK Prime Minister Keir Starmer says he is 'absolutely furious' and was kept in the dark about the Foreign Office overruling a security recommendation not to appoint Peter Mandelson as envoy to Washington. Starmer pledges to set out all relevant facts to Parliament on Monday, while a top Foreign Office official has resigned. Opposition leader Kemi Badenoch has called for Starmer's resignation, calling his claims of ignorance 'completely preposterous'.
+
+[2] Lebanon president says country is no longer a pawn amid Israel ceasefire | News | Al Jazeera
+Published: 2026-04-17T20:45:58Z
+URL: https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire
+Summary: Lebanese President Joseph Aoun stated in a televised address that Lebanon would no longer be 'an arena for anyone's wars' following a 10-day ceasefire with Israel. He said the country should transition from ceasefire efforts to working on permanent agreements that preserve Lebanon's rights, unity, and sovereignty. Aoun expressed gratitude to US President Donald Trump and Arab allies for helping end the hostilities, which began after Hezbollah fired at Israel in March.
+
+[3] Trump seeks ‘resolution’ of his $10bn lawsuit against IRS, spurring concern | Donald Trump News | Al Jazeera
+Published: 2026-04-17T21:56:47Z
+URL: https://www.aljazeera.com/news/2026/4/17/trump-seeks-resolution-of-his-10bn-lawsuit-against-irs-spurring-concern
+Summary: Court filings indicate lawyers for President Donald Trump are seeking a resolution with the Department of Justice over his $10bn lawsuit against the IRS, stemming from the leak of his tax returns. Critics warn a settlement would involve Trump negotiating with an executive branch under his control. The lawsuit argues the leak caused reputational and financial harm, but experts have noted potential flaws in the case.
+
+[4] US judge blocks Justice Department bid to seize voter data in Rhode Island | Donald Trump News | Al Jazeera
+Published: 2026-04-17T22:07:16Z
+URL: https://www.aljazeera.com/news/2026/4/17/us-judge-blocks-justice-department-bid-to-seize-voter-data-in-rhode-island
+Summary: A federal judge dismissed a Department of Justice lawsuit seeking to access voter data from Rhode Island, calling it an unauthorized 'fishing expedition'. This is the latest loss for the Trump administration, which has sought voter data from dozens of states citing election security concerns. State officials and civil rights groups have raised privacy concerns, and federal judges have rejected similar attempts in several other states.
+
+[5] Pressure mounts on Peru’s election authorities amid presidential race delay | Elections News | Al Jazeera
+Published: 2026-04-17T22:47:21Z
+URL: https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay
+Summary: Calls are intensifying to remove the head of Peru's electoral authority as delays and alleged irregularities cloud the presidential vote count following Sunday's general election. No clear challenger has emerged to face conservative frontrunner Keiko Fujimori in a June run-off, with leftist Roberto Sanchez and ultraconservative Rafael Lopez Aliaga in a close battle for second. Pressure mounts on ONPE head Piero Corvetto amid complaints of errors, a slow tally, and a criminal complaint filed against him by the top electoral court.
+
+================================================================================
 RUN TIME UTC: 2026-04-17T20:45:54Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
