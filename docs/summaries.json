@@ -1,5 +1,31 @@
 [
   {
+    "time": "2026-04-18T10:41:28Z",
+    "window_hours": 6,
+    "article_count": 3,
+    "overall_summary": "The articles cover escalating tensions in the US-Iran conflict, a papal visit to Africa marked by a public clash with the US president, and a preview of a crucial Premier League football match. The reports span international diplomacy, religion, and sports.",
+    "articles": [
+      {
+        "title": "Iran war: What is happening on day 50 of the US-Iran conflict? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict",
+        "published": "2026-04-18T06:07:12Z",
+        "summary": "On the 50th day of the conflict, Iran has closed the Strait of Hormuz again, demanding the US lift its naval blockade of Iranian ports. This comes despite contradictory messaging, with US President Trump stating negotiations are going well but insisting the blockade remains until a deal is complete. Other developments include Iran rejecting claims it agreed to hand over enriched uranium, and France and Britain planning a multinational mission to safeguard navigation in the strait."
+      },
+      {
+        "title": "Pope Leo heads to Angola in landmark Africa visit amid Trump clash | Religion News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/18/pope-leo-heads-to-angola-in-landmark-africa-visit-amid-trump-clash",
+        "published": "2026-04-18T08:10:17Z",
+        "summary": "Pope Leo XIV is visiting Angola as part of a landmark African tour, which has occurred alongside a public clash with US President Donald Trump. The pope has issued warnings about corruption, resource exploitation, and artificial intelligence during his trip. Trump has criticized the pope as 'weak on crime' and shared an AI-generated image of himself as Jesus, to which the pope responded by saying he is not afraid and will continue speaking out against war."
+      },
+      {
+        "title": "Man City vs Arsenal: All you need to know about title showdown | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/18/man-city-vs-arsenal-all-you-need-to-know-about-title-showdown",
+        "published": "2026-04-18T08:21:51Z",
+        "summary": "A crucial Premier League match between Manchester City and Arsenal could significantly impact the title race. Arsenal, leading the table, are on a poor run of form, while Manchester City are in strong form and have a game in hand. A victory for City would put them in a strong position to challenge for the championship."
+      }
+    ]
+  },
+  {
     "time": "2026-04-18T06:13:19Z",
     "window_hours": 6,
     "article_count": 1,
