@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-04-19T10:40:28Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "The articles cover a range of international and regional news from the last six hours. They report on a major MLS soccer match, escalating tensions between the US and Iran over the Strait of Hormuz, a destructive fire in Malaysia, displaced families returning to southern Lebanon, and an opinion piece on Gulf Cooperation Council unity.",
+    "articles": [
+      {
+        "title": "Lionel Messi scores twice as Inter Miami defeat Rapids in MLS | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/19/lionel-messi-scores-twice-as-inter-miami-defeat-rapids-in-mls",
+        "published": "2026-04-19T08:05:28Z",
+        "summary": "Lionel Messi scored two goals, including a 79th-minute winner, to lead Inter Miami to a 3-2 victory over the Colorado Rapids in Major League Soccer. The match was played in front of over 75,000 fans in Denver. Miami finished the game with ten men after Yannick Bright received a red card late in the match."
+      },
+      {
+        "title": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse",
+        "published": "2026-04-19T08:49:19Z",
+        "summary": "Iran's parliament speaker stated that while there has been progress, Iran and the US remain far from a final deal, with key disagreements over Iran's nuclear program and the Strait of Hormuz. Iran reimposed restrictions on the strait, citing a continuing US naval blockade of its ports. The current ceasefire between the two countries is set to expire on Wednesday."
+      },
+      {
+        "title": "Iran war: What is happening on day 51 of the US-Iran conflict? | Explainer News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/19/iran-war-what-is-happening-on-day-51-of-the-us-iran-conflict",
+        "published": "2026-04-19T09:26:26Z",
+        "summary": "Iran has stated it will keep the Strait of Hormuz closed until the US lifts its blockade of Iranian ports. Iranian officials indicate a peace agreement is still distant, despite some progress in talks. The article notes the current two-week ceasefire will expire on Wednesday unless extended."
+      },
+      {
+        "title": "Fire razes 200 homes in Sabah, leaving hundreds homeless | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/19/fire-razes-200-homes-in-sabah-leaving-hundreds-homeless",
+        "published": "2026-04-19T09:50:44Z",
+        "summary": "A fire destroyed approximately 200 homes in a coastal village in Malaysia's Sabah state, displacing about 445 people. The fire spread rapidly due to strong winds and the close proximity of the wooden houses built on stilts. Malaysian authorities are focusing on victim safety and providing immediate assistance and temporary relocation."
+      },
+      {
+        "title": "Displaced Lebanese families return home despite Israeli attacks | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/4/19/displaced-lebanese-families-return-south-despite-risks-near-israeli-border",
+        "published": "2026-04-19T10:11:31Z",
+        "summary": "Tens of thousands of displaced Lebanese families have begun returning to southern Lebanon to inspect their homes during a truce, despite ongoing risks of Israeli shelling and demolitions. Many found their homes destroyed or damaged, making them hesitant to stay. Hezbollah has warned that the truce is temporary and that Israeli 'treachery is expected at any time'."
+      },
+      {
+        "title": "The GCC has unity, it now needs joint defence and development | GCC | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/19/the-gcc-has-unity-it-now-needs-joint-defence-and-development",
+        "published": "2026-04-19T10:32:42Z",
+        "summary": "This opinion piece argues that the Gulf Cooperation Council (GCC) must move beyond diplomacy to establish joint defence structures and economic integration for regional security. It states the GCC categorically rejects any attempt to control or use the Strait of Hormuz as political leverage, asserting it is a vital international waterway. The article concludes that Gulf states are not a party to the US-Israel-Iran conflict but must establish strong safeguards for their own security."
+      }
+    ]
+  },
+  {
     "time": "2026-04-19T06:28:37Z",
     "window_hours": 6,
     "article_count": 4,
