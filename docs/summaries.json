@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-04-19T02:45:37Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "The articles cover escalating military tensions in the Middle East, international diplomatic statements on Cuba, a major football result, a grim discovery in Trinidad and Tobago, and a North Korean missile test. The batch includes news on conflicts, politics, sports, crime, and international security.",
+    "articles": [
+      {
+        "title": "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza",
+        "published": "2026-04-18T21:03:33Z",
+        "summary": "The Israeli military says it has established a 'yellow line' in southern Lebanon, a measure it previously used in Gaza to divide territory and control movement. This announcement comes despite a ceasefire with Lebanon, and Israeli forces have continued attacks in southern Lebanon, citing self-defense against perceived threats. An Al Jazeera correspondent suggested this represents a continuation of the 'Gazafication' of southern Lebanon, involving village demolitions."
+      },
+      {
+        "title": "Mexico, Spain and Brazil call for Cuba’s sovereignty to be protected | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/18/mexico-spain-and-brazil-call-for-cubas-sovereignty-to-be-protected",
+        "published": "2026-04-18T21:05:50Z",
+        "summary": "The leaders of Mexico, Spain, and Brazil have issued a joint statement pledging more humanitarian aid to Cuba and calling for its sovereignty to be respected amid a US pressure campaign. They expressed concern about a humanitarian crisis in Cuba and warned against actions contrary to international law, stating the Cuban people must decide their own future. The statement follows increased US sanctions and threats from President Donald Trump, who has suggested possible military action."
+      },
+      {
+        "title": "Manchester United beat Chelsea as Cunha strike boosts Champions League hope | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/18/manchester-united-beat-chelsea-as-cunha-strike-boosts-champions-league-hope",
+        "published": "2026-04-18T21:09:16Z",
+        "summary": "Manchester United defeated Chelsea 1-0 with a goal from Matheus Cunha, strengthening their hold on third place in the Premier League and moving closer to Champions League qualification. The loss leaves Chelsea ten points behind United, severely damaging their own top-five hopes and increasing pressure on manager Liam Rosenior. United's makeshift defense held firm despite Chelsea creating chances, including hitting the woodwork twice."
+      },
+      {
+        "title": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail",
+        "published": "2026-04-18T21:41:06Z",
+        "summary": "Iran's Revolutionary Guard Corps Navy says it has closed the Strait of Hormuz again, warning it will target any ship attempting to pass until the US lifts its naval blockade on Iranian ports. This reversal came less than a day after Iran had reopened the critical waterway. US President Donald Trump warned Iran against 'blackmail' and said the blockade would remain, while reports indicate Iranian gunboats fired on commercial ships in the area."
+      },
+      {
+        "title": "Trinidad and Tobago police uncover 56 bodies, mostly children, at cemetery | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/18/trinidad-and-tobago-police-uncover-56-bodies-mostly-children-at-cemetery",
+        "published": "2026-04-18T23:30:28Z",
+        "summary": "Police in Trinidad and Tobago have discovered 56 bodies, mostly infants, abandoned at a cemetery in the town of Cumuto. The discovery included 50 infants, four adult males, and two adult females, with some adults showing signs of post-mortem examinations. Police suspect the case involves the unlawful disposal of unclaimed corpses and have launched a forensic investigation, vowing to hold any responsible parties accountable."
+      },
+      {
+        "title": "North Korea launches ballistic missiles towards sea off its east coast | Kim Jong Un News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast",
+        "published": "2026-04-19T00:28:45Z",
+        "summary": "North Korea launched multiple ballistic missiles towards the sea off its east coast from the Sinpo area, according to South Korean and Japanese authorities. This marks North Korea's seventh such launch this year and its fourth in April. The launches violate UN Security Council resolutions and come as China and the US prepare for a summit where North Korea is expected to be discussed."
+      }
+    ]
+  },
+  {
     "time": "2026-04-18T20:38:36Z",
     "window_hours": 6,
     "article_count": 5,
