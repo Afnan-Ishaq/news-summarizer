@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-04-19T20:39:53Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last six hours, including military developments in Gaza and the West Bank, a mass shooting in the United States, an investigation into arson attacks in London, and key results in English football. There is also a report on a US seizure of an Iranian-flagged ship.
+
+ARTICLE BREAKDOWN
+[1] Satellite images reveal Israel expanding Gaza military sites | Gaza News | Al Jazeera
+Published: 2026-04-19T15:38:52Z
+URL: https://www.aljazeera.com/news/2026/4/19/satellite-images-reveal-israel-expanding-gaza-military-sites
+Summary: Satellite imagery analysis shows Israel is expanding and entrenching permanent military bases across Gaza, particularly in Rafah and other areas, while US-backed civilian reconstruction plans have stalled. The findings indicate a systematic military build-up, with new roads and fortifications linking sites. This contrasts with promoted AI-generated visions for a 'New Rafah,' which a human rights group warns could involve forced displacement and demographic re-engineering.
+
+[2] Eight children killed in Louisiana shooting, gunman fatally shot by police | Gun Violence News | Al Jazeera
+Published: 2026-04-19T16:33:18Z
+URL: https://www.aljazeera.com/news/2026/4/19/eight-children-killed-in-mass-shooting-in-louisiana-us-media-reports
+Summary: Eight children, aged one to 14, were killed in a shooting in Shreveport, Louisiana, in what police describe as an apparent domestic violence incident. The gunman was fatally shot by police after a car chase. The crime scene spanned multiple residences, and two other people were injured.
+
+[3] Met Police investigate potential Iran links to London arson attacks | News | Al Jazeera
+Published: 2026-04-19T17:00:24Z
+URL: https://www.aljazeera.com/news/2026/4/19/met-police-investigate-potential-iran-links-to-london-arson-attacks
+Summary: London's Metropolitan Police are investigating whether a series of arson attacks on Jewish sites, including a recent one at Kenton United Synagogue, are linked to Iranian proxies. A group called Ashab al-Yamin has claimed responsibility for these and other attacks in Europe. Police are considering if Iran is using a tactic of 'recruiting violence as a service.'
+
+[4] Man City beat Arsenal 2-1, cut Premier League race to three points | Football News | Al Jazeera
+Published: 2026-04-19T18:47:52Z
+URL: https://www.aljazeera.com/sports/2026/4/19/man-city-beat-arsenal-2-1-cut-premier-league-race-to-three-points
+Summary: Manchester City defeated Arsenal 2-1, closing the gap at the top of the Premier League to three points with a game in hand. Erling Haaland scored the decisive second-half winner, ending a personal goal drought. The victory shifts momentum in the title race, putting City in a position to go top with a win in their next game.
+
+[5] Israeli ministers celebrate re-establishment of Sa-Nur West Bank settlement | Occupied West Bank News | Al Jazeera
+Published: 2026-04-19T19:13:55Z
+URL: https://www.aljazeera.com/news/2026/4/19/israeli-ministers-celebrate-re-establishment-of-sa-nur-west-bank-settlement
+Summary: Israeli ministers have officially reopened the Sa-Nur settlement in the occupied West Bank, nearly 21 years after it was evacuated. Finance Minister Bezalel Smotrich stated the move corrects a 'criminal expulsion' and buries the idea of a Palestinian state. The settlement is one of several former outposts recently re-approved by the Israeli government.
+
+[6] Salah scores in Merseyside derby as Liverpool win to boost European hopes | Football News | Al Jazeera
+Published: 2026-04-19T19:33:39Z
+URL: https://www.aljazeera.com/sports/2026/4/19/salah-scores-in-merseyside-derby-as-liverpool-win-to-boost-european-hopes
+Summary: Mohamed Salah scored in his final Merseyside derby for Liverpool, who beat Everton 2-1 with a late winner from Virgil van Dijk. Salah's goal made him joint top scorer in Premier League fixtures between the rivals. The victory boosts Liverpool's hopes of qualifying for the Champions League.
+
+[7] Trump says US seized Iran-flagged ship trying to get past Hormuz blockade | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-19T19:52:20Z
+URL: https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade
+Summary: US President Donald Trump stated that US forces seized an Iranian-flagged cargo ship, the Touska, after it attempted to bypass a US naval blockade near the Strait of Hormuz. He said the Navy disabled the ship by 'blowing a hole' in its engine room. This occurs amid a standoff where Iran has warned the strait will remain closed to others while the US blockade on its ports is in effect.
+
+================================================================================
 RUN TIME UTC: 2026-04-19T15:39:05Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
