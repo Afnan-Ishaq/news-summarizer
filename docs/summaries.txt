@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-04-19T15:39:05Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+This batch of articles covers a range of international news from the last six hours, including a major defense deal in Asia, a technological milestone in China, and escalating tensions in the Middle East. Other stories report on a papal visit to Africa, a delayed election in Peru, and a new round of conflict negotiations.
+
+ARTICLE BREAKDOWN
+[1] Australia and Japan sign contracts for $7bn warships deal | Military News | Al Jazeera
+Published: 2026-04-19T10:57:56Z
+URL: https://www.aljazeera.com/economy/2026/4/19/australia-and-japan-sign-contracts-for-7bn-warships-deal
+Summary: Australia and Japan have signed contracts for the first three of 11 new warships under a $7bn defense deal. The agreement deepens military ties between the two US allies, with Japan's Mitsubishi Heavy Industries building three frigates and Australia's Austal building eight. The first ship is scheduled for delivery in 2029.
+
+[2] Humanoid robot breaks half marathon world record in Beijing | Science and Technology News | Al Jazeera
+Published: 2026-04-19T11:07:51Z
+URL: https://www.aljazeera.com/sports/2026/4/19/humanoid-robot-breaks-half-marathon-world-record-in-beijing
+Summary: A humanoid robot from Chinese smartphone maker Honor broke the men's world record at a Beijing half-marathon, finishing in 50 minutes and 26 seconds. The event, which featured over 100 robot entrants, showcased significant technological progress from the previous year. Some spectators expressed enthusiasm but also concern about the rapid advancement of such technology.
+
+[3] Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire? | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-19T11:30:18Z
+URL: https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire
+Summary: A new ceasefire in Lebanon is under strain due to reported Israeli attacks and the establishment of a military zone called the 'Yellow Line' inside southern Lebanon. Israeli officials say they intend to keep control of this zone, while Lebanon and Hezbollah reject it as an occupation. The situation draws comparisons to a similar Israeli military zone in Gaza.
+
+[4] Iran war: 10 frequently used words and their meanings | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-19T11:40:06Z
+URL: https://www.aljazeera.com/news/2026/4/19/iran-war-10-frequently-used-words-and-their-meanings
+Summary: The article provides definitions for key terms used in coverage of the US-Israel war on Iran, which is nearing two months. It explains the strategic importance and contested origins of the name 'Strait of Hormuz' and defines 'Shahed drones' as Iran's low-cost loitering munitions. The text is presented as a glossary of frequently used terminology.
+
+[5] Pope Leo tells Angola during huge Mass to ‘build hope’ | Religion News | Al Jazeera
+Published: 2026-04-19T11:45:48Z
+URL: https://www.aljazeera.com/news/2026/4/19/pope-leo-tells-angola-during-huge-mass-to-build-hope
+Summary: Pope Leo XIV addressed a large crowd in Angola, urging the country to overcome divisions and corruption stemming from its civil war-scarred past. His remarks continued a theme from his Africa tour, which has included criticism of resource exploitation and the US-Israeli war in Iran. The Pope's rhetoric has put him at odds with US President Donald Trump.
+
+[6] Peru says presidential election results due by mid-May after delayed count | Elections News | Al Jazeera
+Published: 2026-04-19T12:07:39Z
+URL: https://www.aljazeera.com/news/2026/4/19/peru-says-presidential-election-results-due-by-mid-may-after-delayed-count
+Summary: Peru's electoral authority says final presidential election results will be delayed until mid-May due to a review of over 15,000 challenged ballots. With most votes counted, Keiko Fujimori leads, while a close contest for second place continues. The election process has faced criticism and allegations of fraud from some candidates, though EU observers said the vote met democratic standards.
+
+[7] Trump says US negotiators to head to Pakistan for Iran talks | News | Al Jazeera
+Published: 2026-04-19T12:38:11Z
+URL: https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks
+Summary: US President Donald Trump announced that US negotiators will travel to Islamabad for talks aimed at ending the war with Iran. He accused Iran of violating a ceasefire by opening fire in the Strait of Hormuz and threatened to destroy Iranian civilian infrastructure if a deal is not accepted. Iranian news agency Tasnim reported there is currently no decision by Iran to send a delegation as long as a US naval blockade remains.
+
+[8] What to know about US-Iran standoff over the Strait of Hormuz | Explainer News | Al Jazeera
+Published: 2026-04-19T14:08:20Z
+URL: https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz
+Summary: The Strait of Hormuz is a central point of tension in the US-Iran war, with Iran reversing a decision to reopen it after the US maintained a naval blockade. Iran's military says the strait will remain under its strict control until the blockade is lifted, restoring the situation to its pre-ceasefire status. This standoff complicates ceasefire talks and raises the risk of a worsening global energy crunch.
+
+[9] DRC government, M23 rebels commit to protect civilians, aid deliveries | Conflict News | Al Jazeera
+Published: 2026-04-19T14:30:54Z
+URL: https://www.aljazeera.com/news/2026/4/19/drc-government-m23-rebels-commit-to-protect-civilians-aid-deliveries
+Summary: The government of the Democratic Republic of the Congo and M23 rebels have agreed to measures to protect civilians and ease humanitarian aid deliveries following talks in Switzerland. The parties also agreed to release prisoners within 10 days and signed a memorandum for a ceasefire monitoring mechanism. The conflict in eastern DRC has persisted despite a peace deal signed in December.
+
+================================================================================
 RUN TIME UTC: 2026-04-19T10:40:28Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
