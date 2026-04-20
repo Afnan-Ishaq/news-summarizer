@@ -1,5 +1,85 @@
 [
   {
+    "time": "2026-04-20T11:20:38Z",
+    "window_hours": 6,
+    "article_count": 12,
+    "overall_summary": "The articles cover escalating military tensions between the US and Iran, including a ship seizure and uncertain peace talks. Other reports detail a major earthquake in Japan, attacks in the Russia-Ukraine war, a health crisis in Sudan, and various national stories ranging from a baby food recall to university surveillance.",
+    "articles": [
+      {
+        "title": "Iran war: What is happening on day 52 of US-Israeli attacks? | Explainer News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/iran-war-what-is-happening-on-day-52-of-the-us-israeli-conflict",
+        "published": "2026-04-20T07:21:14Z",
+        "summary": "The article reports that US-Iran talks scheduled in Pakistan are in doubt following the US Marines' capture of an Iranian-flagged ship near the Strait of Hormuz, which Iran has vowed to retaliate against. It states that Iran has rejected new peace talks, citing the ongoing US maritime blockade and threatening rhetoric. The report also mentions Iran executed two men convicted of cooperating with Israel's Mossad."
+      },
+      {
+        "title": "Inside war-hit Sudan’s only functioning hospital curing tropical diseases | Sudan war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/inside-war-hit-sudans-only-functioning-hospital-curing-tropical-diseases",
+        "published": "2026-04-20T09:10:16Z",
+        "summary": "The article describes the collapse of Sudan's health system amid a three-year war, focusing on a patient diagnosed with tuberculosis at the overwhelmed Tropical Diseases Teaching Hospital. It reports the Sudanese health ministry says 37% of health facilities are non-functional due to the conflict. The World Health Organization has verified at least 217 attacks on health infrastructure, with about 40% of the population needing urgent medical aid."
+      },
+      {
+        "title": "Ukraine claims attack on Russian warships in occupied Crimea | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks",
+        "published": "2026-04-20T09:23:15Z",
+        "summary": "Ukraine's military intelligence claims it struck two Russian landing ships and a radar station in occupied Crimea's Sevastopol Bay. The report details reciprocal overnight attacks, with Ukrainian drones hitting a Russian port and Russian strikes targeting several Ukrainian regions, including Kyiv. It notes Ukraine's actions may be an effort to disrupt Russian oil exports while a US sanctions waiver remains in place."
+      },
+      {
+        "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued | Earthquakes News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued",
+        "published": "2026-04-20T09:26:51Z",
+        "summary": "A magnitude 7.5 earthquake struck off northern Japan, prompting a tsunami warning for waves up to 3 meters. The Japan Meteorological Agency urged immediate evacuation from coastal areas. Prime Minister Sanae Takaichi said the government set up a crisis management team and is assessing the impact, with no immediate signs of damage reported in live footage from some ports."
+      },
+      {
+        "title": "Baby food recalled in Austria after jar tests positive for rat poison | Food News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/20/baby-food-recalled-after-rat-poison-found-in-jar",
+        "published": "2026-04-20T09:37:34Z",
+        "summary": "Baby food manufacturer HiPP has recalled products in Austria after police found rat poison in a tampered jar of its 'Carrots with Potatoes' baby food. The company states the recall is due to a criminal act under investigation, not a production quality issue. Contaminated jars were also found in the Czech Republic and Slovakia, with authorities advising consumers to check for specific jar abnormalities."
+      },
+      {
+        "title": "Eight runners hospitalised after collapsing during South Korea marathon | Athletics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/20/eight-runners-hospitalised-after-collapsing-during-south-korea-marathon",
+        "published": "2026-04-20T09:50:34Z",
+        "summary": "Eight runners were hospitalized with heat-related illnesses after a marathon near South Korea's Demilitarized Zone, where temperatures approached 30°C (86°F). Twelve runners fell ill during the DMZ Peace Marathon, with one requiring intensive care. The heat spike was attributed to a temporary weather pattern, with Seoul recording its highest mid-April temperature since 1907."
+      },
+      {
+        "title": "British universities paid security firm to ‘spy’ on pro-Palestine students | Education News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts",
+        "published": "2026-04-20T09:55:34Z",
+        "summary": "An investigation reveals twelve British universities paid a private security firm, run by former military intelligence officials, to monitor student protesters and academics, including those expressing solidarity with Palestine. The firm trawled social media and conducted background checks, with one university providing a list of groups including pro-Palestinian activists. The universities cited maintain the activity is for safety and horizon-scanning, not to discourage lawful protest."
+      },
+      {
+        "title": "US captures Iranian ship Touska amid mediation efforts: All we know | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know",
+        "published": "2026-04-20T10:06:46Z",
+        "summary": "The US military seized the Iranian container ship Touska near the Strait of Hormuz, claiming it violated a US naval blockade. Iran called the capture an act of 'piracy' and said it has no plans to send negotiators to scheduled talks in Pakistan. This is described as the first non-military Iranian ship the US has hit during the current war."
+      },
+      {
+        "title": "Second round in Islamabad: Who are the main US-Iran negotiators? | Conflict | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table",
+        "published": "2026-04-20T10:06:49Z",
+        "summary": "The article profiles key US and Iranian figures involved in negotiations, which are uncertain following the US capture of an Iranian ship. On the US side, Vice President JD Vance is set to lead the delegation, with Jared Kushner and Steve Witkoff also playing roles. It notes that a key Iranian negotiator, Ali Larijani, was killed in an Israeli air attack before the war."
+      },
+      {
+        "title": "The EU must not wait till Israel starts executing Palestinians | European Union | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/20/the-eu-must-not-wait-till-israel-starts-executing-palestinians",
+        "published": "2026-04-20T10:21:29Z",
+        "summary": "This opinion piece criticizes the European Union for not taking concrete action against Israel's new death penalty law, despite the EU-Israel Association Agreement containing a human rights clause. It argues the EU's statements of 'deep concern' are insufficient and calls for the agreement to be reviewed and cancelled over Israeli violations. The author shares a personal connection, noting their father was a Palestinian political prisoner."
+      },
+      {
+        "title": "Kenyan women defy fishing taboos as climate change threatens Lake Victoria | Women News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/20/kenyan-women-defy-fishing-taboos-as-climate-change-threatens-lake-victoria",
+        "published": "2026-04-20T10:32:16Z",
+        "summary": "The article tells the story of Rhoda Ongoche Akech, who defied a cultural taboo forbidding women from fishing in Lake Victoria to support her family. She faced social stigma rooted in beliefs that women, especially during menstruation, would scare fish away. Her actions, starting in 2002, eventually inspired other women in her Kenyan community to take up fishing as economic pressures mounted."
+      },
+      {
+        "title": "‘Technofascism’: Critics accuse Palantir of pushing AI war doctrine | Technology News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/technofascism-critics-accuse-palantir-of-pushing-ai-war-doctrine",
+        "published": "2026-04-20T10:46:34Z",
+        "summary": "Critics have accused Palantir, a US defence software firm, of promoting a 'technofascist' doctrine through a book co-authored by its CEO, which argues the US needs AI-powered 'hard power' to maintain global dominance. The book's summary, posted by Palantir, states that future deterrence will be based on AI and that some cultures are more advanced than others. Commentators warn this ideology advocates for a dangerous militarization of AI."
+      }
+    ]
+  },
+  {
     "time": "2026-04-20T07:17:38Z",
     "window_hours": 6,
     "article_count": 6,
