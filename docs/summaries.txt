@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-04-20T16:11:47Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+This batch of articles covers a range of international news from the last 6 hours, including sports, politics, and conflict. The stories report on football matches and doping in sports, political developments in Venezuela, Iraq, and Bulgaria, and escalating tensions in the US-Iran conflict and the Israel-Palestine context.
+
+ARTICLE BREAKDOWN
+[1] Real Madrid vs Alaves: La Liga – preview, team news, start, lineups | Football News | Al Jazeera
+Published: 2026-04-20T11:11:52Z
+URL: https://www.aljazeera.com/sports/2026/4/20/real-madrid-vs-alaves-la-liga-preview-team-news-start-lineups
+Summary: Real Madrid faces Alaves in a La Liga match as they trail league leaders Barcelona by nine points with seven games left, making the title a remote possibility. The team is under pressure after a Champions League exit and a recent lack of wins. Manager Alvaro Arbeloa's future is uncertain following the European defeat.
+
+[2] Several injured as fans clash with police in Paraguay’s Superclasico match | Football News | Al Jazeera
+Published: 2026-04-20T11:17:42Z
+URL: https://www.aljazeera.com/sports/2026/4/20/several-injured-as-fans-clash-with-police-in-paraguays-superclasico-match
+Summary: A Paraguayan football derby between Olimpia and Cerro Porteno was suspended after 29 minutes due to violent clashes between fans and police. The violence, sparked by firecrackers, led to police using rubber bullets and tear gas, causing injuries and detentions. The clubs are now disputing responsibility for the incident and the potential match forfeiture.
+
+[3] A match made in opposition: Venezuela’s Machado courts Spain’s right wing | News | Al Jazeera
+Published: 2026-04-20T11:20:53Z
+URL: https://www.aljazeera.com/news/2026/4/20/spain-venezuela-opposition
+Summary: Venezuelan opposition leader Maria Corina Machado visited Spain, meeting with right-wing parties while snubbing the left-wing government. Analysts note alignment on economic policy with Spain's conservatives but divisions on social issues. Machado received honors from Madrid's conservative regional leaders during her trip.
+
+[4] Russia claims Ukraine-linked bomb plot foiled, German woman arrested | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-20T11:23:54Z
+URL: https://www.aljazeera.com/news/2026/4/20/russia-claims-foiled-bomb-plot-involving-german-woman
+Summary: Russia's FSB security agency claims it thwarted a bomb plot against a law enforcement facility, arresting a German woman allegedly recruited by Ukraine. The agency said the woman was found with an explosive device. Russia has previously made similar allegations linking attacks to Ukraine, which Kyiv denies.
+
+[5] Iraq’s ruling Shia bloc races to choose PM as US, Iran watch | Politics News | Al Jazeera
+Published: 2026-04-20T12:15:26Z
+URL: https://www.aljazeera.com/news/2026/4/20/iraqs-ruling-shia-bloc-races-to-choose-pm-as-us-iran-watch
+Summary: Iraq's largest Shia parliamentary bloc is struggling to choose a prime ministerial candidate ahead of a constitutional deadline, amid internal divisions. The visit of Iran's Quds Force commander aimed to mediate the deadlock between factions supporting incumbent PM al-Sudani and former PM al-Maliki. The process is being closely watched by the US and Iran due to Iraq's delicate diplomatic position.
+
+[6] India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit | Athletics News | Al Jazeera
+Published: 2026-04-20T12:56:42Z
+URL: https://www.aljazeera.com/sports/2026/4/20/india-in-extremely-high-doping-risk-bracket-athletics-integrity-unit
+Summary: India's athletics federation has been placed in the highest-risk category for doping by the Athletics Integrity Unit, requiring its athletes to meet stricter anti-doping rules. The AIU stated India ranked among the top two for anti-doping violations between 2022 and 2025. Indian officials say they are working with authorities to address the issue and support criminalizing doping.
+
+[7] Powerful states are trying to sabotage decarbonisation of shipping | Climate Crisis | Al Jazeera
+Published: 2026-04-20T13:34:50Z
+URL: https://www.aljazeera.com/opinions/2026/4/20/powerful-states-are-trying-to-sabotage-decarbonisation-of-shipping
+Summary: An opinion piece argues that powerful states are attempting to weaken a key International Maritime Organization agreement to decarbonize shipping. The author, representing Pacific Island states, states the current Net-Zero Framework is the minimum acceptable and warns against further dilution. They threaten to revert to demanding a higher universal carbon levy if the agreement is watered down.
+
+[8] Cloud over US-Iran talks: What are the key sticking points? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-20T13:51:57Z
+URL: https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points
+Summary: US President Donald Trump announced a second round of talks with Iran in Pakistan, while threatening to target Iranian infrastructure if a deal is not reached. Iran has denied participation and accused the US of 'armed piracy' after US forces seized an Iranian-flagged tanker. Tensions are high as a fragile two-week ceasefire is set to expire.
+
+[9] Bulgaria’s former President Radev wins election: All you need to know | Elections News | Al Jazeera
+Published: 2026-04-20T14:43:42Z
+URL: https://www.aljazeera.com/news/2026/4/20/bulgarias-former-president-radev-wins-election-all-you-need-to-know
+Summary: Former President Rumen Radev's Progressive Bulgaria party has won Bulgaria's parliamentary election, securing a majority and ending a cycle of political instability. Radev, who campaigned against corruption, is set to become prime minister. His foreign policy stance, which includes calls for renewed relations with Russia, has drawn attention and criticism within the EU and NATO.
+
+[10] ‘Israel never talked me into the war with Iran,’ Trump says | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-20T15:23:02Z
+URL: https://www.aljazeera.com/news/2026/4/20/israel-never-talked-me-into-the-war-with-iran-trump-says
+Summary: US President Donald Trump denied that Israel persuaded him to go to war with Iran, stating his decision was based on his opposition to Iran having nuclear weapons. The article notes there is no public evidence linking Iran to the October 7 attacks and that Trump's own intelligence said Iran is not building a nuclear weapon. The war faces domestic criticism over rising energy costs and public disapproval.
+
+[11] Palestinians not welcome as Israel marks Memorial Day | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-20T15:58:45Z
+URL: https://www.aljazeera.com/news/2026/4/20/palestinians-not-welcome-as-israel-marks-memorial-day
+Summary: As Israel observes Memorial Day for its war dead, critics say the commemoration reinforces a one-sided narrative that excludes Palestinian casualties. The day remembers Israeli soldiers and civilians killed since 1860, without acknowledging Palestinian deaths. The article describes how the day's symbolism is intertwined with current political narratives surrounding the conflict in Gaza.
+
+================================================================================
 RUN TIME UTC: 2026-04-20T11:20:38Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
