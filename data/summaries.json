@@ -1,5 +1,103 @@
 [
   {
+    "time": "2026-04-20T20:50:01Z",
+    "window_hours": 6,
+    "article_count": 15,
+    "overall_summary": "The articles cover a range of international news from the last 6 hours, including health updates on a former cricketer, regional conflicts and diplomacy, tragic accidents, and domestic incidents. Topics span sports, war, politics, crime, and humanitarian issues across multiple continents.",
+    "articles": [
+      {
+        "title": "Former Afghanistan cricketer Shapoor Zadran battles life-threatening disease | Cricket News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/20/former-afghanistan-cricketer-shapoor-zadran-battles-life-threatening-disease",
+        "published": "2026-04-20T16:11:06Z",
+        "summary": "Former Afghanistan pace bowler Shapoor Zadran is in intensive care in New Delhi receiving treatment for a rare, life-threatening immune system disorder called HLH. His brother reported that after initially responding to treatment, Zadran suffered a reinfection. The 38-year-old represented Afghanistan in international cricket from 2009 to 2020."
+      },
+      {
+        "title": "Iran expands limited internet access but restrictions remain for most | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/iran-expands-limited-internet-access-but-restrictions-remain-for-most",
+        "published": "2026-04-20T16:28:08Z",
+        "summary": "Iranian authorities are expanding a limited internet service called 'Internet Pro' to selected individuals and entities, such as doctors and business owners, but most of the population remains disconnected. The government imposed a near-total internet shutdown after the war with the US and Israel began in February. The economy has suffered significant losses due to the prolonged digital blackout."
+      },
+      {
+        "title": "Ugandan and Congolese forces rescue 200 people from ISIL-linked ADF | ISIL/ISIS News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/ugandan-and-congolese-forces-rescue-200-from-isil-backed-adf",
+        "published": "2026-04-20T16:48:16Z",
+        "summary": "Joint Ugandan and Congolese military forces rescued at least 200 civilians from captivity by the ISIL-linked Allied Democratic Forces (ADF) in eastern Democratic Republic of the Congo. The captives were found in poor health, suffering from conditions like malaria and forced labor. The rescue was part of an offensive that also killed several ADF fighters and recovered weapons."
+      },
+      {
+        "title": "At least 21 killed as bus crashes into Kashmir gorge | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/at-least-21-killed-as-bus-skids-off-kashmir-road-into-gorge",
+        "published": "2026-04-20T16:48:44Z",
+        "summary": "At least 21 people were killed when an overcrowded bus skidded off a road and fell into a gorge in Indian-controlled Kashmir. The bus, carrying more than 60 people, hit an autorickshaw at a sharp curve before plunging about 30 meters. Around 45 others were injured, with Indian Prime Minister Narendra Modi expressing condolences and announcing relief for the victims' families."
+      },
+      {
+        "title": "Lebanon, Israel to meet again Thursday for direct talks, US says | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/lebanon-israel-to-meet-again-thursday-for-direct-talks-us-says",
+        "published": "2026-04-20T17:15:21Z",
+        "summary": "The United States will host a second round of direct talks between Lebanon and Israel on Thursday, following a fragile ceasefire between Hezbollah and Israel. Lebanese President Joseph Aoun stated the negotiations are a sign of strength, while Hezbollah has rejected them. The talks come after recent Israeli air strikes in Lebanon killed hundreds of people."
+      },
+      {
+        "title": "US launches tariff refund system as thousands of importers line up | Trade War News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/20/us-launches-tariff-refund-system-as-thousands-of-importers-line-up",
+        "published": "2026-04-20T17:16:52Z",
+        "summary": "A US system for companies to claim refunds on tariffs previously ruled illegal has gone live, with thousands of importers filing claims. The system experienced some glitches but did not crash as feared. US Customs and Border Protection stated that over 56,000 importers have completed steps to receive refunds, which could total up to $166 billion."
+      },
+      {
+        "title": "These are difficult times for the world, so what will Pakistan do? | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/20/these-are-difficult-times-for-the-world-so-what-will-pakistan-do",
+        "published": "2026-04-20T17:33:07Z",
+        "summary": "The article discusses Pakistan's role in mediating negotiations between the United States and Iran to end the war, noting significant challenges remain. US President Donald Trump expressed optimism about the war ending, and Pakistani military and government leaders have engaged in regional shuttle diplomacy. A ceasefire is holding, and talks have aimed at addressing differences, including securing a truce in Lebanon."
+      },
+      {
+        "title": "Woman charged in US with trafficking arms to Sudan for Iranian government | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/woman-charged-in-us-with-trafficking-arms-to-sudan-for-iranian-government",
+        "published": "2026-04-20T17:46:29Z",
+        "summary": "An Iranian national, Shamim Mafi, has been arrested in the US and charged with brokering arms sales from Iran to Sudan's Ministry of Defence, including drones and ammunition. The US Department of Justice alleges she operated through a company in Oman. If convicted, she faces up to 20 years in prison, amid warnings of a humanitarian crisis in Sudan's ongoing war."
+      },
+      {
+        "title": "Germany summons Russian ambassador, citing ‘direct threats’ | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/germany-summons-russian-ambassador-citing-direct-threats",
+        "published": "2026-04-20T17:55:28Z",
+        "summary": "Germany summoned the Russian ambassador to condemn unspecified 'direct threats' against targets in Germany, which Berlin says aim to undermine its support for Ukraine. The threats followed a Russian defense ministry post listing companies, including German firms, that supply drones to Ukraine. Separately, Russia arrested a German woman allegedly involved in a plot to blow up a facility."
+      },
+      {
+        "title": "UAE reports dismantling of Iran-linked ‘terror’ cell | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell",
+        "published": "2026-04-20T18:00:31Z",
+        "summary": "The United Arab Emirates announced the arrest of members of an Iran-linked cell accused of plotting terrorist and sabotage acts. Authorities stated the group pledged allegiance to Iran's Velayat-e Faqih doctrine and aimed to recruit Emirati youth. The arrests occur amid the US-Israeli war with Iran, during which the UAE has faced multiple Iranian attacks."
+      },
+      {
+        "title": "Report finds Gaza needs more than $71bn in next decade for recovery | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/report-finds-gaza-needs-more-than-71bn-in-next-decade-for-recovery",
+        "published": "2026-04-20T19:05:05Z",
+        "summary": "A joint EU and UN assessment reports that Gaza requires over $71 billion over the next decade for recovery and reconstruction after Israel's war. The report estimates $26.3 billion is needed in the first 18 months to restore essential services and infrastructure. The conflict has caused massive destruction, displacing 1.9 million people and devastating housing, health, and education sectors."
+      },
+      {
+        "title": "Louisiana mass shooting: What we know about suspect, eight children killed | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/louisiana-mass-shooting-what-we-know-about-suspect-eight-children-killed",
+        "published": "2026-04-20T19:26:58Z",
+        "summary": "A 31-year-old man in Shreveport, Louisiana, killed his seven children and a cousin in a mass shooting, also injuring two women. The suspect, Shamar Elkins, fled after the attack, carjacked a vehicle, and later died in a confrontation with police. Authorities described the incident as a violent domestic dispute, noting the couple was separating."
+      },
+      {
+        "title": "UK PM Starmer admits Mandelson mistake, rejects resignation calls | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/uk-pm-starmer-admits-mistaken-call-on-mandelson-rejects-calls-to-resign",
+        "published": "2026-04-20T19:44:09Z",
+        "summary": "UK Prime Minister Keir Starmer admitted it was a mistake to appoint Peter Mandelson as ambassador to Washington but rejected calls to resign. Starmer stated he was unaware that security officials had recommended against the appointment due to Mandelson's links to Jeffrey Epstein. The scandal has raised questions about Starmer's judgement and government vetting processes."
+      },
+      {
+        "title": "Gunman kills Canadian woman, injures six at Mexico’s Teotihuacan pyramids | Tourism News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/gunman-kills-canadian-woman-injures-more-at-mexicos-teotihuacan-pyramids",
+        "published": "2026-04-20T19:45:18Z",
+        "summary": "A gunman killed a Canadian woman and injured six others before killing himself at the Teotihuacan pyramids archaeological site near Mexico City. Mexican authorities stated the injured are receiving medical care, and President Claudia Sheinbaum pledged a thorough investigation. The site is a major pre-Hispanic cultural center and popular tourist destination."
+      },
+      {
+        "title": "Europol and partners trace 45 ‘forcibly transferred’ Ukrainian children | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/europol-and-partners-trace-45-forcibly-transferred-ukrainian-children",
+        "published": "2026-04-20T20:44:05Z",
+        "summary": "Europol, with international partners, has traced 45 Ukrainian children who were forcibly transferred to Russia, Belarus, or occupied Ukrainian territory during the war. The information was shared with Ukrainian authorities to support investigations. Kyiv claims nearly 20,000 children have been taken, an issue central to peace negotiations and subject to ICC arrest warrants for Russian officials."
+      }
+    ]
+  },
+  {
     "time": "2026-04-20T16:11:47Z",
     "window_hours": 6,
     "article_count": 11,
