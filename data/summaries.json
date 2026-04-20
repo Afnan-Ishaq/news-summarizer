@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-04-20T07:17:38Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "The articles cover a range of international news and sports from the last six hours. They include an analysis of Nigeria's insurgency, reports on displacement in Lebanon and a protest in the West Bank, updates on US-Iran talks hosted by Pakistan, and sports results from the Bundesliga and NBA playoffs.",
+    "articles": [
+      {
+        "title": "What is really happening in northern Nigeria | Armed Groups | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/20/what-is-really-happening-in-northern-nigeria",
+        "published": "2026-04-20T04:24:15Z",
+        "summary": "The article argues that a resurgence of violence in northern Nigeria is due to an adapted insurgency, not a foreign conspiracy or a 'Christian genocide'. It states that groups like ISWAP have become more adaptive and entrenched, and that the violence feeds on domestic vulnerabilities like poverty and weak governance. The piece calls for moving beyond conspiracy theories to analyze these root causes."
+      },
+      {
+        "title": "To stay or to go? No good options for Lebanon’s displaced | Israel attacks Lebanon | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/20/to-stay-or-to-go-no-good-options-for-lebanon-displaced",
+        "published": "2026-04-20T05:41:22Z",
+        "summary": "The article describes the difficult choice for residents of southern Lebanon after Israel issued forced evacuation threats, displacing over a million people. It follows one family's frantic escape to Beirut and details the widespread panic. Human Rights Watch is cited stating that such displacement may constitute a war crime, leaving people to weigh the risk of death against the hardships of fleeing."
+      },
+      {
+        "title": "As barbed wire blocks kids from class, Palestinians stage ‘Freedom School’ | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/as-barbed-wire-blocks-kids-from-class-palestinians-stage-freedom-school",
+        "published": "2026-04-20T05:44:01Z",
+        "summary": "The article reports that settlers erected a barbed wire fence blocking Palestinian children in Umm al-Khair from reaching their school in the occupied West Bank. When the children tried to go around, soldiers reportedly used tear gas and sound grenades against them. In response, the community staged a protest march dubbed the 'Umm al-Khair Freedom School' to demand access to education."
+      },
+      {
+        "title": "Kane scores as Bayern Munich claim Bundesliga title with Stuttgart victory | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/20/kane-scores-as-bayern-munich-claim-bundesliga-title-with-stuttgart-victory",
+        "published": "2026-04-20T05:58:15Z",
+        "summary": "Bayern Munich won a record-extending 35th Bundesliga title with a 4-2 home victory over Stuttgart, securing the championship with four games to spare. Harry Kane scored his 32nd league goal of the season in the win. The victory underscores Bayern's domestic dominance, as they have now won 13 of the last 14 league titles."
+      },
+      {
+        "title": "Wembanyama makes history as Spurs defeat Blazers in Game 1 | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/20/wembanyama-makes-history-as-spurs-defeat-blazers-in-game-1",
+        "published": "2026-04-20T06:17:59Z",
+        "summary": "Victor Wembanyama set a San Antonio Spurs franchise record with 35 points in his NBA playoff debut, leading his team to a 111-98 win over the Portland Trail Blazers in Game 1 of their first-round series. The Spurs built a large lead and held off a late Portland rally. Deni Avdija led the Trail Blazers with 30 points and 10 rebounds."
+      },
+      {
+        "title": "Pakistan ready for multi-day US-Iran talks, but Tehran unsure about joining | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining",
+        "published": "2026-04-20T06:32:03Z",
+        "summary": "Pakistan is preparing to host a second round of multi-day talks between the US and Iran aimed at extending a fragile ceasefire, but Iran's participation is uncertain due to rising tensions. The article reports that US President Donald Trump announced the talks while also threatening to bomb Iranian infrastructure and detailing the US seizure of an Iranian-flagged cargo ship. The outcome hinges on whether Iran sends its negotiators."
+      }
+    ]
+  },
+  {
     "time": "2026-04-20T02:46:26Z",
     "window_hours": 6,
     "article_count": 5,
