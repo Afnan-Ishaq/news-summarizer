@@ -1,5 +1,37 @@
 [
   {
+    "time": "2026-04-21T06:58:41Z",
+    "window_hours": 6,
+    "article_count": 4,
+    "overall_summary": "The articles cover a range of international news from sports to politics and economics. They report on an NBA playoff upset, a high-profile corruption conviction in Algeria, a major shift in Japan's defense export policy, and the economic impact of the Iran conflict on migrant workers in India.",
+    "articles": [
+      {
+        "title": "CJ McCollum, Hawks rally late to shock Knicks in Game 2 of NBA playoffs | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/21/cj-mccollum-hawks-rally-late-to-shock-knicks-in-game-2-of-nba-playoffs",
+        "published": "2026-04-21T03:49:42Z",
+        "summary": "The Atlanta Hawks staged a late comeback to defeat the New York Knicks 107-106 in Game 2 of their NBA playoff series, tying the series 1-1. Led by CJ McCollum's game-high 32 points, including key shots in the final minutes, the Hawks erased an eight-point deficit in the last five minutes. The Knicks had a chance to win at the buzzer, but Mikal Bridges missed a final shot."
+      },
+      {
+        "title": "Algeria’s ex-minister of industry jailed in high-profile corruption case | Corruption News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/algerias-ex-minister-of-industry-jailed-in-high-profile-corruption-case",
+        "published": "2026-04-21T03:59:03Z",
+        "summary": "Former Algerian Industry Minister Ali Aoun has been sentenced to five years in prison after being convicted of corruption. The case, which involved the irregular sale of metal waste, also saw several other officials and businessmen receive prison sentences ranging from three to ten years. These convictions are part of an ongoing anti-corruption drive launched by President Abdelmadjid Tebboune."
+      },
+      {
+        "title": "Japan lifts ban on lethal weapons exports in major shift of pacifist policy | Weapons News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy",
+        "published": "2026-04-21T04:46:17Z",
+        "summary": "Japan's cabinet has lifted a long-standing ban on exporting lethal weapons, marking a major shift from its post-World War II pacifist policies. The change will allow Japan to sell weapons like fighter jets and missiles to eligible countries that commit to using them in accordance with the UN Charter. This policy shift follows a recent $7 billion deal with Australia for Japan to build warships."
+      },
+      {
+        "title": "Iran war forces job losses, reverse migration in India’s ceramic hub | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/iran-war-forces-job-losses-reverse-migration-in-indias-ceramic-hub",
+        "published": "2026-04-21T06:05:36Z",
+        "summary": "The ceramics industry in Morbi, India, has been severely impacted by a fuel crisis stemming from the US-Israel war with Iran, leading to widespread factory shutdowns and job losses. This has forced migrant workers, who form a majority of the workforce, to return to their home states. The article profiles one such worker, Pradeep Kumar, who lost his job and returned to Uttar Pradesh with his family."
+      }
+    ]
+  },
+  {
     "time": "2026-04-21T02:40:38Z",
     "window_hours": 6,
     "article_count": 10,
