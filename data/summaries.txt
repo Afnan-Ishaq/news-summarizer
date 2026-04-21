@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-21T02:40:38Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+This batch of articles covers a range of international news, legal actions, and political developments. Major themes include high-profile lawsuits and personnel changes in the US, EU policy shifts following a Hungarian election, escalating tensions in Ethiopia, and global reactions to conflicts and human rights issues.
+
+ARTICLE BREAKDOWN
+[1] FBI Director Kash Patel sues Atlantic for ‘false’ reporting on drinking | Donald Trump News | Al Jazeera
+Published: 2026-04-20T21:09:26Z
+URL: https://www.aljazeera.com/news/2026/4/20/fbi-director-kash-patel-sues-atlantic-for-false-reporting-on-drinking
+Summary: FBI Director Kash Patel has filed a $250 million defamation lawsuit against The Atlantic magazine and a reporter over an article alleging he has a drinking problem that threatens national security. The article, citing anonymous sources, claimed Patel's behavior led to rescheduled meetings and unreachable periods. The Atlantic says it stands by its reporting and will defend against the lawsuit, which Patel calls 'replete with false and obviously fabricated allegations'.
+
+[2] EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-20T21:30:55Z
+URL: https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election
+Summary: European Union officials expect progress on a 90-billion-euro loan to Ukraine and sanctions on violent Israeli settlers following the electoral defeat of Hungarian Prime Minister Viktor Orban, who had blocked these initiatives. The loan is desperately needed by Kyiv for its defense against Russia. The change in Hungary's government also opens the way for the EU to assess measures against Israel, including a potential suspension of its cooperation agreement.
+
+[3] Fears over Ethiopia peace deal as TPLF restores Tigray government | Conflict News | Al Jazeera
+Published: 2026-04-20T22:05:23Z
+URL: https://www.aljazeera.com/news/2026/4/20/fears-over-ethiopia-peace-deal-as-tplf-restores-tigray-government
+Summary: The Tigray People's Liberation Front (TPLF) has announced it is taking back control of the Tigray regional government, effectively ending the 2022 Pretoria peace agreement with Ethiopia's federal government. The TPLF accuses the federal government of violating the agreement and provoking armed conflict. This move sparks fears of a resumption of the deadly war that killed hundreds of thousands and displaced millions between 2020 and 2022.
+
+[4] Tim Cook to step down as Apple CEO | Technology News | Al Jazeera
+Published: 2026-04-20T22:06:47Z
+URL: https://www.aljazeera.com/economy/2026/4/20/tim-cook-to-step-down-as-apple-ceo
+Summary: Apple CEO Tim Cook will step down on September 1, ending a nearly 15-year tenure during which the company's market value soared by more than $3.6 trillion. He will be succeeded by John Ternus, Apple's head of hardware engineering. Cook will remain with the company as executive chairman, assisting with aspects like engaging with global policymakers.
+
+[5] Outcry grows over Israeli soldier smashing Jesus statue in Lebanon | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-20T22:12:02Z
+URL: https://www.aljazeera.com/news/2026/4/20/outcry-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon
+Summary: A photo of an Israeli soldier using a sledgehammer on a statue of Jesus Christ in Lebanon has sparked international outrage and condemnation, including from some former allies of US President Donald Trump. Commentators like Tucker Carlson and former Republican lawmakers criticized the act, highlighting US military aid to Israel. The incident adds to growing skepticism of the US-Israel alliance within parts of Trump's political base.
+
+[6] D4vd charged with murder of 14-year-old Celeste Rivas Hernandez | Crime News | Al Jazeera
+Published: 2026-04-20T22:19:55Z
+URL: https://www.aljazeera.com/news/2026/4/20/d4vd-charged-with-murder-of-14-year-old-celeste-rivas-hernandez
+Summary: Singer D4vd, whose legal name is David Burke, has been charged with first-degree murder and other crimes in the death of 14-year-old Celeste Rivas Hernandez. The prosecutor said the girl's dismembered body was found in a Tesla linked to the singer. The charges include special circumstances making Burke eligible for life without parole or the death penalty; he has pleaded not guilty.
+
+[7] ‘Predators’: Amnesty slams Netanyahu, Putin, Trump as human rights decline | Human Rights News | Al Jazeera
+Published: 2026-04-20T23:43:01Z
+URL: https://www.aljazeera.com/news/2026/4/20/predators-amnesty-slams-netanyahu-putin-trump-as-human-rights-decline
+Summary: Amnesty International's annual report describes the leaders of Israel, Russia, and the United States as 'voracious predators' leading a destruction of global human rights. The group's head, Agnes Callamard, said their conduct in conflicts has emboldened copycats worldwide, leading to a more aggressive global environment. The report documents intensifying authoritarian practices and abuses across many nations.
+
+[8] Six women win 2026 Goldman prize, world’s top environmental award | Environment News | Al Jazeera
+Published: 2026-04-21T00:07:04Z
+URL: https://www.aljazeera.com/news/2026/4/21/six-women-win-2026-goldman-prize-worlds-top-environmental-award
+Summary: Six women grassroots environmental activists from Colombia, Nigeria, Papua New Guinea, South Korea, the UK, and the US have won the 2026 Goldman Environmental Prize. This marks the first all-women cohort for the award, sometimes called the 'Green Nobel'. The winners are recognized for fighting climate change and saving biodiversity, with each receiving $200,000.
+
+[9] Cuba confirms talks with US officials, wants end to Trump’s energy blockade | Donald Trump News | Al Jazeera
+Published: 2026-04-21T02:29:05Z
+URL: https://www.aljazeera.com/news/2026/4/21/cuba-confirms-meeting-with-us-official-wants-end-to-trumps-energy-blockade
+Summary: Cuba has confirmed it held recent talks with US officials in Havana, describing the exchange as 'respectful and professional'. A Cuban official said ending the US energy blockade was a top priority, accusing Washington of 'blackmail' for threatening tariffs on countries that export oil to Cuba. US reports indicated the talks included conditions from Washington, such as the release of political prisoners.
+
+[10] Trump’s Labor Secretary Lori Chavez-DeRemer latest to leave administration | Donald Trump News | Al Jazeera
+Published: 2026-04-21T02:31:08Z
+URL: https://www.aljazeera.com/news/2026/4/21/trumps-labor-secretary-lori-chavez-deremer-latest-to-leave-administration
+Summary: US Labor Secretary Lori Chavez-DeRemer is leaving the Trump administration, becoming the third high-profile female official to depart recently. The White House said she did a 'phenomenal job' and will take a private sector role, with Deputy Secretary Keith Sonderling becoming acting secretary. A report had previously alleged she was under investigation for an inappropriate relationship and drinking in her office, which Al Jazeera could not independently verify.
+
+================================================================================
 RUN TIME UTC: 2026-04-20T20:50:01Z
 WINDOW: Last 6 hours
 ARTICLES USED: 15
