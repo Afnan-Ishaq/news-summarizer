@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-04-22T06:57:39Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+The articles cover two distinct topics from the last six hours. One reports on FIFA's new, more expensive ticket categories for the 2026 World Cup and lagging sales for some matches. The other details the fragile ceasefire extension in the Iran conflict, with tensions persisting over a US naval blockade and ongoing regional violence.
+
+ARTICLE BREAKDOWN
+[1] FIFA unlocks more World Cup tickets and adds new, more expensive categories | World Cup 2026 News | Al Jazeera
+Published: 2026-04-22T03:36:22Z
+URL: https://www.aljazeera.com/sports/2026/4/22/fifa-unlocks-more-world-cup-tickets-and-adds-new-more-expensive-categories
+Summary: FIFA is putting more World Cup 2026 tickets on sale but has introduced new, more expensive premium categories, which has angered some fans who feel they were assigned less favorable seats. The organization announced more tickets for all 104 games would be available, with prices previously ranging up to $10,990. A report indicates ticket sales are lagging for the US opener against Paraguay, with about 40,934 tickets sold so far for that match.
+
+[2] Iran war: What’s happening on day 54 as Trump extends ceasefire? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-22T05:25:57Z
+URL: https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire
+Summary: President Trump said the US is extending a ceasefire with Iran to allow time for Tehran to submit a proposal and for negotiations to conclude, but the US naval blockade on Iranian ports will remain. Iran insists the blockade violates the ceasefire and says it will not negotiate under these conditions, describing it as an 'act of war'. Meanwhile, regional violence continues with incidents in the occupied West Bank and southern Lebanon, and the US has imposed new sanctions linked to Iran's weapons programs.
+
+================================================================================
 RUN TIME UTC: 2026-04-22T02:38:20Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
