@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-04-22T02:38:20Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "The articles cover a range of international news from the last six hours, including political developments in Myanmar and Peru, a sports result in Spain, a legal case in the United States, and a migration agreement involving Paraguay.",
+    "articles": [
+      {
+        "title": "Myanmar’s military government rebuffed on peace talks offer | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/myanmars-military-government-rebuffed-on-peace-talk-offer",
+        "published": "2026-04-21T21:21:37Z",
+        "summary": "Myanmar's military-backed government, led by President Min Aung Hlaing, has invited opposition armed groups to peace talks with a deadline of July 31. Key rebel groups, including the Karen National Union and the Chin National Front, swiftly rejected the offer, citing the 2021 coup and a desire for a federal democratic system free from military influence. The military government's recent election has been widely criticized as a sham, and its peace talks since 2022 have yielded little result."
+      },
+      {
+        "title": "Real Madrid close on Barcelona as Mbappe and Vinicius net against Alaves | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/21/real-madrid-close-on-barcelona-as-mbappe-and-vinicius-net-against-alaves",
+        "published": "2026-04-21T21:49:40Z",
+        "summary": "Real Madrid defeated Alaves 2-1 in La Liga, with goals from Kylian Mbappe and Vinicius Junior, ending a four-game winless streak. The victory moves Madrid to within six points of league leaders Barcelona. Alaves scored a late consolation goal but remains near the relegation zone."
+      },
+      {
+        "title": "Peru’s election chief steps down amid frustration over long vote count | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count",
+        "published": "2026-04-21T22:14:40Z",
+        "summary": "The head of Peru's election authority, Piero Corvetto, has resigned amid widespread anger over logistical chaos and delays in counting votes from the April 12 general election. He denied irregularities but stepped down to boost public confidence ahead of an anticipated June 7 presidential runoff. Right-wing candidate Keiko Fujimori leads the first round, but her opponent remains unclear as vote counting continues, with final results expected by May 15."
+      },
+      {
+        "title": "Trump administration sues Southern Poverty Law Center on fraud charges | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/trump-administration-sues-southern-poverty-law-center-on-fraud-charges",
+        "published": "2026-04-21T23:08:16Z",
+        "summary": "The U.S. Department of Justice has indicted the Southern Poverty Law Center (SPLC) on federal fraud charges, alleging it improperly raised millions from donors to pay informants within far-right groups like the Ku Klux Klan. Acting Attorney General Todd Blanche accused the civil rights group of funding the very ideology it claims to fight. The SPLC, which says the program was used to monitor threats and share information with law enforcement, faces charges including wire fraud and conspiracy to commit money laundering."
+      },
+      {
+        "title": "Paraguay plans to accept 25 third-country migrant deportees from US | Migration News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us",
+        "published": "2026-04-21T23:10:21Z",
+        "summary": "Paraguay has announced it will accept an initial group of 25 non-citizen deportees from the United States as part of President Donald Trump's mass deportation push. The country stated each case was evaluated individually, respecting national sovereignty and international law. This makes Paraguay one of several countries participating in 'third-country' deportation agreements with the U.S., a program criticized by advocacy groups over human rights concerns and the stability of some destination countries."
+      }
+    ]
+  },
+  {
     "time": "2026-04-21T20:55:13Z",
     "window_hours": 6,
     "article_count": 16,
