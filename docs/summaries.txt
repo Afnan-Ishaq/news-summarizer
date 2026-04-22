@@ -1,4 +1,98 @@
 ================================================================================
+RUN TIME UTC: 2026-04-22T16:11:12Z
+WINDOW: Last 6 hours
+ARTICLES USED: 17
+
+OVERALL SUMMARY
+The articles cover a range of international news from the last six hours, including significant UK health legislation, ongoing conflicts in India and Iran, sports controversies, and political developments in Iraq and Nepal. Key themes involve public health policy, geopolitical tensions, and social justice issues.
+
+ARTICLE BREAKDOWN
+[1] UK bill bans anyone born after 2008 from ever buying tobacco | Health News | Al Jazeera
+Published: 2026-04-22T10:48:13Z
+URL: https://www.aljazeera.com/news/2026/4/22/new-uk-bill-bans-anyone-born-after-2008-from-buying-tobacco
+Summary: The UK Parliament has approved a bill that will permanently ban anyone born on or after January 1, 2009, from ever buying tobacco. The law, described as a historic public health intervention, aims to create a 'smoke-free generation' and includes new powers to regulate tobacco and vaping products. It will also expand smoke-free zones to include playgrounds and outside schools.
+
+[2] Why is India’s Manipur burning for three years? | Narendra Modi | Al Jazeera
+Published: 2026-04-22T10:58:44Z
+URL: https://www.aljazeera.com/features/2026/4/22/why-is-indias-manipur-burning-for-three-years
+Summary: Violence has erupted again in India's Manipur state, shattering months of relative calm after a bomb blast killed two children. The state remains bitterly divided between the Meitei and Kuki-Zo communities, with a three-year-long civil conflict raising questions about the government's ability to end the fighting. Recent clashes have led to deaths, arrests, and blockades, pushing the region further into ethnic strife.
+
+[3] Kyrie Irving changes Instagram photo to show solidarity with Palestine | Basketball News | Al Jazeera
+Published: 2026-04-22T11:20:12Z
+URL: https://www.aljazeera.com/sports/2026/4/22/kyrie-irving-changes-instagram-photo-to-show-solidarity-with-palestine
+Summary: NBA player Kyrie Irving changed his Instagram profile picture to an image of a Palestinian child blocked from school by Israeli soldiers in the occupied West Bank. The article describes an incident where settlers erected a barbed wire fence blocking Palestinian schoolchildren's route, with soldiers refusing to remove it. Irving has previously shown support for Palestinians through clothing and accessories.
+
+[4] Five major issues affecting the FIFA World Cup with 50 days to go | World Cup 2026 News | Al Jazeera
+Published: 2026-04-22T11:33:41Z
+URL: https://www.aljazeera.com/sports/2026/4/22/five-major-issues-affecting-the-fifa-world-cup-with-50-days-to-go
+Summary: With 50 days until the World Cup, FIFA and host nations face criticism over social, political, and logistical issues. Iran's participation remains uncertain due to the US-Israel war on Iran, and fans are outraged by exorbitant ticket prices and transport fare hikes in US host cities. FIFA has rejected Iran's request to relocate its games from the US to Mexico.
+
+[5] UK bans a generation of children from smoking: How it works | Health News | Al Jazeera
+Published: 2026-04-22T11:57:56Z
+URL: https://www.aljazeera.com/features/2026/4/22/uk-bans-a-generation-of-children-from-smoking-how-it-works
+Summary: The UK has passed a law making it illegal for anyone born after 2008 to ever buy tobacco products. Starting in 2027, the legal age for tobacco sales will increase by one year annually, meaning those currently 17 or younger will never reach it. The bill also bans vaping in areas like playgrounds and outside schools, and gives ministers new powers to regulate tobacco and nicotine products.
+
+[6] On Earth Day, remember the people defending the planet | Environment | Al Jazeera
+Published: 2026-04-22T12:25:44Z
+URL: https://www.aljazeera.com/opinions/2026/4/22/on-earth-day-remember-the-people-defending-the-planet
+Summary: This opinion piece argues that behind environmental victories are grassroots activists whose labor and sacrifice are rarely recognized. It notes that real activism is slow, grinding work involving community meetings and coalition-building, often with personal costs like exhaustion and grief. The article highlights six women being honored by the Goldman Environmental Prize for their achievements.
+
+[7] Iran calls US ship seizure ‘piracy’: Is it? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-22T12:33:36Z
+URL: https://www.aljazeera.com/news/2026/4/22/iran-calls-us-ship-seizure-piracy-is-it
+Summary: Iran has called the US seizure of an Iranian tanker near the Strait of Hormuz an act of 'piracy' and responded by capturing two foreign commercial vessels. The US military enforced a naval blockade on Iranian ports, and the seized ship allegedly defied orders. Iranian officials are discussing imposing control and transit fees over maritime traffic through the strait.
+
+[8] Beyond the desecrated statue: What truly demands our outrage | Israel attacks Lebanon | Al Jazeera
+Published: 2026-04-22T13:20:17Z
+URL: https://www.aljazeera.com/opinions/2026/4/22/beyond-the-desecrated-statue-what-truly-demands-our-outrage
+Summary: This opinion piece argues that while the destruction of a Jesus statue by an Israeli soldier in Lebanon is offensive, it should not distract from greater outrages like Israel's actions in Gaza. It suggests such acts reflect a broader culture of enmity and impunity within Israeli society and institutions. The author contends that sustained outrage should focus on civilian targeting and destruction in Gaza.
+
+[9] Arsenal have grown, but they still have not learned how to dominate | Football | Al Jazeera
+Published: 2026-04-22T13:31:30Z
+URL: https://www.aljazeera.com/opinions/2026/4/22/arsenal-have-grown-but-they-still-have-not-learned-how-to-dominate
+Summary: The article states that Arsenal's Premier League title challenge is being undermined by dropped points in crucial moments, despite the team showing growth and consistency. It cites examples like a loss to Liverpool and a draw with Manchester City where Arsenal appeared reluctant to seize control. The piece argues that Arsenal fail to fully dominate when the pressure is highest.
+
+[10] Will Iraq’s Shia bloc overcome obstacles to pick the next PM? | Politics News | Al Jazeera
+Published: 2026-04-22T13:42:12Z
+URL: https://www.aljazeera.com/news/2026/4/22/will-iraqs-shia-bloc-overcome-obstacles-to-pick-the-next-pm
+Summary: Iraq's Shia Coordination Framework has five days to choose a prime minister, amid internal power struggles and external pressure from Iran and the US. The bloc has postponed its decision, with candidates including Bassem al-Badry and Ihsan al-Awadi. Internal differences, particularly between the Hikma and Asa'ib Ahl al-Haq movements, have delayed the nomination.
+
+[11] What is uranium enrichment and how quickly could Iran build a nuclear bomb? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-22T13:52:41Z
+URL: https://www.aljazeera.com/news/2026/4/22/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb
+Summary: The article explains uranium enrichment and assesses how quickly Iran could build a nuclear weapon, noting Iran insists its program is for civilian use. It describes the process from mining to fuel pellets and notes that weapon-grade uranium requires 90% enrichment, while civilian use needs 3-5%. The piece is framed around US demands for Iran to stop all enrichment amid ceasefire negotiations.
+
+[12] Russia says will halt oil flow to Germany via Druzhba pipeline | Economy News | Al Jazeera
+Published: 2026-04-22T14:38:01Z
+URL: https://www.aljazeera.com/economy/2026/4/22/russia-says-will-halt-oil-flow-to-germany-via-druzhba-pipeline
+Summary: Russia will suspend shipments of Kazakh oil to Germany via the Druzhba pipeline starting May 1, citing 'technical' reasons. The move affects the PCK refinery, which supplies most of Berlin's fuel, amid a global energy crisis due to the US-Israel war on Iran. Germany's economic ministry stated the suspension does not ultimately jeopardize the country's supply security.
+
+[13] Pakistan out of women’s football tournament in India over political strife | Football News | Al Jazeera
+Published: 2026-04-22T14:57:20Z
+URL: https://www.aljazeera.com/sports/2026/4/22/pakistan-out-of-womens-football-tournament-in-india-over-political-strife
+Summary: Pakistan will not participate in the SAFF Women's Championship in India after its government did not issue a no objection certificate for travel, due to geopolitical tensions. The tournament in Goa will proceed without Pakistan, with India in a group with the Maldives and Bangladesh. Hostile relations between the nations have previously led to sports boycotts and cancelled matches.
+
+[14] Blockchain billionaire Sun takes Trump family’s crypto firm to court | Crypto News | Al Jazeera
+Published: 2026-04-22T15:17:45Z
+URL: https://www.aljazeera.com/economy/2026/4/22/blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court
+Summary: Crypto entrepreneur Justin Sun has sued World Liberty Financial, co-founded by Donald Trump and his sons, alleging it illegally froze his holdings of WLFI tokens. Sun claims the company secretly installed tools to prevent token sales and threatened to 'burn' his holdings. The lawsuit highlights scrutiny over World Liberty's transparency and governance, with the Trump family reportedly profiting significantly from the venture.
+
+[15] Nepal’s home minister resigns, second cabinet exit in one month | Politics News | Al Jazeera
+Published: 2026-04-22T15:19:02Z
+URL: https://www.aljazeera.com/news/2026/4/22/nepals-home-minister-resigns-second-cabinet-exit-in-one-month
+Summary: Nepal's Home Minister Sudan Gurung has resigned, citing questions about his investments and emphasizing morality and public trust. He is the second minister to leave Prime Minister Balendra Shah's month-old government, following the earlier dismissal of the labour minister. Gurung had previously ordered the arrest of former Prime Minister KP Sharma Oli in connection with a protest crackdown investigation.
+
+[16] Trump calls Iran’s leadership ‘fractured’. Is it, and who’s in charge? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-22T15:26:04Z
+URL: https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge
+Summary: Donald Trump has described Iran's leadership as 'seriously fractured' while extending a ceasefire, but the article notes little evidence suggests the government is fragmented. It outlines key power centers, including Supreme Leader Mojtaba Khamenei, who reportedly retains influence despite claims of injury. The piece examines whether Iranian stakeholders are divided over negotiations with the US.
+
+[17] Iran’s leaders debate war and peace after Trump ceasefire extension | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-22T15:42:19Z
+URL: https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension
+Summary: Iran's state media and military leadership signal readiness for resumed war with the US and Israel, opposing major concessions in negotiations. Authorities organized military parades and displays of defiance in Tehran as the ceasefire was extended. State television pushes a hardline approach, while the article notes debates within Iran about war and peace.
+
+================================================================================
 RUN TIME UTC: 2026-04-22T06:57:39Z
 WINDOW: Last 6 hours
 ARTICLES USED: 2
