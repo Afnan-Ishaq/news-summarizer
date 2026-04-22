@@ -1,5 +1,109 @@
 [
   {
+    "time": "2026-04-22T20:57:37Z",
+    "window_hours": 6,
+    "article_count": 16,
+    "overall_summary": "This batch of articles covers a range of international news from the last six hours, primarily focusing on conflicts in the Middle East, European politics, and U.S. domestic affairs. Key themes include Israeli actions in the West Bank and Lebanon, EU diplomatic and financial maneuvers, and statements from U.S. President Donald Trump.",
+    "articles": [
+      {
+        "title": "Israeli settlers block Palestinian children from school in the West Bank | Occupied West Bank News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/israeli-settlers-block-palestinian-children-from-school-in-the-west-bank",
+        "published": "2026-04-22T15:44:26Z",
+        "summary": "Israeli settlers have erected a barbed-wire fence blocking the route to school for at least 55 Palestinian children in Umm al-Khair village in the occupied West Bank, preventing them from attending for the past 10 school days. Students, teachers, and families are staging daily peaceful sit-ins and using the area as an outdoor classroom. The article states this occurs amid growing concerns over intensified Israeli settlement expansion and rising settler attacks, which are considered illegal under international law."
+      },
+      {
+        "title": "How Israel is destroying Lebanon’s water infrastructure | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/22/how-israel-is-destroying-lebanons-water-infrastructure",
+        "published": "2026-04-22T16:00:51Z",
+        "summary": "The article reports that Israel is deliberately attacking Lebanon's water infrastructure, with experts saying it aims to displace or kill the population in southern Lebanon. It states that strikes on crucial water sites have turned water access into a weapon, creating an uninhabitable buffer zone. Israeli Prime Minister Benjamin Netanyahu is quoted as saying Israeli forces are remaining in a reinforced security buffer zone in Lebanon and are not leaving."
+      },
+      {
+        "title": "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/ukraine-restarts-russian-oil-flows-to-europe-unblocking-90bn-eu-loan",
+        "published": "2026-04-22T16:12:38Z",
+        "summary": "Ukraine has resumed Russian oil deliveries through the Druzhba pipeline to Hungary and Slovakia, enabling Hungary to lift its veto on a 90-billion-euro EU loan for Kyiv. The EU's 27 member states are now expected to formally approve the loan, which was agreed last year to maintain Ukraine's liquidity. The deadlock was resolved after Hungary's election and the pipeline repairs, allowing the EU to also move forward with a new round of sanctions on Russia."
+      },
+      {
+        "title": "A 42bn-euro dilemma: What is stopping EU from holding Israel to account? | Crimes Against Humanity | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/22/a-42bn-euro-dilemma-what-is-stopping-eu-from-holding-israel-to-account",
+        "published": "2026-04-22T16:33:22Z",
+        "summary": "A push by Spain, Ireland, and Slovenia to suspend the EU's trade and cooperation pact with Israel was vetoed by Germany and Italy at a meeting of EU foreign ministers. The article states Europe is deeply divided over its approach to Israel despite growing calls for accountability over actions in Gaza and the West Bank. The EU-Israel Association Agreement, which grants Israel lucrative trade privileges, contains a human rights clause that activists are mobilizing around, with over 1 million signatures demanding its suspension."
+      },
+      {
+        "title": "Iran says ‘fully prepared’ for football team’s World Cup participation | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/iran-says-fully-prepared-for-football-teams-world-cup-participation",
+        "published": "2026-04-22T16:39:02Z",
+        "summary": "Iran's government says all necessary arrangements have been made for its national football team's participation in the 2026 FIFA World Cup, co-hosted by the US, Canada, and Mexico. FIFA President Gianni Infantino has stated Iran is expected to participate and that sports should be outside of politics. The article notes Iran's participation had been in doubt due to the conflict launched by the US and Israel, but a fragile truce is currently in effect."
+      },
+      {
+        "title": "Chelsea sack Rosenior after only three months at Premier League club | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/22/chelsea-sack-rosenior-after-only-3-months-at-premier-league-club",
+        "published": "2026-04-22T16:45:16Z",
+        "summary": "Chelsea Football Club has sacked head coach Liam Rosenior after a run of five consecutive defeats, which also marked the first time the club had lost that many games without scoring since 1912. Rosenior had only been appointed in January. The club stated recent results and performances fell below necessary standards."
+      },
+      {
+        "title": "At least four killed in Israeli attacks on Lebanon, journalists wounded | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded",
+        "published": "2026-04-22T18:10:52Z",
+        "summary": "Israeli attacks have killed four people in southern Lebanon and wounded several others, including journalists, according to Lebanon's National News Agency. The report states that two journalists from Al Akhbar were wounded while covering an earlier strike, with one in serious condition and the other's whereabouts unknown. Lebanon's Information Minister condemned the assault, while the Israeli military said it does not target journalists and denied preventing rescue services from reaching the site."
+      },
+      {
+        "title": "Suspect in slaying of Colombian presidential hopeful arrested in Argentina | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/suspect-in-slaying-of-colombian-presidential-hopeful-arrested-in-argentina",
+        "published": "2026-04-22T18:12:08Z",
+        "summary": "A Colombian man suspected of a logistical role in the assassination of Senator Miguel Uribe has been arrested in Buenos Aires, Argentina. The suspect, Brayan Ferney Cruz Castillo, entered Argentina illegally and will remain in detention facing eventual extradition. Colombian prosecutors believe a local criminal network, acting on behalf of a paramilitary faction, organized the killing."
+      },
+      {
+        "title": "Bad optics? Israel jails soldiers who smashed Jesus statue in Lebanon | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/22/bad-optics-israel-jails-soldiers-who-smashed-jesus-statue-in-lebanon",
+        "published": "2026-04-22T18:22:26Z",
+        "summary": "Israel has jailed a soldier for 30 days for attacking a Christian statue of Jesus in southern Lebanon with a sledgehammer, and another soldier who filmed him. The article notes this action contrasts with typical Israeli military investigations, which rarely find soldiers at fault for violations. Critics say the incident challenges Israel's framing as a defender of Christians and its emphasis on a shared Judeo-Christian heritage."
+      },
+      {
+        "title": "Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/iran-blames-trumps-blockade-for-diplomatic-impasse-as-fragile-truce-holds",
+        "published": "2026-04-22T19:25:38Z",
+        "summary": "Iranian officials blame a US naval blockade for the impasse in negotiations and say a full ceasefire is impossible if the blockade persists. Parliament Speaker Mohammad Bagher Ghalibaf stated Iran will not submit to \"bullying\" by Washington. The article notes a fragile truce between the US and Iran is holding, but the US has extended it without setting a deadline and suggests the blockade will continue as leverage."
+      },
+      {
+        "title": "Warner Bros and Paramount merger could reshape US media landscape | Media News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/22/warner-bros-and-paramount-merger-could-reshape-us-media-landscape",
+        "published": "2026-04-22T19:53:08Z",
+        "summary": "Warner Bros Discovery shareholders are set to vote on a merger with Paramount Skydance, a deal that would place CBS News and CNN under one roof and reshape the US media landscape. The merger faces regulatory scrutiny, including concerns over foreign investment from Saudi Arabia, Qatar, the UAE, and China. Critics say Paramount Skydance, led by a key ally of President Trump, has already taken steps to appease the administration."
+      },
+      {
+        "title": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians",
+        "published": "2026-04-22T19:59:22Z",
+        "summary": "The article reports that sexual violence and harassment by Israeli soldiers and settlers are becoming systematic tools to intimidate and displace Palestinians in the occupied West Bank. It details a specific assault on Qusay Abu al-Kabash by settlers in March. A report by the West Bank Protection Consortium documented cases of conflict-related sexual violence, concluding that more than 70 percent of displaced families cited such violence as a reason for leaving."
+      },
+      {
+        "title": "Trump calls Virginia election ‘rigged’ after redistricting referendum | US Midterm Elections 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-virginia-election-rigged-after-redistricting-referendum",
+        "published": "2026-04-22T20:09:16Z",
+        "summary": "President Donald Trump claimed without evidence that the Virginia election was \"rigged\" after voters narrowly approved a referendum to redraw the state's congressional map, a result that could benefit Democrats. The outcome is expected to face legal challenges. Trump has made similar claims since the 2020 election, and courts are expected to review challenges to the referendum's procedures and wording."
+      },
+      {
+        "title": "US suspect accused of stealing Kristi Noem’s purse sentenced to three years | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/us-suspect-accused-of-stealing-kristi-noems-purse-sentenced-to-three-years",
+        "published": "2026-04-22T20:23:40Z",
+        "summary": "A Chilean man has been sentenced to three years in prison and will be deported for stealing a handbag belonging to then-Homeland Security Secretary Kristi Noem in Washington, DC, last year. The Trump administration has used the case to justify its deportation push and a military-led crackdown on crime in the capital. The suspect was caught on surveillance camera stealing the purse, which contained credit cards and cash."
+      },
+      {
+        "title": "Trump calls for Republicans to unify around budget reconciliation push | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-for-republicans-to-unify-around-budget-reconciliation-push",
+        "published": "2026-04-22T20:25:50Z",
+        "summary": "President Donald Trump has called on Republican lawmakers to use the budget reconciliation process to fund immigration enforcement agencies, bypassing Democratic opposition. A partial government shutdown has affected the Department of Homeland Security since mid-February, with Democrats refusing to approve spending without immigration reforms. The Senate has approved a motion to start the reconciliation process for funding ICE and Customs and Border Protection."
+      },
+      {
+        "title": "Pope Leo urges justice reform in Equatorial Guinea’s prisons | Prison News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/22/pope-leo-urges-justice-reform-in-equatorial-guineas-prisons",
+        "published": "2026-04-22T20:38:14Z",
+        "summary": "Pope Leo visited a notorious prison in Equatorial Guinea, criticizing conditions for inmates and urging justice reform that promotes human dignity. He told inmates they are not alone and called for opportunities for study and work during confinement. The article notes President Teodoro Obiang's government has been accused of rights abuses and struck a deal with the Trump administration last year to accept deportees from other countries."
+      }
+    ]
+  },
+  {
     "time": "2026-04-22T16:11:12Z",
     "window_hours": 6,
     "article_count": 17,
