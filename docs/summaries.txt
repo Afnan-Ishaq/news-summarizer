@@ -1,4 +1,83 @@
 ================================================================================
+RUN TIME UTC: 2026-04-23T16:28:55Z
+WINDOW: Last 6 hours
+ARTICLES USED: 14
+
+OVERALL SUMMARY
+The batch covers escalating US-Iran tensions in the Strait of Hormuz, including ship captures and threats, alongside sports updates on Premier League and World Cup, ICC confirmation of Duterte's trial, Turkish social media restrictions for children, Warner Bros shareholder approval of Paramount merger, and UN warnings on poverty from the Iran war.
+
+ARTICLE BREAKDOWN
+[1] How Iran raised Hormuz stakes by capturing ships | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-23T11:25:44Z
+URL: https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships
+Summary: Iran captured two foreign container ships and fired at a third in the Strait of Hormuz, escalating tensions amid a US naval blockade. The US had earlier seized an Iranian-flagged ship, and Iran accused the US of piracy. Despite a ceasefire, both sides continue naval actions in the strait, which carries 20% of global oil and LNG.
+
+[2] Arsenal vs Newcastle: Premier League – teams, start, lineup, title race | Football News | Al Jazeera
+Published: 2026-04-23T11:45:43Z
+URL: https://www.aljazeera.com/sports/2026/4/23/arsenal-vs-newcastle-premier-league-teams-start-lineup-title-race
+Summary: Arsenal can reclaim the Premier League lead by beating Newcastle on Saturday, potentially going six points clear before Manchester City's next game. City recently tied Arsenal on points and goal difference, topping the table on goals scored. Arsenal's form includes a defeat to City and a loss to Bournemouth.
+
+[3] Indian physicists voice solidarity with Iran, Palestine, Lebanon academics | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-23T11:48:35Z
+URL: https://www.aljazeera.com/news/2026/4/23/indian-physicists-voice-solidarity-with-iran-palestine-lebanon-academics
+Summary: Over 50 Indian string theorists, including award-winning physicists, expressed solidarity with academics in Iran, Palestine, and Lebanon, condemning attacks on universities during US-Israeli conflicts. They listed specific Iranian and Lebanese universities attacked and referenced Israel's war on Gaza. The statement called the attacks crimes against humanity harming education and research.
+
+[4] ICC confirms crimes against humanity trial of ex-Philippine leader Duterte | Drugs News | Al Jazeera
+Published: 2026-04-23T11:49:01Z
+URL: https://www.aljazeera.com/news/2026/4/23/icc-confirms-crimes-against-humanity-trial-of-ex-philippine-leader-duterte
+Summary: The ICC confirmed charges of crimes against humanity against former Philippine President Rodrigo Duterte, committing him to trial for murder as part of his 'war on drugs.' The court found substantial grounds that Duterte played a key role in killing 76 people and attempting to kill two others. Duterte denies the charges, and his defense says he is mentally too weak to follow proceedings.
+
+[5] Yamal to be fit for World Cup, but injury ends his Barcelona La Liga race | Football News | Al Jazeera
+Published: 2026-04-23T12:31:12Z
+URL: https://www.aljazeera.com/sports/2026/4/23/yamal-to-be-fit-for-world-cup-but-injury-ends-his-barcelona-la-liga-race
+Summary: Barcelona confirmed Lamine Yamal has a hamstring injury that will end his domestic season, but he is expected to be fit for the World Cup. The 18-year-old injured himself scoring a penalty against Celta Vigo. Spain's World Cup campaign begins June 15 against Cape Verde.
+
+[6] US Senate passes $70bn funding plan for ICE, Border Patrol | Politics News | Al Jazeera
+Published: 2026-04-23T13:03:25Z
+URL: https://www.aljazeera.com/news/2026/4/23/us-senate-passes-70bn-funding-plan-for-ice-border-patrol
+Summary: The US Senate voted 50-48 to advance a $70bn budget framework funding ICE and Border Patrol, aiming to reopen the partially shut Department of Homeland Security. The shutdown began in February after Democrats demanded policy changes following fatal shootings by federal agents. Republicans are using budget reconciliation to pass the measure, which now moves to the House.
+
+[7] Makan Nasiri, the only child still missing from the school bombed in Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-23T13:08:56Z
+URL: https://www.aljazeera.com/news/2026/4/23/makan-nasiri-the-only-missing-child-from-the-school-bombed-in-irans-minab
+Summary: Seven-year-old Makan Nasiri remains missing after his school in Minab, Iran, was bombed on February 28, the first day of US-Israeli attacks. The attack killed 156 people, mostly children, but no trace of Makan was found despite DNA testing. Authorities closed his case after nearly seven weeks of searching.
+
+[8] ‘Solutions, not slogans’: Gaza holds first election in 21 years | Elections News | Al Jazeera
+Published: 2026-04-23T13:12:30Z
+URL: https://www.aljazeera.com/features/2026/4/23/solutions-not-slogans-gaza-holds-first-election-in-21-years
+Summary: Deir el-Balah in Gaza will hold its first municipal election in 21 years on Saturday, with about 70,000 eligible voters. The election is a test for restoring local governance after Israel's war, and four independent lists are competing. The vote marks a shift from Hamas-led administrative appointments.
+
+[9] How Iran war has triggered soaring cost of medicines | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-23T14:07:21Z
+URL: https://www.aljazeera.com/news/2026/4/23/how-iran-war-has-triggered-soaring-cost-of-medicines-condoms
+Summary: The US-Israel war on Iran has increased medicine prices globally due to disrupted pharmaceutical supply chains reliant on oil and air logistics. In the UK, paracetamol prices have more than quadrupled, and in India, painkiller prices rose up to 96%. Experts say delays and higher costs are the main effects, not yet a worldwide shortage.
+
+[10] Why are FIFA World Cup 2026 tickets so expensive? | World Cup 2026 News | Al Jazeera
+Published: 2026-04-23T14:29:23Z
+URL: https://www.aljazeera.com/sports/2026/4/23/why-are-fifa-world-cup-2026-tickets-so-expensive
+Summary: FIFA released another tranche of World Cup tickets 50 days before the tournament, but fans criticize high prices, with the most expensive final ticket costing nearly $11,000. The unexpected fifth sales phase suggests unsold tickets, despite FIFA's earlier claims. Cheapest tickets are $60, far above the $21 initially promised.
+
+[11] US to ‘shoot and kill’ Iranian boats laying mines in Hormuz, Trump says | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-23T14:58:30Z
+URL: https://www.aljazeera.com/news/2026/4/23/us-to-shoot-and-kill-iranian-boats-laying-mines-in-hormuz-trump-says
+Summary: President Trump ordered the US Navy to 'shoot and kill' any Iranian boat laying mines in the Strait of Hormuz and to triple mine-sweeping efforts. The US also intercepted a tanker carrying Iranian oil, while Iran has captured foreign vessels. The dueling blockades risk re-igniting the war despite an extended ceasefire.
+
+[12] Turkiye MPs pass bill to restrict social media use for children under 15 | News | Al Jazeera
+Published: 2026-04-23T15:24:27Z
+URL: https://www.aljazeera.com/news/2026/4/23/turkiye-mps-pass-bill-to-restrict-social-media-use-for-children-under-15
+Summary: Turkish MPs passed a bill restricting social media access for children under 15, requiring age-verification and parental controls. The bill follows a school shooting by a 14-year-old and is similar to Australia's ban. The opposition criticized it, saying children should be protected with rights-based policies, not bans.
+
+[13] Warner Bros shareholders approve Paramount’s takeover | Media News | Al Jazeera
+Published: 2026-04-23T15:46:36Z
+URL: https://www.aljazeera.com/economy/2026/4/23/warner-bros-shareholders-approve-paramounts-takeover
+Summary: Warner Bros Discovery shareholders approved a $110bn merger with Paramount Skydance, though they cast an advisory vote against executive compensation plans. The deal now faces regulatory scrutiny in Washington and London. The merger would reduce major US film studios to four, raising concerns about competition and job losses.
+
+[14] US-Israeli war on Iran will push 30 million back into poverty, UN warns | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-23T16:00:19Z
+URL: https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns
+Summary: The UN warned that the Iran war will push over 30 million people into poverty due to disrupted fuel and fertiliser supplies from the Strait of Hormuz closure. The UNDP administrator said food insecurity will peak in months, and the conflict has already wiped out 0.5-0.8% of global GDP. The crisis is also straining humanitarian efforts elsewhere.
+
+================================================================================
 RUN TIME UTC: 2026-04-23T11:10:32Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
