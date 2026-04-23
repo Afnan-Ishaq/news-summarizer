@@ -1,5 +1,25 @@
 [
   {
+    "time": "2026-04-23T07:01:36Z",
+    "window_hours": 6,
+    "article_count": 2,
+    "overall_summary": "The articles cover political campaigns and electoral processes in India and the United States. One details the symbolic use of fish in a regional Indian election, while the other reports on strategic redistricting efforts ahead of US midterm elections.",
+    "articles": [
+      {
+        "title": "Can fish hook voters in India’s West Bengal elections? | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/23/can-fish-hook-voters-in-indias-bengal-elections",
+        "published": "2026-04-23T05:05:15Z",
+        "summary": "In the West Bengal state elections, a BJP candidate campaigned by holding a fish to connect with voters, referencing the cultural importance of fish in Bengali cuisine. Chief Minister Mamata Banerjee has warned that a BJP victory could lead to bans on fish and meat, which the BJP denies. The election involves nearly 68 million voters, with results to be declared on May 4."
+      },
+      {
+        "title": "Democrats up in Virginia, but US voters may pay price for redistricting war | US Midterm Elections 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/23/democrats-up-in-virginia-but-us-voters-may-pay-price-for-redistricting-war",
+        "published": "2026-04-23T05:09:34Z",
+        "summary": "Voters in Virginia approved a redistricting referendum expected to benefit Democrats in the upcoming US midterm elections. Experts warn that an unprecedented flurry of mid-decade redistricting by both parties, spurred by actions in states like Texas, risks increasing gerrymandering and could transform how electoral maps are drawn. The Virginia result is seen as neutralizing recent Republican gains from redistricting in other states."
+      }
+    ]
+  },
+  {
     "time": "2026-04-23T02:42:32Z",
     "window_hours": 6,
     "article_count": 7,
