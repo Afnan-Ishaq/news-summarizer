@@ -1,5 +1,73 @@
 [
   {
+    "time": "2026-04-23T11:10:32Z",
+    "window_hours": 6,
+    "article_count": 10,
+    "overall_summary": "The batch covers a range of topics including the ongoing US-Iran war and ceasefire dynamics, an Israeli strike in Gaza killing children, a film star's political bid in India's Tamil Nadu election, NBA playoff results, a football injury concern, a rat infestation crisis in Gaza, Pakistan's military chief's rise, a US Navy Secretary firing, a journalist killed in Lebanon, and Lufthansa cutting flights due to jet fuel shortages from the Iran war.",
+    "articles": [
+      {
+        "title": "Iran war: What’s happening on day 55 after Trump extended ceasefire? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire",
+        "published": "2026-04-23T07:34:46Z",
+        "summary": "Iran blames the US for stalled peace talks, citing a naval blockade as a key obstacle, while Iran's IRGC captured two foreign vessels and fired on a third in the Strait of Hormuz. The White House said President Trump has set no deadline for Iran to submit a peace proposal. The US Senate rejected a measure to curb Trump's authority to wage war on Iran, and the Pentagon chief fired Navy Secretary John Phelan."
+      },
+      {
+        "title": "Will another film star be able to sway the election in India’s Tamil Nadu? | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/23/will-another-film-star-be-able-to-sway-the-election-in-indias-tamil-nadu",
+        "published": "2026-04-23T07:42:26Z",
+        "summary": "Tamil Nadu votes to elect its state assembly, with actor-turned-politician C Joseph Vijay entering the race and turning a traditionally two-party contest into a three-way fight. Vijay's party challenges the long-dominant DMK and the main opposition AIADMK, which is allied with the BJP. The state has a history of electing film stars as leaders."
+      },
+      {
+        "title": "Israeli strike kills five in Gaza, including three children | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/23/israeli-strike-kills-five-in-gaza-including-three-children",
+        "published": "2026-04-23T07:53:15Z",
+        "summary": "An Israeli air strike in northern Gaza killed five Palestinians, including three children, near a mosque in Beit Lahia, with bodies taken to Al-Shifa hospital. Gaza's Government Media Office said Israel has committed 2,400 violations of the ceasefire since October. Since the ceasefire took effect, at least 786 Palestinians have been killed by Israeli forces, according to Gaza's health ministry."
+      },
+      {
+        "title": "Thunder cruise past Suns again but lose Jalen Williams | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/23/thunder-cruise-past-suns-again-but-lose-jalen-williams",
+        "published": "2026-04-23T08:43:29Z",
+        "summary": "Shai Gilgeous-Alexander scored 37 points to lead the Oklahoma City Thunder to a 120-107 home win over the Phoenix Suns, giving them a 2-0 lead in the playoff series. However, Thunder player Jalen Williams left the game in the third quarter with a left hamstring injury. Coach Mark Daigneault said they will evaluate Williams in the coming days."
+      },
+      {
+        "title": "Lamine Yamal’s World Cup status unclear after Barcelona injury | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/23/lamine-yamals-world-cup-status-unclear-after-barcelona-injury",
+        "published": "2026-04-23T08:47:03Z",
+        "summary": "Spanish forward Lamine Yamal sustained a suspected torn hamstring while scoring for Barcelona in a La Liga match against Celta Vigo, and his status for the World Cup is unclear. Club officials believe it is a torn hamstring, but a full prognosis awaits scans. Barcelona won 1-0, extending their league lead, but Yamal's injury could impact Spain's World Cup campaign."
+      },
+      {
+        "title": "Gaza’s second front: The battle against disease-carrying rats | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats",
+        "published": "2026-04-23T09:07:31Z",
+        "summary": "Palestinian families in Gaza are facing a rat infestation in their makeshift tents, with rats attacking children and spreading fear. One mother described her daughter being bitten by a rat, and the local clinic could not treat the wound. The problem is worsening as summer approaches, with residents struggling to find clean water, food, and pest control."
+      },
+      {
+        "title": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir | Military | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir",
+        "published": "2026-04-23T09:34:19Z",
+        "summary": "Pakistan's military chief Asim Munir has risen to prominence as a peacemaker between the US and Iran, with President Trump crediting him for urging a ceasefire extension. Munir's rise was rooted in a four-day war between India and Pakistan in 2025, after which he was elevated to field marshal. He has since mediated talks between the US and Iran, hosting delegations in Islamabad and traveling to Tehran."
+      },
+      {
+        "title": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth? | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth",
+        "published": "2026-04-23T09:49:10Z",
+        "summary": "US Navy Secretary John Phelan was fired by Defense Secretary Pete Hegseth amid the ongoing US-Israeli war on Iran, with reports citing internal disputes and an ethics investigation. Phelan, a political appointee with no prior military experience, faced criticism for slow shipbuilding reforms. Navy Undersecretary Hung Cao, a 25-year veteran, has been named acting secretary."
+      },
+      {
+        "title": "What we know about Israel killing Lebanese journalist Amal Khalil | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil",
+        "published": "2026-04-23T10:02:58Z",
+        "summary": "Lebanese journalist Amal Khalil was killed and her colleague Zeinab Faraj injured in an Israeli air strike in southern Lebanon, which Lebanese officials called a 'double-tap' strike. Khalil was reporting on an earlier attack when she sought shelter and was hit by a second strike. She is the ninth journalist killed in Lebanon this year."
+      },
+      {
+        "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage",
+        "published": "2026-04-23T10:29:22Z",
+        "summary": "Lufthansa Group announced it will cut 20,000 short-haul flights through October due to the Iran war driving up oil prices and causing jet fuel shortages. The crisis stems from the US-Iran standoff in the Strait of Hormuz, which has disrupted global oil supplies. The EU's energy commissioner warned that the energy crisis could impact prices for months or years."
+      }
+    ]
+  },
+  {
     "time": "2026-04-23T07:01:36Z",
     "window_hours": 6,
     "article_count": 2,
