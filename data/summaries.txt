@@ -1,4 +1,78 @@
 ================================================================================
+RUN TIME UTC: 2026-04-23T20:54:19Z
+WINDOW: Last 6 hours
+ARTICLES USED: 13
+
+OVERALL SUMMARY
+The batch covers a mix of sports, human rights, politics, and conflict news, including Lamine Yamal's injury ahead of the World Cup, a US travel advisory for the World Cup, Italy rejecting a proposal to replace Iran, Mexico's kingpin strategy, US marijuana reclassification, a Palestinian teenager killed in the West Bank, hunger in Somalia, Lebanon-Israel talks, South Africa's police chief suspension, US Senate ICE funding, a DOJ probe into Epstein files, a La Liga preview, and Iran dismissing claims of a leadership rift.
+
+ARTICLE BREAKDOWN
+[1] How bad is Lamine Yamal’s injury? Will he make Spain’s World Cup opener? | World Cup 2026 News | Al Jazeera
+Published: 2026-04-23T16:36:45Z
+URL: https://www.aljazeera.com/sports/2026/4/23/how-bad-is-lamine-yamals-injury-will-make-spains-world-cup-2026-opener
+Summary: Barcelona announced that Lamine Yamal's domestic season is over due to a hamstring injury, but he is expected to be fit for the 2026 World Cup. The 18-year-old injured his left leg during a match against Celta Vigo on April 22, scoring a penalty before being substituted. Barcelona's statement confirmed a conservative treatment plan, with recovery likely ranging from four to six weeks. The World Cup begins on June 11, leaving uncertainty about his availability for Spain's opener.
+
+[2] ACLU, Amnesty lead 120 rights groups issuing US World Cup ‘travel advisory’ | World Cup 2026 News | Al Jazeera
+Published: 2026-04-23T17:14:03Z
+URL: https://www.aljazeera.com/news/2026/4/23/aclu-amnesty-lead-120-rights-groups-issuing-us-world-cup-travel-advisory
+Summary: The ACLU and Amnesty International, along with over 120 civil society groups, issued a travel advisory for foreigners attending the 2026 World Cup in the US, citing a deteriorating human rights situation. The advisory warns of risks under President Trump's hardline immigration policies, with 5 to 10 million visitors expected. The White House dismissed the advisory as 'scare tactics,' while groups criticized FIFA for not securing binding assurances for visitor safety.
+
+[3] Italy slams Trump envoy proposal of taking Iran’s place in World Cup 2026 | World Cup 2026 News | Al Jazeera
+Published: 2026-04-23T17:34:13Z
+URL: https://www.aljazeera.com/sports/2026/4/23/italy-officials-say-replacing-iran-at-world-cup-2026-would-be-shameful
+Summary: Italian officials rejected a suggestion by Trump envoy Paolo Zampolli that Italy replace Iran at the 2026 World Cup, calling it inappropriate and shameful. Iran's participation is in doubt due to the US-Israeli war, but Iran's government insists arrangements are in place. Italian Sports Minister Andrea Abodi said qualification must be earned on the pitch, and fans expressed embarrassment over the proposal.
+
+[4] Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost | Crime News | Al Jazeera
+Published: 2026-04-23T17:35:10Z
+URL: https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost
+Summary: Mexico's 'kingpin strategy' of targeting cartel leaders has led to increased violence, including a surge in homicides and disappearances in Sinaloa after the arrest of Ismael 'El Mayo' Zambada. Critics argue the approach fragments cartels and fails to address root causes, with civilians bearing the cost. President Claudia Sheinbaum continues the strategy under US pressure, despite questions about its long-term effectiveness.
+
+[5] US reclassifies some marijuana products as less dangerous drug | Drugs News | Al Jazeera
+Published: 2026-04-23T17:36:09Z
+URL: https://www.aljazeera.com/news/2026/4/23/us-reclassifies-some-marijuana-products-as-less-dangerous-drug
+Summary: The US reclassified state-licensed medical marijuana from Schedule I to Schedule III, acknowledging a moderate to low potential for dependence, though it does not legalize marijuana federally. The move follows an executive order by President Trump and aims to facilitate research. Marijuana is legal in some form in 40 states, with a 2024 poll showing 57% of US adults support full legalization.
+
+[6] Israeli forces kill Palestinian teenager in occupied West Bank raid | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-23T17:45:02Z
+URL: https://www.aljazeera.com/news/2026/4/23/israeli-forces-kill-palestinian-teenager-in-occupied-west-bank-raid
+Summary: A 15-year-old Palestinian died after being shot by Israeli forces during a raid in Nablus, according to Palestinian media. The Israeli military said a Palestinian threw stones and forces fired at the suspect. Violence in the West Bank has escalated since the Gaza war began in October 2023, with at least 16 people killed in settler attacks this year.
+
+[7] More than 6 million Somalis face hunger amid climate shocks and conflict | Climate Crisis News | Al Jazeera
+Published: 2026-04-23T17:45:35Z
+URL: https://www.aljazeera.com/news/2026/4/23/more-than-6-million-somalis-face-hunger-amid-climate-shocks-and-conflict
+Summary: 6.5 million Somalis face severe food insecurity due to drought, failed rains, and conflict, with 1.8 million children under five at risk of acute malnutrition. The crisis has displaced 3.3 million people, straining resources in overcrowded camps. Save the Children and MSF warn of rising child illnesses and dropout rates as livelihoods collapse.
+
+[8] Mixed views in Lebanon ahead of controversial talks with Israel | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-23T18:09:39Z
+URL: https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel
+Summary: Lebanon is divided over direct talks with Israel in Washington, DC, with some supporting negotiations and others backing Hezbollah's armed resistance. Israel has killed 2,294 people in Lebanon since March 2 and displaced over 1.2 million. The talks aim to address a ceasefire extension, but Israel continues attacks and demolitions in Lebanese territory.
+
+[9] South Africa president suspends police chief over $21m contract | Corruption News | Al Jazeera
+Published: 2026-04-23T18:43:30Z
+URL: https://www.aljazeera.com/news/2026/4/23/south-africa-president-suspends-police-chief-over-21m-contract
+Summary: South African President Cyril Ramaphosa suspended National Police Commissioner Fannie Masemola after he was charged with violating finance laws over a $21.7m healthcare contract awarded to Medicare24, a firm linked to organized crime. Masemola denies the accusations, and the case was postponed to May 13. The suspension adds to corruption scandals ahead of local elections in November.
+
+[10] US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next? | Donald Trump News | Al Jazeera
+Published: 2026-04-23T18:55:10Z
+URL: https://www.aljazeera.com/news/2026/4/23/us-senate-passes-ice-funding-resolution-after-vote-a-rama-whats-next
+Summary: The US Senate passed a Republican resolution to fund ICE and CBP, breaking a 68-day DHS shutdown standoff over Trump's immigration policies. The resolution allows committees to increase the deficit by $140bn, with final legislation expected to total $70bn. Democrats opposed the measure, citing unpopularity of Trump's deportation drive, and the House must still pass its own version.
+
+[11] US Department of Justice watchdog to probe release of Epstein files | Donald Trump News | Al Jazeera
+Published: 2026-04-23T19:03:18Z
+URL: https://www.aljazeera.com/news/2026/4/23/us-department-of-justice-watchdog-to-probe-release-of-epstein-files
+Summary: The DOJ Inspector General will investigate whether the government complied with the Epstein Files Transparency Act, which mandated release of unclassified records related to Jeffrey Epstein. Critics accuse the Trump administration of heavy redactions to protect powerful individuals, and survivors expressed anger over disclosure of personal information. The probe will evaluate processes for identifying, redacting, and releasing records.
+
+[12] Real Betis vs Real Madrid: La Liga – teams, start time, lineup | Football News | Al Jazeera
+Published: 2026-04-23T19:20:30Z
+URL: https://www.aljazeera.com/sports/2026/4/23/real-betis-vs-real-madrid-la-liga-teams-start-lineup
+Summary: Real Madrid faces Real Betis on Friday, needing a win to close the gap on La Liga leaders Barcelona, who are nine points clear with six games remaining. Real Madrid has won only one of their last three league matches and cannot afford further slip-ups. A Clasico on May 10 offers a chance to trim the lead, but Barcelona's form remains strong.
+
+[13] Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’ | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-23T20:26:13Z
+URL: https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul
+Summary: Iranian officials, including President Pezeshkian and Foreign Minister Araghchi, rejected Trump's claims of a leadership rift, emphasizing unity under Supreme Leader Mojtaba Khamenei. Trump alleged infighting between moderates and hardliners, but Iran insists on 'iron unity.' The New York Times reported Khamenei is gravely wounded but mentally sharp, though he has not appeared publicly since his father's death.
+
+================================================================================
 RUN TIME UTC: 2026-04-23T16:28:55Z
 WINDOW: Last 6 hours
 ARTICLES USED: 14
