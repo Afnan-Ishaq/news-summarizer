@@ -1,5 +1,73 @@
 [
   {
+    "time": "2026-04-24T11:07:25Z",
+    "window_hours": 6,
+    "article_count": 10,
+    "overall_summary": "The batch covers a Russian attack on Odesa killing an elderly couple, NBA playoff results, UK convictions of pro-Palestine activists, Japan's military buildup, a critique of media reporting on Iran, US statements on Iran's World Cup participation, South Asian gold price impacts, a global hunger report, India's reaction to a Trump-shared remark, and US tensions with NATO allies over the Iran war.",
+    "articles": [
+      {
+        "title": "Ukrainian married couple aged 75 killed in Russian attack on Odesa | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship",
+        "published": "2026-04-24T07:10:51Z",
+        "summary": "A Ukrainian married couple, both aged 75, were killed in a Russian drone attack on Odesa, Ukrainian officials said. The assault destroyed residential buildings and hit a foreign merchant ship, injuring at least 13 people. Russia launched two ballistic missiles and 107 drones overnight, with Ukraine's air force reporting it destroyed or jammed 96 drones. The attacks coincide with new EU sanctions on Russia and a 90 billion-euro wartime loan for Ukraine."
+      },
+      {
+        "title": "Timberwolves take 2-1 NBA playoff lead over Nuggets, Hawks down Knicks | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/timberwolves-take-2-1-nba-playoff-lead-over-nuggets-hawks-down-knicks",
+        "published": "2026-04-24T07:21:26Z",
+        "summary": "The Minnesota Timberwolves defeated the Denver Nuggets 113-96 in Game 3, taking a 2-1 lead in their first-round NBA playoff series. Jaden McDaniels had 20 points and 10 rebounds, and Rudy Gobert stifled Nikola Jokic, who shot 7-for-26. The Atlanta Hawks beat the New York Knicks 109-108 on a CJ McCollum fadeaway jumper, also taking a 2-1 series lead. Scottie Barnes set career playoff highs with 33 points and 11 assists for the Toronto Raptors in a win over the Cleveland Cavaliers."
+      },
+      {
+        "title": "UK rights groups slam ‘authoritarian’ conviction of pro-Palestine activists | Protests News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/24/uk-rights-groups-slam-conviction-of-pro-palestine-protest-organisers",
+        "published": "2026-04-24T07:22:21Z",
+        "summary": "A coalition of British civil society groups, including Amnesty International and Human Rights Watch, condemned the convictions of pro-Palestine leaders Ben Jamal and Chris Nineham. The two were found guilty of breaching protest guidelines during a January 2025 demonstration in London, where they led a group to lay flowers at BBC headquarters, which police had declared off-limits. The groups warned the convictions reflect an 'authoritarian' approach to protest and will have a chilling effect. Both men are appealing their sentences of conditional discharge and cost payments."
+      },
+      {
+        "title": "Japan builds up its ‘southern shield’ as faith in US security cover falters | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/24/japan-builds-up-its-southern-shield-as-faith-in-us-security-cover-falters",
+        "published": "2026-04-24T07:34:34Z",
+        "summary": "Japan is deploying long-range missiles to Kyushu island as part of a 'southern shield' strategy, reflecting concerns about China as a top security threat. The buildup includes weapons platforms and electronic warfare assets in southern Japan and the Nansei Islands, which are part of the US-led 'First Island Chain' strategy. Japan's defence budget hit a record $58 billion for fiscal year 2026, focusing on counterstrike capability. The shift comes amid worries about Chinese military activity in the Indo-Pacific and Taiwan Strait."
+      },
+      {
+        "title": "The story Tehran wants you to read | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/24/the-story-tehran-wants-you-to-read",
+        "published": "2026-04-24T07:42:06Z",
+        "summary": "This opinion piece critiques a New York Times article on Iran's new leadership, arguing it lacks scepticism about sources with a direct interest in the narrative. The Times describes Ayatollah Mojtaba Khamenei as gravely wounded but mentally sharp, based on unnamed Iranian officials, without independent verification. The piece argues the framing that power has shifted to a 'hard-line military' ignores that the clerical leadership under Ayatollah Ali Khamenei built Iran's nuclear and proxy networks. It concludes the article serves the regime's preferred narrative of continuity."
+      },
+      {
+        "title": "US says Iran can play at 2026 World Cup but bars those with ‘IRGC ties’ | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/us-says-iran-can-play-at-2026-world-cup-but-bars-those-with-irgc-ties",
+        "published": "2026-04-24T08:00:57Z",
+        "summary": "US Secretary of State Marco Rubio said the US has no objection to Iranian players participating in the 2026 World Cup, but will bar people with ties to the Islamic Revolutionary Guard Corps (IRGC). Rubio stated that Iran cannot bring 'IRGC terrorists' posing as journalists or trainers. President Donald Trump added that his administration 'would not want to affect the athletes.' Iran's government spokesperson said all arrangements for the team's participation have been ensured, despite speculation about their involvement due to the US-Israel war on Iran."
+      },
+      {
+        "title": "Gold is unaffordable so South Asian brides turn to one gram substitutes | Inflation News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/24/south-asias-gold-obsession-faces-soaring-price-challenges-at-weddings",
+        "published": "2026-04-24T08:08:08Z",
+        "summary": "Record gold prices, hitting $5,595 per ounce in January, are forcing South Asian brides to turn to imitation jewellery and 'one-gram gold' substitutes. In India, gold demand fell by 24 percent in 2025, and jewellers report more customers abandoning pure gold for cheaper alternatives. The article highlights how gold is culturally tied to a bride's dignity and protection from harassment, making the price surge particularly impactful. Many families, like that of Uzma Bashir in Kashmir, are opting for gold-plated ornaments to afford wedding jewellery."
+      },
+      {
+        "title": "Global hunger report warns of rising malnutrition and famine risks | Infographic News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/24/global-hunger-report-warns-of-rising-malnutrition-and-famine-risks",
+        "published": "2026-04-24T09:02:15Z",
+        "summary": "The Global Report on Food Crises 2026 found that acute food insecurity affected 266 million people across 47 countries in 2025, a marginal rise from 2024. Famine was confirmed in parts of the Gaza Strip and Sudan, the first dual confirmation since formal famine reporting began. The Gaza Strip had 640,700 people facing famine conditions, the highest share globally, followed by Sudan with 637,200. Conflict and violence were the main drivers of acute hunger, affecting nearly 150 million people."
+      },
+      {
+        "title": "India denounces ‘hellhole’ remark shared by Trump | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/24/india-denounces-hellhole-remark-shared-by",
+        "published": "2026-04-24T09:04:14Z",
+        "summary": "India's Foreign Ministry denounced as 'uninformed' and 'in poor taste' a remark shared by US President Donald Trump on Truth Social, in which radio host Michael Savage called India a 'hellhole.' The ministry said the comment does not reflect the reality of India-US relations, which are based on mutual respect. The US Embassy in New Delhi noted Trump has called India a 'great country.' India's opposition Congress party urged Prime Minister Modi to register a strong objection with Trump."
+      },
+      {
+        "title": "US considers suspending Spain from NATO, reported internal email suggests | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters",
+        "published": "2026-04-24T11:06:00Z",
+        "summary": "An internal US Defense Department email, reported by Reuters, outlines potential measures against NATO allies like Spain and the UK for insufficient support of the US war on Iran. Options include suspending Spain from NATO and re-evaluating US stance on the Falkland Islands. Spanish Prime Minister Pedro Sanchez said Madrid is a 'reliable member' of NATO and is not worried. The email reflects US frustration over allies refusing basing and overflight rights for attacks on Iran, as well as reluctance to deploy navies to the Strait of Hormuz."
+      }
+    ]
+  },
+  {
     "time": "2026-04-24T07:04:28Z",
     "window_hours": 6,
     "article_count": 4,
