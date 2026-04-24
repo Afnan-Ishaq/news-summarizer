@@ -1,5 +1,115 @@
 [
   {
+    "time": "2026-04-24T16:05:49Z",
+    "window_hours": 6,
+    "article_count": 17,
+    "overall_summary": "The batch covers a range of topics including the humanitarian crisis in Gaza, the US-Iran standoff over the Strait of Hormuz, a new F1 deal for Istanbul, a Russia-India military pact, Iran's alternative trade routes, a viral Boston marathon moment, a Syrian war crimes arrest, diplomatic moves between Iran and Pakistan, an opinion piece on Israeli land-grabs, children losing speech in Gaza, a UEFA ban, UK policy changes on Israel, public figures backing Palestine Action, Netanyahu's cancer treatment, a historical comparison of the Hormuz crisis, Premier League analysis, and the 40th anniversary of Chornobyl.",
+    "articles": [
+      {
+        "title": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
+        "url": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns",
+        "published": "2026-04-24T11:20:46Z",
+        "summary": "Humanity & Inclusion UK warns that the number of amputees in Gaza, already at record levels, could rise further due to Israel's restrictions on medical aid. The group says up to 10 children per day were undergoing leg amputations at the conflict's height, and only nine prosthetists are operating in Gaza under immense pressure. The World Health Organization estimates 5,000-6,000 amputations occurred by early October 2025, with conditions remaining dire six months after the ceasefire due to blocked aid."
+      },
+      {
+        "title": "How long can Iran survive the US’s Hormuz blockade?",
+        "url": "https://www.aljazeera.com/news/2026/4/24/how-long-can-iran-survive-the-uss-hormuz-blockade",
+        "published": "2026-04-24T11:26:11Z",
+        "summary": ""
+      },
+      {
+        "title": "Turkiye’s Istanbul to host F1 Grand Prix for at least five years from 2027",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/turkiyes-istanbul-park-to-host-f1-for-at-least-five-years-from-2027",
+        "published": "2026-04-24T11:47:05Z",
+        "summary": "Turkiye's Istanbul Park circuit will return to the Formula One calendar from 2027 for at least five years, announced by President Recep Tayyip Erdogan alongside F1 CEO Stefano Domenicali. The circuit last hosted a race in 2021 as a COVID-19 stand-in, and previously hosted Grands Prix between 2005 and 2011. The deal follows years of negotiations and a 2024 agreement for a Turkish company to operate the circuit for 30 years."
+      },
+      {
+        "title": "Russian troops, warships in India soon? Why their new military pact matters",
+        "url": "https://www.aljazeera.com/features/2026/4/24/russian-troops-warships-in-india-soon-why-their-new-military-pact-matters",
+        "published": "2026-04-24T11:51:00Z",
+        "summary": "Russia and India have operationalized the Reciprocal Exchange of Logistics Support (RELOS) agreement, allowing them to station up to 3,000 troops, five warships, and 10 military aircraft on each other's territory. The pact, signed in February 2025 and ratified by Putin in December, facilitates use of military bases, ports, and airfields during peace and wartime. It marks the first time India has allowed a foreign military to temporarily station soldiers on its soil, deepening defence ties amid global conflicts."
+      },
+      {
+        "title": "With 3,000 containers stuck in Pakistan, Iran explores more land routes",
+        "url": "https://www.aljazeera.com/news/2026/4/24/with-3000-containers-stuck-in-pakistan-iran-explores-more-land-routes",
+        "published": "2026-04-24T11:53:22Z",
+        "summary": "At Karachi port, 3,000 containers destined for Iran are stranded due to the US naval blockade of Iranian ports, which began on April 13. Analysts say the blockade controls Iran's ability to import goods, exerting economic pressure, but Iran has built resilient architecture during decades of sanctions. Iranian officials are discussing alternative land routes with Pakistani counterparts to send the containers across the 900km border."
+      },
+      {
+        "title": "Boston marathoner reflects on helping collapsed runner as video goes viral",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/boston-marathoner-reflects-on-helping-collapsed-runner-as-video-goes-viral",
+        "published": "2026-04-24T11:55:28Z",
+        "summary": "Northern Irish runner Aaron Beggs helped carry collapsed competitor Ajay Haridasse over the finish line of the Boston marathon, with Brazilian runner Robson De Oliveira also assisting. Beggs told Al Jazeera that his natural instinct was to help, and he believes the video went viral because the world needs feel-good stories amid pervasive negativity in the news. The 130th edition of the race saw Kenyan runners John Korir and Sharon Lokedi win."
+      },
+      {
+        "title": "Syrian authorities arrest main suspect in 2013 Tadamon massacre",
+        "url": "https://www.aljazeera.com/news/2026/4/24/main-suspect-in-tadamon-massacre-arrested-in-operation",
+        "published": "2026-04-24T12:14:41Z",
+        "summary": "Syrian authorities arrested Amjad Youssef, the main suspect in the 2013 Tadamon massacre in Damascus where at least 41 people were killed, following a security operation in Hama. Youssef, a former intelligence officer, was seen shooting blindfolded civilians in a leaked video from 2022. He went into hiding after the fall of Bashar al-Assad in December 2024, and his arrest is part of a campaign to pursue figures of the former leadership."
+      },
+      {
+        "title": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
+        "url": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume",
+        "published": "2026-04-24T12:57:22Z",
+        "summary": "Iranian Foreign Minister Abbas Araghchi is expected to visit Islamabad on Friday night, with officials saying it is a key step towards resuming direct talks with the US to end their war. A Pakistani official said there is a 'high likelihood of a breakthrough' after days of escalating tensions in the Strait of Hormuz. The US has not confirmed whether it will send a delegation, and Iran insists the US must lift its naval blockade before returning to talks."
+      },
+      {
+        "title": "Negotiations that enable Israel’s land-grabs",
+        "url": "https://www.aljazeera.com/opinions/2026/4/24/negotiations-that-enable-israels-land-grabs",
+        "published": "2026-04-24T13:03:10Z",
+        "summary": "A Palestinian-Canadian lawyer argues that negotiations with Israel have historically enabled land-grabs, as seen with the Oslo Accords where settlement expansion doubled within seven years. The author states that Israeli leaders have become more honest about their intentions to annex the West Bank and recolonize Gaza. The piece contends that diplomacy has become a process that manages, rather than ends, the occupation."
+      },
+      {
+        "title": "‘Silent suffering’: Why children in Gaza are losing their ability to speak",
+        "url": "https://www.aljazeera.com/features/2026/4/24/silent-suffering-why-children-in-gaza-are-losing-their-ability-to-speak",
+        "published": "2026-04-24T13:57:36Z",
+        "summary": "An estimated 1.1 million children in Gaza need mental health support, with a rising number losing their ability to speak due to trauma or injuries from Israeli attacks. Doctors at Hamad Hospital report cases of selective mutism and hysterical aphonia, often following violence or injury. Child psychotherapist Katrin Glatz Brubakk describes it as 'silent suffering' where silence becomes the only way to cope with extreme trauma."
+      },
+      {
+        "title": "UEFA bans Benfica’s Prestianni for six games for verbally abusing Vinicius",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/uefa-bans-benficas-prestianni-for-six-games-for-verbally-abusing-vinicius",
+        "published": "2026-04-24T14:06:13Z",
+        "summary": "UEFA handed Benfica's Gianluca Prestianni a six-match suspension for homophobic discriminatory conduct during a Champions League match against Real Madrid in February. Prestianni was accused of directing a slur at Vinicius Jr, though he denied making a racist comment. The suspension includes a three-match ban subject to a two-year probationary period, and UEFA will request FIFA to extend it worldwide."
+      },
+      {
+        "title": "UK to end project tracking potential Israeli violations: Report",
+        "url": "https://www.aljazeera.com/news/2026/4/24/uk-to-end-project-tracking-potential-israeli-violations-report",
+        "published": "2026-04-24T14:37:04Z",
+        "summary": "The Guardian reports that a UK government unit documenting Israel's possible war crimes in Gaza has been shut down due to funding cuts within the Foreign Office. The Conflict and Security Monitoring Project, run by the Centre for Information Resilience, will also lose funding, removing access to a database of about 26,000 incidents. The Foreign Office says the work will be continued by a different team, but critics say the move undermines monitoring of international humanitarian law."
+      },
+      {
+        "title": "Sally Rooney, Greta Thunberg back Palestine Action before court date",
+        "url": "https://www.aljazeera.com/news/2026/4/24/sally-rooney-greta-thunberg-back-palestine-action-before-court-date",
+        "published": "2026-04-24T14:59:01Z",
+        "summary": "More than 130 public figures, including Sally Rooney and Greta Thunberg, signed a letter supporting Palestine Action ahead of a UK Court of Appeal hearing on the government's ban of the group. The government proscribed Palestine Action as a 'terrorist organisation' in July 2025, but the High Court ruled the ban unlawful in February. The signatories call for the government to drop its appeal, warning that arrests for expressing support could be seen as authoritarian."
+      },
+      {
+        "title": "Israel’s Benjamin Netanyahu says he received treatment for prostate cancer",
+        "url": "https://www.aljazeera.com/news/2026/4/24/israels-benjamin-netanyahu-says-he-received-treatment-for-prostate-cancer",
+        "published": "2026-04-24T15:00:16Z",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu announced he underwent successful radiation therapy for early-stage prostate cancer, discovered during a routine checkup. He delayed publication by two months to avoid releasing it during the war against Iran. Netanyahu's doctor said the disease has disappeared based on imaging and blood work."
+      },
+      {
+        "title": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
+        "url": "https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different",
+        "published": "2026-04-24T15:00:21Z",
+        "summary": "The article compares the current US-Iran tensions in the Strait of Hormuz to the 1980s Tanker War between Iran and Iraq, noting similarities in disruptions to global shipping. However, it highlights differences, such as Iran's threat to close the strait then versus its actual closure now, and the US role as a direct belligerent today rather than a protector of reflagged tankers. The piece provides a timeline of the 1980s conflict and notes that the current crisis involves a US blockade of Iranian ports."
+      },
+      {
+        "title": "Five games to go: The Premier League’s unpredictable season turns again",
+        "url": "https://www.aljazeera.com/opinions/2026/4/24/five-games-to-go-the-premier-leagues-unpredictable-season-turns-again",
+        "published": "2026-04-24T15:38:09Z",
+        "summary": "A Manchester United content creator analyzes the Premier League title race, noting that Manchester City went top after Arsenal's 200-day lead ended following losses to Bournemouth and City. The piece also discusses Chelsea's chaotic season, including three managers in 16 months and five consecutive league games without scoring. The author predicts Arsenal will blink under pressure, while Chelsea's financial losses and poor performance are highlighted."
+      },
+      {
+        "title": "Chornobyl at 40: Settlers and horses survive Russian drones, contamination",
+        "url": "https://www.aljazeera.com/features/longform/2026/4/24/chornobyl-at-40-settlers-and-horses-survive-russian-drones-contamination",
+        "published": "2026-04-24T15:47:27Z",
+        "summary": "Forty years after the Chornobyl nuclear disaster, the Exclusion Zone remains contaminated and has become militarized since Russia's 2022 invasion, with drones and missiles passing overhead. Despite the dangers, small communities of scientists, elderly returnees, and soldiers live among abandoned buildings, while wildlife thrives. The article recounts the 1986 disaster and notes that the damaged reactor remains enclosed beneath a steel shelter."
+      }
+    ]
+  },
+  {
     "time": "2026-04-24T11:07:25Z",
     "window_hours": 6,
     "article_count": 10,
