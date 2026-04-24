@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-04-24T07:04:28Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+Oil prices surged above $106 per barrel amid escalating US-Iran tensions in the Strait of Hormuz, while China's DeepSeek launched new AI models. The Iran war entered day 56 with a ceasefire extension, and Trump faces a May 1 deadline under the War Powers Act to obtain congressional approval for continued military action.
+
+ARTICLE BREAKDOWN
+[1] Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz
+Published: 2026-04-24T02:50:04Z
+URL: https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz
+Summary: Oil prices jumped above $106 per barrel as tensions between the US and Iran escalated in the Strait of Hormuz, with both sides capturing commercial vessels. US President Trump ordered the Navy to destroy any Iranian boats laying mines and expanded the blockade, while Iran's Revolutionary Guard seized two foreign cargo ships. Shipping in the strait remains at a standstill, with only nine commercial vessels transiting on Wednesday compared to an average of 129 before the war began.
+
+[2] China’s DeepSeek unveils latest models a year after upending global tech
+Published: 2026-04-24T05:17:27Z
+URL: https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech
+Summary: China's DeepSeek launched preview versions of its DeepSeek-V4-Pro and DeepSeek-V4-Flash chatbots, claiming the pro model beats all rival open models in math and coding and trails only Google's closed Gemini 3.1-Pro in world knowledge. The release comes a year after DeepSeek-R1 stunned the tech sector with capabilities comparable to ChatGPT and Gemini, reportedly at a fraction of the cost. Some countries have imposed bans on DeepSeek over data protection and censorship concerns, as AI becomes a key front in US-China tech competition.
+
+[3] Iran war: What’s happening on day 56 after Trump extended ceasefire?
+Published: 2026-04-24T06:11:36Z
+URL: https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire
+Summary: Trump announced a three-week extension to the Israel-Lebanon ceasefire after White House talks, while an Israeli strike killed three in southern Lebanon. Iran's leaders denied Trump's claims of internal rifts, and analysts suggested Iran may outlast the US blockade. The USS George H.W. Bush aircraft carrier arrived in the Middle East, and Trump stated the US would not use nuclear weapons in Iran, despite earlier threats.
+
+[4] Trump’s May 1 deadline: Can he continue war on Iran after that?
+Published: 2026-04-24T06:20:23Z
+URL: https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that
+Summary: Trump faces a May 1 deadline under the 1973 War Powers Resolution to obtain congressional approval to continue military operations against Iran beyond 60 days. The law requires a joint resolution from both the House and Senate, but past presidents have bypassed it, and legal experts note no clear mechanism to force compliance. It remains uncertain whether Congress will authorize continued action due to deep partisan divisions.
+
+================================================================================
 RUN TIME UTC: 2026-04-24T02:42:27Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
