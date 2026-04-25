@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-04-25T15:39:58Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "Al Jazeera reports on Iran resuming commercial flights after a two-month conflict with the US and Israel, Israeli attacks killing four in southern Lebanon despite a ceasefire extension, fears among immigrant US veterans of deportation under Trump's mass deportation campaign, urgent calls for African governments to address fertiliser shortages due to Strait of Hormuz tensions, and Trump attending his first White House Correspondents' Dinner as president amid press freedom concerns.",
+    "articles": [
+      {
+        "title": "Iran resumes commercial flights from Tehran airport | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport",
+        "published": "2026-04-25T11:58:53Z",
+        "summary": "Iran has resumed commercial flights from Tehran's Imam Khomeini International Airport for the first time since the US and Israel attacked the country two months ago, with flights to Istanbul, Muscat, and Medina. Iran Air operated its inaugural flight to Mashhad after a 56-day hiatus, and more flights are scheduled to Baku, Najaf, Baghdad, and Doha. The eastern side of the country will be prioritised for domestic and transit flights, as a fragile ceasefire continues and consultations with foreign airlines begin."
+      },
+      {
+        "title": "Israeli attacks kill four in southern Lebanon | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon",
+        "published": "2026-04-25T13:25:30Z",
+        "summary": ""
+      },
+      {
+        "title": "Deporting soldiers? Why immigrant veterans fear removal from the US | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/longform/2026/4/25/deporting-soldiers-why-immigrant-veterans-fear-removal-from-the-us",
+        "published": "2026-04-25T14:25:48Z",
+        "summary": "President Trump's mass deportation campaign has heightened fears among immigrant veterans, like Benito Miranda Hernandez, who served in the US military but lack citizenship. Hernandez, a Mexican-born veteran with three US citizen children, fears deportation after his prison sentence ends, despite having served three tours in Iraq. As of 2022, nearly 731,000 military veterans are immigrants, with an estimated 118,000 lacking citizenship, and many with criminal convictions worry they could be swept up in the campaign."
+      },
+      {
+        "title": "African governments need to take urgent action on fertiliser shortages | Agriculture | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/25/african-governments-need-to-take-urgent-action-on-fertiliser-shortages",
+        "published": "2026-04-25T14:27:27Z",
+        "summary": "The conflict between the US, Israel, and Iran is disrupting global fertiliser trade flows through the Strait of Hormuz, threatening food security in Africa where about 80 percent of fertiliser is imported. Smallholder farmers, who produce nearly 70 percent of sub-Saharan Africa's food, face steep price hikes and limited options, with a 10 percent reduction in fertiliser availability potentially causing up to 25 percent less maize, rice, and wheat. The African Development Bank's $1.5bn facility has helped mitigate past disruptions, but urgent action is needed to cushion the current risks."
+      },
+      {
+        "title": "After years of avoidance, Trump to attend first White House press dinner | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/25/after-years-of-avoidance-trump-to-attend-first-white-house-press-dinner",
+        "published": "2026-04-25T14:33:58Z",
+        "summary": "Donald Trump is set to attend his first White House Correspondents' Dinner as president on Saturday, after declining five previous invitations across his first and second terms. The event will not feature a comedian, and journalist organisations have called on the host to send a 'forthright message' about protecting press freedom. Trump previously attended the 2011 dinner as a private citizen, where then-President Obama mocked his 'birtherism' theories and reality TV career."
+      }
+    ]
+  },
+  {
     "time": "2026-04-25T10:44:43Z",
     "window_hours": 6,
     "article_count": 7,
