@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-04-25T02:31:19Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "The batch covers six stories: Israel's continued attacks on Lebanon and Gaza despite ceasefires, US envoy deployment to Pakistan for potential Iran talks, a La Liga football match result, a police raid on Peru's election authorities, and OpenAI's apology for not reporting a Canadian mass shooter's account suspension.",
+    "articles": [
+      {
+        "title": "Israel continues attacks on Lebanon despite extension of ceasefire",
+        "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire",
+        "published": "2026-04-24T20:46:38Z",
+        "summary": "Israeli forces killed six Hezbollah fighters in an exchange of fire in southern Lebanon, hours after the ceasefire was extended for three weeks. The Lebanese Health Ministry reported two people killed in an Israeli air strike in Touline. Hezbollah dismissed the ceasefire extension as 'meaningless' due to continued Israeli attacks, while Israel's Prime Minister Netanyahu said Israel maintains 'full freedom of action' against any threat."
+      },
+      {
+        "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+        "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi",
+        "published": "2026-04-24T20:54:28Z",
+        "summary": ""
+      },
+      {
+        "title": "Real Madrid stunned at Betis as Barcelona have chance to move 11 clear",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear",
+        "published": "2026-04-24T21:29:59Z",
+        "summary": "Former Barcelona defender Hector Bellerin scored a stoppage-time equalizer for Real Betis in a 1-1 draw against Real Madrid, helping Barcelona's title hopes. Vinicius Junior had given Madrid an early lead, but Betis pushed for an equalizer and Bellerin provided the breakthrough. Barcelona now has a chance to move 11 points clear of Madrid with a victory against Getafe."
+      },
+      {
+        "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
+        "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire",
+        "published": "2026-04-24T21:42:22Z",
+        "summary": "Israeli forces killed 12 Palestinians in attacks across Gaza, including eight people in an attack on a police vehicle in Khan Younis and two police officers in Gaza City. Gaza's Ministry of Interior called on the international community to intervene, saying the targeting of police forces constitutes complicity with Israel. Since the ceasefire in October 2025, Israel has killed at least 984 people in Gaza, according to health authorities."
+      },
+      {
+        "title": "Police raid Peru’s election authorities after outcry over slow vote count",
+        "url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count",
+        "published": "2026-04-24T23:22:32Z",
+        "summary": "Peruvian police raided the home of former election agency head Piero Corvetto and five other officials amid frustration over the slow vote count from the April 12 presidential election. Corvetto resigned on Tuesday, denying any wrongdoing, but far-right candidate Rafael Lopez Aliaga has accused him of being a 'criminal'. With 95 percent of ballots tallied, Keiko Fujimori leads with 17 percent, while Lopez Aliaga trails in third place behind Roberto Sanchez."
+      },
+      {
+        "title": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
+        "url": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter",
+        "published": "2026-04-25T02:07:18Z",
+        "summary": "OpenAI CEO Sam Altman apologized for the company's failure to warn authorities about the online activities of Jesse Van Rootselaar, who killed eight people in a shooting spree in Tumbler Ridge, British Columbia, in February. OpenAI had suspended Rootselaar's ChatGPT account in June 2025 for misuse related to violent activities but did not inform law enforcement. Altman expressed deep regret and committed to working with governments to prevent future tragedies."
+      }
+    ]
+  },
+  {
     "time": "2026-04-24T20:50:50Z",
     "window_hours": 6,
     "article_count": 11,
