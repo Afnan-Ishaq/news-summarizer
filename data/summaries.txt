@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-04-25T20:39:48Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+Recent Al Jazeera articles cover a US sanctions shift to allow Venezuela to pay Maduro's legal fees, Gaza's first municipal elections in 20 years, Mexico's probe into unauthorized CIA agents killed in a crash, Trump's cancellation of envoy talks with Iran after the foreign minister left Pakistan, Arsenal's narrow Premier League win over Newcastle, Barcelona's La Liga title push, and Iran's hardened stance amid failed mediated talks.
+
+ARTICLE BREAKDOWN
+[1] US to allow Venezuelan government to cover Maduro’s lawyer fees
+Published: 2026-04-25T16:21:24Z
+URL: https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees
+Summary: The United States has agreed to ease sanctions on Venezuela to allow its government to pay legal fees for ex-president Nicolas Maduro, who is on federal trial in New York for drug trafficking after being abducted by US forces in January. Maduro's lawyer had argued that sanctions preventing Caracas from paying fees violated his right to counsel, and the US Department of Justice said the change makes a motion to dismiss the case moot. Critics condemn the trial as illegitimate, citing the US military operation to abduct Maduro as a violation of international law, while the Trump administration maintains it was a law enforcement operation.
+
+[2] Joy and desire for change as Gaza’s Deir el-Balah holds elections
+Published: 2026-04-25T17:25:09Z
+URL: https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections
+Summary: Residents of Deir el-Balah, Gaza, voted in municipal elections for the first time since 2006, marking the first vote since a ceasefire in Israel's genocidal war. Polling stations were set up in tents due to war damage, and voters like Salama Badwan expressed joy at participating democratically, hoping for change through the ballot box. The city, now hosting hundreds of thousands of displaced people, faces infrastructure strain, and Badwan wants a non-factional municipal council to handle the crisis.
+
+[3] CIA agents reported killed in Mexico were not authorised to operate: Gov’t
+Published: 2026-04-25T17:26:31Z
+URL: https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico
+Summary: The Mexican government stated that two US federal agents killed in a car crash during an anti-narcotics raid—widely reported as CIA officers—were not authorized to operate in Mexico, with one entering as a visitor and the other on a diplomatic passport. Mexican President Claudia Sheinbaum is probing whether national security law was violated, as foreign agents need federal authorization to operate. The deaths have raised questions about US activities on Mexican soil, with two Mexican officials also killed in the crash.
+
+[4] Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan
+Published: 2026-04-25T18:16:34Z
+URL: https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country
+Summary: US President Donald Trump canceled a planned trip by envoys Steve Witkoff and Jared Kushner to Pakistan for talks with Iranian officials after Foreign Minister Abbas Araghchi left Islamabad. Trump said the US has all the cards and Iran can call anytime, while Araghchi stated he shared Iran's position on ending the war and questioned US seriousness about diplomacy. Araghchi is expected to return to Pakistan after visiting Oman and Russia, amid a standoff in the Strait of Hormuz.
+
+[5] Arsenal narrowly beat Newcastle to regain Premier League lead over Man City
+Published: 2026-04-25T19:02:11Z
+URL: https://www.aljazeera.com/sports/2026/4/25/arsenal-narrowly-beat-newcastle-to-regain-premier-league-lead-over-man-city
+Summary: Arsenal returned to the top of the Premier League with a 1-0 win over Newcastle, thanks to Eberechi Eze's first-half goal, moving three points clear of Manchester City. City have a game in hand, keeping the title race tight, and Arsenal's failure to score more could be costly. Newcastle suffered their ninth defeat in 12 league games, adding pressure on manager Eddie Howe.
+
+[6] Barcelona on the brink of defending La Liga title after beating Getafe
+Published: 2026-04-25T19:15:06Z
+URL: https://www.aljazeera.com/sports/2026/4/25/barcelona-on-the-brink-of-defending-la-liga-title-after-beating-getafe
+Summary: Barcelona moved 11 points clear of Real Madrid in La Liga with a 2-0 win over Getafe, with goals from Fermin Lopez and Marcus Rashford. They can win their second consecutive title if they beat Osasuna next weekend and Real Madrid fails to win. Coach Hansi Flick cautioned against relaxing, noting five games remain.
+
+[7] Iran’s authorities project hardened stance with more talks on horizon
+Published: 2026-04-25T19:54:57Z
+URL: https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon
+Summary: Iranian authorities and state media project a hardened stance against negotiations with the US after mediated talks in Pakistan failed to materialize, with Foreign Minister Abbas Araghchi leaving for Oman and Russia. US President Trump canceled envoy trips, claiming Iran has no cards, while Iranian officials release synchronized messages proclaiming unity and obedience to Supreme Leader Khamenei. The IRGC warned of retaliation if the US continues its blockade in Iran's southern waters.
+
+================================================================================
 RUN TIME UTC: 2026-04-25T15:39:58Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
