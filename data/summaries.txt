@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-04-25T10:44:43Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+A shipping body condemns US and Iran for seizing commercial vessels, while a Brazilian footballer's World Cup hopes are jeopardized by injury. The US sanctions a Chinese refinery for buying Iranian oil, and Palestinians vote in local elections in Gaza and the West Bank amid skepticism. Overnight Russian attacks kill five in Ukraine, and gunmen stage coordinated attacks across Mali.
+
+ARTICLE BREAKDOWN
+[1] Capture of ships by US, Iran violates international law, shipping body says | Shipping News | Al Jazeera
+Published: 2026-04-25T06:27:56Z
+URL: https://www.aljazeera.com/economy/2026/4/25/capture-of-ships-by-us-iran-violates-international-law-shipping-body-says
+Summary: The International Chamber of Shipping has condemned the US and Iran for tit-for-tat captures of commercial ships, calling for the immediate release of crews. Marine director John Stawpert said the seizures violate freedom of navigation under international law and are politically motivated. He also criticized Iran's proposed tolls in the Strait of Hormuz and the US naval blockade of Iranian ports for adding uncertainty. The US and Iran each announced capturing two vessels over the past week.
+
+[2] Brazil and Chelsea star Estevao’s World Cup hopes in doubt after injury | World Cup 2026 | Al Jazeera
+Published: 2026-04-25T07:09:46Z
+URL: https://www.aljazeera.com/sports/2026/4/25/brazil-and-chelsea-star-estevaos-world-cup-hopes-in-doubt-after-injury
+Summary: Brazil and Chelsea forward Estevao will miss the rest of the season due to a hamstring injury, casting doubt on his participation in the 2026 World Cup starting June 11. Chelsea interim coach Calum McFarlane said he is unsure if Estevao can recover in time for the tournament. The 19-year-old was injured in a match against Manchester United and has scored eight goals this season. Brazil will also be without Real Madrid winger Rodrygo due to a knee injury.
+
+[3] US sanctions China’s ‘teapot’ refinery for buying Iranian oil | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-25T07:10:19Z
+URL: https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil
+Summary: The US Treasury has sanctioned Hengli Petrochemical Refinery, China's second-largest independent refinery, for purchasing hundreds of millions of dollars of Iranian oil, which it says generated revenue for Iran's military. New sanctions were also imposed on about 40 shipping firms and vessels linked to Iran's shadow fleet. The Chinese embassy in Washington criticized the move, urging the US to stop politicizing trade. China purchased over 80 percent of Iran's shipped oil last year.
+
+[4] West Bank scepticism as Palestinians doubt local elections will change much | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-25T07:16:54Z
+URL: https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much
+Summary: Palestinians in the occupied West Bank are voting in municipal elections on April 25, the first in nearly five years, but many express skepticism about their impact. Mayor Hani Odeh of Qusra, stepping down, says the vote won't change realities like Israeli settler attacks and military restrictions. Ramallah and Nablus are not holding competitive elections, with many councils filled by acclamation. Frustration with the Palestinian Authority and Israeli occupation fuels voter apathy.
+
+[5] Polls open in Gaza area in first municipal election in 20 years | Gaza News | Al Jazeera
+Published: 2026-04-25T08:37:39Z
+URL: https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years
+Summary: Palestinians in Gaza's Deir el-Balah area and the occupied West Bank began voting in municipal elections on Saturday, the first local vote since the start of Israel's war on Gaza. The Deir el-Balah vote is largely symbolic, with 70,000 eligible voters, and is seen as a pilot due to the area's relative lack of destruction. Most electoral lists are backed by Fatah or independents, with no official Hamas participation. The elections aim to link Gaza and the West Bank politically, though voter turnout has declined.
+
+[6] Overnight Russian attacks on Ukraine kill five, injure 30 | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-25T08:44:56Z
+URL: https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30
+Summary: Overnight Russian attacks across eight regions of Ukraine killed at least five people and wounded 30, with Dnipro hardest hit. Ukraine's Air Force reported 619 drones and 47 missiles launched, with 610 shot down or suppressed. President Zelenskyy said most targets were civilian infrastructure. The attacks followed the killing of an elderly couple in Odesa, as the EU approved new sanctions on Russia's energy, banking, and trade sectors.
+
+[7] Gunmen stage simultaneous attacks across Mali, army says | Conflict News | Al Jazeera
+Published: 2026-04-25T09:21:24Z
+URL: https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport
+Summary: Gunmen launched coordinated attacks across Mali, including in the capital Bamako, targeting army barracks and other locations. Heavy gunfire and explosions were reported near the main military base in Kati and Modibo Keita International Airport. The army said it was fighting terrorist groups, as Mali continues to face unrest from al-Qaeda and ISIL affiliates. The country has been under military rule since coups in 2020 and 2021, with Russian mercenaries now involved in security operations.
+
+================================================================================
 RUN TIME UTC: 2026-04-25T06:20:35Z
 WINDOW: Last 6 hours
 ARTICLES USED: 3
