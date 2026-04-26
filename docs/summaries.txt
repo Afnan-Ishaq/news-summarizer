@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-04-26T02:48:06Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+Three major news stories broke in the last six hours: a family previously held in US immigration detention was re-arrested after a court ordered their release; a highway bombing in Colombia killed at least 14 people; and US President Trump was evacuated from the White House correspondents' dinner after shots were fired outside the venue.
+
+ARTICLE BREAKDOWN
+[1] Family longest held in US immigration detention re-arrested after release | Migration News | Al Jazeera
+Published: 2026-04-25T20:55:19Z
+URL: https://www.aljazeera.com/news/2026/4/25/family-longest-held-in-us-immigration-detention-re-arrested-after-release
+Summary: Hayam El Gamal and her five children, who were held for 10 months in US immigration detention, were re-arrested by immigration authorities hours after returning home to Colorado, violating a federal court order that barred their detention or removal. The family's lawyers said the Trump administration sought to swiftly deport them, but a judge granted an emergency order blocking their removal. The family had been detained after the woman's ex-husband attacked a pro-Israel rally in 2025, though an FBI agent testified there was no evidence the family knew of his plan.
+
+[2] Explosion in southwest Colombia kills at least 14, state governor says | Crime News | Al Jazeera
+Published: 2026-04-25T21:03:51Z
+URL: https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says
+Summary: At least 14 people were killed and more than 38 injured in a highway bombing on the Pan-American Highway in the Cauca region of southwestern Colombia. Governor Octavio Guzmán condemned the attack as an 'indiscriminate attack' against civilians and demanded a decisive government response. General Hugo López blamed the attack on dissident factions of the former FARC armed group, and President Gustavo Petro called the perpetrators 'terrorists, fascists, and drug traffickers.' The bombing is part of a recent escalation of violence in the region, with at least 26 incidents in the past two days.
+
+[3] Trump evacuated from White House correspondents’ dinner after shots fired | Donald Trump News | Al Jazeera
+Published: 2026-04-26T00:47:41Z
+URL: https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner
+Summary: US President Donald Trump was evacuated from the White House correspondents' dinner at the Washington Hilton hotel after shots were fired outside the ballroom. Trump, the First Lady, and his Cabinet were unharmed, though one Secret Service officer was shot but saved by a bulletproof vest. Trump said a man charged a security checkpoint with multiple weapons and was 'taken down' by the Secret Service. The suspect is in custody, and the incident is under investigation.
+
+================================================================================
 RUN TIME UTC: 2026-04-25T20:39:48Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
