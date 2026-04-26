@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-04-26T20:39:29Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers Palestinian municipal elections with Abbas loyalists winning, Iran's economic adjustments amid war uncertainty, a Thai arrest for cyberfraud, a suspected assassination attempt targeting Trump, Israeli evacuation orders in southern Lebanon, a political alliance against Netanyahu, and a deadly bomb attack in Colombia ahead of elections.
+
+ARTICLE BREAKDOWN
+[1] Abbas loyalists sweep Palestinian elections, including some seats in Gaza | Elections News | Al Jazeera
+Published: 2026-04-26T16:50:27Z
+URL: https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city
+Summary: Loyalists of President Mahmoud Abbas won most races in Palestinian municipal elections, including a symbolic vote in Gaza's Deir el-Balah for the first time in nearly two decades. Voter turnout in Gaza was low at 23 percent due to the ongoing impact of the genocide and Israeli restrictions. Hamas boycotted the West Bank vote and did not formally nominate candidates in Gaza, though some candidates aligned with the movement won two seats. Abbas's Fatah party secured six seats in Gaza, while other groups won the remaining seats.
+
+[2] Iran shifts economic focus to essentials during war uncertainty | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-26T17:00:10Z
+URL: https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty
+Summary: Iran's government is partially reversing a currency decision to reintroduce a preferential exchange rate for imports of essentials like wheat and medicines, aiming to ease war-related economic pressure. The move provides up to $3.5bn from oil and gas proceeds for essential imports at a rate far below the open market. Authorities are also evaluating increasing monthly handouts to compensate for high food inflation. This policy reversal comes after a fragile ceasefire with the US largely holds following weeks of devastating attacks.
+
+[3] Thai police arrest Indonesian wanted for $10m cyberfraud | Cybercrime News | Al Jazeera
+Published: 2026-04-26T17:38:00Z
+URL: https://www.aljazeera.com/news/2026/4/26/thai-police-arrest-indonesian-wanted-for-10m-cyberfraud
+Summary: Thai police arrested a 33-year-old Indonesian man at a luxury resort in Phuket on Friday, accused of defrauding Americans out of $10 million through romance scams. The arrest followed a tip-off from the FBI, and the suspect is awaiting extradition to the United States. Local media reported that from 2022 to 2026, the suspect used dating apps and social media to lure victims into fake investment platforms. Southeast Asia has become a hotspot for such cyberfraud operations, with organized criminal groups using the region as a base.
+
+[4] Accused shooter was targeting Trump and US officials, authorities say | Donald Trump News | Al Jazeera
+Published: 2026-04-26T18:03:11Z
+URL: https://www.aljazeera.com/news/2026/4/26/trump-his-administration-likely-targets-at-media-dinner-us-official
+Summary: US authorities believe the gunman who attempted to storm the White House Correspondents' Association dinner was targeting President Donald Trump and his administration. The suspect, identified by media as Cole Tomas Allen, 31, traveled from California to Washington, DC, and fired shots near the ballroom where the event was held. Trump told Fox News the suspect wrote an anti-Christian declaration and is a 'sick guy.' The suspect is not cooperating with law enforcement and is expected to face multiple charges.
+
+[5] Israel issues forced evacuation orders for southern Lebanon in escalation | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-26T19:09:56Z
+URL: https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation
+Summary: Israel issued new forced evacuation orders for seven towns in southern Lebanon beyond its declared 'buffer zone,' escalating the conflict with Hezbollah despite a US-brokered ceasefire. Hezbollah rejected allegations of undermining the ceasefire, calling its attacks a 'legitimate response' to Israeli violations. The Israeli military said a 19-year-old soldier was killed in southern Lebanon, while Hezbollah claimed drone attacks on Israeli positions. Thousands of people are fleeing their homes as airstrikes continue across south Lebanon.
+
+[6] Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections | Benjamin Netanyahu News | Al Jazeera
+Published: 2026-04-26T20:05:50Z
+URL: https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections
+Summary: Former Israeli prime ministers Naftali Bennett and Yair Lapid announced a merger of their parties to challenge Benjamin Netanyahu in the upcoming election. The new party, called Together, will be led by Bennett and aims to unite a fragmented opposition. Bennett said if elected, he would establish a national commission of inquiry into the October 7, 2023 Hamas-led attack, which the current government has rejected. Polls have predicted Netanyahu will lose the next election, due by the end of October.
+
+[7] Bomb attack on Colombia highway kills 19 ahead of election | Conflict News | Al Jazeera
+Published: 2026-04-26T20:15:29Z
+URL: https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election
+Summary: A highway bomb attack in southwestern Colombia's Cauca department killed 19 people and injured at least 38, ahead of next month's presidential election. The blast on the Pan-American Highway left buses and vans mangled and a large crater in the roadway. President Gustavo Petro blamed the attack on Ivan Mordisco, the country's most-wanted criminal. Security is a central issue in the May 31 election, with candidates from across the political spectrum reporting death threats.
+
+================================================================================
 RUN TIME UTC: 2026-04-26T15:42:38Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
