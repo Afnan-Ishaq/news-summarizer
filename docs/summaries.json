@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-04-27T07:34:32Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The batch covers a surge in EV demand due to the Iran war, a Taiwan trade secrets case, NBA playoff results, a German trial of activists accused of raiding an Israeli weapons factory, King Charles's US visit itinerary, a brawl in a Spanish football match, and diplomatic developments on day 59 of the Iran war.",
+    "articles": [
+      {
+        "title": "From Australia to Vietnam, the Iran war is fuelling demand for EVs | Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/27/from-australia-to-vietnam-the-iran-war-is-fuelling-demand-for-evs",
+        "published": "2026-04-27T04:46:35Z",
+        "summary": "The article reports that electric vehicle sales are surging globally as the US-Israel war on Iran drives up petrol and diesel prices. In Australia, used EV sales have accelerated, with prices rising 10-20%. China, the US, Vietnam, Japan, South Korea, and several European countries have all seen significant month-on-month or year-on-year increases in EV sales. Analysts expect this to be a permanent shift in EV adoption due to consecutive fossil fuel shocks."
+      },
+      {
+        "title": "Taiwan court hands down jail terms in TSMC trade secrets case | Technology News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case",
+        "published": "2026-04-27T05:43:30Z",
+        "summary": "A Taiwanese court sentenced five defendants to jail terms of up to 10 years and fined Tokyo Electron's local unit $5 million in a trade secrets case involving TSMC. The case involved the alleged theft of TSMC's chip technology to help Tokyo Electron win equipment orders. Former TSMC and Tokyo Electron employee Chen Li-ming received a 10-year sentence, while three other former employees received two to six years. Tokyo Electron and TSMC did not immediately comment."
+      },
+      {
+        "title": "Rockets thrash LeBron’s Lakers; Wembanyama triumphant on Spurs’ return | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/27/rockets-thrash-lebrons-lakers-wembanyama-triumphant-on-spurs-return",
+        "published": "2026-04-27T06:21:43Z",
+        "summary": "The Houston Rockets defeated the Los Angeles Lakers 115-96 to avoid elimination, cutting the Lakers' series lead to 3-1. Victor Wembanyama returned from a concussion to score 27 points and lead the Spurs to a 114-93 win over the Trail Blazers, giving San Antonio a 3-1 series lead. The Celtics also took a 3-1 lead by beating the 76ers 128-96, while the Raptors evened their series with the Cavaliers. LeBron James struggled with turnovers, and the Lakers remain without injured stars Luka Doncic and Austin Reaves."
+      },
+      {
+        "title": "Activists accused of raiding Israeli weapons factory face trial in Germany | Protests News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid",
+        "published": "2026-04-27T06:36:59Z",
+        "summary": "Five European nationals, known as the 'Ulm Five', go on trial in Germany for allegedly raiding a factory linked to Israeli weapons manufacturer Elbit Systems in September 2025. Prosecutors charge them with property damage and membership in a criminal organization, citing anti-Semitic motivations. The activists' lawyers argue the act was civil disobedience to stop violations of international law, noting no one was injured. The defendants have been held in high-security detention for over seven months, with strict isolation and monitoring."
+      },
+      {
+        "title": "King Charles US visit: What to know about the itinerary, Congress address | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-us-visit-what-to-know-about-the-itinerary-congress-address",
+        "published": "2026-04-27T07:06:30Z",
+        "summary": "King Charles III and Queen Camilla are traveling to the US for a four-day state visit starting April 27, coinciding with the 250th anniversary of US independence and amid US-UK tensions over the war on Iran. The itinerary includes a White House welcome, a state arrival ceremony, a bilateral meeting with President Trump, and an address to Congress. The visit proceeds despite heightened security concerns after a shooting incident in Washington DC."
+      },
+      {
+        "title": "Zaragoza goalkeeper punches player, sparks brawl in La Liga 2 derby match | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/27/zaragoza-goalkeeper-punches-player-sparks-brawl-in-la-liga-2-derby-match",
+        "published": "2026-04-27T07:19:14Z",
+        "summary": "Real Zaragoza goalkeeper Esteban Andrada faces a potential ban of up to 12 matches for punching Huesca's Jorge Pulido in the face after being sent off during a La Liga 2 derby. The incident sparked a brawl, leading to two other players being sent off. Andrada, on loan from Monterrey, had already been dismissed for pushing Pulido before the punch. Both clubs are in the relegation zone."
+      },
+      {
+        "title": "Iran war: What’s happening on day 59 amid diplomatic push to end conflict? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/iran-war-whats-happening-on-day-59-amid-diplomatic-push-to-end-conflict",
+        "published": "2026-04-27T07:22:57Z",
+        "summary": "On day 59 of the US-Israel war on Iran, Iranian Foreign Minister Araghchi shuttled between Pakistan and Oman before heading to Russia for talks, as diplomatic efforts to end the conflict intensify. US President Trump said Iran could telephone to negotiate, but sticking points include Iran's nuclear program and the Strait of Hormuz blockade. The IRGC stated it has no intention of unblocking the strait, while Israeli forces escalated attacks in Lebanon despite a ceasefire. Russia's envoy urged the US to abandon ultimatums."
+      }
+    ]
+  },
+  {
     "time": "2026-04-27T02:50:51Z",
     "window_hours": 6,
     "article_count": 1,
