@@ -1,5 +1,91 @@
 [
   {
+    "time": "2026-04-27T21:03:20Z",
+    "window_hours": 6,
+    "article_count": 13,
+    "overall_summary": "A batch of Al Jazeera articles from the last 6 hours covers a suspected pirate hijacking off Somalia, a renewed Bennett-Lapid alliance in Israel, Melania Trump's call to fire Jimmy Kimmel, a mass kidnapping in Nigeria, cross-border attacks between Pakistan and Afghanistan, charges against a suspect in the White House correspondents' dinner shooting, a timeline of US-UK relations, Iraq's new PM-designate, thousands held by the RSF in Sudan, the Musk-Altman OpenAI trial, Hezbollah-Israel threats, King Charles's US visit, and China blocking Meta's AI acquisition.",
+    "articles": [
+      {
+        "title": "Suspected pirates steer cargo vessel towards Somalia | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/suspected-pirates-steer-cargo-vessel-towards-somalia",
+        "published": "2026-04-27T16:44:46Z",
+        "summary": "Suspected pirates hijacked the cargo vessel Sward off the coast of Somalia, the second such attack in less than a week. The ship, carrying cement from Egypt to Kenya with a 15-person crew, is now under pirate control and heading toward the Somali coastline. The incident occurs amid severe maritime disruptions caused by the blockage of the Strait of Hormuz during the US-Israeli war on Iran."
+      },
+      {
+        "title": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu",
+        "published": "2026-04-27T16:48:36Z",
+        "summary": "Former Israeli prime ministers Naftali Bennett and Yair Lapid have announced a renewed alliance called 'Together' to challenge Benjamin Netanyahu in upcoming elections. However, a poll projects the new bloc will win fewer seats than their former parties combined, and analysts warn the partnership offers little change for Palestinians. The duo previously formed a 'change government' in 2021 that collapsed in 2022 due to infighting and defections."
+      },
+      {
+        "title": "Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/melania-trump-blasts-kimmel-calls-on-abc-to-take-stand-against-comedian",
+        "published": "2026-04-27T17:01:53Z",
+        "summary": "Melania Trump accused Jimmy Kimmel of deepening 'political sickness' after the comedian joked about her being an 'expectant widow' at an alternative White House correspondents' dinner. President Donald Trump called for Kimmel to be fired by ABC and Disney, linking the joke to a shooting that occurred outside the main dinner. The Trumps' demand for deplatforming is highly unusual and raises free speech concerns."
+      },
+      {
+        "title": "Gunmen kidnap 23 children from Nigerian orphanage | Conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/gunmen-kidnap-23-pupils-from-nigerian-orphanage",
+        "published": "2026-04-27T17:20:09Z",
+        "summary": "Gunmen raided an unregistered orphanage in Kogi State, Nigeria, kidnapping at least 23 children and the proprietor's wife. Security forces rescued 15 children, but eight remain missing. Mass kidnappings are common in Nigeria, where gangs use them for ransom, and no group has claimed responsibility."
+      },
+      {
+        "title": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks | Conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/ceasefire-at-risk-as-pakistan-and-afghanistan-report-cross-border-attacks",
+        "published": "2026-04-27T17:27:54Z",
+        "summary": "Pakistan and Afghanistan have accused each other of launching cross-border attacks, threatening a fragile ceasefire agreed in March. Afghanistan reported four killed and 45 wounded in Pakistani mortar and rocket attacks, while Pakistan said three civilians were injured by gunfire. The strikes are the first major violence since the ceasefire, mediated by China, and tensions remain over Pakistan's demand that Afghanistan curb the TTP armed group."
+      },
+      {
+        "title": "US press gala shooting suspect charged with attempting to kill Trump | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged",
+        "published": "2026-04-27T18:07:25Z",
+        "summary": "Cole Tomas Allen, 31, has been charged with attempting to assassinate President Donald Trump after allegedly shooting a Secret Service agent while trying to breach security at the White House Correspondents' Association dinner. Prosecutors say Allen had a semiautomatic pistol, shotgun, and knives, and an alleged manifesto targeting administration officials. He faces up to life in prison if convicted."
+      },
+      {
+        "title": "Timeline: The highs and lows of the US-UK ‘special relationship’ | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/timeline-the-highs-and-lows-of-the-us-uk-special-relationship",
+        "published": "2026-04-27T18:40:49Z",
+        "summary": "The article provides a timeline of the US-UK 'special relationship' amid King Charles III's US visit, which comes at a tense period due to Trump's criticism of UK Prime Minister Keir Starmer over the Iran war. Key historical moments include World War II cooperation, the 1956 Suez Crisis where the US opposed UK and French actions, and periodic strains despite overall alliance."
+      },
+      {
+        "title": "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate",
+        "published": "2026-04-27T19:12:41Z",
+        "summary": "Iraqi President Nizar Amedi named Ali al-Zaidi as prime minister-designate, breaking a months-long deadlock after Trump opposed pro-Iran candidate Nouri al-Maliki. Al-Zaidi, a businessman with no prior political office, was chosen by the Coordination Framework coalition. He has 30 days to form a cabinet and faces challenges from the US-Israeli war on Iran and the Strait of Hormuz closure."
+      },
+      {
+        "title": "Thousands held by paramilitary RSF in Sudan’s el-Fasher: NGO | Sudan war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/thousands-reportedly-held-by-paramilitary-rsf-in-sudans-el-fasher",
+        "published": "2026-04-27T19:35:55Z",
+        "summary": "The Sudan Doctors Network reports that thousands of people, including 20 doctors, 370 women, and 426 children, are held in dire conditions by the Rapid Support Forces (RSF) in el-Fasher. The NGO alleges severe violations including torture and ethnically motivated killings, with a cholera outbreak worsening conditions. The RSF has not commented, and UN-backed experts previously pointed to signs of genocide in the area."
+      },
+      {
+        "title": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/27/elon-musk-trial-against-sam-altman-to-reveal-openai-power-struggle",
+        "published": "2026-04-27T19:37:25Z",
+        "summary": "Elon Musk's trial against Sam Altman begins with jury selection, centering on allegations that OpenAI strayed from its nonprofit mission to become a capitalist venture valued at $852bn. Musk accuses Altman and cofounder Greg Brockman of double-crossing him, citing diary entries as evidence. OpenAI dismisses the lawsuit as sour grapes, and the outcome could impact the AI industry."
+      },
+      {
+        "title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border",
+        "published": "2026-04-27T19:58:33Z",
+        "summary": "Hezbollah leader Naim Qassem rejected peace talks with Israel and vowed to continue attacks, prompting Israeli Defence Minister Israel Katz to threaten to 'burn all of Lebanon.' Hezbollah resumed strikes on March 2 after Iran's Supreme Leader was killed, and Lebanon has since outlawed Hezbollah's military activities. The exchange highlights escalating tensions amid the US-Israeli war on Iran."
+      },
+      {
+        "title": "King Charles and Queen Camilla arrive for high-profile US state visit | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit",
+        "published": "2026-04-27T20:09:56Z",
+        "summary": "King Charles III and Queen Camilla arrived in the US for a four-day state visit, the first by a British monarch in two decades, amid tensions over the Iran war and a recent shooting at the White House correspondents' dinner. The king will meet President Trump, address Congress, and visit New York City. The visit marks the 250th anniversary of the US Declaration of Independence."
+      },
+      {
+        "title": "China seeks to block US tech giant Meta from AI acquisition | Technology News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus",
+        "published": "2026-04-27T20:27:56Z",
+        "summary": "China's National Development and Reform Commission announced it is blocking Meta's acquisition of AI startup Manus, citing Chinese laws and regulations. Manus, which has Chinese roots but is based in Singapore, provides general-purpose AI agents. The move highlights Beijing's concern over US acquisitions of Chinese AI talent and intellectual property amid geopolitical rivalry."
+      }
+    ]
+  },
+  {
     "time": "2026-04-27T16:27:28Z",
     "window_hours": 6,
     "article_count": 15,
