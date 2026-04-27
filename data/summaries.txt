@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-04-27T16:27:28Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a deadly water dispute in Chad, sports updates on Mbappe's injury and a Joshua-Fury fight, a Champions League preview, and analyses of US-Iran tensions, Lebanon's sovereignty, and the NPT summit. Other stories include a plane crash in South Sudan, Mali's security crisis, Canada's sovereign wealth fund, and a DR Congo mining guard.
+
+ARTICLE BREAKDOWN
+[1] Fighting over access to water in Chad kills at least 42, army intervenes
+Published: 2026-04-27T11:46:03Z
+URL: https://www.aljazeera.com/news/2026/4/27/chad-clashes-over-water-resources-kill-at-least-42-in-eastern-province
+Summary: At least 42 people have been killed in eastern Chad after a dispute between two families over access to water escalated into reprisal attacks, according to Deputy Prime Minister Limane Mahamat. The violence spread across a wide area, prompting the army to intervene, but the government says the situation is now 'under control'. Authorities have launched a customary mediation process and judicial proceedings. The clashes come as Chad faces pressure from the war in neighboring Sudan, with eastern provinces absorbing hundreds of thousands of refugees.
+
+[2] Mbappe could miss El Clasico after Real Madrid confirm thigh injury
+Published: 2026-04-27T12:02:54Z
+URL: https://www.aljazeera.com/sports/2026/4/27/mbappe-could-miss-el-clasico-after-real-madrid-confirm-thigh-injury
+Summary: Real Madrid striker Kylian Mbappe is doubtful for the upcoming El Clasico match against Barcelona after the club confirmed he sustained an injury to the semitendinosus muscle in his left leg. The injury occurred during Madrid's 1-1 draw against Real Betis, and further tests showed the league's leading goal scorer was hurt. If Madrid drop points against Espanyol without him and Barcelona win, Barcelona could be crowned champions. Mbappe has been troubled by injuries this season, generating concern with the World Cup starting on June 11.
+
+[3] PSG vs Bayern Munich: Champions League – preview, team news, start, lineups
+Published: 2026-04-27T12:10:44Z
+URL: https://www.aljazeera.com/sports/2026/4/27/psg-vs-bayern-munich-champions-league-preview-team-news-start
+Summary: Bayern Munich travel to face defending champions Paris Saint-Germain in Paris for the first leg of a Champions League semifinal. Bayern are eyeing a treble after sealing the Bundesliga title and reaching the German Cup final, while PSG are six points clear in Ligue 1. PSG have lost their last four Champions League games against Bayern, but both sides have scored 38 goals in the competition this season. PSG coach Luis Enrique rested his attacking trio in a recent league win and said his players relish the grueling schedule.
+
+[4] Lebanon cannot be bombed into sovereignty
+Published: 2026-04-27T12:44:30Z
+URL: https://www.aljazeera.com/opinions/2026/4/27/lebanon-cannot-be-bombed-into-sovereignty
+Summary: An opinion piece argues that a sovereign Lebanon and a demilitarized Hezbollah cannot happen without a credible political transition. The article notes that under a ceasefire deal, Lebanon must demonstrate sovereignty while Israel retains the right to take self-defense measures and keep forces on Lebanese soil. It states that Hezbollah has undermined the state's monopoly on force, but external force has failed to correct this in the past, as seen in the 1982 Israeli invasion. The piece concludes that the current path imposed by the US and Israel is not a viable way to disarm Hezbollah or consolidate Lebanese sovereignty.
+
+[5] Have US-Iran talks failed? Why no deal yet doesn’t mean diplomacy is dead
+Published: 2026-04-27T12:47:24Z
+URL: https://www.aljazeera.com/news/2026/4/27/have-us-iran-talks-failed-why-no-deal-yet-doesnt-mean-diplomacy-is-dead
+Summary: Tensions between the US and Iran have reached a critical juncture as efforts to translate a fragile ceasefire into a permanent agreement appear stalled. Hopes for talks in Islamabad dissipated after President Trump cancelled a visit by his envoys, with both sides remaining steadfast on demands over Iran's nuclear program and the Strait of Hormuz. Iranian Foreign Minister Araghchi blamed the US for the failure, but experts say the impasse reflects a slowdown rather than a collapse. Trump said Iran can call to negotiate, but Iran has signaled hesitation, citing US actions like the naval blockade as obstacles.
+
+[6] ‘Clearly stronger’: Germany’s Merz says Iran ‘humiliated’ US in its war
+Published: 2026-04-27T12:54:15Z
+URL: https://www.aljazeera.com/news/2026/4/27/iran-very-skilful-as-us-humiliated-says-german-chancellor
+Summary: German Chancellor Friedrich Merz said the US is being 'humiliated' in its war with Iran, warning that Washington lacks a clear path out of the conflict as Tehran gains the upper hand. Speaking to students, Merz drew comparisons with past military debacles in Afghanistan and Iraq, and said Iranian officials are 'negotiating very skilfully'. He urged a rapid end to the war, noting the fallout is hitting Germany's economy. Merz also said Berlin remains ready to deploy minesweepers to help secure shipping routes through the Strait of Hormuz, depending on a cessation of hostilities.
+
+[7] What does Trump shooting at US dinner mean for World Cup security?
+Published: 2026-04-27T13:52:55Z
+URL: https://www.aljazeera.com/sports/2026/4/27/what-does-trump-shooting-at-white-house-dinner-mean-for-world-cup-security
+Summary: A shooting incident targeting US President Donald Trump at the White House Correspondents' Association dinner has raised security concerns about the US role as cohost of the FIFA World Cup 2026. The suspect, armed with a shotgun and handgun, rushed a Secret Service checkpoint and shot a law enforcement officer. Football fans have expressed concerns about safety during the tournament, but security analyst Massimiliano Montanari believes the shooting will have 'no impact' on World Cup security preparations, citing the US's strong security and counterterrorism experience.
+
+[8] NPT summit: Can nuclear pact survive US-Israel war on Iran?
+Published: 2026-04-27T14:43:27Z
+URL: https://www.aljazeera.com/news/2026/4/27/npt-summit-can-nuclear-pact-survive-us-israel-war-on-iran
+Summary: The Treaty on the Non-Proliferation of Nuclear Weapons (NPT) has opened its five-year review conference in New York under the shadow of a fragile ceasefire between the US and Iran. Discussions will center on Iran's enriched uranium stockpile, with analysts saying the conference is unlikely to halt nuclear powers from flouting the treaty's rules. The article notes that the NPT's grand bargain has 'fundamentally broken down' because nuclear-weapon states have not committed to disarmament. It also highlights accusations of hypocrisy, as Israel, which is not a signatory to the NPT, is the only Middle Eastern country with nuclear weapons.
+
+[9] Rival armed groups join forces against the Malian state: What next?
+Published: 2026-04-27T14:45:48Z
+URL: https://www.aljazeera.com/news/2026/4/27/rival-armed-groups-join-forces-against-the-malian-state-what-next
+Summary: A series of coordinated attacks by armed groups across Mali has exposed security vulnerabilities in the military-ruled country, analysts say. On Saturday, al-Qaeda-linked group JNIM claimed responsibility for attacks on military sites, including in the capital Bamako, and said it had captured the city of Kidal with the Tuareg-dominated FLA. Mali's Defence Minister Sadio Camara was killed during the attacks. Analysts say the ability of armed groups to cover almost the whole country in one day indicates weak government security.
+
+[10] Anthony Joshua to fight Tyson Fury in November: Hearn
+Published: 2026-04-27T15:33:34Z
+URL: https://www.aljazeera.com/sports/2026/4/27/anthony-joshua-to-fight-tyson-fury-in-november-hearn
+Summary: Promoter Eddie Hearn confirmed that former world heavyweight boxing champions Anthony Joshua and Tyson Fury have signed a deal for a long-awaited clash later this year. Joshua will first return to the ring against Kristian Prenga in Riyadh on July 25, his first fight since a car accident last December. Hearn said he wanted a 'tune-up bout' in July before facing Fury potentially in November. Fury called for the showdown after his win on April 11.
+
+[11] Plane crashes near South Sudan’s Juba, killing all 14 on board
+Published: 2026-04-27T15:33:51Z
+URL: https://www.aljazeera.com/news/2026/4/27/plane-crashes-near-south-sudans-juba-killing-all-14-on-board
+Summary: A plane crashed on the outskirts of South Sudan's capital, Juba, killing all 13 passengers and the pilot. The country's civil aviation authority said initial reports indicate the Cessna 208 Caravan may have crashed due to bad weather conditions causing low visibility. The aircraft, operated by CityLink Aviation, lost communication while flying from Yei to Juba International Airport. Among those onboard were two Kenyan nationals and the rest were South Sudanese.
+
+[12] Timeline: How Mali went from democracy beacon to instability
+Published: 2026-04-27T15:35:05Z
+URL: https://www.aljazeera.com/news/2026/4/27/timeline-how-mali-went-from-democracy-beacon-to-instability
+Summary: Mali's security crisis has worsened since rival armed groups allied and launched coordinated attacks across the country, with JNIM claiming responsibility and Tuareg rebels participating. The attacks exposed security vulnerabilities in a country that was once a democracy beacon but has been reeling from crises since 2012. The article provides a timeline from independence in 1960, through coups and repressive regimes, to the current instability. It notes that after the 1991 coup, a transition led to a new constitution and multiparty elections, but the north remained unstable with Tuareg rebels seeking an independent region.
+
+[13] Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in
+Published: 2026-04-27T15:50:25Z
+URL: https://www.aljazeera.com/news/2026/4/27/iran-offers-hormuz-deal-without-nuclear-talks-as-it-seeks-broader-buy-in
+Summary: Iranian Foreign Minister Abbas Araghchi discussed a proposal to reopen the Strait of Hormuz but defer nuclear talks with the US for later, during a diplomatic sprint across three countries. Discussions in Muscat focused on the Strait of Hormuz and regional security, with nuclear issues set aside. Iran officially submitted its proposal to Pakistan, which is transmitting messages between Tehran and Washington. It is unclear whether President Trump will accept the proposal, as he reiterated that Iran cannot have a nuclear weapon.
+
+[14] Canada’s Carney announces a sovereign wealth fund
+Published: 2026-04-27T15:52:08Z
+URL: https://www.aljazeera.com/news/2026/4/27/canadas-carney-announces-a-sovereign-wealth-fund
+Summary: Canadian Prime Minister Mark Carney announced that his government is developing a government-owned investment fund, a first for the country. The fund will begin at 25 billion Canadian dollars and invest in major industrial projects in energy, infrastructure, mining, agriculture, and technology. Carney said the federal government will put up funds alongside private investors to help finance projects as Canada seeks to diversify away from the US. The announcement came a day before the government's spring economic update.
+
+[15] DR Congo to establish US-backed paramilitary guard for mines
+Published: 2026-04-27T16:08:37Z
+URL: https://www.aljazeera.com/news/2026/4/27/dr-congo-to-establish-us-uae-backed-paramilitary-guard-for-mines
+Summary: The Democratic Republic of the Congo plans to set up a paramilitary unit to secure the country's large mining sites, backed by investments from the US and UAE. The $100m program aims to deploy more than 20,000 guards across 22 mining provinces by the end of 2028. The DRC is responsible for about 70 percent of global cobalt output, and the US is pushing to reduce Chinese dominance in the sector. The plan comes as the DRC struggles with rebel groups for control in the east, and follows a minerals partnership signed with the US last year.
+
+================================================================================
 RUN TIME UTC: 2026-04-27T11:44:30Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
