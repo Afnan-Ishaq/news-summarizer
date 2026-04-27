@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-04-27T02:50:51Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "Oil prices rose over 2% after US-Iran peace talks stalled, with Brent crude reaching $106.99. The failure to hold a second round of negotiations in Pakistan led to uncertainty, while Iran's foreign minister traveled to Russia for further discussions. Reduced shipping traffic in the Strait of Hormuz due to Tehran's threats has disrupted global oil supplies.",
+    "articles": [
+      {
+        "title": "Oil prices rise amid stalled US-Iran peace talks | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks",
+        "published": "2026-04-27T02:06:46Z",
+        "summary": "Oil prices climbed as US-Iran peace talks stalled, with Brent crude rising over 2% to $106.99 after hopes for a second round of ceasefire negotiations collapsed. US President Donald Trump canceled a planned trip by envoys to Pakistan after Iran's foreign minister left Islamabad without direct engagement. Iran's foreign minister then traveled to Russia for talks, while reduced shipping traffic in the Strait of Hormuz due to Tehran's threats has disrupted global oil supplies."
+      }
+    ]
+  },
+  {
     "time": "2026-04-26T20:39:29Z",
     "window_hours": 6,
     "article_count": 7,
