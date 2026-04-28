@@ -1,4 +1,73 @@
 ================================================================================
+RUN TIME UTC: 2026-04-28T21:07:58Z
+WINDOW: Last 6 hours
+ARTICLES USED: 12
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a range of global events including Bosnia's gas pipeline deal, Syria's trial of former officials, UAE's exit from OPEC, Mali's political stability, Trump's low approval ratings, an Austrian guilty plea for a planned attack, a Greek shooting rampage, famine in Sudan, US war powers in Iran, Trump's criticism of Germany, hunger in South Sudan, and a New IRA arrest in Northern Ireland.
+
+ARTICLE BREAKDOWN
+[1] Bosnia signs up to Trump-linked pipeline to reduce Russian gas dependence | Energy News | Al Jazeera
+Published: 2026-04-28T17:17:43Z
+URL: https://www.aljazeera.com/news/2026/4/28/bosnia-signs-up-to-trump-linked-pipeline-to-reduce-russian-gas-dependence
+Summary: Bosnia and Herzegovina signed a deal with Croatia to build a gas pipeline backed by investors connected to US President Donald Trump, aiming to reduce reliance on Russian gas ahead of an EU ban. The European Union warned the deal could jeopardize Bosnia's EU membership bid and over $1bn in aid due to lack of transparency. The pipeline would connect Bosnia to Croatia's LNG terminal, allowing US gas to reach the country.
+
+[2] From exile to judge: Symbolism in Syria’s trial of Assad, former officials | Syria's War News | Al Jazeera
+Published: 2026-04-28T17:49:59Z
+URL: https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials
+Summary: Judge Fakhr al-Din al-Aryan, who defected from the Syrian regime in 2013 and was sentenced to death in absentia, presided over the trial of former President Bashar al-Assad's cousin Atef Najib on charges including crimes against humanity. Al-Assad and his brother are also being tried in absentia after fleeing to Russia. The trial is seen as a symbolic moment for transitional justice in Syria.
+
+[3] What are OPEC and OPEC +, and why has the UAE quit? | OPEC News | Al Jazeera
+Published: 2026-04-28T18:05:02Z
+URL: https://www.aljazeera.com/news/2026/4/28/what-are-opec-and-opec-and-why-has-the-uae-quit
+Summary: The United Arab Emirates announced its withdrawal from OPEC and OPEC+ effective May 1, citing national interests, amid a US-Israel war on Iran causing an energy shock. The UAE, a member since 1967, has significant spare capacity and has been increasingly isolated from fellow members like Saudi Arabia over foreign policy differences. OPEC, founded in 1960, coordinates petroleum policies among 12 members, while OPEC+ includes Russia and other nations.
+
+[4] Mali military leader Goita emerges as Russia declares it halted coup | Conflict News | Al Jazeera
+Published: 2026-04-28T18:48:24Z
+URL: https://www.aljazeera.com/news/2026/4/28/malis-military-leader-goita-emerges-as-russia-declares-it-halted-coup
+Summary: Mali's military leader Assimi Goita appeared publicly for the first time since rebel attacks over the weekend, meeting with the Russian ambassador. Russia's Defence Ministry stated its Africa Corps helped prevent a coup during the attacks, which killed a minister and forced Russian mercenaries to withdraw from Kidal. The photos and statements aim to show the military government remains secure with Russian support.
+
+[5] Trump approval dips to record low amid Iran war, inflation woes: Poll | Donald Trump News | Al Jazeera
+Published: 2026-04-28T19:02:29Z
+URL: https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll
+Summary: US President Donald Trump's approval rating dropped to 34%, the lowest since returning to office, according to a Reuters/Ipsos poll, amid economic uncertainty and the US-Israel war on Iran. Only 22% of respondents approved of his handling of the cost of living, with energy prices soaring due to the conflict. The poll comes ahead of midterm elections where Trump's Republican Party faces challenges.
+
+[6] Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert | News | Al Jazeera
+Published: 2026-04-28T19:06:55Z
+URL: https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert
+Summary: Beran A, a 21-year-old Austrian, pleaded guilty to planning an ISIL-inspired attack on a Taylor Swift concert in Vienna in August 2024, which led to the cancellation of three shows. He also admitted to traveling to Dubai with the intent to carry out an attack, but did not go through with it. He faces 10 to 20 years in prison on terrorism-related charges.
+
+[7] Greek pensioner, 89, arrested following shooting rampage | Crime News | Al Jazeera
+Published: 2026-04-28T19:07:01Z
+URL: https://www.aljazeera.com/news/2026/4/28/greek-pensioner-89-arrested-following-shooting-rampage
+Summary: Greek police arrested an 89-year-old man in Patra after a shooting spree in Athens that injured five people. The suspect opened fire at a social security agency and later at a court building, leaving documents that may explain his motives. Gun violence is rare in Greece, and court staff announced a 24-hour strike to protest poor security.
+
+[8] Families forced into displacement by famine in Sudan | Sudan war News | Al Jazeera
+Published: 2026-04-28T19:14:47Z
+URL: https://www.aljazeera.com/news/2026/4/28/families-forced-into-displacement-by-famine-in-sudan
+Summary: Families in Sudan are facing hunger and displacement due to the ongoing civil war, with millions dependent on limited aid. Marasi Alfadil fled el-Fasher in North Darfur after an 18-month siege by the Rapid Support Forces, which led to a famine declaration. The 2026 Global Report on Food Crises found about 375,000 people in extreme hunger, concentrated in Darfur and Kordofan.
+
+[9] After 60 days of war in Iran, does US Congress want a say? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-28T19:40:52Z
+URL: https://www.aljazeera.com/news/2026/4/28/after-60-days-of-war-in-iran-does-us-congress-want-a-say
+Summary: The 60-day mark of the US-Israel war with Iran on May 1 raises questions about whether Congress will assert its war powers under the War Powers Act, which requires presidential military action to cease or receive authorization. Republicans have so far blocked resolutions to rein in Trump's authority, and experts say the war may enter a legally questionable phase if Congress does not act.
+
+[10] Trump scolds Germany’s Merz for criticism of Iran war | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-28T19:59:29Z
+URL: https://www.aljazeera.com/news/2026/4/28/trump-scolds-germanys-merz-for-criticism-of-iran-war
+Summary: US President Donald Trump criticized German Chancellor Friedrich Merz for calling the US-Israeli war on Iran 'ill-considered,' arguing it is necessary to prevent Iran from obtaining a nuclear weapon. Merz's comments marked a departure from his previous hawkish pro-Israel stance, as the war has caused oil price spikes affecting Germany's economy. Trump has expressed frustration with European allies for not fully backing the conflict.
+
+[11] Nearly eight million people in South Sudan at risk of acute hunger: NGOs | Conflict News | Al Jazeera
+Published: 2026-04-28T20:03:35Z
+URL: https://www.aljazeera.com/news/2026/4/28/nearly-eight-million-people-in-south-sudan-at-risk-of-acute-hunger-ngos
+Summary: A UN report warns that 7.8 million people in South Sudan are at risk of acute hunger due to conflict, displacement, and economic crisis, with 2.2 million children suffering from acute malnutrition. Aid agencies call for immediate action to prevent an 'irreversible humanitarian catastrophe.' The crisis is fueled by ethnic conflict, climate change, and spillover from neighboring Sudan.
+
+[12] Northern Ireland makes arrest linked to suspected New IRA car bombing | News | Al Jazeera
+Published: 2026-04-28T20:28:35Z
+URL: https://www.aljazeera.com/news/2026/4/28/northern-ireland-makes-arrest-linked-to-suspected-new-ira-car-bombing
+Summary: Northern Irish police arrested a 66-year-old man under the UK's Terrorism Act after the New IRA claimed responsibility for a car bomb attack on a Belfast police station. The group stated it intended to kill police officers and warned of further attacks on officers at their homes. The attack comes amid rising sectarian tensions, nearly 30 years after the Good Friday Agreement.
+
+================================================================================
 RUN TIME UTC: 2026-04-28T16:52:44Z
 WINDOW: Last 6 hours
 ARTICLES USED: 15
