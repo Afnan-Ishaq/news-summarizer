@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-04-28T02:57:49Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+Four articles from Al Jazeera cover a range of international events: Bahrain revokes citizenship of 69 people over alleged Iran support amid ongoing regional conflict; the US Supreme Court reinstates a Texas electoral map favoring Republicans; a train crash near Jakarta, Indonesia, kills five and injures dozens; and Italy extradites a suspected Chinese hacker to the US for alleged cyber-espionage during the COVID-19 pandemic.
+
+ARTICLE BREAKDOWN
+[1] Bahrain strips 69 people of citizenship over Iran support | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-27T21:51:37Z
+URL: https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support
+Summary: Bahrain's Ministry of Interior announced on Monday that it revoked the citizenship of 69 people, accusing them of sympathizing with Iran and colluding with foreign entities. The move follows Iranian strikes on facilities in Bahrain as part of the US-Israel war on Iran. Rights groups, including the Bahrain Institute for Rights and Democracy, described the action as a dangerous violation of international law, noting that the individuals have not been publicly identified and their status remains unclear.
+
+[2] US Supreme Court reinstates Republican-favoured Texas electoral map | US Midterm Elections 2026 News | Al Jazeera
+Published: 2026-04-27T22:48:22Z
+URL: https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map
+Summary: The US Supreme Court reinstated a redrawn Texas electoral map expected to boost Republican representation in the House, with the six conservative justices in the majority. The map, backed by President Donald Trump and approved by the Republican-led state legislature, could flip up to five Democratic-held seats. The ruling overturned a lower court decision that had blocked the map for likely racial discrimination, drawing criticism from civil rights advocates who called it a rigged map limiting the power of voters of color.
+
+[3] Five killed in train crash near Indonesia’s Jakarta; rescue efforts ongoing | Transport News | Al Jazeera
+Published: 2026-04-28T01:22:28Z
+URL: https://www.aljazeera.com/news/2026/4/28/five-killed-in-train-crash-near-indonesias-jakarta-rescue-efforts-ongoing
+Summary: At least five people were killed and dozens injured in a collision between a commuter train and a long-distance train at Bekasi city's rail station near Jakarta late Monday night. Rescue efforts continued into Tuesday morning, with officials reporting at least four people still trapped alive in the wreckage. The head of Indonesia's national rescue agency said the evacuation was complicated by limited space and severe damage, while a KAI spokesman suggested a taxi clipping the commuter train at a level crossing may have caused the crash.
+
+[4] Italy extradites alleged Chinese cyber-espionage suspect to US | Cybercrime News | Al Jazeera
+Published: 2026-04-28T02:26:48Z
+URL: https://www.aljazeera.com/news/2026/4/28/italy-extradites-alleged-chinese-cyber-espionage-suspect-to-us
+Summary: Italy extradited 34-year-old Xu Zewei, an alleged Chinese hacker, to the US for stealing vaccine research during the COVID-19 pandemic. US prosecutors say Xu, employed by Shanghai Powerock Network, targeted universities and other institutions under the direction of China's Ministry of State Security as part of a state-sponsored cyber-espionage campaign called 'Hafnium'. Xu appeared in a Houston court on Monday facing nine criminal counts, including wire fraud, and could face up to 20 years in prison if convicted.
+
+================================================================================
 RUN TIME UTC: 2026-04-27T21:03:20Z
 WINDOW: Last 6 hours
 ARTICLES USED: 13
