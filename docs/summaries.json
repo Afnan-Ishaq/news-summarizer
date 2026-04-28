@@ -1,5 +1,145 @@
 [
   {
+    "time": "2026-04-28T11:45:57Z",
+    "window_hours": 6,
+    "article_count": 22,
+    "overall_summary": "The batch covers a wide range of topics including diplomatic tensions between Ukraine and Israel over grain shipments, UK legal battles over Palestine Action, sports news on Allyson Felix and World Cup preparations, US-Iran conflict updates, political controversies involving Trump and media, Hezbollah's resilience in Lebanon, Palestinian elections and Israeli actions, FIFA's political controversies, and human rights reports on Yemen and Kashmir.",
+    "articles": [
+      {
+        "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments",
+        "published": "2026-04-28T07:34:11Z",
+        "summary": "Ukraine summoned the Israeli ambassador over alleged shipments of Ukrainian grain from Russian-occupied territories to Israel, with President Zelenskyy stating such transactions violate Israeli law. Ukraine is preparing sanctions against those involved in transporting the grain. The diplomatic spat occurred as Ukrainian drones struck Russia's Tuapse oil refinery, causing a massive fire."
+      },
+      {
+        "title": "UK appeals High Court ruling that granted Palestine Action a victory | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/uk-to-appeal-high-court-ruling-that-granted-palestine-action-a-victory",
+        "published": "2026-04-28T07:34:57Z",
+        "summary": "The UK Home Office is appealing a High Court ruling that found the government's ban on Palestine Action as a terrorist organization unlawful. The two-day hearing at the Court of Appeal begins Tuesday, with the proscription remaining in place during the appeals process. Thousands have been arrested under terror laws for supporting the group, and celebrities like Sally Rooney and Greta Thunberg have signed a letter of support."
+      },
+      {
+        "title": "Athletics great Allyson Felix aiming to compete at 2028 Los Angeles Games | Olympics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/28/athletics-great-allyson-felix-aiming-to-compete-at-2028-los-angeles-games",
+        "published": "2026-04-28T07:42:16Z",
+        "summary": "Allyson Felix, the most decorated female track and field athlete with 11 Olympic medals, plans to come out of retirement to compete at the 2028 Los Angeles Olympics at age 40. Felix, a seven-time Olympic gold medallist, said she would regret not attempting a comeback and wants to experience competing at a home Games. Her place is not guaranteed as she must navigate the competitive US qualification system."
+      },
+      {
+        "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz",
+        "published": "2026-04-28T07:55:25Z",
+        "summary": "US President Trump's national security team is reviewing an Iranian proposal to halt the joint US-Israel war, reopen the Strait of Hormuz, and delay nuclear negotiations until after the war. Trump is reportedly dissatisfied because he wants the nuclear issue addressed at the start of negotiations. The proposal comes amid a temporary ceasefire that has come under strain due to disputes over maritime access."
+      },
+      {
+        "title": "‘Should be fired’: Why the Trumps want Jimmy Kimmel sacked | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked",
+        "published": "2026-04-28T08:06:29Z",
+        "summary": "Melania Trump criticized late-night host Jimmy Kimmel for a joke comparing her to an 'expectant widow,' and President Trump called for Kimmel to be fired. The controversy follows a shooting incident at the White House correspondents' dinner, with Trump supporters linking Kimmel's remarks to the attack. Melania urged ABC to take action, while Trump described the comments as a 'despicable call to violence.'"
+      },
+      {
+        "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful",
+        "published": "2026-04-28T08:20:45Z",
+        "summary": "Despite setbacks including the loss of senior leadership after the 2024 ceasefire, Hezbollah has returned to the battlefield in southern Lebanon and appears stronger than expected. Analysts say the group's future is tied to US-Iran negotiations. Hezbollah has stated it will not accept a one-sided ceasefire and has threatened to resume suicide operations against Israeli targets."
+      },
+      {
+        "title": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip",
+        "published": "2026-04-28T08:24:45Z",
+        "summary": "Despite official ceasefires in Gaza, Lebanon, and Iran, Israeli forces and settlers have intensified operations in the West Bank, Gaza, and East Jerusalem. In Gaza, 40 Palestinians were killed in a week, including police officers and children, with strikes targeting civilian and police infrastructure. Small-scale municipal elections were held in Deir el-Balah for the first time since 2006, with low turnout."
+      },
+      {
+        "title": "FIFA urged to push US for ‘ICE Truce’ at World Cup by rights group | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/28/fifa-urged-to-push-for-ice-truce-at-us-world-cup-by-human-rights-watch",
+        "published": "2026-04-28T08:47:32Z",
+        "summary": "Human Rights Watch urged FIFA to press the US government for an 'ICE Truce' during the 2026 World Cup, calling for a halt to immigration enforcement operations at games and venues. The report cited concerns over human rights abuses from the Trump administration's immigration crackdown. The White House responded that the event will be the safest in history."
+      },
+      {
+        "title": "Before World Cup, FIFA slammed for politicising sport with Trump prize | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/28/before-world-cup-fifa-slammed-for-politicising-sport-with-trump-prize",
+        "published": "2026-04-28T09:08:41Z",
+        "summary": "FIFA faced criticism for awarding its inaugural Peace Prize to US President Donald Trump, with Norwegian Football Association President Lise Klaveness calling for the prize to be abolished. Critics argue the award politicizes football and undermines the sport's credibility. Australian footballer Jackson Irvine also criticized FIFA, accusing it of making a mockery of its own Human Rights Policy."
+      },
+      {
+        "title": "How Iran has changed, and how it hasn’t, in two months of war | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war",
+        "published": "2026-04-28T09:15:24Z",
+        "summary": "Two months into the US-Israel war on Iran, common Iranians face job losses and shortages, but key institutions like the IRGC and judiciary remain intact, with hardliners stronger. Supreme Leader Ayatollah Ali Khamenei was killed, but his son Mojtaba was quickly elected as successor. Relatively moderate President Pezeshkian is mostly relegated to domestic affairs, while hardliners control military and media."
+      },
+      {
+        "title": "All New York boroughs to host free World Cup fan events, Mamdani says | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/28/all-new-york-boroughs-to-host-free-world-cup-fan-events-mamdani-says",
+        "published": "2026-04-28T09:17:58Z",
+        "summary": "New York City Mayor Zohran Mamdani announced free World Cup fan events in all five boroughs, including watch parties and festivities, to make the tournament accessible amid high ticket and transport costs. The events will be held at locations like Rockefeller Center and Brooklyn Bridge Park. Round-trip train fares to MetLife Stadium in New Jersey cost $150, nearly 12 times the regular fare."
+      },
+      {
+        "title": "Croatia’s Modric undergoes facial surgery but aims to be fit for World Cup | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/28/croatias-modric-undergoes-facial-surgery-but-aims-to-be-fit-for-world-cup",
+        "published": "2026-04-28T09:18:47Z",
+        "summary": "Luka Modric underwent successful surgery after fracturing his left cheekbone in a clash during AC Milan's match against Juventus. The Croatian federation said he is expected to be fit for the World Cup, though he may miss the rest of the Serie A season. Modric, 40, is set to participate in his fifth World Cup, with Croatia facing England, Ghana, and Panama in Group L."
+      },
+      {
+        "title": "Kashmir seminary declared unlawful under Indian law, sparks outcry | Religion News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/kashmir-seminary-declared-unlawful-under-anti-terror-law-sparks-outcry",
+        "published": "2026-04-28T09:31:56Z",
+        "summary": "An Islamic seminary in Indian-administered Kashmir, Jamia Siraj-ul-Uloom, was declared unlawful under anti-terror laws based on alleged links to the banned Jamaat-e-Islami party. The seminary's chairman denied the allegations. Kashmiri political and religious leaders denounced the move as part of a broader pattern of New Delhi's overreach, calling it a 'flagrant injustice.'"
+      },
+      {
+        "title": "Congressmen call for National Guard to address drone threat at World Cup | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/28/congressmen-call-for-national-guard-to-address-drone-threat-at-world-cup",
+        "published": "2026-04-28T09:32:01Z",
+        "summary": "Two Republican congressmen called on the Trump administration to empower the National Guard to address drone threats at the World Cup, citing potential personnel shortages and jurisdictional divides. The letter was sent to Homeland Security, Justice, and Defense officials. The call came a day after a shooting at the White House Correspondents' Dinner raised security concerns."
+      },
+      {
+        "title": "Istanbul style map | Al Jazeera",
+        "url": "https://www.aljazeera.com/sponsored/istanbul-style-map",
+        "published": "2026-04-28T10:29:02Z",
+        "summary": "This sponsored article provides a curated guide to experiencing Istanbul like a local, highlighting neighborhoods such as Eminonu, Balat, and Kadikoy for their distinct charm. It offers tips on shopping for unique finds, from antique jewelry at the Grand Bazaar to contemporary art in Beyoglu. The guide emphasizes exploring the city's diverse districts and local rhythms."
+      },
+      {
+        "title": "Paris and Lyon prepare as Nice mayor opposes 2030 Olympics ice hockey venue | Olympics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/28/paris-and-lyon-readied-as-nice-mayor-opposes-winter-olympic-ice-hockey-plan",
+        "published": "2026-04-28T10:47:17Z",
+        "summary": "French organizers of the 2030 Winter Olympics are exploring alternative locations for ice hockey in Paris and Lyon after Nice's far-right mayor opposed using the city's football stadium. The mayor refused to let the football club lose stadium access for months. Organizers said they will present findings to the executive board on May 11, with final venues expected in June."
+      },
+      {
+        "title": "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war | Israel-Palestine conflict | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war",
+        "published": "2026-04-28T10:52:51Z",
+        "summary": "The article profiles children born during the Gaza conflict, such as Nour Abu Samaan, who suffered paralysis from toxic gas inhalation at two days old. Gaza's Ministry of Health reports 1,200 children now have spinal cord injuries and paralysis from Israeli attacks. Families struggle with a collapsed healthcare system and ongoing displacement."
+      },
+      {
+        "title": "Algeria’s Luca Zidane doubtful for World Cup after chin and jaw fracture | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/28/algerias-luca-zidane-doubtful-for-world-cup-after-chin-and-jaw-fracture",
+        "published": "2026-04-28T10:58:32Z",
+        "summary": "Algeria goalkeeper Luca Zidane is doubtful for the World Cup after fracturing his chin and jaw in a collision during a Spanish league match. The 27-year-old, son of Zinedine Zidane, may miss the rest of the season and could be out longer if surgery is needed. Algeria's backup goalkeepers are also injured, and the team's World Cup campaign begins against Argentina on June 16."
+      },
+      {
+        "title": "When will Strait of Hormuz be ‘safe’ for commercial shipping again? | Explainer | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again",
+        "published": "2026-04-28T11:18:09Z",
+        "summary": "The Strait of Hormuz has been effectively closed since the US-Israel war on Iran began, with about 2,000 ships stranded. The US says it will take six months to clear mines, and maritime insurers have canceled war risk insurance, pushing premiums up. Iran has closed the strait to all foreign-flagged ships until the US lifts its naval blockade, and Trump ordered the military to shoot any threatening boats."
+      },
+      {
+        "title": "Mapping the destruction: How Israel ‘wiped out’ Lebanon’s Bint Jbeil | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/mapping-the-destruction-how-israel-wiped-out-lebanons-bint-jbeil",
+        "published": "2026-04-28T11:19:00Z",
+        "summary": "An Al Jazeera visual investigation reveals systematic demolition of over 1,500 buildings in Bint Jbeil, Lebanon, by Israeli forces, including a 400-year-old mosque. The analysis shows a deliberate policy to render southern Lebanon uninhabitable, drawing comparisons to Gaza. Legal experts warn the goal is to create a depopulated buffer zone, with demolitions continuing even after ceasefires."
+      },
+      {
+        "title": "How the US-Israeli war is collapsing the sanctions regime on Iran | Opinions | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran",
+        "published": "2026-04-28T11:19:22Z",
+        "summary": "This opinion piece argues that the US-Israel war on Iran is weakening the effectiveness of US sanctions by encouraging alternative payment methods like cryptocurrency and renminbi. Iran has increasingly used cryptocurrency for transactions, with flows to sanctioned entities rising 694% in 2025. The war may expand the pool of economic actors willing to bypass sanctions, further eroding the US-led sanctions regime."
+      },
+      {
+        "title": "Amnesty calls for US strike on Yemen to be investigated as war crime | Human Rights News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/4/28/amnesty-calls-for-us-strike-on-yemen-to-be-investigated-as-war-crime",
+        "published": "2026-04-28T11:27:06Z",
+        "summary": "Amnesty International called for a US air strike on a migrant detention center in Saada, Yemen, on April 28, 2025, to be investigated as a possible war crime. The strike killed at least 68 detainees and injured 47, with survivors still suffering physical and psychological harm a year later. Amnesty said the US military has not publicly released findings of any investigation into the incident."
+      }
+    ]
+  },
+  {
     "time": "2026-04-28T07:31:39Z",
     "window_hours": 6,
     "article_count": 8,
