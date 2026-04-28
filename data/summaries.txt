@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-04-28T16:52:44Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+The batch covers a range of topics including Champions League football previews, Manchester United's near-return to the Champions League, a migrant deportation campaign in Mauritania, the UAE's exit from OPEC amid the Iran war, a fragile Afghan-Pakistan truce under strain, Iran's latest proposal to end the war, a Kentucky primary testing Trump's influence, Iraq's new PM-designate, the human and financial cost of US wars, the Azawad Liberation Front in Mali, Egypt's military exercises near Israel, Belarus freeing a journalist in a prisoner swap, a Maldives police raid on a news outlet, a World Cup referee arrested for alleged sexual assault, and a Gulf leaders summit in Saudi Arabia.
+
+ARTICLE BREAKDOWN
+[1] Atletico Madrid vs Arsenal: Champions League – team news, start, lineups | Football News | Al Jazeera
+Published: 2026-04-28T11:52:54Z
+URL: https://www.aljazeera.com/sports/2026/4/28/atletico-madrid-vs-arsenal-champions-league-team-news-start
+Summary: Atletico Madrid host Arsenal in the Champions League semifinal first leg at the Metropolitano Stadium. Arsenal are the only unbeaten team in the competition this season, while Atletico have conceded 26 goals in 14 Champions League games but scored 34. The two teams previously met in October, with Arsenal winning 4-0. Atletico's last hope for silverware this season is the Champions League after a Copa del Rey final defeat.
+
+[2] What next for Manchester United with Champions League return almost sealed? | Football News | Al Jazeera
+Published: 2026-04-28T12:02:30Z
+URL: https://www.aljazeera.com/sports/2026/4/28/what-next-for-manchester-united-with-champions-league-return-almost-sealed
+Summary: Manchester United's 2-1 win over Brentford puts them on the brink of Champions League qualification, needing just two points from their last four games. Interim manager Michael Carrick said the team must keep pushing to finish high in the Premier League. Carrick's future remains unclear, and it was confirmed that midfielder Casemiro will leave the club in the summer.
+
+[3] Migrants in hiding as Mauritania pushbacks drastically cut Europe arrivals | Migration | Al Jazeera
+Published: 2026-04-28T12:13:14Z
+URL: https://www.aljazeera.com/features/2026/4/28/migrants-in-hiding-as-mauritania-pushbacks-drastically-cut-europe-arrivals
+Summary: Following an EU deal, Mauritanian authorities have rounded up and deported thousands of migrants to Mali and Senegal. Migrants in Nouakchott told Al Jazeera they fear deportation and have resorted to hiding, sneaking out only at dusk. Rights groups have raised concerns about the legality of the arrests and forced deportations under international refugee law. Authorities have said they are targeting only undocumented people.
+
+[4] UAE leaves OPEC in blow to oil cartel during war on Iran | Oil and Gas News | Al Jazeera
+Published: 2026-04-28T12:33:10Z
+URL: https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec
+Summary: The UAE has announced its decision to quit OPEC and OPEC+ to focus on national interests, dealing a heavy blow to the oil-exporting groups during the US-Israel war on Iran. The move reflects the UAE's long-term strategic vision, and Energy Minister Suhail Mohamed al-Mazrouei said it was a policy decision not raised with any other country. OPEC's Gulf producers have already been struggling to ship exports through the Strait of Hormuz due to threats and attacks during the war.
+
+[5] ‘War crime’: Afghan-Pakistan truce under strain after university strike | Taliban News | Al Jazeera
+Published: 2026-04-28T12:48:47Z
+URL: https://www.aljazeera.com/news/2026/4/28/war-crime-afghan-pakistan-truce-under-strain-after-university-strike
+Summary: Afghanistan's Taliban authorities say Pakistani mortars and missiles struck a university and residential areas in Kunar province, killing at least seven and wounding more than 80. Pakistan denied the account, saying its targeting is precise and intelligence-based. The competing claims have raised fears that the fragile ceasefire between the two sides might collapse, following peace talks in China that ended without a formal agreement.
+
+[6] What’s in Iran’s latest proposal – and how has the US responded? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-28T12:56:40Z
+URL: https://www.aljazeera.com/news/2026/4/28/whats-in-irans-latest-proposal-and-how-has-the-us-responded
+Summary: Iran has proposed reopening the Strait of Hormuz on the condition that the US lifts its naval blockade and agrees to end the war, while postponing discussions on Iran's nuclear programme. The proposal was conveyed to Washington through Pakistan. Early indications from the Trump administration suggest the plan is unlikely to be accepted in its current form, potentially delaying a permanent end to the US-Israel war on Iran.
+
+[7] How Massie’s Kentucky primary may test Trump’s hold on the Republican Party | US Midterm Elections 2026 News | Al Jazeera
+Published: 2026-04-28T13:51:16Z
+URL: https://www.aljazeera.com/news/longform/2026/4/28/how-massies-kentucky-primary-may-test-trumps-hold-on-the-republican-party
+Summary: President Donald Trump campaigned against fellow Republican Thomas Massie in Kentucky's 4th Congressional District, calling him disloyal. Massie, a seven-term congressman and prominent Trump critic, faces a primary challenge from Ed Gallrein, who is running as Trump's chosen candidate. Polling shows a tighter race than expected, and experts say the results will test Trump's influence over the Republican Party.
+
+[8] Who is Ali al-Zaidi, the businessman named as Iraq’s PM-designate? | Politics News | Al Jazeera
+Published: 2026-04-28T13:51:16Z
+URL: https://www.aljazeera.com/news/2026/4/28/who-is-ali-al-zaidi-the-businessman-named-as-iraqs-pm-designate
+Summary: Iraq's Coordination Framework named Ali al-Zaidi, a 40-year-old multimillionaire businessman, as prime minister-designate to break a months-long political deadlock. Al-Zaidi has no history in political office, holding degrees in law and finance and leading the National Holding Company. His appointment comes after former Prime Minister Nouri al-Maliki withdrew from the race and outgoing PM Mohammed Shia al-Sudani failed to secure a second term.
+
+[9] The cost of 76 years of US wars, from Korea to Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-28T14:30:27Z
+URL: https://www.aljazeera.com/news/2026/4/28/the-cost-of-76-years-of-us-wars-from-korea-to-iran
+Summary: The article breaks down the human and financial cost of US-led wars from Korea to Iran. It notes that 60 days into the US-Israel war on Iran, at least 3,375 people have been killed in Iran, with 13 US combat deaths confirmed. The Cost of War Project estimates US-led wars since 2001 have directly caused about 940,000 deaths. The Trump administration spent $11.3bn on munitions in the first six days of the Iran war.
+
+[10] What is the Azawad Liberation Front, part of the Mali attacks? | Armed Groups News | Al Jazeera
+Published: 2026-04-28T14:40:06Z
+URL: https://www.aljazeera.com/news/2026/4/28/what-is-the-azawad-liberation-front-part-of-the-mali-attacks
+Summary: The Azawad Liberation Front (FLA) is a secessionist group fighting for self-determination in northern Mali, part of coordinated attacks on army bases that killed Defence Minister Sadio Camara. The FLA is the latest in a long history of Tuareg rebellions for an independent state, dating back to the early 1900s. The group joined forces with Jama'at Nusrat al-Islam wal-Muslimin (JNIM) in the weekend offensives.
+
+[11] Is Egypt threatening Israel through its military exercises on the border? | Abdel Fattah el-Sisi News | Al Jazeera
+Published: 2026-04-28T14:50:54Z
+URL: https://www.aljazeera.com/news/2026/4/28/is-egypt-threatening-israel-through-its-military-exercises-on-the-border
+Summary: Egypt's plans to conduct live-fire exercises in Sinai have alarmed Israeli residents near the border, who fear a repeat of conditions preceding the October 7, 2023 attack. The drills were coordinated with Israel under the 1979 peace treaty, but Israeli media report concerns about their proximity. The Forum for Israel's Border Communities said the exercises resemble patterns seen before the Hamas-led incursion, despite no reported link between Egypt and that attack.
+
+[12] Belarus eyes Western ties as it frees journalist Andrzej Poczobut | Prison News | Al Jazeera
+Published: 2026-04-28T15:03:29Z
+URL: https://www.aljazeera.com/news/2026/4/28/belarus-eyes-western-ties-as-it-frees-journalist-andrzej-poczobut
+Summary: Belarus released Polish-Belarusian journalist Andrzej Poczobut from jail as part of a prisoner exchange with Poland, involving 10 prisoners overall. Polish Prime Minister Donald Tusk confirmed the release, noting help from the US, Romania, and Moldova. The move signals Belarusian President Alexandr Lukashenko's desire to improve relations with the West, which have deteriorated due to his support for Russia's invasion of Ukraine.
+
+[13] Maldives police raid news outlet over report alleging president’s affair | Freedom of the Press News | Al Jazeera
+Published: 2026-04-28T15:17:52Z
+URL: https://www.aljazeera.com/news/2026/4/28/maldives-police-raid-news-outlet-over-report-alleging-presidents-affair
+Summary: Police in the Maldives raided the offices of Adhadhu Online and barred its editors from leaving the country after it published a documentary alleging an affair between President Mohamed Muizzu and a former aide. The government defended the operation as a lawful response to what Muizzu called baseless lies. The raid comes amid mounting concerns over press freedom in the Maldives, following a controversial media law passed last year.
+
+[14] FIFA cut World Cup ref following arrest for alleged sexual assault in UK | World Cup 2026 News | Al Jazeera
+Published: 2026-04-28T15:32:21Z
+URL: https://www.aljazeera.com/sports/2026/4/28/ref-in-line-for-world-cup-games-arrested-for-alleged-sexual-assault-in-uk
+Summary: FIFA said a match official who was a potential pick for the men's World Cup will not be considered for any FIFA competition matches after being arrested for an alleged sexual assault of a teenage boy in the UK. UEFA also said it will not select the official for its games. The official, who was not identified, was released on bail by the Metropolitan Police.
+
+[15] Gulf leaders meet in Saudi Arabia for first time since start of war on Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-28T15:54:20Z
+URL: https://www.aljazeera.com/news/2026/4/28/gulf-leaders-meet-in-saudi-arabia-for-first-time-since-start-of-war-on-iran
+Summary: Gulf leaders gathered in Jeddah for their first in-person meeting since the start of the US-Israel war on Iran, discussing regional developments and coordination. The summit embodied a unified Gulf stance towards the war, according to Qatar's emir. The talks took place as the US considers an Iranian proposal to end the war and reopen the Strait of Hormuz, and coincided with the UAE's decision to withdraw from OPEC.
+
+================================================================================
 RUN TIME UTC: 2026-04-28T11:45:57Z
 WINDOW: Last 6 hours
 ARTICLES USED: 22
