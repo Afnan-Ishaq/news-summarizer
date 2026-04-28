@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-04-28T07:31:39Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a major Mexican cartel commander's arrest, a deadly attack in Nigeria, rising oil prices amid Iran's Strait of Hormuz proposal, FIFA's tailgating reversal for the Boston World Cup, a suspected North Korea sanctions breach, a Colombia highway bombing, the firing of the US National Science Board, and diplomatic developments on day 60 of the Iran war.
+
+ARTICLE BREAKDOWN
+[1] Mexico’s Jalisco drug cartel commander ‘El Jardinero’ found hiding in ditch
+Published: 2026-04-28T03:52:05Z
+URL: https://www.aljazeera.com/news/2026/4/28/mexicos-jalisco-drug-cartel-commander-el-jardinero-found-hiding-in-ditch
+Summary: Mexican special forces arrested Audias Flores, known as 'El Jardinero', a top commander of the Jalisco New Generation Cartel, in Nayarit without a single shot being fired. He was found hiding in a drainage ditch after months of surveillance involving over 500 troops and six helicopters. Flores, a potential successor to the slain cartel leader 'El Mencho', controlled drug networks along Mexico's Pacific coast and is wanted by US authorities. His financial operator, Cesar Alejandro 'N', was also arrested in a separate operation in Zapopan.
+
+[2] Gunmen kill at least 29 in Nigeria’s northeast Adamawa State
+Published: 2026-04-28T04:43:05Z
+URL: https://www.aljazeera.com/news/2026/4/28/gunmen-kill-at-least-29-in-nigerias-northeast-adamawa-state
+Summary: Armed men killed at least 29 people in Guyaku village in Nigeria's Adamawa State in an attack that lasted several hours, with the regional ISIL affiliate claiming responsibility. Governor Ahmadu Umaru Fintiri visited the community and vowed to intensify security operations with military and vigilante groups. The attack occurred on the same day armed attackers abducted 23 children from an orphanage in north-central Nigeria, 15 of whom were later rescued. The article notes that US forces have conducted air raids and deployed troops to northern Nigeria to assist local forces.
+
+[3] Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz
+Published: 2026-04-28T05:13:33Z
+URL: https://www.aljazeera.com/news/2026/4/28/oil-prices-rise-despite-irans-proposal-to-reopen-strait-of-hormuz
+Summary: Oil prices continued to climb, with Brent crude rising more than 2 percent to $110.70 per barrel, despite Iran's proposal to end its blockade of the Strait of Hormuz in exchange for deferring nuclear negotiations with the US. Iranian Foreign Minister Abbas Araghchi shared the proposal with Pakistan, but the US has not publicly commented. The blockade has reduced maritime traffic to a trickle, with only eight vessels crossing the strait on Sunday compared to an average of 129 before the war. Shipping experts warn it will likely take months for energy flows to return to normal even if a deal is reached.
+
+[4] Tailgating to be allowed at Boston World Cup matches as FIFA changes stance
+Published: 2026-04-28T06:05:09Z
+URL: https://www.aljazeera.com/sports/2026/4/28/tailgating-to-be-allowed-at-boston-world-cup-matches-as-fifa-changes-stance
+Summary: FIFA reversed its earlier decision and will allow tailgating at World Cup games at Gillette Stadium in Foxborough, Massachusetts, the Boston World Cup host committee announced. The committee said the shift conforms with local policies that allow tailgating like any other event at the stadium. However, space will be severely reduced, with only about 5,000 parking spots available for public use compared to 20,000 for Patriots games. The Massachusetts Bay Transportation Authority has set train prices at $80 for a round trip from Boston to Foxborough, four times the usual rate.
+
+[5] New Zealand spy plane reports possible North Korea sanctions breach at sea
+Published: 2026-04-28T06:07:02Z
+URL: https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea
+Summary: New Zealand's military said a P-8A Poseidon surveillance aircraft observed a possible ship-to-ship transfer of illicit goods in international waters near North Korea, suspected to be a breach of UN sanctions. The exchange was observed among 35 'vessels of interest' in the Yellow Sea and East China Sea. New Zealand did not disclose what goods were transferred, but noted North Korea typically smuggles refined petroleum imports and exports coal, iron ore, and sand to fund its nuclear and ballistic missile programmes. New Zealand has been a member of the US-led Pacific Security Maritime Exchange since 2018.
+
+[6] At least 20 killed in Colombia highway blast
+Published: 2026-04-28T06:30:58Z
+URL: https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast
+Summary: The death toll from a highway bombing in southwestern Colombia's Cauca region rose to at least 20, including 15 women and five men, with 36 people injured. President Gustavo Petro blamed a 'narco-terrorist group' led by Nestor Vera, known as Ivan Mordisco, a dissident former FARC fighter. The attack, one of the deadliest in Colombia since 2003, occurred near a tunnel on the Pan-American Highway just over a month before national elections. Hundreds of mourners held a vigil in a nearby village, calling for an end to violence.
+
+[7] Trump administration fires all members of US’ National Science Board
+Published: 2026-04-28T06:56:04Z
+URL: https://www.aljazeera.com/economy/2026/4/28/trump-administration-fires-all-members-of-us-national-science-board
+Summary: The Trump administration fired all 22 members of the National Science Board, the policy and advisory arm of the National Science Foundation, without providing a reason. Ex-board member Roger Beachy said the termination email was brief and expressed concern about the future of research and education supported by the agency. Democratic lawmakers blasted the move, with Representative Zoe Lofgren calling it a 'stupid move' that harms science and innovation. The White House and NSF did not immediately respond to requests for comment, and Trump has not publicly confirmed the firings.
+
+[8] Iran war: What’s happening on day 60 as diplomacy gathers pace?
+Published: 2026-04-28T07:06:02Z
+URL: https://www.aljazeera.com/news/2026/4/28/iran-war-whats-happening-on-day-60-as-diplomacy-gathers-pace
+Summary: On day 60 of the Iran war, the Trump administration is reviewing an Iranian peace proposal to reopen the Strait of Hormuz, potentially delaying talks on Iran's nuclear programme. Iranian Foreign Minister Abbas Araghchi met Russian President Vladimir Putin, who said Russia would do everything to halt the war. Dozens of countries called for the urgent reopening of the Strait of Hormuz, while Gulf states aligned with Iran's proposal. Critics noted that Trump's negotiators lack Iran nuclear expertise, and the US condemned Iran's capture of two oil tankers as 'high seas robbery'.
+
+================================================================================
 RUN TIME UTC: 2026-04-28T02:57:49Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
