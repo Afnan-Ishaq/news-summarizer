@@ -1,4 +1,83 @@
 ================================================================================
+RUN TIME UTC: 2026-04-29T11:29:02Z
+WINDOW: Last 6 hours
+ARTICLES USED: 14
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers the economic and geopolitical impacts of the US-Israel war on Iran, including Russia's potential role as a lifeline, India's Chabahar port concerns, and the UK's exposure. Other stories report on global rainforest loss slowing, new World Cup rules on red cards and yellow cards, Indonesia's trial of soldiers for an acid attack, Ukraine targeting the Druzhba pipeline, Palestinian football appeals, Afghan women's refugee team recognition, a spying arrest in Germany, global militarization trends, the UAE's OPEC exit, and Iranian officials' absence from pre-World Cup events.
+
+ARTICLE BREAKDOWN
+[1] Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-29T06:02:48Z
+URL: https://www.aljazeera.com/news/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade
+Summary: Analysts say Moscow could offer a 'lifeline' to Iran amid the Strait of Hormuz blockade, but logistical issues and costs of new trade routes offer little long-term incentive. Economic relations deepened after the US withdrew from the 2015 nuclear deal and Russia's invasion of Ukraine, with trade reaching $4.8bn in 2024, though experts note the relationship remains modest compared to Iran's trade with China or Gulf countries.
+
+[2] Is India’s Chabahar dream in Iran dead? | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-29T07:46:21Z
+URL: https://www.aljazeera.com/features/2026/4/29/is-indias-chabahar-dream-in-iran-dead
+Summary: India's investment in Iran's Chabahar Port faces a dead end after a US sanctions waiver expired, with no signs of revival from Washington. The port is central to India's ambitions for a trade corridor to Afghanistan and Central Asia, bypassing Pakistan, and serves as a strategic counter to China's Gwadar port. India has invested at least $120m in equipping the port, which is also a node of the International North-South Transport Corridor.
+
+[3] ‘Encouraging’: Global rainforest loss slows in 2025 after record year | Climate Crisis News | Al Jazeera
+Published: 2026-04-29T07:48:31Z
+URL: https://www.aljazeera.com/news/2026/4/29/tropical-forest-loss-slows-in-2025-after-record-year-report
+Summary: The world lost 4.3 million hectares of tropical primary rainforest in 2025, down 36% from the previous year, according to WRI and University of Maryland researchers. The slowdown is credited to Brazil's stronger environmental policies under President Lula, though forest loss remains 70% above the level needed to meet the 2030 goal. Fires prompted by climate change threaten to reverse gains, and the El Nino phenomenon is expected to return.
+
+[4] Red card for players covering their mouths in World Cup matches | Football News | Al Jazeera
+Published: 2026-04-29T08:23:31Z
+URL: https://www.aljazeera.com/sports/2026/4/29/red-card-for-players-covering-their-mouths-in-world-cup-matches
+Summary: IFAB approved a new rule allowing referees to give red cards to players who cover their mouths in confrontational situations, following an incident where Benfica's Gianluca Prestianni made abusive comments while hiding his mouth. Another amendment permits red cards for players or team officials who leave the field in protest of a referee's decision. The rules are optional for competition organizers like FIFA, and all 48 World Cup teams will be informed.
+
+[5] ‘Particularly badly exposed’: How the Iran war is hitting the UK | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-29T08:25:33Z
+URL: https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk
+Summary: The UK faces economic woes, political friction, and strategic worries due to the US-Israel war on Iran, with consumer confidence slumping and price rises expected. The UK economy is 'particularly badly exposed' as a big energy importer with weakly anchored inflation expectations, according to an economist. Iranians in the UK are deeply distressed by the conflict, including internet shutdowns and attacks on infrastructure.
+
+[6] Indonesia puts four soldiers on trial over acid attack on activist | Military News | Al Jazeera
+Published: 2026-04-29T08:55:06Z
+URL: https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist
+Summary: Four Indonesian soldiers went on trial in a military court for an acid attack on activist Andrie Yunus, who suffered burns over 20% of his body and lost sight in one eye. The defendants, from the military's Strategic Intelligence Agency, were charged with serious meditated assault, carrying up to 12 years in prison. Prosecutors said the group was angered by Yunus's activism against militarization of the government, but were not acting on official orders.
+
+[7] Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU | News | Al Jazeera
+Published: 2026-04-29T09:20:28Z
+URL: https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu
+Summary: Ukraine aims to stop Russian oil flowing through the Druzhba pipeline to Hungary and Slovakia, which still buy Russian crude despite EU sanctions. The EU unlocked a 90bn-euro loan for Ukraine after Kyiv mended the pipeline, but Ukraine says the money Russia earns from oil sales translates into bombs and bullets. Other EU members have weaned themselves off Druzhba oil, but landlocked Hungary and Slovakia depend on it as their only crude source.
+
+[8] Palestinian football body appeals FIFA ruling on Israel at top sports court | Football News | Al Jazeera
+Published: 2026-04-29T09:46:47Z
+URL: https://www.aljazeera.com/sports/2026/4/29/palestinian-football-body-appeals-fifa-ruling-on-israel-at-top-sports-court
+Summary: The Palestinian Football Association has appealed to the Court of Arbitration for Sport against FIFA's decision not to sanction Israel over clubs in occupied West Bank settlements. PFA Vice President Susan Shalabi called the FIFA decision 'very unjust' and said the appeal was filed on April 20. Visa issues also prevented several PFA representatives from entering Canada for the FIFA Congress.
+
+[9] Afghan women’s refugee team allowed to play in FIFA tournaments | Football News | Al Jazeera
+Published: 2026-04-29T09:48:42Z
+URL: https://www.aljazeera.com/sports/2026/4/29/afghan-womens-refugee-team-allowed-to-play-in-fifa-tournaments
+Summary: FIFA amended its regulations to recognize the Afghan women's refugee team, Afghan Women United, allowing them to represent Afghanistan in international competitions. The team, which fled Taliban rule, could participate in qualification for the 2028 Olympics in Los Angeles. FIFA President Gianni Infantino praised the initiative, and the team is expected to play exhibition matches in June.
+
+[10] Germany arrests Kazakhstan citizen accused of spying for Russia | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-29T10:14:35Z
+URL: https://www.aljazeera.com/news/2026/4/29/kazakh-man-accused-of-spying-for-russia-arrested-in-germany
+Summary: German authorities arrested a Kazakh man, identified as Sergej K, in Berlin on suspicion of spying for Russia since May last year. Prosecutors say he provided details about German military aid for Ukraine, including drone and robotic system companies, and sent photos of NATO convoys. The case is part of a string of espionage plots Germany has uncovered since Russia's invasion of Ukraine.
+
+[11] FIFA confirms new World Cup rule on yellow cards to reduce suspensions | Football News | Al Jazeera
+Published: 2026-04-29T10:44:25Z
+URL: https://www.aljazeera.com/sports/2026/4/29/fifa-confirms-new-world-cup-rule-on-yellow-cards-to-reduce-suspensions
+Summary: FIFA approved a rule change for the 2026 World Cup, cancelling single yellow cards after the group stage and again after the quarterfinals to reduce suspensions. The change reflects the expanded 48-team format with an extra knockout round. FIFA also announced a 15% increase in financial resources for participating teams, totaling $871m.
+
+[12] Five charts that show the rise of global militarisation | Military News | Al Jazeera
+Published: 2026-04-29T11:01:10Z
+URL: https://www.aljazeera.com/news/2026/4/29/five-charts-that-show-the-rise-of-global-militarisation
+Summary: Global military spending rose to $2.88 trillion in 2025, a 2.9% increase from the previous year, according to SIPRI. The US remains the top spender at $954bn, followed by China, Russia, Germany, and India. The article charts the rise of militarization since World War II, noting that 2025 marks the highest levels of military spending in history.
+
+[13] The UAE’s OPEC exit is not about oil; it is the end of Gulf solidarity | OPEC | Al Jazeera
+Published: 2026-04-29T11:22:55Z
+URL: https://www.aljazeera.com/opinions/2026/4/29/the-uaes-opec-exit-is-not-about-oil-it-is-the-end-of-gulf-solidarity
+Summary: The UAE's withdrawal from OPEC and OPEC+ reflects a deep regional rupture with Saudi Arabia, not just technical energy policy issues. The split escalated after Saudi airstrikes targeted an Emirati weapons convoy in Yemen in late 2025. The exit is seen as an act of sovereign disengagement from Saudi tutelage, marking the end of Gulf solidarity.
+
+[14] Iranian officials absent from pre-World Cup football events in Canada | World Cup 2026 News | Al Jazeera
+Published: 2026-04-29T11:24:33Z
+URL: https://www.aljazeera.com/sports/2026/4/29/iranian-officials-absent-from-pre-world-cup-football-events-in-canada
+Summary: Representatives from Iran's football federation were absent from the AFC Congress in Vancouver, and it was unclear if visa issues prevented their attendance. FIFA President Infantino did not discuss moving Iran's World Cup games out of the US due to the war. Iran is scheduled to play in Group G against Belgium, New Zealand, and Egypt, with their first match on June 15.
+
+================================================================================
 RUN TIME UTC: 2026-04-29T07:24:24Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
