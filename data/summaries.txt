@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-29T07:24:24Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+The batch covers a range of international news including Israeli strikes in Lebanon killing rescue workers, Trump's branding on US passports, geopolitical tensions over the Panama Canal and Cuba, Iran's economic challenges amid war and blockade, Europe's climate crisis, a Champions League football match, and a tragic family story in Kashmir.
+
+ARTICLE BREAKDOWN
+[1] Lebanon’s PM slams Israel’s ‘war crimes’ as attack kills 3 rescue workers
+Published: 2026-04-29T03:11:00Z
+URL: https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers
+Summary: Lebanon's Prime Minister Nawaf Salam accused Israel of a 'war crime' after a double Israeli strike in southern Lebanon killed five people, including three civil defence rescue workers. The rescue workers were killed while responding to the initial attack, and the Lebanese army reported two soldiers wounded. Salam and President Joseph Aoun condemned the strikes as violations of international law, despite a US-mediated ceasefire.
+
+[2] Trump to feature on limited-edition US passports for 250th anniversary
+Published: 2026-04-29T03:22:34Z
+URL: https://www.aljazeera.com/news/2026/4/29/trump-to-feature-on-limited-edition-us-passports-for-250th-anniversary
+Summary: US President Donald Trump will appear on a limited-edition passport issued for the country's 250th anniversary, with his portrait and signature incorporated into the design. The commemorative passports will be available to US citizens applying through the Washington Passport Agency starting this summer. This is part of broader efforts by Trump to place his branding on national institutions and initiatives.
+
+[3] US, Latin America countries criticise China’s retaliation over Panama Canal
+Published: 2026-04-29T04:16:50Z
+URL: https://www.aljazeera.com/news/2026/4/29/us-latin-america-countries-criticise-chinas-retaliation-over-panama-canal
+Summary: The US and five Latin American countries issued a joint statement criticizing China for retaliating against Panama after its Supreme Court annulled port contracts held by a Hong Kong-based firm. China detained nearly 70 Panamanian-flagged ships in March, which the signatories called a 'blatant attempt to politicise maritime trade'. US Secretary of State Marco Rubio expressed solidarity with Panama, while China has previously called the court ruling 'absurd'.
+
+[4] US Senate blocks bid to stop Trump using military against Cuba
+Published: 2026-04-29T05:06:22Z
+URL: https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba
+Summary: The US Senate blocked a Democratic-led resolution that would have prevented President Trump from ordering military action against Cuba without congressional approval. The vote was largely along party lines, with Republicans arguing no active hostilities exist against Cuba. Democratic Senator Tim Kaine argued that the US blockade of Cuba already constitutes an act of war.
+
+[5] Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?
+Published: 2026-04-29T06:02:48Z
+URL: https://www.aljazeera.com/features/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade
+Summary: As Iran faces economic consequences from a blockade of the Strait of Hormuz, attention is turning to Russia as a potential economic lifeline. Trade between the two countries has grown since 2018, reaching $4.8 billion in 2024, but experts say it remains modest compared to Iran's trade with China or Gulf countries. Logistical issues and similar industrial profiles limit the potential for a significant long-term economic partnership.
+
+[6] Europe named ‘fastest-warming continent’ in latest climate change report
+Published: 2026-04-29T06:33:58Z
+URL: https://www.aljazeera.com/news/2026/4/29/europe-named-fastest-warming-continent-in-latest-climate-change-report
+Summary: A World Meteorological Organization report found that Europe is the fastest-warming continent, with nearly all of the region experiencing above-average temperatures in 2025. The report highlighted record marine heatwaves, wildfires burning over 1 million hectares, and a nearly 30% reduction in snow cover. Glacier loss was also recorded across Europe, with the second-largest loss observed in Iceland.
+
+[7] PSG vs Bayern Munich: Football players, fans react to Champions League semi
+Published: 2026-04-29T06:35:57Z
+URL: https://www.aljazeera.com/sports/2026/4/29/psg-vs-bayern-munich-football-experts-fans-react-to-champions-league-semi
+Summary: The Champions League semifinal between PSG and Bayern Munich ended in a 5-4 win for PSG, with nine goals scored in a match hailed as one of the greatest ever. Football great Thierry Henry called it 'pure cinema', praising the end-to-end action and individual performances. The match featured standout moments from players like Harry Kane, Khvicha Kvaratskhelia, and Michael Olise.
+
+[8] Iran war: What’s happening on day 61 as UAE exits OPEC?
+Published: 2026-04-29T06:58:07Z
+URL: https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec
+Summary: On day 61 of the Iran war, the UAE announced it will exit OPEC after nearly 60 years, while Gulf leaders condemned Iran's actions in the Strait of Hormuz. US President Trump claimed Iran is in a 'state of collapse' and urged a swift lifting of the blockade. Israeli strikes in southern Lebanon killed three emergency workers, and Houthi rebels voiced support for Iran.
+
+[9] Life in limbo: How Iranians navigate a state of ‘no war, no peace’
+Published: 2026-04-29T06:58:36Z
+URL: https://www.aljazeera.com/economy/2026/4/29/life-in-limbo-how-iranians-navigate-a-state-of-no-war-no-peace
+Summary: Residents of Tehran are enduring a state of 'no war, no peace' as a fragile truce has paused air attacks but not brought stability. The US maritime blockade has devalued the currency and driven up costs, while many homes remain destroyed and displaced residents face housing crises. Psychological and security fears prevent rebuilding, as people worry about renewed conflict.
+
+[10] Two Kashmir brothers: One killed by rebels, another by army 26 years later
+Published: 2026-04-29T07:00:07Z
+URL: https://www.aljazeera.com/news/2026/4/29/two-kashmir-brothers-one-killed-by-rebels-another-by-army-26-years-later
+Summary: In Indian-administered Kashmir, the Mughal family lost two brothers 26 years apart: Ishfaq was killed by armed rebels in 2000, and his younger brother Rashid was shot dead by the Indian army in March 2026 as a suspected rebel. The family rejects the army's claim of an exchange of fire, calling it a 'fake encounter'. Rashid's body was buried in a graveyard for alleged rebels, preventing the family from performing traditional rites.
+
+================================================================================
 RUN TIME UTC: 2026-04-29T02:56:38Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
