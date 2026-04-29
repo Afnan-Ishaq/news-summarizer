@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-04-29T21:07:02Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+A batch of 15 Al Jazeera articles from the last 6 hours covers a range of international news, including UK-Russia diplomatic tensions, the upcoming 48-team World Cup Panini sticker collection, a lawsuit against OpenAI over a Canadian school shooting, US free speech concerns over an FCC probe into ABC, a US Supreme Court ruling on Louisiana's voting map, the UAE quitting OPEC, the US Fed holding interest rates steady, the deportation of Robert Mugabe's son from South Africa, a UK watchdog warning on counterterrorism laws, the US-Iran blockade standoff, Pentagon chief Hegseth's testimony on the Iran war, ex-FBI chief Comey's court appearance over an alleged threat to Trump, Mali's Tuareg rebels demanding Russian withdrawal, Elon Musk's trial against OpenAI, and Ukraine asking Israel to seize a ship carrying allegedly stolen grain.
+
+ARTICLE BREAKDOWN
+[1] UK expels Russian diplomat in tit-for-tat move | Conflict News | Al Jazeera
+Published: 2026-04-29T15:50:27Z
+URL: https://www.aljazeera.com/news/2026/4/29/uk-expels-russian-diplomat-in-tit-for-tat-move-2
+Summary: The United Kingdom has expelled a Russian diplomat in response to Moscow's expulsion of a British embassy employee last month on spying accusations. The UK government informed Russia's ambassador on Wednesday that it was revoking the accreditation of an unnamed Russian diplomat, calling the earlier expulsion 'unjustified'. Diplomatic relations between the UK and Russia have been strained since Russia's full-scale invasion of Ukraine four years ago, with both countries expelling several diplomats since then.
+
+[2] A 48-team World Cup is Panini sticker collectors’ biggest challenge yet | World Cup 2026 News | Al Jazeera
+Published: 2026-04-29T17:21:46Z
+URL: https://www.aljazeera.com/sports/2026/4/29/a-48-team-world-cup-is-panini-sticker-collectors-biggest-challenge-yet
+Summary: This year's World Cup in the US, Canada, and Mexico will feature the largest-ever Panini sticker collection, with 980 unique stickers including 68 'special' ones required to fill a 112-page album. Individual packets of seven stickers retail at 1.25 pounds in the UK, and statistically, more than 1,000 packets may be needed to complete the set, costing around 1,000 pounds. The collection was launched at Wembley Stadium with former England players, and Panini will host live swap shops across the UK in May.
+
+[3] Families sue OpenAI, alleging chatbot aided in Canadian school shooting | Technology News | Al Jazeera
+Published: 2026-04-29T17:33:51Z
+URL: https://www.aljazeera.com/economy/2026/4/29/families-sue-openai-alleging-chatbot-aided-in-canadian-school-shooting
+Summary: Families of victims of a school shooting in Tumbler Ridge, British Columbia, are suing OpenAI in a US federal court, alleging that ChatGPT failed to alert authorities to the shooter's alarming interactions with the chatbot. The lawsuit, filed on behalf of a critically injured 12-year-old, is among over two dozen cases from the community, including wrongful death claims for five children and an educator killed in the February shooting. OpenAI CEO Sam Altman formally apologized for not notifying law enforcement, and the company said it has strengthened safeguards, but the cases are part of a growing wave of lawsuits alleging AI companies failed to prevent harm.
+
+[4] Trump admin probe into ABC amid Kimmel row sparks US free speech concerns | Donald Trump News | Al Jazeera
+Published: 2026-04-29T17:44:15Z
+URL: https://www.aljazeera.com/news/2026/4/29/trump-admin-probe-into-abc-amid-kimmel-row-sparks-us-free-speech-concerns
+Summary: President Donald Trump's critics and free speech advocates are decrying an FCC investigation into the broadcast licenses of several ABC channels, calling the move 'unconstitutional'. The probe was announced after Trump and Melania called for the firing of ABC host Jimmy Kimmel over a joke he told last week. Critics, including Reporters Without Borders and Amnesty International, accuse the FCC of weaponizing its authority to silence Trump critics, while even Republican Senator Ted Cruz criticized the move, saying the FCC should not operate as the 'speech police'.
+
+[5] US top court voids Louisiana voting map amid national redistricting fight | US Midterm Elections 2026 News | Al Jazeera
+Published: 2026-04-29T17:45:00Z
+URL: https://www.aljazeera.com/news/2026/4/29/us-top-court-voids-louisiana-voting-map-amid-national-redistricting-fight
+Summary: The US Supreme Court ruled that Louisiana's electoral map, which created two Black-majority districts, was unconstitutionally drawn, representing a major reinterpretation of the Voting Rights Act. The 6-3 conservative majority held that racist intent must be proven for a map to violate Section 2 of the act, which previously prohibited maps that diluted minority voting power even without proof of intent. Justice Elena Kagan dissented, warning the ruling will require 'smoking-gun evidence' of racism, while the ACLU called it a 'profound betrayal' of the civil rights movement.
+
+[6] UAE quits OPEC: What that means for the Gulf, energy markets and beyond | Oil and Gas News | Al Jazeera
+Published: 2026-04-29T17:47:57Z
+URL: https://www.aljazeera.com/news/2026/4/29/uae-quits-opec-what-that-means-for-the-gulf-energy-markets-and-beyond
+Summary: The United Arab Emirates has decided to quit OPEC to focus on 'national interests' and forge its own path, a move seen as a major blow to the oil cartel. The decision comes after years of dissatisfaction with OPEC's production caps, as the UAE has invested billions to increase its oil production capacity to 5 million barrels per day by 2027. Experts say the departure is unlikely to have an immediate impact on the market due to Iran's control of the Strait of Hormuz, but if the conflict ends, the UAE could potentially flood the market with its extra production.
+
+[7] US Fed holds rates steady, Powell to remain on its board | Business and Economy News | Al Jazeera
+Published: 2026-04-29T18:22:29Z
+URL: https://www.aljazeera.com/economy/2026/4/29/us-fed-holds-rates-steady-in-powells-final-meeting-as-fed-chair
+Summary: The US Federal Reserve held interest rates steady at 3.5 to 3.75 percent, in line with economists' expectations, as the US-Israel war on Iran and subsequent retaliation weigh on the global economy. The decision saw three officials dissent in favor of removing the reference to a future cut, while a fourth dissented in favor of an immediate rate cut, marking the most dissents since 1992. The Fed cited elevated inflation due to rising global energy prices and a stagnant labor market, with petrol prices climbing to an average of $4.22 per gallon.
+
+[8] South Africa to deport Robert Mugabe’s son over firearm offence | Courts News | Al Jazeera
+Published: 2026-04-29T18:38:54Z
+URL: https://www.aljazeera.com/news/2026/4/29/south-africa-to-deport-robert-mugabes-son-over-firearm-offence
+Summary: A Johannesburg magistrate ordered the immediate deportation of Bellarmine Mugabe, the youngest son of the late Zimbabwean President Robert Mugabe, after he pleaded guilty to brandishing a toy gun and being in the country illegally. He was fined $36,000 or faces a two-year prison sentence. His cousin, Tobias Matonhodze, pleaded guilty to attempted murder and other charges and was sentenced to three years in prison, after which he will also be deported to Zimbabwe.
+
+[9] UK’s ‘terrorism’ laws risk overreach, watchdog warns | Protests News | Al Jazeera
+Published: 2026-04-29T18:51:01Z
+URL: https://www.aljazeera.com/news/2026/4/29/uks-terrorism-laws-risk-overreach-watchdog-warns
+Summary: The UK's independent terrorism watchdog, Jonathan Hall, warned that the government risks stretching counterterrorism laws beyond their original purpose by using them against activist groups. His report highlighted the banning of pro-Palestine group Palestine Action, saying the law's broad wording could pull protest activity into terrorism policing without clearer limits. The report also noted growing reliance on counterterrorism laws to police online propaganda and political expression, with Interior Minister Shabana Mahmood saying she would review the recommendations.
+
+[10] Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-29T19:00:03Z
+URL: https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action
+Summary: President Donald Trump said the US will continue its naval blockade of Iran until a nuclear deal is reached, rejecting a proposal from Iran to end its own blockade of the Strait of Hormuz in exchange for lifting the siege. Trump claimed the blockade is 'more effective than the bombing' and that Iran is 'choking like a stuffed pig'. Iran has threatened 'practical and unprecedented action' in response, while the impasse has sent oil prices soaring, with Brent crude futures jumping to more than $119 per barrel.
+
+[11] Pentagon chief Hegseth first public hearing on Iran war: Key takeaways | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-29T19:38:54Z
+URL: https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways
+Summary: US Secretary of Defense Pete Hegseth faced his first public questioning from Congress on the US-Israel war with Iran, where the Pentagon publicly put the price tag of the war at $25 billion for the first time. Hegseth defended the White House's request for a $1.5 trillion defense budget and faced harsh questioning on the war's aims, particularly regarding Iran's nuclear program. Lawmakers grilled Hegseth on contradicting statements about whether Iran's nuclear program was 'obliterated' or an 'imminent threat'.
+
+[12] Ex-FBI chief Comey appears in court over alleged Trump threat | Donald Trump News | Al Jazeera
+Published: 2026-04-29T20:00:46Z
+URL: https://www.aljazeera.com/news/2026/4/29/ex-fbi-chief-comey-appears-in-court-over-alleged-trump-threat
+Summary: Former FBI Director James Comey appeared in a US federal court in Virginia after being indicted over a social media post that prosecutors allege threatened President Donald Trump. Comey turned himself in on two charges, including threatening the life of the president, and his lawyer said he would argue the case is a vindictive prosecution. The case centers on an Instagram post showing seashells arranged to form the number '8647', which Trump supporters say is a coded call for violence, while Comey denies any intent to threaten.
+
+[13] Mali’s Tuareg rebels say Russian fighters must withdraw from country | Military News | Al Jazeera
+Published: 2026-04-29T20:17:55Z
+URL: https://www.aljazeera.com/news/2026/4/29/malis-tuareg-rebels-say-russian-fighters-must-withdraw-from-country
+Summary: Mali's Tuareg rebels, involved in a continuing uprising, have said they want to drive the military government's Russian backers out of the country. A spokesperson for the Azawad Liberation Front said the rebels view Russia's intervention negatively because they supported a government that committed 'serious crimes and massacres'. The rebel alliance launched a coordinated offensive on Saturday, and Mali's defense minister was killed in an assault on his home, with the government saying he was killed by a car bomb.
+
+[14] Musk accuses Altman of betraying OpenAI’s nonprofit founding mission | Technology News | Al Jazeera
+Published: 2026-04-29T20:23:04Z
+URL: https://www.aljazeera.com/economy/2026/4/29/musk-accuses-altman-of-betraying-openais-nonprofit-founding-mission
+Summary: Tech billionaire Elon Musk took the stand for a second day in a trial against OpenAI co-founder Sam Altman, accusing him of betraying promises to keep the company a nonprofit dedicated to humanity's benefit. Musk, who invested about $38 million in OpenAI's early years, said he lost confidence that Altman would maintain the nonprofit mission and alleged Altman tried to 'steal the charity'. OpenAI's lawyers argued Musk's lawsuit is an attempt to undermine the company in favor of his own AI venture, xAI, and said there was never a commitment to remain a nonprofit.
+
+[15] Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-29T20:23:46Z
+URL: https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain
+Summary: Ukraine has asked Israel to seize a vessel carrying grain it says was stolen from areas occupied by Russia, with Ukraine's Prosecutor General requesting that Israel seize the vessel and cargo, take grain samples, and question crew members. The vessel, Panormitis, is headed to the Israeli port of Haifa, but the vessel's management company denied it was carrying any grain from occupied Ukraine, saying all legal documents show the cargo is Russian. Israel's Foreign Minister said the request is being examined, while Ukraine previously summoned Israel's ambassador over what it described as Israeli inaction.
+
+================================================================================
 RUN TIME UTC: 2026-04-29T16:28:35Z
 WINDOW: Last 6 hours
 ARTICLES USED: 19
