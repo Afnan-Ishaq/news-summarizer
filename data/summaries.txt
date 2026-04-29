@@ -1,4 +1,108 @@
 ================================================================================
+RUN TIME UTC: 2026-04-29T16:28:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 19
+
+OVERALL SUMMARY
+A batch of 19 Al Jazeera articles covers a range of topics including the US-Iran conflict and its economic impacts, security crises in Mali and Ukraine, sports events in Qatar and Sri Lanka, and other international news such as a stabbing in London and a Supreme Court case on immigration.
+
+ARTICLE BREAKDOWN
+[1] How US and Iran are playing a crypto cat-and-mouse game over sanctions
+Published: 2026-04-29T11:44:44Z
+URL: https://www.aljazeera.com/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions
+Summary: Iranians and authorities are increasingly using cryptocurrencies to evade US sanctions, with the IRGC accounting for about 50 percent of on-chain activity. The US recently announced sanctions on Iran-linked crypto wallets, freezing $344 million in digital assets, as part of efforts to increase economic pressure on Tehran.
+
+[2] Qatar to host FIFA Under-17 World Cup 2026 in November–December
+Published: 2026-04-29T12:11:18Z
+URL: https://www.aljazeera.com/sports/2026/4/29/qatar-to-host-fifa-under-17-world-cup-2026-in-november
+Summary: Qatar will host the FIFA Under-17 World Cup from November 19 to December 13, 2026, with 48 teams competing. The tournament will be held annually in Qatar until 2029, with matches at Aspire Zone and the final at Khalifa International Stadium.
+
+[3] What role has Russia played in Mali’s security and the Sahel region?
+Published: 2026-04-29T12:12:58Z
+URL: https://www.aljazeera.com/news/2026/4/29/what-role-has-russia-played-in-malis-security-and-the-sahel-region
+Summary: Following large-scale attacks on Malian military bases, analysts question the effectiveness of Russia's military partnership with Mali after reports that Russian forces withdrew from Kidal. The Africa Corps confirmed the withdrawal, but conflict analysts and Malians on social media are questioning the strength of Russian defence support to Sahel countries.
+
+[4] At least three killed, more than 10 injured in Russian attacks on Ukraine
+Published: 2026-04-29T12:14:01Z
+URL: https://www.aljazeera.com/news/2026/4/29/at-least-three-killed-more-than-10-injured-in-russian-attacks-on-ukraine
+Summary: Russian attacks across Ukraine killed at least three people and injured 17, including in Donetsk and Sumy regions. Overnight attacks in Odesa hit a hospital, damaging cardiological and surgical departments, as US-led peace efforts remain stalled.
+
+[5] ‘No more Mr Nice Guy’: Trump warns Iran to ‘get smart’ over stalled talks
+Published: 2026-04-29T12:15:06Z
+URL: https://www.aljazeera.com/news/2026/4/29/no-more-mr-nice-guy-trump-threatens-iran-to-get-smart-in-peace-talks
+Summary: US President Donald Trump warned Iran to 'get smart soon' after a proposal from Tehran to postpone a nuclear deal, posting an AI-generated image with the banner 'NO MORE MR. NICE GUY!' The US has imposed additional financial pressure on Iran, and the Iranian rial dropped to a new record low against the US dollar.
+
+[6] How Hezbollah’s fibre optic drones test Israel’s sophisticated radar system
+Published: 2026-04-29T12:15:33Z
+URL: https://www.aljazeera.com/news/2026/4/29/how-hezbollahs-fibre-optic-drones-test-israels-sophisticated-radar-system
+Summary: Hezbollah has introduced fibre optic-guided FPV attack drones that are immune to electronic jamming and invisible to radar, piercing Israel's defence systems. The drones have caused deep frustration among Israeli commanders, with some units developing improvised defences like hanging nets over positions.
+
+[7] Is Iran’s oil storage nearly full – and will it have to cut production?
+Published: 2026-04-29T12:22:53Z
+URL: https://www.aljazeera.com/economy/2026/4/29/is-irans-oil-storage-nearly-full-and-will-it-have-to-cut-production
+Summary: The US naval blockade of Iranian ports and the Strait of Hormuz has raised concerns that Iran could run out of crude oil storage capacity in 12 to 22 days, according to Kpler analysis. Iran is refusing to allow foreign-flagged ships to pass until the US lifts its own blockade, and the US has opened fire on an Iranian-flagged tanker near the strait.
+
+[8] Rains revive Iraq’s wetlands after years of drought
+Published: 2026-04-29T12:40:22Z
+URL: https://www.aljazeera.com/gallery/2026/4/29/iraqs-marshes-revived-long-awaited-rains-bring-life-back-to-wetlands
+Summary: Long-awaited rains have revived Iraq's Huwaizah Marshes after years of drought, with 85 percent of the wetlands now submerged. Iraq's Water Ministry said reservoirs on the Tigris River are almost full, and activist Ahmed Saleh Neema said the marshes will not dry this summer.
+
+[9] Sri Lanka’s government ‘temporarily’ takes over cricket board
+Published: 2026-04-29T12:40:25Z
+URL: https://www.aljazeera.com/sports/2026/4/29/sri-lanka-cricket-board-quits-at-governments-request-officials
+Summary: Sri Lanka's government has taken temporary control of the country's cricket board to implement structural reforms, following allegations of corruption and mismanagement. Four-time SLC President Shammi Silva resigned along with his committee after the government intervened.
+
+[10] World Boxing allows Russian, Belarusian boxers to compete as neutrals
+Published: 2026-04-29T13:17:25Z
+URL: https://www.aljazeera.com/sports/2026/4/29/world-boxing-allows-russian-belarusian-boxers-to-compete-as-neutrals
+Summary: World Boxing has approved a policy allowing boxers from Russia and Belarus to compete as Individual Neutral Athletes without national flags, anthems, logos, or uniforms. The policy applies across all age-group competitions and took immediate effect after the executive board approved membership applications from the Russian and Belarusian boxing federations.
+
+[11] Suspect arrested after two Jewish people stabbed in London
+Published: 2026-04-29T14:13:33Z
+URL: https://www.aljazeera.com/news/2026/4/29/suspect-arrested-after-two-jewish-people-stabbed-in-london
+Summary: British police arrested a 45-year-old man after two Jewish people were stabbed in Golders Green, London. The incident follows a series of arson attacks on synagogues and community sites in north London, with 26 people arrested for various attacks since the start of the US-Israel war on Iran.
+
+[12] ‘We saw terrible things’: Mali refugees tell of atrocities amid attacks
+Published: 2026-04-29T14:16:17Z
+URL: https://www.aljazeera.com/features/2026/4/29/we-saw-terrible-things-mali-refugees-tell-of-atrocities-amid-attacks
+Summary: Thousands of Malians have fled to Mauritania after witnessing atrocities, including decapitations, as rival armed groups and the Malian army clash. All sides are accused of humanitarian violations, with the Malian army and Russian fighters inflicting more violence on civilians than armed groups combined, according to ACLED.
+
+[13] US Supreme Court hears Haiti, Syria TPS case with wide-ranging implications
+Published: 2026-04-29T15:18:46Z
+URL: https://www.aljazeera.com/news/2026/4/29/us-supreme-court-hears-haiti-syria-tps-case-with-wide-ranging-implications
+Summary: The US Supreme Court heard a case on whether the Trump administration can terminate Temporary Protected Status for Haitians and Syrians, which could affect about 1.3 million people from 17 countries. A lower court ruled the administration's actions were likely motivated by 'racial animus,' but the administration maintains the decision is not reviewable by courts.
+
+[14] Iran’s currency falls to new low as US blockade, sanctions impact trade
+Published: 2026-04-29T15:30:13Z
+URL: https://www.aljazeera.com/news/2026/4/29/irans-currency-falls-to-new-low-as-us-blockade-sanctions-impact-trade
+Summary: The Iranian rial plunged above 1.81 million to the US dollar on the open market, a new low, as the US naval blockade and sanctions impact trade. Iran's non-oil trade dropped about 29 percent in the month the war started, and the government has allocated $1bn from the sovereign wealth fund to buy food.
+
+[15] Over 1.2m in Lebanon expected to face acute hunger: UN-backed report
+Published: 2026-04-29T15:33:32Z
+URL: https://www.aljazeera.com/news/2026/4/29/over-1-2m-in-lebanon-expected-to-face-acute-hunger-report
+Summary: A UN-backed report says 1.24 million people in Lebanon are expected to face acute food insecurity between April and August due to conflict, displacement, and economic pressures. The figure marks a significant deterioration from 874,000 before the war, and a ceasefire has reduced fighting but not resolved the crisis.
+
+[16] Senate panel advances Kevin Warsh’s nomination for US Fed chair
+Published: 2026-04-29T15:55:01Z
+URL: https://www.aljazeera.com/economy/2026/4/29/senate-panel-advances-kevin-warshs-nomination-for-us-fed-chair
+Summary: The Senate Banking Committee approved Kevin Warsh's nomination to become the next US Federal Reserve chair on a party-line vote, advancing it to the full Senate. Warsh's path cleared after the Department of Justice dropped its criminal investigation into current chair Jerome Powell, and Senator Thom Tillis lifted his hold on the nomination.
+
+[17] Why ‘8647’ landed ex-FBI chief Comey in Trump’s crosshairs
+Published: 2026-04-29T16:01:24Z
+URL: https://www.aljazeera.com/news/2026/4/29/why-8647-landed-ex-fbi-chief-comey-in-trumps-crosshairs
+Summary: Former FBI Director James Comey has been indicted on federal charges for posting an image of seashells arranged to spell '8647' on Instagram, which prosecutors say threatened President Trump. The case has raised concerns about political retaliation, and Comey has denied wrongdoing, saying he will fight the charges.
+
+[18] FOIP at 10: Bridging the Indo-Pacific and the Middle East
+Published: 2026-04-29T16:14:16Z
+URL: https://www.aljazeera.com/opinions/2026/4/29/foip-at-10-bridging-the-indo-pacific-and-the-middle-east
+Summary: Japan's ambassador to Qatar writes that Japan is evolving its Free and Open Indo-Pacific vision to address new challenges like economic security and resilient supply chains. Japan emphasizes the need to ensure free navigation through the Strait of Hormuz and is strengthening cooperation with relevant countries and organizations.
+
+[19] Madagascar detains French ex-serviceman over alleged destabilisation plot
+Published: 2026-04-29T16:26:31Z
+URL: https://www.aljazeera.com/news/2026/4/29/madagascar-detains-french-ex-serviceman-over-alleged-destabilisation-plot
+Summary: Madagascar detained a French ex-serviceman and declared a French embassy agent persona non grata over an alleged plot to destabilise the island, including sabotaging power lines. France rejected the accusations as unfounded and summoned Madagascar's charge d'affaires in Paris to protest.
+
+================================================================================
 RUN TIME UTC: 2026-04-29T11:29:02Z
 WINDOW: Last 6 hours
 ARTICLES USED: 14
