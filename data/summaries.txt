@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-04-30T21:02:08Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The batch covers a range of international and US domestic stories, including widening US-Germany tensions over the Iran war, a rights group petitioning for the release of Gaza doctors, a historic drop in US press freedom, Myanmar's Suu Kyi moved to house arrest, FIFA confirming Iran's World Cup participation, Mexico questioning US drug allegations against a governor, US redistricting after a Voting Rights Act ruling, a death sentence in Uganda, the end of a US government shutdown, and Israel's interception of a Gaza aid flotilla detaining journalists.
+
+ARTICLE BREAKDOWN
+[1] Trump slams Germany’s Merz again as rift over Iran war widens | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-30T17:19:58Z
+URL: https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens
+Summary: President Donald Trump renewed attacks on German Chancellor Friedrich Merz, suggesting Merz focus on European affairs rather than criticizing the US-Israel war on Iran. Trump also indicated his administration is considering reducing US troops in Germany, with Berlin stating it is prepared for that possibility. The feud began after Merz questioned Washington's strategy in the conflict, comparing it to past wars in Afghanistan and Iraq.
+
+[2] Israel rights group petitions top court to order release of 14 Gaza doctors | Gaza News | Al Jazeera
+Published: 2026-04-30T17:35:32Z
+URL: https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors
+Summary: Physicians for Human Rights Israel petitioned the Supreme Court to demand the release of 14 Gaza doctors held without charge for over a year, including Dr. Hussam Abu Safia, who has been detained for nearly 18 months. The group says the detentions hinder efforts to rehabilitate Gaza's healthcare system, which has been systematically destroyed during the war. UN experts and Amnesty International have warned of severe torture and a broader pattern aimed at dismantling Gaza's medical infrastructure.
+
+[3] US falls to ‘historic low’ in press freedom tracker: RSF | Donald Trump News | Al Jazeera
+Published: 2026-04-30T17:41:31Z
+URL: https://www.aljazeera.com/news/2026/4/30/us-falls-to-historic-low-in-press-freedom-tracker-rsf
+Summary: The US dropped to 64th place in Reporters Without Borders' annual press freedom index, a historic low, continuing a decade-long decline. The report cited Trump administration policies and media consolidation, including Skydance Media's acquisition of Paramount Global, as factors. RSF's executive director said the US is experiencing a 'press freedom crisis' due to a coordinated war on press freedom by Trump and his administration.
+
+[4] Myanmar’s former leader Aung San Suu Kyi moved to house arrest | Conflict News | Al Jazeera
+Published: 2026-04-30T18:25:35Z
+URL: https://www.aljazeera.com/news/2026/4/30/myanmars-former-leader-aung-san-suu-kyi-moved-from-prison-to-house-arrest
+Summary: Myanmar's former leader Aung San Suu Kyi was moved to house arrest as part of a larger prisoner pardon tied to a Buddhist holiday, with her sentence reduced to 18 years. State media broadcast the first public image of her in years, seated on a bench flanked by uniformed personnel. The UN welcomed the move as a 'meaningful step' towards a credible political process, while reiterating calls for the release of all political prisoners.
+
+[5] Iran will play World Cup games in US according to FIFA chief Infantino | World Cup 2026 News | Al Jazeera
+Published: 2026-04-30T19:10:47Z
+URL: https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino
+Summary: FIFA President Gianni Infantino confirmed Iran will play World Cup matches in the US despite the US-Israel war on Iran, rejecting Tehran's request for alternative venues. Iran's delegation was absent from the FIFA congress after being denied entry into Canada due to ties to the Islamic Revolutionary Guard Corps. Infantino emphasized the unifying role of football, while US Secretary of State Marco Rubio said players could participate but not bring individuals linked to the IRGC.
+
+[6] Mexico’s Sheinbaum questions US claims of drug ties to Sinaloa governor | Corruption News | Al Jazeera
+Published: 2026-04-30T19:31:44Z
+URL: https://www.aljazeera.com/news/2026/4/30/mexico-sheinbaum
+Summary: Mexican President Claudia Sheinbaum cast doubt on US accusations that Sinaloa Governor Ruben Rocha collaborated with the Sinaloa cartel, saying the claims lack credibility without clear evidence. US prosecutors unsealed an indictment charging Rocha and nine others with alleged links to the cartel, including interfering in the 2021 gubernatorial election. Rocha denied the allegations, calling them politically driven, and said he would challenge them.
+
+[7] Trump says Tennessee next to redistrict after US Voting Rights Act ruling | US Midterm Elections 2026 News | Al Jazeera
+Published: 2026-04-30T19:39:26Z
+URL: https://www.aljazeera.com/news/2026/4/30/trump-says-tennessee-next-to-redistrict-after-us-voting-rights-act-ruling
+Summary: President Trump said Tennessee will redraw its electoral map following a Supreme Court ruling that weakened the Voting Rights Act, which raised the bar for proving racial discrimination in redistricting. The ruling has sparked calls from Republicans to revisit maps in several states ahead of the midterm elections, with Florida already passing a new map expected to favor Republicans. The decision could imperil Black majority districts across the country, as Black voters have historically leaned Democratic.
+
+[8] Uganda court sentences man to death for killing four children at nursery | Child Rights News | Al Jazeera
+Published: 2026-04-30T20:05:09Z
+URL: https://www.aljazeera.com/news/2026/4/30/uganda-court-sentences-man-to-death-for-killing-four-children-at-nursery
+Summary: A Ugandan court sentenced Christopher Okello Onyum to death for fatally stabbing four children aged one to three at a nursery school in Kampala. The court heard he had searched for 'schools near me' and 'ISIS beheadings' before the attack, indicating premeditation, and rejected his insanity defense. The judge noted he showed no remorse, as capital punishment is legal but rarely carried out in Uganda.
+
+[9] US passes law to resume DHS funding and end partial government shutdown | Police News | Al Jazeera
+Published: 2026-04-30T20:12:34Z
+URL: https://www.aljazeera.com/news/2026/4/30/us-congress-passes-bill-to-resume-funding-for-dhs-and-end-partial-shutdown
+Summary: President Trump signed a bill to resume funding for the Department of Homeland Security, ending an 11-week partial government shutdown that left many federal workers without pay. The bill excluded Immigration and Customs Enforcement and Customs and Border Protection, which have ample funding through other laws. The impasse was spurred by Democratic demands for reforms to ICE, including banning agents from wearing masks and ending raids on sensitive locations, which Republicans rejected.
+
+[10] RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla | Freedom of the Press News | Al Jazeera
+Published: 2026-04-30T20:26:08Z
+URL: https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla
+Summary: Reporters Without Borders condemned Israel for 'kidnapping' three journalists, including Al Jazeera's Hafed Mribah and Mahmut Yavuz, from the Gaza-bound Global Sumud Flotilla in international waters. Israel intercepted 22 of 58 vessels, detaining 211 people, and said it would transport detainees to Greece. Al Jazeera expressed deep concern for its journalists' safety and called for international action against Israel's violations of international law.
+
+[11] Trumps says Iran can play at World Cup in US after FIFA confirmation | World Cup 2026 News | Al Jazeera
+Published: 2026-04-30T20:48:59Z
+URL: https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation
+Summary: President Trump told reporters he is 'OK' with Iran playing in the 2026 World Cup in the US, following FIFA President Infantino's confirmation that Iran will participate as scheduled. Iran's participation had been uncertain due to the US-Israel war on Iran, and its delegation was absent from the FIFA congress after a clash with Canadian border officials over ties to the Islamic Revolutionary Guard Corps. Iran is set to face New Zealand, Belgium, and Egypt in Group G, based in Tucson, Arizona.
+
+================================================================================
 RUN TIME UTC: 2026-04-30T16:20:39Z
 WINDOW: Last 6 hours
 ARTICLES USED: 21
