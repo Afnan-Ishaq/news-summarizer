@@ -1,4 +1,118 @@
 ================================================================================
+RUN TIME UTC: 2026-04-30T16:20:39Z
+WINDOW: Last 6 hours
+ARTICLES USED: 21
+
+OVERALL SUMMARY
+The batch covers a wide range of topics including sports (Mainoo's contract, Sawe's record, Vonn's crash, LIV Golf, FIFA Congress), geopolitical tensions (Iran war costs, shadow fleet in Hormuz, US-China Panama Canal dispute, Mali crisis), regional impacts (Pakistan fuel crisis, Gulf projects), human rights and legal issues (Tunisia's Ghannouchi, US Voting Rights Act, Indonesia acid attack, Gaza flotilla interception, media access to Gaza), and opinion pieces on Russia-Iran relations and Western feminism.
+
+ARTICLE BREAKDOWN
+[1] Manchester United’s Kobbie Mainoo signs new five-year deal | Football News | Al Jazeera
+Published: 2026-04-30T11:42:41Z
+URL: https://www.aljazeera.com/sports/2026/4/30/manchester-uniteds-kobbie-mainoo-signs-new-five-year-deal
+Summary: Kobbie Mainoo has signed a new contract with Manchester United until 2031, ending speculation about his future after losing his place under former manager Ruben Amorim. The 21-year-old midfielder, who joined the club's academy in 2014, has made 98 appearances and scored in the 2024 FA Cup final. Interim head coach Michael Carrick restored him to the starting lineup, and director of football Jason Wilcox praised Mainoo as a naturally gifted young footballer.
+
+[2] Tracking the shadow fleet: How Iran evaded the US naval blockade in Hormuz | Investigation | Al Jazeera
+Published: 2026-04-30T11:54:29Z
+URL: https://www.aljazeera.com/economy/2026/4/30/tracking-the-shadow-fleet-how-iran-evaded-the-us-naval-blockade-in-hormuz
+Summary: An Al Jazeera investigation tracked 202 voyages by 185 vessels through the Strait of Hormuz between March 1 and April 15, revealing how a shadow fleet using fake flags and disabled signals evaded the US naval blockade imposed on April 13. Of the tracked voyages, 77 were linked to Iran, and 61 ships were on international sanctions lists. The investigation divided the conflict into three phases, showing that traffic continued despite the blockade and attacks.
+
+[3] Soaring fuel prices in Pakistan threaten economic and political crises | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-30T12:09:04Z
+URL: https://www.aljazeera.com/economy/2026/4/30/soaring-fuel-prices-in-pakistan-threaten-economic-and-political-crises
+Summary: Pakistan faces a severe fuel price shock, with the oil import bill surging from $300 million to $800 million, erasing two years of economic progress. Analysts warn of cascading effects on agriculture, transport, and food prices, worsening the cost-of-living crisis. The State Bank raised its key policy rate to 11.5 percent, and the government is caught between passing on costs to consumers or subsidizing fuel under strict IMF supervision.
+
+[4] Russia has given Iran something more important than weapons | US-Israel war on Iran | Al Jazeera
+Published: 2026-04-30T12:38:43Z
+URL: https://www.aljazeera.com/opinions/2026/4/30/russia-has-given-iran-something-more-important-than-weapons
+Summary: An opinion piece argues that Russia's political backing of Iran and opposition to military escalation have been more consequential than military aid. Moscow prioritizes resolving the conflict to avoid negative consequences like a humanitarian crisis in Iran or global economic slowdown. Iran has achieved a favorable diplomatic position, with the US and Israel finding little support from other major powers, including European NATO allies, China, and India.
+
+[5] Israeli attacks kill 14 people in southern Lebanon despite ceasefire | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-30T12:40:45Z
+URL: https://www.aljazeera.com/news/2026/4/30/israel-kills-nine-people-in-southern-lebanon-despite-ceasefire
+Summary: Israeli attacks on southern Lebanon have killed at least 14 people, including four members of one family, despite a US-mediated ceasefire. In the past 24 hours, more than 20 people were killed, including two Lebanese army soldiers and three paramedics. Lebanese President Joseph Aoun denounced the violations, and Parliament Speaker Nabih Berri called for an international fact-finding committee.
+
+[6] Tunisia’s jailed opposition leader Ghannouchi rushed to hospital | Civil Rights News | Al Jazeera
+Published: 2026-04-30T12:48:29Z
+URL: https://www.aljazeera.com/news/2026/4/30/tunisias-jailed-opposition-leader-ghannouchi-rushed-to-hospital
+Summary: Jailed Tunisian opposition leader Rached Ghannouchi, 84, has been urgently transferred to a hospital after a sharp deterioration in his health, his Ennahdha party announced. Ghannouchi has been imprisoned since April 2023 on charges his supporters describe as politically motivated. The party demands his immediate release, citing a UN committee's conclusion that he is being prosecuted for his freedom of opinion.
+
+[7] Kenya gives hero’s welcome to marathon record-breaker Sabastian Sawe | Athletics News | Al Jazeera
+Published: 2026-04-30T12:50:07Z
+URL: https://www.aljazeera.com/sports/2026/4/30/kenya-gives-heros-welcome-to-marathon-record-breaker-sabastian-sawe
+Summary: Marathon record-breaker Sabastian Sawe received a hero's welcome in Kenya after posting the first sub-two-hour marathon time of 1:59:30 at the London Marathon. President William Ruto awarded him $62,064 and a car, and his aircraft was greeted with a water cannon salute at the airport. Fans and family celebrated his achievement, with his mother recalling his speed as a child.
+
+[8] World’s top media outlets urge Israel to allow independent access to Gaza | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-30T12:52:52Z
+URL: https://www.aljazeera.com/news/2026/4/30/media-organisations-call-on-israel-to-allow-independent-access-to-gaza
+Summary: Executives from over two dozen top media organizations, including the BBC, CNN, and Reuters, have signed a joint letter calling on Israel to allow foreign journalists independent access to Gaza. The ban has been in place since October 2023, and the editors argue that with a ceasefire in place, journalists should be allowed in. More than 200 Palestinian journalists have been killed since the war began.
+
+[9] $25bn or $1 trillion: How much has Iran war really cost the US? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-30T12:53:19Z
+URL: https://www.aljazeera.com/news/2026/4/30/25bn-or-1-trillion-how-much-has-iran-war-really-cost-the-us
+Summary: US Defense Secretary Pete Hegseth clashed with lawmakers over the cost of the Iran war, with the Pentagon estimating $25 billion spent on munitions and equipment. Democratic leaders and economists argue the actual cost to the US economy could be between $630 billion and $1 trillion. The Trump administration has requested a $1.5 trillion defense budget for next year, a 42 percent increase.
+
+[10] Why are Western feminists silent on the war on Iranian women? | Women's Rights | Al Jazeera
+Published: 2026-04-30T13:00:56Z
+URL: https://www.aljazeera.com/opinions/2026/4/30/why-are-western-feminists-silent-on-the-war-on-iranian-women
+Summary: An opinion piece by an Iranian academic criticizes Western feminists for being silent on the killing of Iranian women and girls by US and Israeli missiles, contrasting it with their vocal support for the 2022 protests. The author highlights the missile strike on a girls' school in Minab that killed over 165 children, arguing that such violence is a feminist issue. The piece claims this silence reflects a selective solidarity that determines which gendered violence is recognized.
+
+[11] Mali crisis: Who are the key leaders to know about? | Armed Groups News | Al Jazeera
+Published: 2026-04-30T13:29:26Z
+URL: https://www.aljazeera.com/news/2026/4/30/mali-crisis-who-are-the-key-leaders-to-know-about
+Summary: Armed violence has intensified in Mali since Saturday, with al-Qaeda-linked JNIM and Tuareg separatists attacking military bases and taking control of Kidal. Malian Defence Minister Sadio Camara was killed, and armed groups have announced a siege on Bamako. The article profiles key leaders, including Colonel Assimi Goita, who led coups in 2020 and 2021 and has turned to Russian mercenaries for defense.
+
+[12] Hormuz effect? How US, China are ramping up tensions over the Panama Canal | Shipping News | Al Jazeera
+Published: 2026-04-30T13:36:27Z
+URL: https://www.aljazeera.com/news/2026/4/30/hormuz-effect-how-us-china-are-ramping-up-tensions-over-the-panama-canal
+Summary: The Panama Canal has become a new maritime flashpoint, with the US and its allies accusing China of detaining Panama-linked ships, which China denies. Analysts warn that disruption to the canal could significantly disrupt global trade. This standoff comes amid tensions over the Strait of Hormuz, pointing to a broader shift in major powers contesting control of global shipping lanes.
+
+[13] Has the US Supreme Court weakened the Voting Rights Act – and how? | Civil Rights News | Al Jazeera
+Published: 2026-04-30T13:42:03Z
+URL: https://www.aljazeera.com/news/2026/4/30/has-the-us-supreme-court-weakened-the-voting-rights-act-and-how
+Summary: The US Supreme Court has voided a key provision of the Voting Rights Act by ruling that Louisiana's electoral map, which created two Black-majority districts, was unconstitutional. The 6-3 conservative majority decision is seen as a win for Republicans and is expected to make it harder for minorities to challenge electoral maps. The ruling blocks a map that had given Louisiana a second Black-majority congressional district.
+
+[14] Indonesian soldiers accused of acid attack. What happened and why? | Human Rights News | Al Jazeera
+Published: 2026-04-30T13:44:11Z
+URL: https://www.aljazeera.com/news/2026/4/30/indonesian-soldiers-accused-of-acid-attack-what-happened-and-why
+Summary: Four Indonesian soldiers are on trial for an acid attack on activist Andrie Yunus, who was left blind in one eye and with burns on over 20 percent of his body. Yunus had been a vocal critic of expanding the military's role in civilian governance. Analysts say the attack is part of a broader pattern of repression amid concerns over democratic backsliding and rising military influence.
+
+[15] US military equipment worth billions of dollars destroyed in Iran war | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-30T13:47:40Z
+URL: https://www.aljazeera.com/news/2026/4/30/us-military-equipment-worth-billions-of-dollars-destroyed-in-iran-war
+Summary: The Center for Strategic and International Studies estimates that US military equipment worth between $2.3 billion and $2.8 billion has been destroyed in the Iran war, including a $700 million radar surveillance plane. Losses resulted from Iranian missiles and drones, as well as friendly fire incidents. The estimate does not include losses at US bases in the region or naval assets.
+
+[16] Lindsey Vonn not ready to decide if she’ll ski again after Olympics crash | Winter Olympics News | Al Jazeera
+Published: 2026-04-30T14:21:03Z
+URL: https://www.aljazeera.com/sports/2026/4/30/vonn-not-ready-to-decide-if-shell-ski-again-after-winter-olympics-crash
+Summary: Lindsey Vonn is still recovering from a complex left leg fracture suffered in a crash at the Winter Olympics, which nearly led to amputation. The 41-year-old has undergone eight surgeries and needs at least one more, and a return to skiing is at least a year and a half away. Vonn said she is not emotionally ready to decide whether to retire or race again.
+
+[17] ‘Act of piracy’: World reacts to Israeli interception of Gaza aid flotilla | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-04-30T14:42:30Z
+URL: https://www.aljazeera.com/news/2026/4/30/act-of-piracy-world-reacts-to-israeli-interception-of-gaza-aid-flotilla
+Summary: Israel intercepted 22 of 58 aid ships from the Global Sumud Flotilla in international waters, detaining 211 activists. Italy, Germany, Spain, and Turkiye condemned the seizure, with Turkiye calling it an act of piracy. The flotilla organizers and Hamas also condemned the interception, accusing Israel of violating international law.
+
+[18] From railways to energy — five strategic projects linking Gulf states | Economy News | Al Jazeera
+Published: 2026-04-30T14:50:54Z
+URL: https://www.aljazeera.com/economy/2026/4/30/from-railways-to-energy-five-strategic-projects-linking-gulf
+Summary: Gulf leaders met in Riyadh to expedite joint projects under the GCC, including a railway network, electrical interconnection grid, and other initiatives. The war with Iran has converted these projects from economic aspirations into security necessities, according to analysts. The railway project aims to connect all six member states, while the power grid is already operational.
+
+[19] Iran, protests, human rights – all to know about the 76th FIFA Congress | Football News | Al Jazeera
+Published: 2026-04-30T14:56:36Z
+URL: https://www.aljazeera.com/sports/2026/4/30/iran-protests-human-rights-all-to-know-about-the-76th-fifa
+Summary: The 76th FIFA Congress in Canada will be overshadowed by the US-Israeli war on Iran and the Iranian delegation's departure after alleged mistreatment by immigration officials. The congress will focus on the 48-team World Cup, and Amnesty International has called on FIFA to detail how human rights will be safeguarded at the tournament.
+
+[20] Saudi Arabia to end LIV Golf funding, while league appoints new chairman | Golf News | Al Jazeera
+Published: 2026-04-30T14:59:09Z
+URL: https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing
+Summary: Saudi Arabia's Public Investment Fund will end funding for LIV Golf after the 2026 season, and the league has appointed a new board with Gene Davis as chairman. LIV Golf is seeking to move towards an investment model with multiple partners and team franchises. The league expects 10 of its 13 teams to be profitable this year.
+
+[21] Africa backing Infantino for unique fourth term as FIFA president | World Cup 2026 News | Al Jazeera
+Published: 2026-04-30T15:26:37Z
+URL: https://www.aljazeera.com/sports/2026/4/30/africa-backing-infantino-for-unique-fourth-term-as-fifa-president
+Summary: The Confederation of African Football has unanimously agreed to support Gianni Infantino's bid for a fourth term as FIFA president in 2027. Infantino took over in 2016 and was re-elected in 2019 and 2023, and is allowed to run again because his first partial term did not count towards the three-term limit. South American football's governing body CONMEBOL has also pledged support.
+
+================================================================================
 RUN TIME UTC: 2026-04-30T11:28:47Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
