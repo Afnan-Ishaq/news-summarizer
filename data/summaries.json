@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-04-30T07:28:23Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "A batch of Al Jazeera articles covers a US indictment of Mexican officials for cartel links, surging oil prices amid the US-Iran war, a New Zealand court denying a mosque shooter's appeal, Europe's mutual defence clause, India's controversial border plan, Iranian officials missing a FIFA Congress, and the potential for a protracted US-Iran conflict.",
+    "articles": [
+      {
+        "title": "US indicts Sinaloa governor, 9 others over Mexican drug cartel links",
+        "url": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links",
+        "published": "2026-04-30T03:12:47Z",
+        "summary": "US prosecutors have indicted Sinaloa Governor Ruben Rocha Moya and nine others for allegedly working with the Sinaloa drug cartel to traffic narcotics into the US in exchange for political support and bribes. The indictment claims cartel operatives helped secure Rocha Moya's 2021 election victory by kidnapping opponents and stealing ballots. Rocha Moya has rejected the charges as baseless and politically motivated."
+      },
+      {
+        "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+        "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports",
+        "published": "2026-04-30T04:06:50Z",
+        "summary": "Oil prices surged over 6% on Wednesday due to concerns about prolonged supply disruptions in the Strait of Hormuz and a US siege of Iranian ports amid the US-Israel war on Iran. US crude settled at $106.88 per barrel, and Brent crude reached $118.03, with further rises on Thursday. A White House official said President Trump discussed with oil companies how to mitigate the impact of a potentially months-long blockade."
+      },
+      {
+        "title": "New Zealand court denies bid by mosque mass shooter to appeal conviction",
+        "url": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction",
+        "published": "2026-04-30T04:54:50Z",
+        "summary": "New Zealand's Court of Appeal denied Brenton Tarrant's appeal to overturn his conviction and sentence for the 2019 Christchurch mosque shootings that killed 51 people. The court ruled his attempt to overturn his guilty plea was 'utterly devoid of merit,' rejecting his claim that 'torturous' detention conditions affected his decision. The judges found his pleas were voluntary and he was not coerced."
+      },
+      {
+        "title": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
+        "url": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence",
+        "published": "2026-04-30T05:23:55Z",
+        "summary": "European leaders are exploring the EU's Article 42.7 mutual defence clause amid tensions with the US over NATO, as President Trump has criticized allies and questioned the alliance's value. Article 42.7 obliges EU members to aid a member under armed attack, but unlike NATO's Article 5, it lacks an integrated military command or US backing. The shift comes as the US-Israel war on Iran has deepened rifts."
+      },
+      {
+        "title": "Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border?",
+        "url": "https://www.aljazeera.com/features/2026/4/30/why-is-india-turning-to-crocodiles-and-snakes-to-fence-bangladesh-border",
+        "published": "2026-04-30T05:58:25Z",
+        "summary": "Indian officials have proposed introducing crocodiles and venomous snakes into riverine stretches along the Bangladesh border to deter undocumented migration and smuggling where fencing is difficult. The Border Security Force ordered an exploration of deploying reptiles in vulnerable gaps, alarming human rights activists and wildlife conservationists. Critics argue the plan is dangerous and inhumane, as the animals could not distinguish between nationals."
+      },
+      {
+        "title": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada",
+        "published": "2026-04-30T06:22:58Z",
+        "summary": "An Iranian football federation delegation, including President Mehdi Taj, turned back at Toronto's airport due to alleged mistreatment by immigration officials, despite holding valid visas, and will miss the FIFA Congress in Vancouver. Canada indicated Taj was denied entry due to alleged ties with the Islamic Revolutionary Guard Corps, which Canada listed as a terrorist organization in 2024. The incident highlights political obstacles surrounding Iran's World Cup participation."
+      },
+      {
+        "title": "Could the US-Iran war become a protracted ‘frozen’ conflict?",
+        "url": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict",
+        "published": "2026-04-30T07:03:07Z",
+        "summary": "Two months into the US-Israel war on Iran, negotiations are deadlocked, with blockades in the Strait of Hormuz disrupting energy supplies and Iran's nuclear programme unresolved. Analysts suggest a low-intensity 'frozen' conflict with periodic strikes is possible, but experts warn it is costly for both sides. The Quincy Institute estimates US costs at $20-25 billion in the first month, with a ground operation potentially requiring $55 billion monthly."
+      }
+    ]
+  },
+  {
     "time": "2026-04-30T02:57:16Z",
     "window_hours": 6,
     "article_count": 3,
