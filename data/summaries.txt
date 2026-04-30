@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-04-30T11:28:47Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+The batch covers the ongoing US-Iran war on day 62, with Trump claiming success for the blockade and Iran pushing back; NBA playoffs where the Rockets forced a Game 6 against the Lakers; a 13-game ban for a Zaragoza goalkeeper after a punch; Myanmar reducing Aung San Suu Kyi's sentence via a blanket amnesty; Pakistan opening overland trade routes to Iran amid the Hormuz blockade; a global press freedom decline to a 25-year low; environmental disaster in Russia from Ukrainian strikes on oil refineries; a rise in caesarean sections in Gaza amid health system collapse; an investigation into whether Israel targeted civilians or Hezbollah in Lebanon; and an opinion piece on Somalia's growing role in global security forums.
+
+ARTICLE BREAKDOWN
+[1] Iran war: What’s happening on day 62 as Trump asks Iran to ‘give up’? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-30T07:30:35Z
+URL: https://www.aljazeera.com/news/2026/4/30/iran-war-whats-happening-on-day-62-as-trump-asks-iran-to-give-up
+Summary: US President Donald Trump says the blockade of Iranian ports is working and urges Tehran to 'give up,' but Iran's Parliament Speaker Mohammad Bagher Ghalibaf dismisses the campaign as ineffective. Tensions in the Strait of Hormuz have pushed oil prices above $120 a barrel and US petrol prices to a four-year high. The article also covers Putin warning Trump not to resume attacks on Iran, sticking points in US-Iran negotiations, and Iran condemning Bahrain's citizenship revocations.
+
+[2] Rockets defeat Lakers in Reaves’s return, force Game 6 in NBA playoffs | Basketball News | Al Jazeera
+Published: 2026-04-30T08:00:03Z
+URL: https://www.aljazeera.com/sports/2026/4/30/rockets-defeat-lakers-in-reavess-return-force-game-6-in-nba-playoffs
+Summary: The Houston Rockets defeated the Los Angeles Lakers 99-93 in Game 5, forcing a Game 6 despite trailing 3-0 in the series. Jabari Smith Jr scored 22 points and Tari Eason added 18 for the Rockets, who played without injured star Kevin Durant. Austin Reaves returned from injury with 22 points off the bench for the Lakers, but the team could not close out the series.
+
+[3] Zaragoza goalkeeper given 13-game ban after derby punch provoked brawl | Football News | Al Jazeera
+Published: 2026-04-30T08:10:20Z
+URL: https://www.aljazeera.com/sports/2026/4/30/zaragoza-goalkeeper-given-13-game-ban-after-derby-punch-provoked-brawl
+Summary: Real Zaragoza goalkeeper Esteban Andrada received a 13-match ban from the Spanish Football Federation after punching Huesca captain Jorge Pulido in the face following a second yellow card. The incident provoked a brawl, and Andrada later apologized. Huesca keeper Dani Jimenez was suspended for four games for punching Andrada during the melee, and Zaragoza's Dani Tasende received a two-game ban.
+
+[4] Myanmar’s blanket prison term reduction trims Aung San Suu Kyi’s sentence | Aung San Suu Kyi News | Al Jazeera
+Published: 2026-04-30T08:22:27Z
+URL: https://www.aljazeera.com/news/2026/4/30/myanmar-mass-prison-sentence-cut-trims-aung-san-suu-kyis-sentence
+Summary: Myanmar President Min Aung Hlaing reduced all prisoners' sentences by one-sixth, further cutting deposed leader Aung San Suu Kyi's sentence. Her legal team member said the 80-year-old will now serve about 18 years, down from an original 33-year sentence. Suu Kyi has been imprisoned since the 2021 coup and remains popular, but her family warns of her deteriorating health.
+
+[5] Pakistan opens up road trade routes into Iran amid Hormuz blockade | US-Israel war on Iran News | Al Jazeera
+Published: 2026-04-30T08:44:51Z
+URL: https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade
+Summary: Pakistan opened six overland transit routes for goods destined for Iran, formalizing a road corridor as thousands of containers remain stranded at Karachi port due to the US blockade of Iranian ports. The move coincided with Iranian Foreign Minister Abbas Araghchi's visit to Islamabad for talks. The shortest route, Gwadar-Gabd, reduces travel time to the Iranian border to two to three hours and could cut transport costs by up to 55 percent.
+
+[6] Press freedom worldwide falls to its lowest level in 25 years | Freedom of the Press News | Al Jazeera
+Published: 2026-04-30T09:07:01Z
+URL: https://www.aljazeera.com/news/2026/4/30/global-press-freedom-falls-to-its-lowest-level-in-25-years
+Summary: Reporters Without Borders reports that press freedom has fallen to its lowest level in 25 years, with more than half of the world's countries in the 'difficult' or 'very serious' categories. The US fell seven places since President Trump took office, and RSF cited his systematic attacks on the press. The report also highlights dangers for journalists in Eastern Europe and the Middle East, and notes that over 220 journalists have been killed in Gaza since October 2023.
+
+[7] Environmental disaster fears grip Russia as Ukraine targets oil refineries | Russia-Ukraine war News | Al Jazeera
+Published: 2026-04-30T09:40:33Z
+URL: https://www.aljazeera.com/news/2026/4/30/its-all-very-toxic
+Summary: Ukrainian drone strikes on Russia's Tuapse refinery have caused an ecological disaster, with black rain falling and oil spills contaminating the area. The attacks, which occurred three times in April, released toxic chemicals and caused fires lasting days. Volunteers are cleaning animals covered in oil, and authorities are working to contain the spill in the Black Sea.
+
+[8] Rise in caesarean section births in Gaza brings danger and infection risks | Gaza News | Al Jazeera
+Published: 2026-04-30T09:46:58Z
+URL: https://www.aljazeera.com/features/2026/4/30/rise-in-caesarean-section-births-in-gaza-brings-danger-and-infection-risks
+Summary: The number of caesarean sections in Gaza has increased by about 2 percent since before the war, now making up a quarter of all births, according to Dr Fathi al-Dahdouh. Pregnant women face severe anemia due to famine and food shortages, and the health system collapse amplifies risks. The article highlights the story of Duha Abu Yousef, who had an emergency C-section after suffering from anemia and psychological trauma.
+
+[9] Civilians or Hezbollah: Who did Israel hit on Lebanon’s ‘Black Wednesday’? | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-04-30T09:52:58Z
+URL: https://www.aljazeera.com/news/2026/4/30/civilians-or-hezbollah-who-did-israel-hit-on-lebanons-black-wednesday
+Summary: On April 8, Israel launched more than 100 attacks across Lebanon, killing at least 357 people. Israel claims it killed 250 Hezbollah operatives, but experts and UN officials describe the attacks as indiscriminate and possibly amounting to direct targeting of civilians. The article examines evidence suggesting the strikes hit civilian areas without warning, and notes Israel's strategy of creating a buffer zone in southern Lebanon.
+
+[10] Somalia shapes its own destiny in global security forums | Opinions | Al Jazeera
+Published: 2026-04-30T10:21:51Z
+URL: https://www.aljazeera.com/opinions/2026/4/30/somalia-shapes-its-own-destiny-in-global-security-forums
+Summary: Somalia's recent election to the African Union Peace and Security Council and its membership in the UN Security Council mark a shift from being a subject of global security discussions to shaping the agenda. The author argues this strengthens state-building and international credibility. Somalia now represents the interests of Africa, the Arab and Muslim world, and least developed countries in these forums.
+
+================================================================================
 RUN TIME UTC: 2026-04-30T07:28:23Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
