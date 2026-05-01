@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-05-01T07:25:34Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+The batch covers escalating tensions in the Iran-US-Israel conflict on day 63, NBA playoff results, a resurgence of piracy off Somalia, Gaza's labor crisis on May Day, Ukraine's use of robotic warfare, and continued Russian attacks on Ukraine.
+
+ARTICLE BREAKDOWN
+[1] Iran war: What’s happening on day 63 as Trump signals possible attacks | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-01T05:37:11Z
+URL: https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks
+Summary: Iran's president described the US naval siege as 'intolerable,' while President Trump said Washington might restart the war. Air defenses were activated in Tehran, and the US urged a meeting between Israeli and Lebanese leaders after Israeli strikes killed 15 in southern Lebanon. The UAE banned citizens from traveling to Iran, Lebanon, and Iraq, and Trump considered troop cuts in Italy and Spain over their opposition to the war.
+
+[2] Timberwolves eliminate Nuggets as Knicks demolish Hawks in NBA playoffs | Basketball News | Al Jazeera
+Published: 2026-05-01T05:50:23Z
+URL: https://www.aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs
+Summary: The Minnesota Timberwolves defeated the Denver Nuggets 110-98 to win their series 4-2, despite Nikola Jokic's 28 points and an injury to Anthony Edwards. The New York Knicks routed the Atlanta Hawks 140-89, setting franchise playoff records for points and margin of victory, and will face either the Celtics or 76ers. The Celtics-76ers series is tied 3-3 after Philadelphia's 106-93 win.
+
+[3] Why is piracy rising off Somalia again — and is the Iran war responsible? | Crime News | Al Jazeera
+Published: 2026-05-01T06:10:45Z
+URL: https://www.aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-and-is-the-iran-war
+Summary: At least three to four vessels have been hijacked off Somalia since April 20, raising fears of a piracy resurgence similar to the early 2000s. The UK Maritime Trade Operations raised threat levels to 'substantial' after incidents including the seizure of the tanker Honour 25 with 18,000 barrels of oil. One fishing vessel, Alkhary 2, was released, but pirates remain on board Honour 25, and another vessel, Sward, was hijacked on April 26.
+
+[4] On May Day, Gaza’s workers find whatever source of income they can | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-01T06:21:31Z
+URL: https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can
+Summary: Gaza's economic collapse has driven unemployment to 80 percent, forcing workers like Ibrahim Abu al-Eish into dangerous debris-clearing jobs for about $27 a day. Ibrahim, a graduate, supports nine family members in a displacement camp and faces frequent injuries. The article highlights the perilous conditions and low pay as Gaza marks International Workers' Day amid ongoing devastation from the war.
+
+[5] What do Ukraine’s robot soldiers mean for the future of warfare? | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-01T06:29:29Z
+URL: https://www.aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare
+Summary: Ukraine has used ground robots with AI to capture Russian soldiers and take enemy positions, with over 22,000 missions in three months. The article notes that robotic systems now deliver up to 70 percent of front-line supplies, expanding from bomb disposal to combat roles. It discusses the ethical implications of AI making battlefield decisions, tracing the evolution from US drone strikes in the early 2000s.
+
+[6] Russia hammers targets across Ukraine overnight | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-01T06:42:10Z
+URL: https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight
+Summary: Russian drone attacks overnight damaged port infrastructure in Odesa, injuring two people, and struck Mykolaiv, causing fires. Ukraine launched its fourth drone attack on Russia's Black Sea port of Tuapse in a week, targeting energy infrastructure. In the Dnipropetrovsk region, infrastructure was damaged and one person injured, while in Kherson, one person was killed and eight injured in drone attacks.
+
+================================================================================
 RUN TIME UTC: 2026-05-01T03:29:10Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
