@@ -1,4 +1,78 @@
 ================================================================================
+RUN TIME UTC: 2026-05-01T11:06:59Z
+WINDOW: Last 6 hours
+ARTICLES USED: 13
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles from May 1, 2026, covers the ongoing US-Israel war on Iran, including threats of retaliation, oil price spikes, and ceasefire disputes, alongside other global stories such as a UK stabbing charge, Ukraine's air strikes, Labour Day protests, and a murder case in Australia.
+
+ARTICLE BREAKDOWN
+[1] Iran vows ‘long, painful’ response if US renews attacks
+Published: 2026-05-01T07:32:57Z
+URL: https://www.aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks
+Summary: Iran has threatened 'long and painful strikes' on US positions in the Gulf if Washington renews attacks, while maintaining its closure of the Strait of Hormuz, which has choked off 20% of global oil and gas supplies. A ceasefire has been in place since April 8, but Pakistan-led efforts to resolve the conflict have hit an impasse. Iranian officials defended the blockade as a legitimate response to a US naval blockade, and the UAE and Bahrain have condemned Iranian aggression.
+
+[2] UK police charge man over stabbing of two Jewish men in London
+Published: 2026-05-01T08:01:23Z
+URL: https://www.aljazeera.com/news/2026/5/1/uk-police-charge-man-over-stabbing-of-two-jewish-men-in-london
+Summary: UK police have charged Essa Suleiman, 45, with attempted murder after two Jewish men were stabbed in Golders Green, London, raising the national terrorism threat to its second-highest level. Police said Suleiman resisted arrest and was detained with a taser, and Commissioner Mark Rowley defended the use of force, citing fears of an explosive device. The Green Party leader criticized the arrest, accusing officers of kicking the man in the head while he was incapacitated.
+
+[3] Ukraine begins to flex muscle as an emerging air power, angering Russia
+Published: 2026-05-01T08:02:57Z
+URL: https://www.aljazeera.com/news/2026/5/1/ukraine-begins-to-flex-muscle-as-an-emerging-air-power-angering-russia
+Summary: Ukraine has deepened strikes against Russian oil infrastructure, hitting targets in the Urals 1,600 km from its borders, with President Zelenskyy announcing a new stage in weapon use. The SBU struck a Transneft facility in Perm, causing fires in oil storage tanks, and Russia confirmed downing 98 Ukrainian UAVs. Kremlin spokesman Dmitry Peskov called the attacks 'terrorist attacks,' and Ukraine's strategy aims to deprive Russia of windfall profits from oil price rises due to the Strait of Hormuz closure.
+
+[4] Commercial flights from Tehran’s main airport resume amid cautious normalcy
+Published: 2026-05-01T08:47:09Z
+URL: https://www.aljazeera.com/news/2026/5/1/commercial-flights-from-tehrans-main-airport-resume-amid-cautious-normalcy
+Summary: Commercial flights have resumed at Tehran's Imam Khomeini International Airport after a 58-day suspension due to the US-Israel war, with flights to 15 destinations operated by eight domestic airlines. The airport, which previously saw 150 flights daily, is slowly filling up again, but foreign carriers remain hesitant due to political uncertainty. The airport's CEO said the return of foreign carriers depends on political stability, and the airport infrastructure is about 95% ready.
+
+[5] Rallies under way as workers gather for International Labour Day
+Published: 2026-05-01T09:33:21Z
+URL: https://www.aljazeera.com/economy/2026/5/1/rallies-under-way-as-workers-gather-for-international-labour-day
+Summary: Workers around the world are marking International Labour Day with rallies, some turning into scuffles with police, as trade unions call for solidarity amid the US-Israeli war on Iran and rising energy costs. The European Trade Union Confederation said working people refuse to pay for Trump's war, and protests in the Philippines, Indonesia, and South America highlighted wage and economic concerns. In Gaza, Palestinian workers cancelled May Day events due to the economic crisis from Israel's war.
+
+[6] More than 40 Iranian seafarers killed during US-Israeli war: Union leader
+Published: 2026-05-01T09:49:28Z
+URL: https://www.aljazeera.com/news/2026/5/1/more-than-40-iranian-seafarers-killed-during-us-israeli-war-union
+Summary: At least 44 Iranian seafarers have been killed and 29 injured since the start of the US-Israel war on Iran, according to the Iranian Merchant Mariners Syndicate, including 22 civilian sailors, 16 fishermen, and six dock workers. The union leader submitted complaints to the IMO, attributing deaths to attacks on Iranian ports and commercial fleets. Despite a ceasefire, the US naval blockade and Strait of Hormuz closure have stranded 20,000 seafarers for at least two months.
+
+[7] Mohamed Salah ‘deserves big send-off’, says Liverpool boss Slot
+Published: 2026-05-01T09:51:33Z
+URL: https://www.aljazeera.com/sports/2026/5/1/mohamed-salah-deserves-big-send-off-says-liverpool-boss-slot
+Summary: Liverpool manager Arne Slot said Mohamed Salah 'deserves a big send-off' as the departing forward is expected to return from a minor muscle injury before the season ends. Salah, who has scored 257 goals for Liverpool, was forced off in a win against Crystal Palace, but the club confirmed he should return to action. Slot expressed relief that Salah can play again and potentially at the World Cup, as Liverpool aims for a Champions League place.
+
+[8] May Day in the age of AI: The new war on workers
+Published: 2026-05-01T09:54:12Z
+URL: https://www.aljazeera.com/opinions/2026/5/1/may-day-in-the-age-of-ai-the-new-war-on-workers
+Summary: This opinion piece discusses how artificial intelligence threatens workers' rights, noting Amazon's layoffs of 16,000 employees and plans to replace over half a million jobs with robots. The author describes a dystopian landscape in San Francisco with billboards promoting AI, including one campaign saying 'Stop Hiring Humans.' The piece argues that the fight for workers' rights is being rewritten as a fight for the right to work in the age of AI.
+
+[9] Despite growth and pay rises, Greek workers are among the poorest in Europe
+Published: 2026-05-01T10:04:32Z
+URL: https://www.aljazeera.com/news/2026/5/1/despite-growth-and-pay-rises-greek-workers-are-among-the-poorest-in-europe
+Summary: Greek workers have the second-lowest annual salaries in the EU after Bulgaria, despite economic growth and pay rises under the New Democracy government since 2019. Minimum wage has been restored to 920 euros, and average wages have risen to 1,516 euros, but inflation has robbed workers of a third of their income since the post-2009 crisis. The General Confederation of Workers in Greece warned that living standards have only risen slightly, and other Eastern European countries have overtaken Greece.
+
+[10] Oil prices rise again with little sign of war on Iran ending
+Published: 2026-05-01T10:11:39Z
+URL: https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending
+Summary: Oil prices are spiking again as the Iran war remains at an impasse, with Brent crude up 89 cents to $111.29 a barrel on Friday, compared to about $65 before the war began. A Pakistan-brokered ceasefire has been in place since April 8, but talks have stalled, and Iran has threatened to strike back if the US renews attacks. UN Secretary-General Antonio Guterres warned that prolonged disruption of the Strait of Hormuz could push tens of millions into poverty and extreme hunger.
+
+[11] Falklands claim: Can Argentina’s Milei use Trump ties to challenge the UK?
+Published: 2026-05-01T10:35:20Z
+URL: https://www.aljazeera.com/news/2026/5/1/falklands-claim-can-argentinas-milei-use-trump-ties-to-challenge-the-uk
+Summary: Argentina's President Javier Milei has sharpened rhetoric on the Falkland Islands claim amid his close ties with US President Donald Trump and rising US-UK tensions over Trump's war on Iran. Reports suggest the Pentagon has proposed a review of US historical neutrality on the Falklands dispute. The islands, a British overseas territory, have been a source of tension since the 1982 war, and Milei's relationship with Trump could shift Washington's position.
+
+[12] Riots erupt over Australian Aboriginal girl’s murder as suspect arrested
+Published: 2026-05-01T10:52:10Z
+URL: https://www.aljazeera.com/news/2026/5/1/riots-erupt-over-australian-aboriginal-girls-murder-as-suspect-arrested
+Summary: Hundreds of protesters clashed with emergency workers in Alice Springs, Australia, after police arrested Jefferson Lewis, 47, suspected of murdering five-year-old Indigenous girl Kumanjayi Little Baby. The crowd called for 'payback,' threw projectiles, and lit fires, injuring police and medical workers, and police used tear gas to disperse them. Authorities appealed for calm, and the suspect was moved to Darwin for safety, with alcohol sales banned and more police arriving to prevent escalation.
+
+[13] Has the US-Iran ceasefire reset the clock on War Powers Act deadline?
+Published: 2026-05-01T10:56:21Z
+URL: https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline
+Summary: The Trump administration argues that the May 1 War Powers Resolution deadline for congressional approval of the Iran war no longer applies due to the ongoing ceasefire, with Defense Secretary Pete Hegseth claiming the clock pauses during a pause in fighting. Democratic lawmakers and legal experts contest this, noting the statute has no provision for a pause. The US and Iran have halted direct attacks since April 8, but the US maintains a naval blockade and Iran blocks the Strait of Hormuz.
+
+================================================================================
 RUN TIME UTC: 2026-05-01T07:25:34Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
