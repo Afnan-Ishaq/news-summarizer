@@ -1,5 +1,37 @@
 [
   {
+    "time": "2026-05-01T03:29:10Z",
+    "window_hours": 6,
+    "article_count": 4,
+    "overall_summary": "Al Jazeera reports on rising US gas prices amid the Iran war, the resumption of US-Venezuela flights after seven years, a tense moment at FIFA Congress between Palestine and Israel FA officials, and a preview of Arsenal vs Fulham in the Premier League title race.",
+    "articles": [
+      {
+        "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
+        "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war",
+        "published": "2026-04-30T21:31:00Z",
+        "summary": "The average US gas price has hit $4.30 per gallon, up 27 cents in a week, amid the Strait of Hormuz blockade and the US-Israel war on Iran. President Trump insists prices will drop after the war, but oil prices have not fallen since the April 8 ceasefire. California saw prices exceed $6 per gallon, and Trump's approval ratings are at record lows due to economic uncertainty."
+      },
+      {
+        "title": "First US-Venezuela flight lands in Caracas after seven-year suspension",
+        "url": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension",
+        "published": "2026-04-30T21:34:25Z",
+        "summary": ""
+      },
+      {
+        "title": "Palestine FA chief hits out at Israel federation VP at FIFA Congress",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress",
+        "published": "2026-04-30T21:53:27Z",
+        "summary": "Palestinian FA president Jibril Rajoub refused to stand alongside Israel FA Vice-President Basim Sheikh Suliman at the FIFA Congress, rejecting a handshake attempt by FIFA President Gianni Infantino. Rajoub's colleague said he refused due to Israeli actions in Gaza, which Israel denies as genocide. The incident followed Rajoub's speech urging FIFA to sanction Israeli clubs based in West Bank settlements, a matter the PFA has appealed to the Court of Arbitration for Sport."
+      },
+      {
+        "title": "Arsenal vs Fulham: Premier League – teams, start, lineups, title race",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race",
+        "published": "2026-04-30T21:53:40Z",
+        "summary": "Arsenal can move six points clear of Manchester City in the Premier League title race if they beat Fulham on Saturday, despite City having two games in hand. Arsenal ended a four-match losing streak with a 1-0 win over Newcastle, while City are in FA Cup action this weekend. Fulham, in 10th place, are still chasing European qualification and have never won away to Arsenal in 32 attempts."
+      }
+    ]
+  },
+  {
     "time": "2026-04-30T21:02:08Z",
     "window_hours": 6,
     "article_count": 11,
