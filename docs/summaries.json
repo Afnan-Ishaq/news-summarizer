@@ -1,5 +1,85 @@
 [
   {
+    "time": "2026-05-01T20:54:16Z",
+    "window_hours": 6,
+    "article_count": 12,
+    "overall_summary": "The batch covers the Pentagon's AI deal with seven companies, the EU-Mercosur trade deal taking effect, the UAE's exit from OPEC, US warnings on Strait of Hormuz tolls, a poll showing most Americans view the Iran attack as a mistake, Trump's new tariffs on EU cars, Trump's rejection of Iran's peace proposal, Cuba's May Day celebrations amid US sanctions, rebel advances in Mali, a US judge blocking TPS termination for Yemenis, Barcelona's La Liga title prospects, and a death in ICE custody.",
+    "articles": [
+      {
+        "title": "Pentagon announces deal with seven AI companies for classified systems | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems",
+        "published": "2026-05-01T15:57:09Z",
+        "summary": "The US Department of Defense announced a new agreement with seven AI companies—SpaceX, OpenAI, Google, NVIDIA, Reflection, Microsoft, and Amazon Web Services—to use their technologies for classified networks. The deal aims to accelerate the military's transformation into an AI-first fighting force, enhancing decision-making and data synthesis. Anthropic was notably absent due to a legal dispute over its refusal to provide unrestricted access to its Claude AI program for 'all lawful use,' citing concerns about mass surveillance and autonomous weapons. The Pentagon stated that over 1.3 million personnel already use its official AI platform, GenAI.mil."
+      },
+      {
+        "title": "EU trade deal with South America’s Mercosur bloc takes provisional effect | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect",
+        "published": "2026-05-01T16:03:27Z",
+        "summary": "The long-awaited EU-Mercosur trade deal provisionally took effect on Friday after 25 years of negotiations, creating one of the world's largest free trade areas with 720 million potential consumers and an estimated value of $22 trillion. The agreement, signed in January, will eliminate tariffs on over 90 percent of bilateral trade, benefiting European exports like cars, wine, and cheese, and South American exports like beef and soybeans. It faces legal challenges from the EU's judiciary and opposition from farmers and environmental groups concerned about imports and deforestation. Brazilian President Lula hailed the deal as a response to US tariffs and a reaffirmation of multilateralism."
+      },
+      {
+        "title": "UAE exit from OPEC signals closer alignment with US interests, experts say | OPEC News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say",
+        "published": "2026-05-01T16:32:01Z",
+        "summary": "The UAE's exit from OPEC, which took effect on Friday, is seen by experts as a move that aligns with US interests by potentially curbing the cartel's pricing power. The UAE has long complained about OPEC quotas limiting its oil production, and the withdrawal comes amid high global oil prices due to the blocked Strait of Hormuz. Analysts say the UAE could increase production by about 2 million barrels per day once the strait normalizes, which would lower prices. The US would welcome a weakening of OPEC's ability to set prices, as high oil prices have fueled inflation and stressed consumers."
+      },
+      {
+        "title": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’ | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations",
+        "published": "2026-05-01T17:18:43Z",
+        "summary": "The US Treasury warned that shippers paying tolls or fees to Iran for passage through the Strait of Hormuz risk sanctions, as a US naval blockade continues amid stalled ceasefire talks. Iran has proposed charging fees for vessels to pass through the strait, which carries about one-fifth of global crude oil and LNG shipments. The advisory also warned against payments framed as charitable donations to Iranian entities. The warning came as Iranian state media reported a new peace proposal sent to the Trump administration, though a White House spokesperson declined to confirm receipt."
+      },
+      {
+        "title": "Poll finds 61 percent of Americans believe attacking Iran was a mistake | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake",
+        "published": "2026-05-01T17:51:54Z",
+        "summary": "A Washington Post-ABC-Ipsos poll found that 61 percent of Americans believe the US military action against Iran was a mistake, with only 36 percent saying it was the right decision. The poll also showed that 44 percent of respondents have cut back on driving due to higher gas prices, and 42 percent have reduced household expenses. The war, which has killed thousands and driven up energy prices, is as unpopular as the Iraq War in 2006 and the Vietnam War in the early 1970s. Support for the war remains high among Republicans, with nearly 80 percent approving of the decision."
+      },
+      {
+        "title": "Trump announces 25 percent tariffs on European Union cars, trucks | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks",
+        "published": "2026-05-01T18:10:43Z",
+        "summary": "President Trump announced a 25 percent tariff on automobiles from the European Union, accusing the bloc of not complying with the existing trade deal. The announcement could further strain the global economy already affected by the US-Israel war with Iran. The EU rejected the claim of non-compliance, and the German auto association warned of enormous costs for US consumers. The new tariffs are set to take effect next week, adding to Trump's aggressive tariff campaign."
+      },
+      {
+        "title": "Trump says Iran seeks terms he ‘can’t agree to’ in latest peace proposal | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/us-president-trump-not-satisfied-with-irans-latest-peace-proposal",
+        "published": "2026-05-01T18:46:52Z",
+        "summary": "Trump said he is 'not satisfied' with Iran's latest peace proposal, which was sent via Pakistani mediators, and warned he would 'blast them away' if negotiations fail. The ceasefire has been in place since April 8, but talks have stalled. An Iranian diplomatic source confirmed the new proposal was submitted to Pakistani mediators on Thursday. Trump stated the proposal includes terms he cannot agree to, while Iran's foreign minister said Tehran is open to diplomacy if Washington changes its 'threatening rhetoric.'"
+      },
+      {
+        "title": "Photos: Cuba holds May Day celebrations amid US threats | Protests News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats",
+        "published": "2026-05-01T19:07:51Z",
+        "summary": "Cuba held May Day celebrations in Havana, with former leader Raul Castro and President Miguel Diaz-Canel participating, as the US announced further sanctions. The White House statement said the sanctions target security services and 'material supporters' of the Cuban government, alleging without evidence that Cuba serves as a safe haven for terrorist groups. A US energy blockade has already battered Cuba's economy and caused widespread blackouts. Participants in the march expressed determination to defend their homeland despite difficult times."
+      },
+      {
+        "title": "Rebel checkpoints reported around Mali’s capital, northern town seized | Conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/rebel-checkpoints-reported-mali-capital-town-seized",
+        "published": "2026-05-01T19:38:44Z",
+        "summary": "Al-Qaeda-linked JNIM fighters have reportedly set up checkpoints around Mali's capital, Bamako, and seized the northern town of Tessalit, following recent attacks that killed the defense minister. Videos verified by Reuters show fighters in control of the Amachach base in Tessalit, raising the flag of the Azawad Liberation Front. JNIM also claimed to have captured the Hombori base in central Mali, though Russia's African Corps denied this. Al Jazeera's correspondent noted that four major military camps in the north are now in rebel hands, with Malian forces not putting up a fight."
+      },
+      {
+        "title": "US judge bars Trump from ending protected status for Yemeni nationals | Migration News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/us-judge-bars-trump-from-ending-protected-status-for-yemeni-nationals",
+        "published": "2026-05-01T20:05:24Z",
+        "summary": "A federal judge blocked the Trump administration from ending Temporary Protected Status (TPS) for nearly 3,000 Yemeni nationals, the latest legal setback for the president's immigration crackdown. The DHS decision to end TPS for Yemen, set to take effect Monday, was halted by Judge Dale Ho. The Trump administration has sought to end TPS for 13 countries, but most have been blocked in court. The Supreme Court is set to consider an appeal on similar rulings for Haiti and Syria."
+      },
+      {
+        "title": "Barcelona in sight of La Liga title a week before El Clasico with Real | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/1/how-can-barcelona-beat-real-madrid-to-la-liga-title-this-weekend",
+        "published": "2026-05-01T20:13:59Z",
+        "summary": "Barcelona could clinch a second straight La Liga title this weekend if it beats Osasuna and Real Madrid loses to Espanyol. Barcelona leads Madrid by 11 points with five games left, having won nine straight in La Liga. Madrid has only one win in its last six games across all competitions. If Barcelona wins this weekend, it will host Real Madrid in a Clasico as the newly crowned champion."
+      },
+      {
+        "title": "Cuban man is 18th person to die in US ICE custody this year: Monitor | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/1/cuban-man-is-18th-person-to-die-in-us-ice-custody-this-year-monitor",
+        "published": "2026-05-01T20:23:24Z",
+        "summary": "A 33-year-old Cuban man, Denny Adan Gonzalez, died in ICE custody, believed to be by suicide, marking the 18th death in immigration custody this year. Gonzalez was arrested in December 2025 and transferred to Stewart Detention Center in Georgia. Physicians for Human Rights noted a pattern of increasing suicides, with this being the fifth believed suicide this year. The uptick in deaths comes amid a surge in immigration detentions under Trump, reaching over 70,000 in January 2026."
+      }
+    ]
+  },
+  {
     "time": "2026-05-01T15:58:32Z",
     "window_hours": 6,
     "article_count": 9,
