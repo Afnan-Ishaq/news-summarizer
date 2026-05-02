@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-05-02T15:47:33Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "The batch covers the US-Israel war on Iran, including Trump's comments on the naval blockade and troop withdrawal from Germany, Israeli strikes on Lebanon, a military probe in Mali, and opinion pieces on Gaza's new cafes and Israel's policing of Palestinian towns.",
+    "articles": [
+      {
+        "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+        "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade",
+        "published": "2026-05-02T11:34:12Z",
+        "summary": "US President Donald Trump said the US Navy is acting 'like pirates' during the blockade of Iranian ports, describing the seizure of a ship and its oil as 'a very profitable business'. The blockade was imposed on April 13 after a ceasefire, as negotiations mediated by Pakistan continue. Trump expressed dissatisfaction with Iran's latest peace proposal, warning he would 'blast them away' if talks fail. Iran's military headquarters stated a resumption of war is likely, accusing the US of not being committed to any agreement."
+      },
+      {
+        "title": "NATO assessing details of US troop withdrawal from Germany",
+        "url": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany",
+        "published": "2026-05-02T11:34:23Z",
+        "summary": "NATO is assessing the US decision to withdraw about 5,000 troops from Germany over the next six to 12 months, amid tensions over the war on Iran. The planned drawdown follows US President Donald Trump's feud with European allies, particularly German Chancellor Friedrich Merz, over their lack of support in the war. Former US diplomat Donald Jensen said the move reflects shifting US military priorities, potentially sending more troops closer to China. German Defence Minister Boris Pistorius said Germany had anticipated the drawdown and must take greater responsibility for its own security."
+      },
+      {
+        "title": "Israeli air strikes kill 41 people in Lebanon in 24-hour window",
+        "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon",
+        "published": "2026-05-02T12:55:34Z",
+        "summary": "Israeli air strikes killed at least 10 people in southern Lebanon on Saturday, raising the 24-hour death toll to 41 and the overall toll since March 2 to 2,659. The strikes violate a ceasefire that began on April 17 and was extended until mid-May. Israel claims it targets Hezbollah, but a large proportion of those killed have been civilians, and over one million people have been displaced. Hezbollah pledged to continue attacks on Israeli forces inside Lebanese territory, using drones to target military hardware."
+      },
+      {
+        "title": "Mali probes soldiers suspected of involvement in military base attacks",
+        "url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks",
+        "published": "2026-05-02T13:03:28Z",
+        "summary": "Malian authorities are investigating five soldiers suspected of involvement in coordinated attacks on army bases on April 25, claimed by al-Qaeda affiliate JNIM and Tuareg separatists. The attacks killed the defence minister and forced Russian-backed forces out of Kidal, which is now controlled by armed groups. JNIM has called for a transition to Islamic law and set up checkpoints around the capital, Bamako. Military leader Assimi Goita said the situation is under control and promised to 'neutralise' the groups."
+      },
+      {
+        "title": "The dark side of Gaza’s new fancy cafes and restaurants",
+        "url": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants",
+        "published": "2026-05-02T13:12:32Z",
+        "summary": "The article describes new luxury cafes and restaurants in Gaza City that have emerged amid the destruction of war, which pro-Israeli accounts use to claim normality. The author argues these establishments reflect war profiteering by a new privileged class, while the vast majority of Gaza's population lives in poverty in tents with no access to basic necessities. The author, a Gaza resident living in a tent, says the genocide has eliminated the prospect of a normal life for most people."
+      },
+      {
+        "title": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
+        "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns",
+        "published": "2026-05-02T14:23:45Z",
+        "summary": "The article highlights allegations of 'two-tier' policing in Israel, where the government responds strongly to violence in Jewish areas but neglects crime in Palestinian towns. The murder rate in Palestinian communities has risen to 11 per 100,000, on par with Sudan and Iraq, compared to 0.6 per 100,000 in Jewish society. Critics blame the Netanyahu government and far-right officials like Itamar Ben-Gvir for the sharp uptick in violence. Lawmaker Aida Touma-Suleiman said the government 'doesn't mind that Palestinians are killing each other' due to years of neglect."
+      }
+    ]
+  },
+  {
     "time": "2026-05-02T10:53:18Z",
     "window_hours": 6,
     "article_count": 7,
