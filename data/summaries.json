@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-05-02T07:01:13Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "Recent Al Jazeera articles cover a range of international events, including Peru investigating human trafficking of its citizens to fight for Russia in Ukraine, Cuba rejecting new US sanctions, a US embassy warning in the UK due to a raised terror threat, NBA playoff updates, developments in the US-Iran war on day 64, and China urging a reversal of the UNIFIL withdrawal from Lebanon amid escalating conflict.",
+    "articles": [
+      {
+        "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
+        "url": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine",
+        "published": "2026-05-02T03:14:46Z",
+        "summary": "Peru has launched an investigation into an alleged human trafficking network that lured citizens with false job promises in Russia, only for them to end up fighting in Ukraine. The public prosecutor's office is focusing on crimes of human trafficking, with a lawyer reporting that 13 Peruvians have died and an estimated 600 have been lured since October. Moscow's embassy acknowledged Peruvians signed contracts with the Russian armed forces, while families protested in Lima demanding repatriation."
+      },
+      {
+        "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+        "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people",
+        "published": "2026-05-02T04:06:01Z",
+        "summary": "The Cuban government rejected new US sanctions by President Donald Trump, calling them unilateral coercive measures for collective punishment. Cuban Foreign Minister Bruno Rodriguez stated the measures violate the UN Charter, as Trump issued an executive order expanding sanctions on individuals and groups linked to Cuba's security forces, corruption, or human rights abuses. The White House claimed, without evidence, that Cuba is a safe haven for terrorist groups, and the sanctions have worsened fuel shortages and power blackouts on the island."
+      },
+      {
+        "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+        "url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe",
+        "published": "2026-05-02T06:04:31Z",
+        "summary": "The US embassy in London issued a security alert after the UK raised its national threat level to 'severe', advising citizens to avoid schools, churches, and tourist locations, and to vary travel routes. MI5 said the level, the second-highest, indicates an attack is highly likely within six months, driven by a rise in Islamist and extreme right-wing threats, particularly targeting Jewish and Israeli institutions. The alert follows the stabbing of two Jewish men in London and recent attacks on synagogues."
+      },
+      {
+        "title": "Pistons and Raptors survive while LA Lakers progress in NBA playoffs",
+        "url": "https://www.aljazeera.com/sports/2026/5/2/pistons-and-raptors-survive-while-la-lakers-progress-in-nba-playoffs",
+        "published": "2026-05-02T06:08:26Z",
+        "summary": "The Detroit Pistons mounted an astounding comeback from a 24-point deficit against the Orlando Magic, winning 93-79 to force a Game 7, as Orlando missed 23 consecutive field goals—a playoff record. The Toronto Raptors also set up a decider against the Cleveland Cavaliers with an overtime thriller, tying their series 3-3. The Los Angeles Lakers progressed by finally defeating the Houston Rockets at the third attempt."
+      },
+      {
+        "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+        "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal",
+        "published": "2026-05-02T06:27:32Z",
+        "summary": "US President Donald Trump rejected Iran's latest peace proposal, saying it includes demands he cannot agree to, while Washington warned of sanctions on ships paying tolls to Iran for Strait of Hormuz transit. A poll shows 61% of Americans believe Trump's use of force against Iran was a mistake, and 14 soldiers were killed defusing ordnance in Iran. The US imposed new sanctions on entities linked to Iranian petroleum exports and cleared over $8.6bn in military sales to allies, as the USS Gerald R Ford left the Middle East."
+      },
+      {
+        "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+        "url": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates",
+        "published": "2026-05-02T06:47:18Z",
+        "summary": "China's UN ambassador Fu Cong called for revisiting the Security Council's decision to withdraw the UNIFIL peacekeeping mission from Lebanon by December 2026, citing the lack of a genuine ceasefire and ongoing Israeli attacks. He stated that the overwhelming majority of the council believes it is not the time to withdraw, as Israeli bombardments since March have killed 2,618 people and displaced over one million. At least six UN peacekeepers have been killed since the conflict escalated on March 2."
+      }
+    ]
+  },
+  {
     "time": "2026-05-02T02:45:26Z",
     "window_hours": 6,
     "article_count": 6,
