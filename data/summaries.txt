@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-05-02T02:45:26Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles from May 1-2, 2026, covers May Day protests in the US, the hospitalization of Iranian Nobel laureate Narges Mohammadi, Israeli attacks on Lebanon, Trump's expansion of red snapper fishing, a US troop withdrawal from Germany over Iran war tensions, and the economic impact of BTS's comeback tour in South Korea.
+
+ARTICLE BREAKDOWN
+[1] May Day rallies sweep US, demanding reforms for working-class rights | Explainer News | Al Jazeera
+Published: 2026-05-01T20:57:11Z
+URL: https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights
+Summary: Roughly 500 labor groups across the US organized a widespread economic blackout for May Day, calling for 'no school, no work, no shopping' to protest government policies favoring the ultra-wealthy. The May Day Strong initiative demands include 'tax the rich' and abolishing ICE, amid a broader push for worker protections following Trump administration actions that stripped many federal worker safeguards.
+
+[2] Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates | Human Rights News | Al Jazeera
+Published: 2026-05-01T20:59:55Z
+URL: https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates
+Summary: Iranian Nobel Peace Prize laureate Narges Mohammadi was transferred from prison to a hospital after losing consciousness twice and suffering a severe cardiac crisis, according to her foundation. She had fainted twice in Zanjan prison, and her health had been declining due to an alleged beating during her December arrest, with the Nobel committee condemning her 'ongoing life-threatening mistreatment.'
+
+[3] At least 12 killed in latest Israeli attacks on Lebanon | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-05-01T21:10:15Z
+URL: https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon
+Summary: At least 12 people, including a child, were killed in southern Lebanon as Israeli strikes continued despite a ceasefire, with eight killed in Habboush and four near Tyre and Nabatieh. Israel issued a forced evacuation order for Habboush before striking, and the death toll since March 2 has reached 2,618, with the US-brokered ceasefire extended to May 17.
+
+[4] Trump expands red snapper fishing as critics warn of overfishing | Donald Trump News | Al Jazeera
+Published: 2026-05-01T21:12:02Z
+URL: https://www.aljazeera.com/news/2026/5/1/trump-expands-red-snapper-fishing-as-critics-warn-of-overfishing
+Summary: President Trump approved all state permits for the 2026 recreational red snapper fishing season, expanding access for anglers in Florida, Georgia, South Carolina, and North Carolina, calling it a 'huge win.' Critics like Ocean Conservancy warn of overfishing, citing declining fish size and angler reports of needing to travel farther, despite supporters citing a recovering population.
+
+[5] US said to be withdrawing 5,000 troops from Germany over Iran war spat | Military News | Al Jazeera
+Published: 2026-05-01T22:54:30Z
+URL: https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat
+Summary: The US military plans to withdraw 5,000 troops from Germany amid tensions over European reluctance to support the US war on Iran, following German Chancellor Friedrich Merz's comments that Iran was humiliating the US. The withdrawal is expected over six to 12 months, as Trump has criticized European allies for insufficient support and compared the war to past quagmires.
+
+[6] K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive | Arts and Culture News | Al Jazeera
+Published: 2026-05-02T02:25:22Z
+URL: https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive
+Summary: BTS's comeback tour after nearly four years sparked a surge in South Korean tourism and spending, with over 18.4 million viewers for their Netflix livestream and an estimated $1.4bn in revenue from their world tour. Inbound tourist numbers rose 32.7 percent in March, and sales of BTS merchandise surged 430 percent, highlighting the group's role in driving the 'Korean Wave' and economic benefits.
+
+================================================================================
 RUN TIME UTC: 2026-05-01T20:54:16Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
