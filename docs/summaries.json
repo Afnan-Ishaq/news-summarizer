@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-05-02T20:42:10Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "A batch of Al Jazeera articles from May 2, 2026, covers a range of global events including the resignation of Mexico's Sinaloa governor amid US drug charges, economic strain in Iran due to war, a hijacked oil tanker off Yemen, Spain's demand for Israel to release a flotilla crew member, Arsenal's Premier League win, Ukraine monitoring Belarus border activity, a drone strike in Khartoum, and deadly rains in Brazil.",
+    "articles": [
+      {
+        "title": "Mexico’s Sinaloa state governor resigns amid US drug trafficking charges | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/mexicos-sinaloa-state-governor-resigns-amid-us-drug-trafficking-charges",
+        "published": "2026-05-02T15:52:31Z",
+        "summary": "The governor of Mexico's Sinaloa state, Ruben Rocha Moya, has temporarily resigned after being charged by US authorities in a drug trafficking indictment. He denies the allegations, claiming he is taking leave to defend himself. The indictment alleges he aided the Sinaloa cartel in exchange for political support. President Claudia Sheinbaum has criticized the charges as potentially political, demanding clear evidence."
+      },
+      {
+        "title": "Prices surge, jobs disappear as war strains Iran’s economy | Inflation | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy",
+        "published": "2026-05-02T16:58:30Z",
+        "summary": "Iran's economy is severely strained by war with the US and Israel, with surging prices and job losses. The rial hit a record low against the dollar, and goods like cars and electronics are extremely expensive. A near-total internet shutdown and US sanctions compound the crisis. The monthly minimum wage is about $92, far below the cost of living."
+      },
+      {
+        "title": "Yemen reports hijacked oil tanker headed for Somalia | Shipping News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia",
+        "published": "2026-05-02T17:10:29Z",
+        "summary": "Yemen's Coast Guard reported the hijacking of the oil tanker 'M/T Eureka' off its coast, now heading toward Somalia. This is at least the fourth such attack near Somalia in recent weeks, with pirates emboldened by naval forces distracted by the Iran war. The coastguard is working with international partners to recover the tanker, but its capabilities are limited due to Yemen's economic situation."
+      },
+      {
+        "title": "Spain demands Israel release arrested Gaza flotilla crew member | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member",
+        "published": "2026-05-02T18:12:35Z",
+        "summary": "Spain has demanded the release of Spanish citizen Saif Abukeshek, arrested during an Israeli raid on a Gaza-bound flotilla in international waters. Foreign Minister Jose Manuel Albares called the detention 'illegal' and a 'kidnapping'. Israel claims Abukeshek has ties to Hamas, but Spain says no evidence has been provided. Reports from activists and a legal center allege torture and brutality during the arrest."
+      },
+      {
+        "title": "Arsenal ease past Fulham to pull six points clear of Manchester City | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/2/arsenal-thrash-fulham-to-pull-6-points-clear-of-manchester-city",
+        "published": "2026-05-02T19:00:36Z",
+        "summary": "Arsenal defeated Fulham 3-0, with Viktor Gyokeres scoring twice and Bukayo Saka adding a goal, moving six points clear of Manchester City in the Premier League. City have two games in hand, but Arsenal's goal difference advantage is significant. The win boosts Arsenal's hopes of ending a 22-year title drought, with three matches remaining."
+      },
+      {
+        "title": "Ukraine eyes Belarus border activities as Russian strikes persist | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist",
+        "published": "2026-05-02T19:54:30Z",
+        "summary": "Ukrainian President Volodymyr Zelenskyy warned Belarus against involvement in Russia's invasion, citing unusual activity near the border. He said Ukraine is ready to respond and is monitoring the situation. Meanwhile, Russian strikes continued, including a deadly attack on Kherson and advances in the Sumy region. Ukraine also reported hitting Russia's Tuapse port with drones."
+      },
+      {
+        "title": "Khartoum drone strike kills five Sudan NGO reports | Sudan war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports",
+        "published": "2026-05-02T19:59:16Z",
+        "summary": "A drone strike by the Rapid Support Forces (RSF) killed five civilians in Khartoum, according to the NGO Emergency Lawyers. This is the second such attack in a week, following months of calm after government forces regained control. The NGO accuses the RSF of violating international humanitarian law. The conflict has displaced millions and caused widespread humanitarian needs."
+      },
+      {
+        "title": "At least six dead in heavy rains in northeast Brazil, thousands displaced | Weather News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced",
+        "published": "2026-05-02T19:59:25Z",
+        "summary": "Heavy rains in northeastern Brazil have killed at least six people and displaced thousands in Pernambuco and Paraiba states. Flooding and landslides hit Recife, Olinda, Joao Pessoa, and Campina Grande. The National Center for Risk and Disaster Management issued a maximum alert. President Lula offered support, as studies show rain disasters have tripled in Brazil since 1991."
+      }
+    ]
+  },
+  {
     "time": "2026-05-02T15:47:33Z",
     "window_hours": 6,
     "article_count": 6,
