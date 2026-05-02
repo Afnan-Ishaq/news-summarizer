@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-05-02T10:53:18Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The batch covers a Premier League preview between Man Utd and Liverpool, the return of a stolen Buddha statue to Nepal, a profile of El Salvador's President Bukele, UK PM Starmer's stance on pro-Palestine protests, Spirit Airlines' shutdown due to a fuel crisis, Japan's energy cooperation with Vietnam, and the death of ex-F1 driver and Paralympic champion Alex Zanardi.",
+    "articles": [
+      {
+        "title": "Man Utd vs Liverpool: Premier League – preview, team news, start, lineups | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/2/man-utd-vs-liverpool-premier-league-preview-team-news-start",
+        "published": "2026-05-02T07:14:03Z",
+        "summary": "Manchester United host Liverpool in a crucial Premier League match for Champions League qualification. United need two points to secure a top-five finish, while Liverpool can draw level with a win. United boss Michael Carrick highlighted the rivalry's significance, and Bruno Fernandes is one assist away from tying the single-season record."
+      },
+      {
+        "title": "Nepal celebrates return of stolen 13th-century Buddha statue from New York | Religion News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/nepal-celebrates-return-of-stolen-13th-century-buddha-statue-from-new-york",
+        "published": "2026-05-02T07:20:12Z",
+        "summary": "A 13th-century Buddha statue stolen from a Nepali temple in the 1980s was reinstalled in Kathmandu on Friday, coinciding with the Buddha Jayanti festival. The statue, returned from New York in 2022, was placed back on its original plinth in a ceremony attended by a US envoy. Nepal has recovered about 200 artefacts in recent years, with over 400 still missing."
+      },
+      {
+        "title": "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’ | Civil Rights | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/2/who-is-nayib-bukele-el-salvadors-coolest-dictator",
+        "published": "2026-05-02T07:42:37Z",
+        "summary": "The article profiles El Salvador's President Nayib Bukele, who has overseen a crackdown on gang violence since a 2022 massacre, resulting in the world's highest imprisonment rate. While human rights concerns have been raised, Bukele's approval rating is 92% due to improved safety. The piece notes his popularity across Latin America but also reports arrests of journalists and civil society members."
+      },
+      {
+        "title": "UK’s Starmer eyes banning some pro-Palestine protests | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/uks-starmer-eyes-banning-some-pro-palestine-protests",
+        "published": "2026-05-02T07:55:08Z",
+        "summary": "UK Prime Minister Keir Starmer said some pro-Palestine marches could be banned and the phrase 'globalise the Intifada' should be 'completely off limits' and potentially prosecuted. His comments follow a stabbing of two Jewish men in London and increased security alerts. Critics accuse the government of cracking down on pro-Palestine activism during Israel's war on Gaza."
+      },
+      {
+        "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis | Aviation News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis",
+        "published": "2026-05-02T08:09:27Z",
+        "summary": "Spirit Airlines announced an immediate wind-down of operations and cancelled all flights due to a doubling of jet fuel prices amid the Iran war, costing thousands of jobs. A potential White House bailout fell through after talks with creditors failed. The airline's restructuring plan was derailed by fuel costs rising to about $4.51 per gallon."
+      },
+      {
+        "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam | Energy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam",
+        "published": "2026-05-02T09:16:49Z",
+        "summary": "Japanese Prime Minister Sanae Takaichi pledged to boost ties with Vietnam, focusing on energy and critical minerals, after signing six agreements in Hanoi. The leaders agreed to strengthen supply chains and resolve South China Sea disputes peacefully. Japan will assist Vietnam with crude oil supplies under a $10bn initiative amid Middle East conflict-driven price hikes."
+      },
+      {
+        "title": "Ex-Formula One driver turned Paralympic champion Alex Zanardi dies aged 59 | Motorsports News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/2/ex-formula-one-driver-turned-paralympic-champion-alex-zanardi-dies-aged-59",
+        "published": "2026-05-02T10:31:05Z",
+        "summary": "Alex Zanardi, the Italian ex-Formula One driver who became a four-time Paralympic cycling gold medalist after losing his legs in a 2001 crash, died at age 59. His family announced he died peacefully, six years after a second handbike accident in 2020. Italian leaders and sports officials praised him for transforming perceptions of disability in Italy."
+      }
+    ]
+  },
+  {
     "time": "2026-05-02T07:01:13Z",
     "window_hours": 6,
     "article_count": 6,
