@@ -1,5 +1,67 @@
 [
   {
+    "time": "2026-05-03T07:19:24Z",
+    "window_hours": 6,
+    "article_count": 9,
+    "overall_summary": "The batch covers the UAE lifting air traffic restrictions after the US-Israel war on Iran, US arms sales to Middle East allies, sports results from UFC, F1, and NBA playoffs, Starlink's impact in Yemen, Taiwan's leader visiting Eswatini, China blocking US sanctions on refineries, and a diplomatic update on the Iran war.",
+    "articles": [
+      {
+        "title": "UAE lifts all air traffic restrictions introduced since Iran war | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war",
+        "published": "2026-05-03T03:29:44Z",
+        "summary": "The UAE has lifted all flight restrictions imposed since the start of the US-Israel war on Iran, returning air operations to normal. The decision followed a security assessment and marks a recovery for Dubai and Abu Dhabi hubs. A Pakistan-brokered ceasefire last month paved the way for the announcement, with Qatar Airways also resuming flights to Iraqi cities."
+      },
+      {
+        "title": "US approves $8.6bn in arms sales to Middle East allies | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies",
+        "published": "2026-05-03T04:05:28Z",
+        "summary": "The US approved $8.6bn in arms sales to Israel, Kuwait, Qatar, and the UAE, citing emergency circumstances to bypass congressional review. The sales include Patriot systems and precision-guided munitions to replenish stockpiles drained by the Iran war. A report warned that US stockpiles may be insufficient for a future conflict with China."
+      },
+      {
+        "title": "Carlos Prates punishes Jack Della Maddalena at UFC Fight Night Australia | Mixed Martial Arts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/3/carlos-prates-punishes-jack-della-maddalena-at-ufc-fight-night-australia",
+        "published": "2026-05-03T05:32:24Z",
+        "summary": "Brazilian welterweight Carlos Prates defeated hometown fighter Jack Della Maddalena by TKO in the third round at UFC Fight Night in Perth. Prates knocked down Maddalena multiple times before the referee stopped the fight. Prates called for a title fight against the winner of the upcoming Makhachev vs. Garry bout."
+      },
+      {
+        "title": "Teen F1 leader Antonelli takes Miami pole as race start time changed | Motorsports News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/3/teen-f1-leader-antonelli-takes-miami-pole-as-race-start-time-changed",
+        "published": "2026-05-03T06:16:07Z",
+        "summary": "Teenager Kimi Antonelli claimed pole position for the Miami Grand Prix, his third consecutive pole, matching records set by Ayrton Senna and Michael Schumacher. The race start time was moved up three hours to 17:00 GMT due to a forecast of heavy rainstorms. Antonelli expressed confidence ahead of the race, while Max Verstappen qualified second."
+      },
+      {
+        "title": "In Yemen, Starlink internet brings opportunities – for some | Technology News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some",
+        "published": "2026-05-03T06:21:44Z",
+        "summary": "Starlink satellite internet is providing fast, reliable connectivity in Yemen, helping freelancers and entrepreneurs work for international clients despite the country's devastated telecommunications. The service allows users to bypass Houthi-controlled internet providers that block certain websites. However, affordability remains a challenge, limiting access for many."
+      },
+      {
+        "title": "Joel Embiid, 76ers knock out second-seeded Celtics in NBA Playoffs | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/3/joel-embiid-76ers-knock-out-second-seeded-celtics-in-nba-playoffs",
+        "published": "2026-05-03T06:32:55Z",
+        "summary": "Joel Embiid scored 34 points and Tyrese Maxey added 30 to lead the Philadelphia 76ers to a 109-100 victory over the Boston Celtics in Game 7, overcoming a 3-1 series deficit. The seventh-seeded 76ers will face the New York Knicks in the second round. Celtics star Jayson Tatum missed the game due to a knee injury."
+      },
+      {
+        "title": "Taiwan leader visits Eswatini despite China’s attempts to block trip | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/3/taiwan-leader-visits-eswatini-despite-chinas-attempts-to-block-trip",
+        "published": "2026-05-03T06:36:26Z",
+        "summary": "Taiwan President William Lai Ching-te visited Eswatini, the only African country that recognizes Taiwan, despite China's efforts to block the trip. Lai met King Mswati III and signed trade agreements. The trip was delayed after Seychelles, Mauritius, and Madagascar canceled flight permits under Chinese pressure."
+      },
+      {
+        "title": "China blocks US sanctions against five ‘teapot’ refineries | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries",
+        "published": "2026-05-03T06:57:42Z",
+        "summary": "China issued an injunction blocking US sanctions on five Chinese refineries accused of importing Iranian oil, calling the sanctions a violation of international law. The refineries, known as 'teapots,' are crucial for China's oil supply and rely on discounted crude from sanctioned countries. The US Treasury had sanctioned Hengli Petrochemical and four others."
+      },
+      {
+        "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war",
+        "published": "2026-05-03T07:02:09Z",
+        "summary": "On day 65 of the US-Israel war on Iran, President Trump is reviewing a new 14-point Iranian proposal to end the war, which includes guarantees of nonaggression and sanctions relief. The IRGC remains on standby for a return to hostilities. Meanwhile, the US approved $8.6bn in arms sales to allies, and an Iranian supertanker reportedly evaded the US blockade."
+      }
+    ]
+  },
+  {
     "time": "2026-05-03T02:57:56Z",
     "window_hours": 6,
     "article_count": 1,
