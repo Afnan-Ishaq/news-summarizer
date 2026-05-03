@@ -1,4 +1,18 @@
 ================================================================================
+RUN TIME UTC: 2026-05-03T02:57:56Z
+WINDOW: Last 6 hours
+ARTICLES USED: 1
+
+OVERALL SUMMARY
+US President Donald Trump is reviewing a 14-point Iranian peace proposal while warning that air strikes could resume if Tehran 'misbehaves'. The diplomatic push occurs amid a fragile ceasefire, with Iran demanding the lifting of the naval blockade and war reparations, while tensions remain high over Trump's characterization of the blockade as 'profitable'.
+
+ARTICLE BREAKDOWN
+[1] Trump reviews Iranian peace proposal, warns strikes could resume | Donald Trump News | Al Jazeera
+Published: 2026-05-03T02:37:38Z
+URL: https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume
+Summary: US President Donald Trump said he is reviewing Iran's 14-point peace proposal to end the war, but warned that air strikes could resume if Tehran 'misbehaves'. The proposal reportedly calls for lifting the US naval blockade, war reparations, and a 30-day window to finalize terms, conflicting with Washington's preference for a longer transition. Trump claimed Iran is desperate due to being 'decimated' by conflict and a blockade, while the Islamic Revolutionary Guard Corps remains on 'full standby' for a return to hostilities. The diplomatic effort comes amid a fragile three-week ceasefire, with tensions further stoked by Trump's characterization of the naval blockade as 'very profitable business'.
+
+================================================================================
 RUN TIME UTC: 2026-05-02T20:42:10Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
