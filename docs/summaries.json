@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-05-03T20:43:01Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "The batch covers escalating tensions in Gaza as Israel threatens to resume war to force disarmament, a maritime attack off Iran amid the US-Israel blockade, Manchester United's Champions League qualification, deadly floods in Kenya, new details on a Trump assassination attempt, and Germany's Merz downplaying a rift with the US over troop withdrawals.",
+    "articles": [
+      {
+        "title": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
+        "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays",
+        "published": "2026-05-03T15:40:46Z",
+        "summary": "Israeli officials threaten to resume hostilities in Gaza to force Hamas to disarm, as the fragile truce frays with daily violations. A senior Israeli military official called another round of fighting 'almost inevitable,' citing Hamas's refusal to surrender weapons. Mediators in Cairo are pushing a US-backed plan that conditions humanitarian aid on phased disarmament, which Palestinian factions reject as political surrender."
+      },
+      {
+        "title": "Bulk carrier attacked by multiple small craft off Iran, UKMTO says",
+        "url": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says",
+        "published": "2026-05-03T16:47:24Z",
+        "summary": "A bulk carrier was attacked by multiple small craft 11 nautical miles west of Sirik, Iran, near the Strait of Hormuz, according to the UKMTO. All crew are safe and no environmental impact was reported. The incident occurs amid the US-Israel war on Iran, with Iran maintaining a stranglehold on the waterway and the US enforcing a counter-blockade on Iranian ports."
+      },
+      {
+        "title": "Manchester United beat Liverpool to secure Champions League qualification",
+        "url": "https://www.aljazeera.com/sports/2026/5/3/man-united-beat-liverpool-3-2-to-secure-champions-league-qualification",
+        "published": "2026-05-03T16:54:08Z",
+        "summary": "Manchester United secured Champions League football next season with a thrilling 3-2 victory over Liverpool at Old Trafford. United led 2-0 early through Matheus Cunha and Benjamin Sesko, but Liverpool fought back to level before Kobbie Mainoo's late strike sealed the win. The victory extends United's lead over Liverpool to six points and boosts Michael Carrick's case to remain as manager."
+      },
+      {
+        "title": "Floods and landslides kill at least 18 in Kenya",
+        "url": "https://www.aljazeera.com/news/2026/5/3/floods-and-landslides-kill-at-least-18-in-kenya",
+        "published": "2026-05-03T17:04:33Z",
+        "summary": "At least 18 people have died in flooding and landslides caused by heavy rains in multiple parts of Kenya, police confirmed on Sunday. Landslides were reported in Tharaka Nithi, Elgeyo-Marakwet, and Kiambu counties, causing displacement and damage to property. Authorities warned of health risks from waterborne diseases and urged caution, as the seasonal March-to-May rains peak."
+      },
+      {
+        "title": "Investigators say Trump assassination suspect shot officer at press gala",
+        "url": "https://www.aljazeera.com/news/2026/5/3/investigators-say-trump-assassination-suspect-shot-officer-at-press-gala",
+        "published": "2026-05-03T17:25:50Z",
+        "summary": "US authorities confirmed that the suspect in the assassination attempt on President Donald Trump, Cole Tomas Allen, shot a Secret Service agent at the White House correspondents' dinner. A prosecutor said a pellet from the suspect's shotgun was found intertwined with the agent's vest, ruling out friendly fire. Allen faces charges including attempted assassination, and the incident is considered the third attempt on Trump since 2024."
+      },
+      {
+        "title": "Germany’s Merz downplays rift with Washington despite US troop drawdown",
+        "url": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown",
+        "published": "2026-05-03T19:42:55Z",
+        "summary": "German Chancellor Friedrich Merz downplayed tensions with the US after Washington announced plans to withdraw about 5,000 troops from Germany, saying the move has no connection to his criticism of Trump's Iran strategy. Merz insisted the US remains Germany's most important NATO partner, despite Trump's scolding and new tariffs on EU cars. The rift follows Merz's remarks that Iran was 'humiliating' the US, which he later walked back."
+      }
+    ]
+  },
+  {
     "time": "2026-05-03T15:49:12Z",
     "window_hours": 6,
     "article_count": 13,
