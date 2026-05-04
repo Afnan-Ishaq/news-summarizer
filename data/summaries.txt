@@ -1,4 +1,93 @@
 ================================================================================
+RUN TIME UTC: 2026-05-04T16:46:54Z
+WINDOW: Last 6 hours
+ARTICLES USED: 16
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers major developments in Indian state elections, escalating US-Iran tensions over the Strait of Hormuz, a suspected hantavirus outbreak on a cruise ship, Champions League football updates, Russian strikes on Ukraine, and other global news.
+
+ARTICLE BREAKDOWN
+[1] ‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time
+Published: 2026-05-04T12:20:02Z
+URL: https://www.aljazeera.com/features/2026/5/4/hegemonic-power-how-modis-bjp-won-indias-bengal-for-the-first-time
+Summary: The article explains how Prime Minister Narendra Modi's BJP won West Bengal for the first time, leveraging religious polarisation and anti-incumbency against Mamata Banerjee's TMC. Early results showed the BJP leading in 200 of 294 seats, a dramatic shift from its previous best of 77 seats in 2021. The victory is seen as a major boost for Modi, as West Bengal had been a TMC stronghold since 2011.
+
+[2] Trump’s ‘Project Freedom’: Can US navy ‘guide’ stuck ships out of Hormuz?
+Published: 2026-05-04T13:10:17Z
+URL: https://www.aljazeera.com/news/2026/5/4/trumps-project-freedom-can-us-navy-guide-stuck-ships-out-of-hormuz
+Summary: US President Donald Trump announced 'Project Freedom' to guide ships stranded in the Strait of Hormuz, calling it a humanitarian gesture. The initiative comes amid Iran's blockade of the strait following the US-Israeli war on Iran, which has disrupted global oil supplies. On the first day of the operation, a US warship was reportedly hit by Iranian missiles near Jask, though the US denied the claim, raising fears of escalation.
+
+[3] War preparations under way in Iran as Hormuz tensions with US escalate
+Published: 2026-05-04T13:12:52Z
+URL: https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate
+Summary: Iranian media reported that a US warship was hit by two missiles after ignoring warnings near the Strait of Hormuz, though the US denied the incident. Iran's military warned it would use force to manage the strait, while authorities mobilise supporters for a potential prolonged conflict. A near-total internet shutdown continues in Iran, and state-backed demonstrations are held as Tehran reviews US proposals for ending the war.
+
+[4] Arsenal vs Atletico Madrid: Champions League – team news, start and lineups
+Published: 2026-05-04T13:15:04Z
+URL: https://www.aljazeera.com/sports/2026/5/4/arsenal-vs-atletico-madrid-champions-league-preview-team-news-start-lineups
+Summary: Arsenal host Atletico Madrid in the Champions League semifinal second leg, with the tie level at 1-1 after a first leg dominated by penalty decisions. Bukayo Saka's return from injury has boosted Arsenal's attack, while Atletico's Julian Alvarez faces speculation about his future. The winner will face either Paris Saint-Germain or Bayern Munich in the final on May 30.
+
+[5] What is hantavirus, suspected in deaths of three people on cruise ship?
+Published: 2026-05-04T13:25:15Z
+URL: https://www.aljazeera.com/news/2026/5/4/what-is-hantavirus-suspected-in-deaths-of-three-people-on-cruise-ship
+Summary: Three people on the MV Hondius cruise ship have died in a suspected hantavirus outbreak, with one case confirmed and five others suspected. The WHO says the risk to the general public remains low. The virus, transmitted by rodents, causes severe respiratory or kidney illness, and investigations are ongoing.
+
+[6] Which Premier League teams can still qualify for the Champions League?
+Published: 2026-05-04T13:38:45Z
+URL: https://www.aljazeera.com/sports/2026/5/4/which-premier-league-teams-can-still-qualify-for-the-champions-league
+Summary: With Arsenal, Manchester City, and Manchester United already qualified for the Champions League, Liverpool, Aston Villa, and Bournemouth are competing for remaining spots. A sixth team could qualify if Aston Villa win the Europa League and finish fifth, passing the European Performance Spot to sixth place. The article details the qualification scenarios for each team.
+
+[7] Russian strikes kill at least eight in Ukraine, drones hit Moscow
+Published: 2026-05-04T13:41:50Z
+URL: https://www.aljazeera.com/news/2026/5/4/five-people-killed-in-russian-missile-attack-on-ukraines-kharkiv-region
+Summary: Russian missile attacks killed at least eight people in Ukraine, including six in the Kharkiv region and two in Kherson. In a rare overnight attack, Ukraine targeted Moscow with drones, hitting a residential high-rise but causing no casualties. The strikes come five days before Russia's Victory Day parade, which will be held without military hardware due to drone threats.
+
+[8] Formula One plans return to V8 engines as electrical revolution loses spark
+Published: 2026-05-04T13:48:33Z
+URL: https://www.aljazeera.com/sports/2026/5/4/formula-one-plans-return-to-v8-engines-as-electrical-revolution-loses-spark
+Summary: FIA President Mohammed Ben Sulayem announced plans to return to traditional V8 engines by 2030 or 2031, following backlash against the current 50-50 electrical hybrid power split. The new rules, introduced this year, have been criticised by drivers like Max Verstappen for prioritising electrical recharging over skill. Ben Sulayem cited sound, simplicity, and lighter weight as benefits of V8 engines.
+
+[9] Modi’s party poised for big wins in Indian state elections
+Published: 2026-05-04T13:54:10Z
+URL: https://www.aljazeera.com/news/2026/5/4/modis-party-poised-for-big-wins-in-indian-state-elections
+Summary: The BJP is set to win in Assam and lead in West Bengal, based on early counting trends, weakening the opposition. In West Bengal, the BJP is leading in 176 of 294 seats, a potential upset for Chief Minister Mamata Banerjee. The results are seen as a boost for Modi amid economic and foreign policy challenges.
+
+[10] India loses its last left-wing government after five decades
+Published: 2026-05-04T14:29:58Z
+URL: https://www.aljazeera.com/news/2026/5/4/india-loses-its-last-left-wing-government-after-five-decades
+Summary: The left-wing coalition in Kerala has been swept from power, marking the first time since 1977 that no Indian state is ruled by the left. The Congress-led United Democratic Front is leading in 98 of 140 seats, while the Left Democratic Front trails with 35. The article notes the decline of left influence since its peak in 2007.
+
+[11] Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?
+Published: 2026-05-04T14:56:22Z
+URL: https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz
+Summary: Trump declared 'I have all the cards' after announcing 'Project Freedom' to guide ships through the Strait of Hormuz, but Iran responded with warnings and a social media post suggesting Trump is losing in the game of Uno. Iran's IRGC warned it would stop ships breaching its rules, and a US warship was reportedly attacked. The article analyses the leverage each side holds.
+
+[12] Satellite imagery reveals how Sudan’s war scorched its ‘breadbasket’
+Published: 2026-05-04T15:03:46Z
+URL: https://www.aljazeera.com/economy/2026/5/4/satellite-imagery-reveals-how-sudans-war-scorched-its-breadbasket
+Summary: Satellite imagery shows the devastation of Sudan's agricultural heartland in Gezira, Sennar, and Khartoum states due to the civil war between the SAF and RSF. The Gezira Scheme, once producing half of Sudan's wheat, collapsed after RSF control in 2023, with farmers flooding canals to stop paramilitary advances. A fragile recovery is seen after the SAF regained territory in 2025.
+
+[13] UAE reports missile and drone strikes incoming from Iran
+Published: 2026-05-04T15:37:11Z
+URL: https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran
+Summary: The UAE reported intercepting ballistic missiles, cruise missiles, and drones from Iran, with a drone sparking a fire at an oil facility in Fujairah. No casualties were reported, and Iran did not immediately comment. The UAE was heavily targeted in Iran's initial retaliatory strikes during the US-Israel war on Iran.
+
+[14] US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz
+Published: 2026-05-04T15:55:38Z
+URL: https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz
+Summary: US Treasury Secretary Scott Bessent accused China of funding Iran by buying 90% of its energy, and urged Beijing to help reopen the Strait of Hormuz. Bessent claimed the US has 'absolute control' of the strait, but called on China to use diplomacy with Iran. The criticism comes ahead of Trump's expected visit to Beijing.
+
+[15] US releases Touska container ship crew: Why it matters
+Published: 2026-05-04T15:59:13Z
+URL: https://www.aljazeera.com/news/2026/5/4/us-releases-touska-container-ship-crew-why-it-matters
+Summary: The US transferred 22 crew members from the Iranian container ship Touska to Pakistan, described as a confidence-building measure amid Hormuz tensions. The ship was seized by US forces on April 20 during a naval blockade. The release comes as Pakistan mediates talks between Tehran and Washington, though a broader peace agreement remains elusive.
+
+[16] GameStop targets eBay with unsolicited $56bn acquisition offer
+Published: 2026-05-04T16:23:41Z
+URL: https://www.aljazeera.com/economy/2026/5/4/gamestop-targets-ebay-with-unsolicited-56bn-acquisition-offer
+Summary: GameStop made an unsolicited $56bn bid to acquire eBay, despite eBay's market value being nearly four times higher. The deal would consist of half cash and half stock, with GameStop CEO Ryan Cohen aiming to replicate cost-cutting strategies. eBay confirmed the offer but noted no prior discussions, and analysts expressed skepticism about the merger's feasibility.
+
+================================================================================
 RUN TIME UTC: 2026-05-04T11:49:43Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
