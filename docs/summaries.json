@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-05-04T21:09:40Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "A batch of Al Jazeera articles from May 4, 2026, covers a Nepal-India border dispute, a US Supreme Court ruling on abortion pill access, a deadly car-ramming in Germany, an IEA report on methane emissions, Zambia's stalled US deals, Swedish gang violence, Mali's leadership changes after a minister's killing, and competing ceasefires between Russia and Ukraine.",
+    "articles": [
+      {
+        "title": "Nepal lodges protest against India over long-running border dispute | Border Disputes News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/4/nepal-lodges-protest-against-india-over-long-running-border-dispute",
+        "published": "2026-05-04T16:57:01Z",
+        "summary": "Nepal lodged a protest against India on Sunday after New Delhi announced the resumption of a religious pilgrimage through the Lipulekh Pass, a contested Himalayan area. Kathmandu's foreign ministry reiterated its claim to the territories of Limpiadhura, Lipulekh, and Kalapani based on the 1816 Treaty of Sugauli. India responded by asserting that the pilgrimage route has been used since 1954 and called Nepal's territorial claims unjustified."
+      },
+      {
+        "title": "US Supreme Court temporarily lifts ban on abortion pill mail delivery | Health News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/4/us-supreme-court-temporarily-lifts-ban-on-abortion-pill-mail-delivery",
+        "published": "2026-05-04T17:29:33Z",
+        "summary": "The US Supreme Court temporarily reinstated a rule allowing the abortion pill mifepristone to be prescribed via telemedicine and delivered by mail, pausing a lower court's decision that required in-person visits. Justice Samuel Alito issued an interim order for one week, giving the court more time to review emergency requests from drug manufacturers. The case involves a challenge by Louisiana and puts abortion access back before the justices ahead of November congressional elections."
+      },
+      {
+        "title": "Car-ramming incident kills at least two people in Germany | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/4/car-ramming-kills-at-least-two-people-in-germany",
+        "published": "2026-05-04T17:57:42Z",
+        "summary": "A car was driven into a crowd in Leipzig, Germany, killing at least two people and affecting at least 20 others. Police arrested the driver and said there was no further danger, but the mayor stated that authorities do not know the motivation or details about the culprit. The incident occurred in a pedestrian zone, and witnesses reported a damaged SUV and several bodies covered with sheets."
+      },
+      {
+        "title": "Tackling methane emissions key for climate change and energy security: IEA | Climate Crisis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/4/tackling-methane-emissions-key-for-climate-change-and-energy-security-iea",
+        "published": "2026-05-04T18:34:32Z",
+        "summary": "The International Energy Agency's Global Methane Tracker 2026 report, released Monday, says reducing methane emissions from fossil fuel operations could help combat climate change and improve energy security amid the Iran crisis. The report notes that oil, gas, and coal industries account for about 35 percent of human-caused methane emissions, with little progress in reductions. It estimates that cutting methane from oil and gas could make nearly 100 billion cubic metres of natural gas available annually."
+      },
+      {
+        "title": "Zambia delaying US deals over minerals and data demands | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/4/zambia-delaying-us-deals-over-minerals-and-data-demands",
+        "published": "2026-05-04T18:50:52Z",
+        "summary": "Zambia has suspended negotiations with the US on multi-billion dollar deals for health services and critical minerals, citing unacceptable terms. Foreign Minister Mulambo Haimbe said a health agreement stalled due to data-sharing demands that would violate citizens' rights, and a minerals deal was delayed by US insistence on preferential treatment for its companies. Zambia also objected to the US linking the two agreements, asserting they should be considered separately."
+      },
+      {
+        "title": "Gangland wars killing dozens of bystanders, report Swedish police | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police",
+        "published": "2026-05-04T19:12:36Z",
+        "summary": "Swedish police statistics released Monday show that 23 innocent bystanders have been killed and 30 wounded in gangland shootings over the past three years. The victims include people hit by stray bullets, cases of mistaken identity, and relatives of targeted gang members. Police attribute the high number of bystander casualties to the young age of many shooters, who often lack experience and are recruited via social media."
+      },
+      {
+        "title": "Mali leader Goita takes defence post after minister killed | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/4/mali-leader-goita-takes-defence-post-after-minister-killed",
+        "published": "2026-05-04T19:42:54Z",
+        "summary": "Mali's military leader Assimi Goita has taken on the role of defence minister following the killing of Sadio Camara in last week's attacks by rebel groups, including an al-Qaeda-linked group and Tuareg separatists. The attacks killed at least 23 people and allowed rebels to capture the key northern town of Kidal. Goita's government, which took power in coups in 2020 and 2021, has struggled to restore security despite cutting ties with France and expelling UN peacekeepers."
+      },
+      {
+        "title": "Russia and Ukraine declare competing ceasefires | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/4/russia-and-ukraine-declare-competing-ceasefires",
+        "published": "2026-05-04T20:44:46Z",
+        "summary": "Russia announced a ceasefire from May 8-9 for its Victory Day parade, while Ukraine declared its own ceasefire for May 5-6. Ukrainian President Zelenskyy said he received no official notice from Russia and emphasized that human life is more valuable than anniversaries. The Russian defence ministry warned it would launch a massive missile strike on Kyiv if Ukraine attempts to disrupt the parade."
+      }
+    ]
+  },
+  {
     "time": "2026-05-04T16:46:54Z",
     "window_hours": 6,
     "article_count": 16,
