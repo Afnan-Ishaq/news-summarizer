@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-05-04T11:49:43Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "Iran warns the US against entering the Strait of Hormuz after Trump announces Project Freedom to guide stranded ships, escalating tensions amid the ongoing US-Israel war on Iran. Meanwhile, Israeli gunfire in the West Bank disables teenagers, NATO chief says Europe has heeded Trump's defense demands, and an opinion piece discusses the challenges of peace in Lebanon. Other stories cover Ukrainian anti-drone systems in the Gulf and tennis stars criticizing Roland Garros prize money.",
+    "articles": [
+      {
+        "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+        "url": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships",
+        "published": "2026-05-04T08:20:54Z",
+        "summary": "Iran's military warned the US Navy to stay out of the Strait of Hormuz, stating that any foreign armed forces, especially the US, will be attacked if they approach. This follows President Trump's announcement of Project Freedom, a mission to guide stranded ships through the strait, which Iran views as a violation of the ceasefire. The US military's Central Command said it would support the effort with 15,000 personnel, warships, and drones."
+      },
+      {
+        "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+        "url": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission",
+        "published": "2026-05-04T09:11:08Z",
+        "summary": "On day 66 of the US-Israel war on Iran, President Trump announced Project Freedom to navigate ships through the Strait of Hormuz, which Iran has blockaded. Iran's military responded by warning that any foreign force entering the strait will be attacked, and a top lawmaker said it violates the ceasefire. Oil prices remained flat, and diplomatic efforts continue, including a phone call between Pakistani and Iranian foreign ministers."
+      },
+      {
+        "title": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
+        "url": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank",
+        "published": "2026-05-04T09:44:41Z",
+        "summary": "In the Askar refugee camp near Nablus, Israeli soldiers have killed three teenagers and maimed many others since October 7, 2023, according to local officials. The article describes the case of 18-year-old Amir Othman, who was shot in the leg while helping a wounded friend and now has permanent mobility issues. Soldiers blocked ambulances from reaching him, a practice that has occurred hundreds of times since the conflict began."
+      },
+      {
+        "title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
+        "url": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence",
+        "published": "2026-05-04T09:57:05Z",
+        "summary": "NATO Secretary-General Mark Rutte said European leaders have 'gotten the message' after Trump announced plans to withdraw 5,000 soldiers from Germany, citing frustration over NATO allies' support for the US-Israel war on Iran. Rutte acknowledged European disappointment but said they are stepping up, with more nations pre-positioning assets near the Gulf. European criticism of the war has grown due to its economic impact, with Spain refusing to allow US attacks from its territory."
+      },
+      {
+        "title": "Winning peace in Lebanon is harder than winning war",
+        "url": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war",
+        "published": "2026-05-04T11:18:12Z",
+        "summary": "This opinion piece argues that resolving the conflict in Lebanon requires addressing its long history and new geopolitical realities, as President Joseph Aoun prepares for a potential trip to Washington. Despite a fragile ceasefire, Israel continues to occupy parts of southern Lebanon and has barred civilians from returning, with Defense Minister Katz aiming to establish a 'security zone' south of the Litani River. The article traces historical Israeli aspirations for this territory, dating back to early Zionist leaders, and notes the impact of the Nakba on southern Lebanon's demography."
+      },
+      {
+        "title": "What is the Ukrainian anti-drone system Sky Map being used in the Gulf?",
+        "url": "https://www.aljazeera.com/news/2026/5/4/what-is-the-ukrainian-anti-drone-system-sky-map-being-used-in-the-gulf",
+        "published": "2026-05-04T11:27:15Z",
+        "summary": "The article explains that Gulf states and the US have deployed Ukraine's Sky Map anti-drone system, which uses acoustic sensors and interceptors to counter Iranian Shahed drones. Ukrainian President Zelenskyy signed defense agreements with Saudi Arabia, the UAE, and Qatar in late March, and Ukrainian forces have reportedly shot down Iranian drones in the Gulf. The Shahed-136 drone is cheap ($20,000-$50,000) compared to US Patriot missiles ($4 million each), making it effective in mass attacks."
+      },
+      {
+        "title": "Tennis stars Sinner, Sabalenka and Gauff criticise Roland Garros prize money",
+        "url": "https://www.aljazeera.com/sports/2026/5/4/tennis-stars-sinner-sabalenka-and-gauff-criticise-roland-garros-prize-money",
+        "published": "2026-05-04T11:41:32Z",
+        "summary": "Top tennis players including Jannik Sinner, Aryna Sabalenka, and Coco Gauff expressed disappointment with Roland Garros prize money, claiming players' share of revenue has declined from 15.5% in 2024 to a projected 14.9% in 2026. They also demand better representation, healthcare, and pensions, saying the Grand Slams remain resistant to change. The French Open prize pot increased by about 10% to 61.7 million euros, but players argue it is far short of the 22% they requested."
+      }
+    ]
+  },
+  {
     "time": "2026-05-04T07:47:42Z",
     "window_hours": 6,
     "article_count": 8,
