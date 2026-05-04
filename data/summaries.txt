@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-05-04T02:55:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+Three articles from Al Jazeera cover a La Liga football match where Real Madrid kept title hopes alive, French left-wing leader Jean-Luc Melenchon announcing a 2027 presidential run, and a suspected hantavirus outbreak on an Atlantic cruise ship resulting in three deaths.
+
+ARTICLE BREAKDOWN
+[1] Real Madrid stays alive in La Liga title race with victory at Espanyol | Football News | Al Jazeera
+Published: 2026-05-03T21:22:15Z
+URL: https://www.aljazeera.com/sports/2026/5/3/real-madrid-stays-alive-in-la-liga-title-race-with-victory-at-espanyol
+Summary: Real Madrid defeated Espanyol 2-0 with two second-half goals from Vinicius Junior, keeping their slim La Liga title hopes alive. Barcelona leads the standings by 11 points with four matches remaining, and the teams face each other next weekend in a Clasico that could decide the title. Vinicius broke the deadlock in the 55th minute and added a second in the 66th minute, both from slick exchanges with teammates.
+
+[2] French left-wing’s Melenchon says he will run for president in 2027 | Politics News | Al Jazeera
+Published: 2026-05-03T21:25:48Z
+URL: https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027
+Summary: Jean-Luc Melenchon, leader of France's left-wing Unbowed party, announced he will run in the 2027 presidential election, his fourth bid. He has increased his vote share in each campaign, coming third in 2022 with 22 percent. With President Macron term-limited and far-right leader Marine Le Pen facing a potential political ban, the race is considered wide open. Melenchon's party has been a vocal critic of Israel's war on Gaza and advocates for strong environmental regulations and higher taxes on the rich.
+
+[3] Three dead in suspected hantavirus outbreak on Atlantic cruise ship | Health News | Al Jazeera
+Published: 2026-05-03T21:59:20Z
+URL: https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship
+Summary: Three people have died and one is in intensive care in South Africa after a suspected hantavirus outbreak on the MV Hondius cruise ship sailing from Argentina to Cape Verde. The World Health Organization confirmed one case and suspects five other passengers are infected. Hantavirus is a rare disease transmitted from rodents that can cause fatal hemorrhagic fever. Authorities are investigating and coordinating evacuations for two other symptomatic passengers.
+
+================================================================================
 RUN TIME UTC: 2026-05-03T20:43:01Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
