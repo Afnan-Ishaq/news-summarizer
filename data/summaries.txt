@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-05-05T11:16:06Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The batch covers a range of topics including Israeli settler violence in the West Bank, education reform in Mauritania, a health crisis in Gaza, US primary elections, cross-border tensions between Afghanistan and Pakistan, NBA playoff results, Russian strikes on Ukrainian gas facilities, a Secret Service shooting near the White House, a table tennis incident in the UK, a hantavirus outbreak on a cruise ship, and UK local elections.
+
+ARTICLE BREAKDOWN
+[1] Palestine weekly wrap: Israeli security agencies sound alarm on settlers | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-05T07:44:04Z
+URL: https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers
+Summary: Senior Israeli officials, including Major-General Avi Bluth and former Mossad chief Tamir Pardo, have issued stark warnings about settler violence in the West Bank, with Bluth warning it could spark a Palestinian uprising. Despite these warnings, settler attacks, new illegal outposts, and land seizures continued, and Israel's navy intercepted a humanitarian flotilla. The article also notes that top police and prison service officials attended a birthday celebration for Minister Itamar Ben-Gvir, where a cake with a golden noose was presented. Violence persisted, including the killing of a 16-year-old and a man by Israeli forces, and settlers established new outposts and attacked Palestinians in multiple areas.
+
+[2] In Mauritania, push to phase out private schools divides opinion | Education | Al Jazeera
+Published: 2026-05-05T07:54:50Z
+URL: https://www.aljazeera.com/features/2026/5/5/education-reform-mauritania
+Summary: 
+
+[3] As summer approaches, skin diseases spread through Gaza's refugee camps | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-05T08:02:00Z
+URL: https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps
+Summary: The UN has warned of a new public health crisis in Gaza as skin diseases like scabies and chickenpox spread in crowded camps, with infections tripling in recent months due to rising temperatures, overcrowding, and poor sanitation. Despite a ceasefire since October 2025, Israel's blockade has severely limited medical imports, forcing Palestinians to use homemade remedies. Health workers are struggling to disinfect tents, with only 50,000 of 200,000 tents sprayed in Khan Younis due to shortages of pesticides and supplies.
+
+[4] What to know ahead of the Ohio primary election | US Midterm Elections 2026 News | Al Jazeera
+Published: 2026-05-05T08:15:22Z
+URL: https://www.aljazeera.com/news/2026/5/6/what-to-know-ahead-of-the-ohio-primary-election
+Summary: Ohio voters will go to the polls on May 5, 2026, for primaries ahead of the November midterm elections, which are seen as a referendum on President Donald Trump's second term. Key races include the gubernatorial contest, where Trump-backed Vivek Ramaswamy faces Casey Putsch for the Republican nomination, and the Senate race, where former Senator Sherrod Brown seeks to return. The outcomes will test Trump's influence and determine which party controls Congress.
+
+[5] Afghanistan accuses Pakistan of killing three civilians in 'war crime' | Conflict News | Al Jazeera
+Published: 2026-05-05T08:15:42Z
+URL: https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime
+Summary: Afghanistan's Taliban-led government has accused Pakistan of killing three civilians in a cross-border attack in Kunar province, calling it a 'war crime,' and said 14 others were injured. Pakistan dismissed the allegations, suggesting the damage may have been staged as propaganda. The incident tests a fragile China-brokered ceasefire, as tensions rise following a suicide attack thwarted in Pakistan's Khyber Pakhtunkhwa province.
+
+[6] NBA semifinal series: Timberwolves stun Spurs in Game 1; Knicks beat 76ers | Basketball News | Al Jazeera
+Published: 2026-05-05T08:44:22Z
+URL: https://www.aljazeera.com/sports/2026/5/5/nba-semifinal-series-timberwolves-stun-spurs-in-game-1-knicks-beat-76ers
+Summary: The Minnesota Timberwolves defeated the San Antonio Spurs 104-102 in Game 1 of their Western Conference semifinal series, with Anthony Edwards returning from injury to score 18 points off the bench. Victor Wembanyama recorded a triple-double for the Spurs with 11 points, 15 rebounds, and 12 blocks. In the Eastern Conference, the New York Knicks routed the Philadelphia 76ers 137-98, with Jalen Brunson scoring 35 points, becoming the second team in NBA history to win consecutive games by at least 30 points.
+
+[7] Russian air attacks kill five at Ukraine's Naftogaz gas facilities | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-05T09:14:14Z
+URL: https://www.aljazeera.com/news/2026/5/5/russian-attack-kills-five-at-ukraines-naftogaz-gas-facility
+Summary: Russian air strikes on Ukrainian state-run gas facilities in Poltava and Kharkiv regions killed five people, including three workers and two rescue workers, and wounded 37 others, according to Naftogaz CEO Serhiy Koretskyi. The attack cut gas supply to nearly 3,500 customers and came after both sides announced unilateral ceasefires. Ukrainian President Zelenskyy condemned the strikes as 'utter cynicism,' while Ukraine also attacked a Russian oil refinery in Kirishi.
+
+[8] US Secret Service shoots gunman near White House | Donald Trump News | Al Jazeera
+Published: 2026-05-05T09:37:47Z
+URL: https://www.aljazeera.com/news/2026/5/5/us-secret-service-shoots-gunman-near-white-house
+Summary: The US Secret Service shot and wounded a gunman near the White House on Monday after plainclothes agents identified a suspicious individual with a firearm. The suspect opened fire and was wounded in the exchange, and a child was also shot but not critically injured. The incident follows an alleged assassination attempt on President Donald Trump at the White House correspondents' dinner last month.
+
+[9] Taiwan player victim of 'inappropriate contact' at UK table tennis event | Sport News | Al Jazeera
+Published: 2026-05-05T10:54:44Z
+URL: https://www.aljazeera.com/sports/2026/5/5/taiwan-player-victim-of-inappropriate-contact-at-uk-table-tennis-event
+Summary: A Taiwanese table tennis player, reportedly Cheng I-ching, reported 'inappropriate physical contact' during a security check at the World Team Championships Finals in London. Taiwan's Ministry of Sport called for a safe environment, and the International Table Tennis Federation said it was investigating. The security staff member allegedly involved has been removed from duty.
+
+[10] Two hantavirus cases confirmed, five more suspected on stranded cruise ship | Health News | Al Jazeera
+Published: 2026-05-05T11:00:46Z
+URL: https://www.aljazeera.com/news/2026/5/5/seven-cases-of-hantavirus-confirmed-or-suspected-on-cruise-says-who
+Summary: The WHO confirmed two cases of hantavirus and five suspected cases on the MV Hondius cruise ship off Cape Verde, with three deaths, one critical illness, and three mild cases. The ship, carrying mostly British, American, and Spanish passengers, is heading to the Canary Islands for investigation and disinfection. Contact tracing is underway for a flight taken by a deceased Dutch woman.
+
+[11] 'Starmer's referendum': How local elections could expose a fractured UK | Politics News | Al Jazeera
+Published: 2026-05-05T11:04:41Z
+URL: https://www.aljazeera.com/news/2026/5/5/starmers-referendum-how-local-elections-could-expose-a-fractured-uk
+Summary: UK Prime Minister Keir Starmer's Labour Party faces tough local and devolved elections on Thursday, with analysts predicting heavy losses due to policy U-turns and political controversies. The hard-right Reform UK and the Green Party are gaining ground, while Plaid Cymru challenges Labour in Wales. The elections are seen as a 'referendum' on Starmer's government, with a YouGov poll showing 70 percent of respondents believe he is doing 'badly.'
+
+================================================================================
 RUN TIME UTC: 2026-05-05T07:18:42Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
