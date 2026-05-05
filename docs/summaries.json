@@ -1,5 +1,37 @@
 [
   {
+    "time": "2026-05-05T02:47:44Z",
+    "window_hours": 6,
+    "article_count": 4,
+    "overall_summary": "Tensions escalate between the US and Iran over the Strait of Hormuz, with Trump threatening military action. Brazil's Lula plans to meet Trump in the US. Christians in Israel and Jerusalem face rising intolerance and attacks. A new report details war crimes by the ADF rebel group in eastern DRC.",
+    "articles": [
+      {
+        "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
+        "url": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran",
+        "published": "2026-05-04T21:08:35Z",
+        "summary": "US President Donald Trump warned Iran would be 'blown off the face of the Earth' if it attacks US ships, as tensions over the Strait of Hormuz escalate. The US military began implementing 'Project Freedom' to guide ships through the strait, but traffic remains largely suspended. Iran attacked the UAE and a South Korean ship suffered an explosion, while the US said it shot down seven Iranian boats."
+      },
+      {
+        "title": "Brazil’s Lula to travel to US to meet with Trump later this week",
+        "url": "https://www.aljazeera.com/news/2026/5/4/brazils-lula-to-travel-to-us-to-meet-with-trump-later-this-week",
+        "published": "2026-05-04T21:21:46Z",
+        "summary": "Brazilian President Luiz Inacio Lula da Silva is expected to travel to the US to meet President Donald Trump later this week, according to media reports. The trip, first reported by O Globo, would follow a January phone call where Lula indicated he would visit. The White House has not confirmed the reports, but the relationship between the two leaders has improved after initial hostility."
+      },
+      {
+        "title": "For Christians in Israel and Jerusalem, intolerance is becoming normal",
+        "url": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal",
+        "published": "2026-05-04T22:14:02Z",
+        "summary": "Christians in Israel and East Jerusalem face a growing number of abuse, assault, and intimidation incidents, including a recent attack on a French nun. Analysts say low-level harassment like spitting and insults has become daily, with 113 known attacks tracked last year. Israeli officials condemned the nun's attack, but trust in the state is low, and many incidents go unreported."
+      },
+      {
+        "title": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
+        "url": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians",
+        "published": "2026-05-04T23:37:54Z",
+        "summary": "Amnesty International released a report accusing the Allied Democratic Forces (ADF) in eastern DRC of war crimes and crimes against humanity, including murder, abductions, and sexual abuse. The ADF, which pledged allegiance to ISIS in 2019, has killed, tortured, and displaced civilians, with attacks like one in Ntoyo village killing over 60 people. The group has intensified operations amid international focus on other conflicts in the region."
+      }
+    ]
+  },
+  {
     "time": "2026-05-04T21:09:40Z",
     "window_hours": 6,
     "article_count": 8,
