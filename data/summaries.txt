@@ -1,4 +1,93 @@
 ================================================================================
+RUN TIME UTC: 2026-05-05T16:25:10Z
+WINDOW: Last 6 hours
+ARTICLES USED: 16
+
+OVERALL SUMMARY
+The batch covers a wide range of global events including Champions League football previews, Indian state election results, UK counterterrorism investigations, Romanian government collapse, African World Cup fan issues, Israeli detention of activists, escalating US-Iran tensions over the Strait of Hormuz, Iran's World Cup preparations, Mali's natural resource wealth and security crisis, Europe-US trade war threats, Sudan's accusations against Ethiopia and UAE, and a Boko Haram attack in Chad.
+
+ARTICLE BREAKDOWN
+[1] Bayern Munich vs PSG: Champions League – preview, team news, start, lineups | Football News | Al Jazeera
+Published: 2026-05-05T11:23:59Z
+URL: https://www.aljazeera.com/sports/2026/5/5/bayern-munich-vs-psg-champions-league-preview-team-news-start
+Summary: PSG travel to Munich defending a 5-4 lead from a thrilling Champions League semifinal first leg, with both coaches promising more attacking football. The first leg was the highest-scoring semifinal leg in history, featuring goals from Harry Kane, Khvicha Kvaratskhelia, Ousmane Dembele, and others. Bayern coach Vincent Kompany has pledged to stick with his high-risk approach despite defensive vulnerabilities, as the winner faces either Arsenal or Atletico Madrid in the final.
+
+[2] What Modi’s big win in Indian state elections could mean for its democracy | Elections News | Al Jazeera
+Published: 2026-05-05T11:29:27Z
+URL: https://www.aljazeera.com/news/2026/5/5/what-modis-big-win-in-indian-state-elections-could-mean-for-its-democracy
+Summary: India's BJP won the key state of West Bengal for the first time in its 46-year history, marking a significant victory for Prime Minister Narendra Modi. The BJP also retained Assam, while in Tamil Nadu, actor Joseph Vijay is poised to become chief minister, and in Kerala, a communist government lost to an Indian National Congress-led alliance. The article highlights the historical context of Bengal's partition and its role in shaping political consciousness in the region.
+
+[3] UK counterterrorism police investigate arson attack at former synagogue | Crime News | Al Jazeera
+Published: 2026-05-05T12:00:51Z
+URL: https://www.aljazeera.com/news/2026/5/5/uk-counterterrorism-police-investigate-arson-attack-at-former-synagogue
+Summary: British counterterrorism police are investigating an arson attack at a former synagogue in London's Tower Hamlets borough, with no injuries reported. The incident follows the UK's national threat level being raised to 'severe' due to Islamist and extreme right-wing threats. Prime Minister Keir Starmer held a meeting on anti-Semitism and is fast-tracking legislation in response to rising attacks on the Jewish community.
+
+[4] Romania PM Ilie Bolojan’s government toppled in no-confidence vote | Politics News | Al Jazeera
+Published: 2026-05-05T12:15:56Z
+URL: https://www.aljazeera.com/news/2026/5/5/romania-pm-ilie-bolojans-government-toppled-in-no-confidence-vote
+Summary: Romania's pro-European Union coalition government collapsed after a no-confidence vote, with 281 legislators voting in favor and four against. The motion was launched by the left-wing Social Democratic Party and the far-right AUR, raising fears of a fiscal crisis as the leu fell to a record low. Centrist President Nicusor Dan is expected to negotiate a new pro-EU coalition, possibly under a different prime minister.
+
+[5] CAF is failing Africa’s World Cup fans | World Cup 2026 | Al Jazeera
+Published: 2026-05-05T12:20:26Z
+URL: https://www.aljazeera.com/opinions/2026/5/5/caf-is-failing-africas-world-cup-fans
+Summary: The article criticizes the Confederation of African Football (CAF) for its silence on US travel bans and visa restrictions affecting African World Cup fans. Four nations on Trump's travel ban list include Senegal and Ivory Coast, while Algeria, Tunisia, and Cabo Verde face a visa bond program requiring up to $15,000 bonds. The author argues that CAF's inaction contradicts its historical role in advocating for African representation in football.
+
+[6] Israel extends detention of Gaza flotilla activists, lawyers say | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-05T12:56:33Z
+URL: https://www.aljazeera.com/news/2026/5/5/israel-extends-detention-of-gaza-flotilla-activists-say-lawyers
+Summary: An Israeli court extended the detention of two Gaza-bound aid flotilla activists, Saif Abu Keshek and Thiago Avila, until May 10, based on secret evidence they cannot review. The activists were abducted in international waters and face accusations including affiliation with a 'terrorist organization,' which their lawyers call baseless. Adalah, the rights group representing them, says they are on a hunger strike and will appeal the decision.
+
+[7] US, Iran, UAE trade Hormuz attack claims: What we know | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-05T13:00:23Z
+URL: https://www.aljazeera.com/news/2026/5/5/us-iran-uae-trade-hormuz-attack-claims-what-we-know
+Summary: Tensions in the Gulf escalated after the US and Iran both claimed to have attacked each other's ships despite a ceasefire. Iran reported hitting a US warship with drones, which CENTCOM denied, while the US claimed to have sunk IRGC vessels. The UAE accused Iran of attacking Fujairah with missiles and drones, setting an oil refinery ablaze, as Trump announced 'Project Freedom' to escort ships through the Strait of Hormuz.
+
+[8] Iran’s football team shows World Cup readiness with social media posts | World Cup 2026 News | Al Jazeera
+Published: 2026-05-05T13:08:58Z
+URL: https://www.aljazeera.com/sports/2026/5/5/irans-football-team-shows-world-cup-readiness-with-social-media-posts
+Summary: Iran's football team posted social media videos hinting at a new tournament kit and showing training sessions, indicating World Cup preparations are on track. Despite uncertainty due to the US-Israel war on Iran, FIFA president Gianni Infantino confirmed Iran will play in the US, and Trump said he was 'OK' with it. The team will travel to Turkiye for friendlies before their World Cup campaign against New Zealand and Belgium in June.
+
+[9] Mapping Mali’s gold and natural resource wealth | Interactive News | Al Jazeera
+Published: 2026-05-05T13:34:18Z
+URL: https://www.aljazeera.com/news/2026/5/5/mapping-malis-gold-and-natural-resource-wealth
+Summary: Mali holds Africa's third-largest gold reserves, estimated at 800 tonnes, with potential up to 2,000 tonnes, and produced about 100 tonnes in 2024. The mining sector is dominated by foreign companies like Barrick Gold, but a new mining code allows the state to take up to a 35 percent stake. The country also has vast lithium and uranium deposits, amidst ongoing political instability and a security crisis.
+
+[10] Map of dominance: Why Iran can’t afford to give up Hormuz control | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-05T14:19:39Z
+URL: https://www.aljazeera.com/news/2026/5/5/map-of-dominance-why-iran-cant-afford-to-give-up-hormuz-control
+Summary: Iran's IRGC released a map expanding its maritime control area to include UAE coastline sections, amid escalating tensions over the Strait of Hormuz. Analysts say Iran relies on control of the strait for leverage in negotiations with the US, as disrupting traffic imposes economic costs. The UAE reported drone and missile attacks from Iran, marking the first such incidents since the US-Iran ceasefire.
+
+[11] Why Europe’s car industry is at the centre of a new US trade war | Trade War News | Al Jazeera
+Published: 2026-05-05T14:22:55Z
+URL: https://www.aljazeera.com/news/2026/5/5/why-europes-car-industry-is-at-the-centre-of-a-new-us-trade-war
+Summary: US President Trump threatened to increase tariffs on EU cars and trucks from 15 percent to 25 percent, accusing the EU of not complying with the July 2025 trade deal. The EU rejected the claim, and the move surprised Brussels, straining transatlantic ties amid disagreements over the war on Iran. The article details the 2025 trade deal, which capped tariffs and included EU commitments to buy US energy and military equipment.
+
+[12] US-Iran ceasefire holds despite Hormuz standoff: Pentagon chief Hegseth | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-05T14:46:59Z
+URL: https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth
+Summary: Pentagon chief Pete Hegseth said the US-Iran ceasefire remains in place despite military actions around the Strait of Hormuz, with Trump deciding when it ends. Hegseth described 'Project Freedom' as separate from the broader US-Israeli assault on Iran, and said the US has established a security 'dome' over the strait. However, traffic in the strait remains largely stalled, and the US continues its naval siege on Iranian ports.
+
+[13] Sudan accuses Ethiopia, UAE of being behind recent drone attacks | Sudan war News | Al Jazeera
+Published: 2026-05-05T15:23:17Z
+URL: https://www.aljazeera.com/news/2026/5/5/sudan-accuses-ethiopia-uae-of-being-behind-recent-drone-attacks
+Summary: Sudan accused Ethiopia and the UAE of involvement in drone attacks, including one on Khartoum International Airport, and recalled its ambassador from Ethiopia. Sudan's military claims to have evidence of four drone attacks launched from Ethiopia using UAE-supplied drones. Ethiopia dismissed the allegations as 'baseless,' and the UAE has not reacted, as the war between the Sudanese army and RSF continues.
+
+[14] What’s happening in Mali one week after attack by armed groups? All we know | Armed Groups News | Al Jazeera
+Published: 2026-05-05T15:25:59Z
+URL: https://www.aljazeera.com/news/2026/5/5/whats-happening-in-mali-one-week-after-attack-by-armed-groups-all-we-know
+Summary: A week after coordinated attacks by al-Qaeda-linked JNIM and Tuareg separatists, Mali's military leader Assimi Goita took on the role of defence minister. The attacks killed at least 23 people, including Defence Minister Sadio Camara, and JNIM claimed to have captured Kidal. The government is restructuring and taking security measures, while the UN reports extrajudicial killings and abductions by armed groups.
+
+[15] What’s the significance of UAE’s Fujairah, hit on Monday? | Conflict News | Al Jazeera
+Published: 2026-05-05T15:27:36Z
+URL: https://www.aljazeera.com/news/2026/5/5/whats-the-significance-of-uaes-fujairah-hit-on-monday
+Summary: The UAE accused Iran of launching missiles and drones at Fujairah, injuring three Indian nationals and setting an oil refinery ablaze. Fujairah's port is significant as the terminus of the Habshan-Fujairah oil pipeline, which can carry 1.5 million barrels per day, offering an alternative route amid the Strait of Hormuz closure. Oil exports from Fujairah have risen since the strait's closure, and the port is a major global hub for ship refuelling.
+
+[16] Boko Haram attack kills 23 soldiers in Chad’s Lake Chad region | Boko Haram News | Al Jazeera
+Published: 2026-05-05T15:47:31Z
+URL: https://www.aljazeera.com/news/2026/5/5/boko-haram-attack-kills-23-soldiers-in-chads-lake-chad-region
+Summary: At least 23 Chadian soldiers were killed and 26 injured in a Boko Haram attack on a military post on the island of Barka Tolorom in the Lake Chad region. The army said a 'significant number' of attackers were killed and the group was repelled. Chadian President Mahamat Idriss Deby Itno vowed to continue the fight, following a surge in attacks by Boko Haram's JAS faction in recent months.
+
+================================================================================
 RUN TIME UTC: 2026-05-05T11:16:06Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
