@@ -1,4 +1,73 @@
 ================================================================================
+RUN TIME UTC: 2026-05-05T07:18:42Z
+WINDOW: Last 6 hours
+ARTICLES USED: 12
+
+OVERALL SUMMARY
+The batch covers a surge in oil prices due to escalating violence in the Strait of Hormuz, international condemnation of Iranian attacks on the UAE, and calls for windfall taxes on oil profits. Other stories include Manchester City's Premier League title race setback, Iran accusing the US of killing civilians, a FIFA ban on a former Guyana official, a deepening Hormuz crisis, Pakistani families of Somali piracy victims, a deadly fireworks factory explosion in China, a letter from an imprisoned Brazilian activist, a Colombia coal mine explosion, and a lack of FIFA World Cup broadcast deals in India and China.
+
+ARTICLE BREAKDOWN
+[1] Oil prices surge as violence flares in Strait of Hormuz | Oil and Gas News | Al Jazeera
+Published: 2026-05-05T03:23:35Z
+URL: https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz
+Summary: Oil prices surged as violence in the Strait of Hormuz cast doubt on the US-Iran ceasefire, with Brent crude rising nearly 6% to $114.44 a barrel. The US military said it destroyed six Iranian boats in response to attacks on commercial vessels, while Iran denied the claim. Shipping companies remain hesitant to transit the waterway despite US assurances, and thousands of seafarers are stranded on vessels in the strait.
+
+[2] ‘Dangerous escalation’: World condemns Iran after attacks on UAE | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-05T03:38:53Z
+URL: https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae
+Summary: The UAE intercepted 15 missiles and four drones from Iran, marking the first such attacks since the April 8 ceasefire, and warned it reserves the right to respond. Saudi Arabia, Qatar, Kuwait, and Bahrain condemned the strikes as a dangerous escalation and expressed solidarity with the UAE. Iran's state broadcaster blamed US military adventurism, but there was no official comment from Tehran.
+
+[3] States should tax windfall oil profits to fund their way out of crisis | Renewable Energy | Al Jazeera
+Published: 2026-05-05T04:17:25Z
+URL: https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis
+Summary: The article argues that the Iran war is causing an economic crisis that boosts energy profits, and governments should impose windfall taxes on oil companies to cushion household impacts and fund an energy transition. It notes that fossil fuel companies earned $2.7 trillion in 2023 and are projected to earn $3,000 a second in 2026, with recent quarterly reports showing strong earnings for BP, TotalEnergies, and ExxonMobil. The closure of the Strait of Hormuz is driving up oil and gas prices, exacerbating the crisis.
+
+[4] Man City have lost control of the Premier League title race: Guardiola | Football News | Al Jazeera
+Published: 2026-05-05T05:38:24Z
+URL: https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola
+Summary: Manchester City manager Pep Guardiola admitted the Premier League title race is out of his team's control after a 3-3 draw with Everton left them five points behind leaders Arsenal, though they have a game in hand. City scored a dramatic 97th-minute equalizer but now need Arsenal to slip up in the remaining four games. Despite the setback, City are still in contention for a domestic treble, having won the League Cup and reaching the FA Cup final.
+
+[5] Iran says US military killed five civilians in attacks on passenger boats | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-05T05:52:08Z
+URL: https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats
+Summary: Iran accused the US of killing five civilians in the Strait of Hormuz, claiming US forces attacked passenger boats rather than IRGC vessels as the US stated. The US military said it sank six IRGC boats attempting to disrupt a mission to escort stranded ships, but Iran denied this and said an investigation found civilian boats were hit. The incident has shaken the fragile ceasefire and renewed fears of a return to war.
+
+[6] FIFA bans former Guyana official Alves for 5 years over sexual harassment | Football News | Al Jazeera
+Published: 2026-05-05T06:24:08Z
+URL: https://www.aljazeera.com/sports/2026/5/5/fifa-bans-former-guyana-official-alves-for-5-years-over-sexual-harassment
+Summary: FIFA's Ethics Committee banned former Guyana Football Federation General Secretary Ian Alves from all football-related activities for five years and fined him 20,000 Swiss francs for sexually harassing female staff members. The decision followed a review of written statements, documents, and other evidence. Alves stepped down from his position in 2024, and the ban took effect on Monday.
+
+[7] Iran war: What’s happening on day 67 as Hormuz crisis deepens? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-05T06:31:34Z
+URL: https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens
+Summary: On day 67 of the Iran war, the UAE intercepted Iranian missiles and reported a fire at an oil facility after a suspected drone attack, drawing condemnation from Qatar, Saudi Arabia, Kuwait, and the EU. Iran denied US claims of sinking IRGC boats, saying civilian vessels were hit and five people killed. The US launched 'Project Freedom' to reopen the Strait of Hormuz, but tensions remain high with Iran asserting its right to manage the waterway.
+
+[8] ‘What comes next?’: Fear grips Pakistani families of Somali piracy victims | Crime | Al Jazeera
+Published: 2026-05-05T06:39:17Z
+URL: https://www.aljazeera.com/features/2026/5/5/what-comes-next-fear-grips-pakistani-families-of-somali-piracy-victims
+Summary: Families of Pakistani sailors held hostage on the MT Honour 25 by Somali pirates are searching for answers and accusing the government of not doing enough to secure their release. The article profiles Ayesha Ameen, whose husband Ameen bin Shams is among 10 Pakistani crew members held captive for nearly two weeks. The hijacking has caused immense fear and uncertainty for the families, with the three-year-old daughter asking daily about her father.
+
+[9] Explosion at fireworks factory in China kills 26, injures 61 | News | Al Jazeera
+Published: 2026-05-05T06:41:36Z
+URL: https://www.aljazeera.com/news/2026/5/5/explosion-at-fireworks-factory-in-china-kills-26-injures-61
+Summary: An explosion at the Huasheng fireworks plant in Liuyang, China, killed at least 26 people and injured 61, prompting President Xi Jinping to order an investigation and call for accountability. The blast occurred on Monday, and 482 emergency personnel were dispatched, with the area evacuated due to risk of further explosions. Liuyang produces about 70% of China's fireworks exports, and the last major accident there was in 2019.
+
+[10] Thiago Ávila’s letter from Israeli prison to his daughter | Gaza | Al Jazeera
+Published: 2026-05-05T06:48:20Z
+URL: https://www.aljazeera.com/opinions/2026/5/5/thiago-avilas-letter-from-israeli-prison-to-his-daughter
+Summary: Brazilian activist Thiago Ávila, imprisoned in Israel, wrote a letter to his daughter explaining his motivation for joining a Gaza-bound humanitarian flotilla. He expresses sorrow for being away but says he and others have a historical responsibility to oppose genocide and build a better world. The letter, dictated from prison, reflects his commitment to revolutionary ideals despite facing leaders like Trump and Netanyahu.
+
+[11] Nine workers killed in Colombia coal mine explosion | Mining News | Al Jazeera
+Published: 2026-05-05T07:04:02Z
+URL: https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion
+Summary: A coal mine explosion in Colombia's Cundinamarca province killed nine workers and injured six, caused by a buildup of gases, weeks after the National Mining Agency issued risk-control recommendations. The blast occurred at a legally operated mine in Sutatausa, where miners were working 600 meters underground. Rescue workers assessed gas levels before operations, and the agency expressed solidarity with the victims' families.
+
+[12] No FIFA World Cup 2026 broadcast deals signed in India, China | World Cup 2026 News | Al Jazeera
+Published: 2026-05-05T07:05:21Z
+URL: https://www.aljazeera.com/sports/2026/5/5/no-fifa-world-cup-2026-broadcast-deals-signed-in-india-china
+Summary: FIFA has not signed broadcast deals for the 2026 World Cup in India or China, with discussions ongoing, just weeks before the tournament starts on June 11. In past World Cups, Chinese state broadcaster CCTV secured rights well in advance, but no deal has been announced this time. FIFA has concluded agreements in at least 175 territories globally, but the lack of deals in the world's two most populous nations is unusual at this stage.
+
+================================================================================
 RUN TIME UTC: 2026-05-05T02:47:44Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
