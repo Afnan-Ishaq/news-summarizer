@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-05-05T21:03:48Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+The batch covers escalating US-Iran tensions, including Iranian attacks on the UAE, a new US naval operation in the Strait of Hormuz, and Iran's intensified executions. Other stories include US plans to hike tariffs on EU cars, UK convictions of Palestine Action activists, US pressure for a Lebanon-Israel meeting, and a deal for US government access to AI models for security testing.
+
+ARTICLE BREAKDOWN
+[1] Iran’s judiciary vows action against ‘enemy’s mercenaries’ amid executions
+Published: 2026-05-05T16:25:40Z
+URL: https://www.aljazeera.com/news/2026/5/5/irans-judiciary-vows-action-against-enemys-mercenaries-amid-executions
+Summary: Iran’s judiciary has promised decisive action against those accused of working for foreign interests, as executions and asset seizures intensify. Three men were executed in Mashhad for allegedly being Mossad agents and leading riots during January protests, which officials call a US-Israel led coup attempt. Executions have increased since the US-Israel war on Iran began on February 28, with authorities speeding up judicial processes but maintaining they are legal. Human rights groups say prisoners are not given fair trials and families are pressured into silence, charges Iran rejects.
+
+[2] UAE comes under Iranian attacks for second consecutive day: Ministry
+Published: 2026-05-05T16:50:48Z
+URL: https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day
+Summary: The UAE said it was attacked by Iranian missiles and drones for a second day, while Iran denied involvement, with the IRGC stating its forces have not carried out such operations. The attacks follow a US initiative called 'Project Freedom' to guide vessels through the Strait of Hormuz, which Iran has effectively sealed off in retaliation for US-Israeli strikes. The US imposed a naval blockade on Iranian ports on April 13, and on Monday Iran fired cruise missiles at US warships and launched 15 missiles toward the UAE, all intercepted, though a fire broke out at a key oil facility in Fujairah.
+
+[3] Microsoft, Google, xAI give US access to AI models for security testing
+Published: 2026-05-05T16:53:09Z
+URL: https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing
+Summary: Microsoft, Google, and xAI have agreed to allow the US federal government access to their new AI models for national security testing through the Center for AI Standards and Innovation (CAISI). The agreement, announced on Tuesday, lets the government evaluate models before deployment to assess capabilities and security risks, fulfilling a Trump administration pledge from July. Concern is growing over AI risks like cyberattacks and military misuse, especially after Anthropic's Mythos model raised alarms. CAISI has completed over 40 evaluations, including on cutting-edge models not yet public.
+
+[4] UK convicts four Palestine Action activists over break-in at Israeli firm
+Published: 2026-05-05T17:36:42Z
+URL: https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm
+Summary: Four of six Palestine Action activists were convicted of criminal damage for a 2024 raid on an Elbit Systems facility in Bristol, causing about £1 million in damage. One defendant, Samuel Corner, was also convicted of inflicting grievous bodily harm for striking a police officer with a sledgehammer. The defendants admitted damaging Israeli military drones to 'save lives in Palestine,' and their lawyers said they defeated more serious charges. Palestine Action was later proscribed under terrorism law, a decision ruled unlawful but remains banned pending appeal.
+
+[5] US push for Lebanon and Israel leaders to meet could inflame tensions
+Published: 2026-05-05T18:38:54Z
+URL: https://www.aljazeera.com/features/2026/5/5/us-push-for-lebanon-and-israel-leaders-to-meet-could-inflame-tensions
+Summary: Lebanon's President Joseph Aoun faces pressure to meet Israel's Prime Minister Benjamin Netanyahu during a US visit this month, which could inflame internal tensions. Hezbollah opposes direct negotiations, preferring indirect talks to end the war and secure Israeli withdrawal. Analysts say such a meeting lacks cross-communal support in Lebanon, and the US push is driven by a desire for a visible deliverable before an April 26 ceasefire expires on May 17. The war, which began in October 2023, has killed nearly 2,700 people and displaced over 1.2 million in Lebanon since March 2.
+
+[6] US plans to hike tariffs on EU cars to 25% will hit luxury market the most
+Published: 2026-05-05T19:50:02Z
+URL: https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most
+Summary: The US plans to impose 25% tariffs on EU auto imports, reversing an August agreement that set tariffs at 15%, with US Trade Representative Jamieson Greer confirming the move. Trump claims the EU did not comply with the deal, a charge EU officials reject, and the threat is seen as a negotiating tactic. German car companies like BMW, Mercedes, and Volkswagen would be hardest hit, as car trade makes up 8% of EU-US business and the US is the top destination for EU-built cars. The tariffs come amid tensions over European countries declining to help the US Navy in the Strait of Hormuz.
+
+[7] US Army says ‘Project Freedom’ in blockaded Hormuz has ‘just begun’
+Published: 2026-05-05T20:42:39Z
+URL: https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2
+Summary: The US military has launched 'Project Freedom' to secure safe passage for commercial vessels through the Strait of Hormuz, which Iran has effectively sealed off since the US-Israeli war began on February 28. US Secretary of State Marco Rubio said 10 civilian sailors have died in the conflict, and the US Navy has destroyed seven Iranian fast boats. Defense Secretary Pete Hegseth said the operation is defensive and temporary, aiming to reopen the strait without entering Iranian waters, and that two US commercial vessels have already traversed it. Iran denied any crossings, though shipping company Maersk confirmed a US-flagged ship exited the Gulf under US escort.
+
+================================================================================
 RUN TIME UTC: 2026-05-05T16:25:10Z
 WINDOW: Last 6 hours
 ARTICLES USED: 16
