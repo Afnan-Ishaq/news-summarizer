@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-05-06T21:11:45Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+The batch covers a range of global events: an Israeli airstrike on Beirut's southern suburbs targeting a Hezbollah commander, leaked Israeli military comments revealing a two-tier firing policy in the West Bank, US primary results in Indiana and Ohio reinforcing Trump's influence, an Israeli strike killing a Gaza police colonel, an al-Qaeda-linked attack on a Mali prison and supply lines, and a secessionist movement in Canada's Alberta province nearing a potential referendum.
+
+ARTICLE BREAKDOWN
+[1] Israel bombs Beirut’s southern suburb as it targets Hezbollah commander
+Published: 2026-05-06T17:35:39Z
+URL: https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander
+Summary: Israeli forces bombed Beirut's southern suburbs, targeting and claiming to have killed Malek Balou, a commander of Hezbollah's Radwan Force. This was the first attack on the area since a truce on April 17, which has been marred by mutual accusations of violations. Israeli Prime Minister Netanyahu confirmed the strike, stating that no terrorist has immunity. Hezbollah has not yet responded to the claim.
+
+[2] Shoot Palestinians, not settlers: Israeli general exposes double standard
+Published: 2026-05-06T18:18:12Z
+URL: https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard
+Summary: Leaked comments from Major-General Avi Bluth, the Israeli commander in the occupied West Bank, reveal a two-tier firing policy: Israeli forces actively avoid firing at Israeli settlers throwing stones but freely fire at Palestinians doing the same. Bluth boasted of killing 42 Palestinian stone-throwers in 2025, while describing settler stone-throwing as not to be fired upon due to societal consequences. Analysts say such comments reflect a shift in Israeli society toward the far-right, where such double standards are increasingly seen as a point of pride.
+
+[3] Indiana, Ohio primaries draw midterm battle lines, reinforce Trump’s pull
+Published: 2026-05-06T18:30:09Z
+URL: https://www.aljazeera.com/news/2026/5/6/indiana-ohio-primaries-draw-midterm-battle-lines-reinforce-trumps-pull
+Summary: Primary elections in Indiana and Ohio set up key races for the US midterms, highlighting Donald Trump's continued influence over Republican voters. In Ohio, Democrat Sherrod Brown will face Republican Jon Husted for a Senate seat, while Trump ally Vivek Ramaswamy won the Republican gubernatorial nomination. In Indiana, five of the state-level candidates Trump targeted lost their primaries, reinforcing his sway despite his overall approval rating declining amid economic uncertainty and the US-Israeli war in Iran.
+
+[4] Israeli strike kills colonel in Gaza police force, say Palestinian medics
+Published: 2026-05-06T19:31:42Z
+URL: https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics
+Summary: An Israeli air strike killed Naseem al-Kalazani, a colonel in Gaza's police force, and wounded at least 17 others in Khan Younis. Al-Kalazani led the anti-narcotics force in the area. Violence persists despite a US-brokered ceasefire, with at least 830 Palestinians killed during the ceasefire period. Israel says its strikes target attempts by armed groups to attack its forces, while Hamas insists its weapons be addressed only as part of a framework for a Palestinian state.
+
+[5] Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako
+Published: 2026-05-06T19:43:05Z
+URL: https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako
+Summary: Fighters from the al-Qaeda-linked JNIM group stormed the Kenieroba Central Prison, known as 'Africa's Alcatraz', which holds 2,500 prisoners including high-value JNIM fighters. The attack follows a coordinated offensive on April 25-26 that killed Malian Defence Minister Sadio Camara and others. Since then, there has been a wave of arrests of military officers and opposition figures accused of colluding with al-Qaeda fighters.
+
+[6] What’s behind the secessionist movement in the Canadian province Alberta?
+Published: 2026-05-06T21:05:29Z
+URL: https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta
+Summary: Secessionists in Alberta have submitted about 300,000 signatures to launch a referendum on independence from Canada, far exceeding the required 178,000. Premier Danielle Smith has said she would move forward with the vote if the petition qualifies, though she does not support independence. The process faces legal challenges from Indigenous groups and questions about voter support, with polls showing about 30 percent of residents in favor. The movement reflects longstanding frustrations with federal power in Canada.
+
+================================================================================
 RUN TIME UTC: 2026-05-06T16:29:00Z
 WINDOW: Last 6 hours
 ARTICLES USED: 20
