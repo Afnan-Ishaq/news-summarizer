@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-05-06T07:39:07Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a hantavirus outbreak on a cruise ship granted docking in Spain's Canary Islands, Iran's foreign minister meeting China's top diplomat amid tensions over the Strait of Hormuz, Israeli President Herzog's diplomatic visit to Central America, the high cost of weddings in war-torn Gaza, airline disruptions due to fuel price hikes from the Iran war, Syria's Suwayda province becoming a Captagon hub, ongoing ethnic violence in India's Manipur, and a day 68 update on the Iran war with Trump pausing a military operation.
+
+ARTICLE BREAKDOWN
+[1] Spain agrees to let hantavirus-hit cruise ship dock in Canary Islands | Health News | Al Jazeera
+Published: 2026-05-06T03:19:12Z
+URL: https://www.aljazeera.com/news/2026/5/6/spain-agrees-to-let-hantavirus-hit-cruise-ship-dock-in-canary-islands
+Summary: Spain has granted permission for the MV Hondius, a luxury cruise ship hit by a hantavirus outbreak, to sail from Cape Verde to the Canary Islands after the WHO said Cape Verde could not accommodate the 147 people on board. A Dutch couple and a German national have died from the rare disease, and two crew members require urgent care. The ship's doctor, a Dutch national, is gravely ill and will be evacuated via medical flight. The Spanish Health Ministry said all necessary safety measures will be taken to avoid contact with the local population.
+
+[2] Iran’s Araghchi holds talks with China’s Wang Yi in Beijing | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-06T04:55:02Z
+URL: https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing
+Summary: Iranian Foreign Minister Abbas Araghchi met Chinese counterpart Wang Yi in Beijing amid mounting tensions with the US over the Strait of Hormuz, one week before US President Donald Trump's visit to China. Araghchi said China is a close friend and that bilateral cooperation will strengthen, adding that Iran only accepts a fair and comprehensive agreement in talks with the US. The meeting is expected to focus on maintaining the ceasefire and reopening the Strait of Hormuz, as China has been critical of both the US naval blockade and Iran's closure of the vital chokepoint.
+
+[3] What to know about Israeli President Herzog’s trip to Central America? | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-06T05:45:27Z
+URL: https://www.aljazeera.com/news/2026/5/6/what-to-know-about-israeli-president-herzogs-trip-to-central-america
+Summary: Israeli President Isaac Herzog is set to visit Panama and Costa Rica for a four-day official trip to deepen ties with partners in the region as Israel faces growing international isolation over its regional wars. In Panama, Herzog will meet President Jose Raul Mulino in what the Israeli Foreign Ministry calls the first visit by an Israeli president to the country, which is a current non-permanent member of the UN Security Council. He will then attend the inauguration of Costa Rica's President-elect Laura Fernandez Delgado. The trip aims to bolster alliances at international fora like the UN.
+
+[4] In Gaza, the simplest of weddings are barely affordable | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-06T05:51:42Z
+URL: https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable
+Summary: In Gaza, war, displacement, and soaring prices have made even the simplest weddings barely affordable, with couples like Saja al-Masri and Mohammed Ahliwat marrying in tents. Mohammed spent thousands of shekels on a tent, wood, tarpaulins, and a makeshift bathroom, calling the costs unbearably high despite the harsh conditions. Before the war, he owned a fully furnished apartment and poultry farms, but now he is starting his life in a tent. Many weddings in Gaza are now held in tents with only basic preparations amid the collapse of living conditions.
+
+[5] Airlines hike fares, cut millions of seats as Iran war drives up fuel costs | Aviation News | Al Jazeera
+Published: 2026-05-06T07:04:11Z
+URL: https://www.aljazeera.com/economy/2026/5/6/airlines-hike-fares-cut-millions-of-seats-as-iran-war-drives-up-fuel-costs
+Summary: Surging jet fuel prices, driven by the effective closure of the Strait of Hormuz amid the US-Iran war, are prompting airlines to hike fares and cut millions of seats, casting a cloud over the summer travel rush. Jet fuel prices have risen more than 80 percent since late February, leading US budget carrier Spirit Airlines to permanently cease operations. Airlines have cut 9.3 million seats for June to September, with the most pronounced reductions in the Middle East, including Qatar Airways slashing two million seats. Travelers like Theodore in Malaysia are booking with full-service carriers to avoid last-minute cancellations.
+
+[6] Syria’s Suwayda: A new hub for the multibillion-dollar Captagon trade? | Drugs News | Al Jazeera
+Published: 2026-05-06T07:16:17Z
+URL: https://www.aljazeera.com/news/2026/5/6/syrias-suwayda-a-new-hub-for-the-multi-billion-dollar-captagon-trade
+Summary: Jordanian fighter jets struck narcotics factories in southern Syria on Sunday, highlighting the emergence of Suwayda province as a key hub for Captagon production after the fall of the Assad regime. The drug trade, once linked to pro-Assad forces, has shifted to Suwayda, where the National Guard militia has become dominant and is accused of establishing labs and smuggling rings. For Jordan, the trade has become a national emergency, with smugglers using advanced techniques like drones. The strikes are part of an emerging axis between the new Syrian government and Jordan to dismantle the drug infrastructure.
+
+[7] Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict | Conflict News | Al Jazeera
+Published: 2026-05-06T07:23:56Z
+URL: https://www.aljazeera.com/news/2026/5/6/manipurs-unknown-killers-three-years-of-indias-bloody-ethnic-conflict
+Summary: The article details the ongoing ethnic conflict in India's Manipur state between the Meitei and Kuki-Zo communities, which has claimed over 250 lives and displaced tens of thousands since May 2023. It highlights a recent tragedy where an RPG hit a home, killing an infant and a five-year-old, with the father, a BSF soldier, learning of the deaths while on duty. The conflict was sparked by a High Court recommendation to extend scheduled tribe status to the Meiteis, which the Kuki-Zo feared would erode their protected status. The violence has mutated and deepened, with assailants often remaining officially unidentified.
+
+[8] Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’ | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-06T07:25:53Z
+URL: https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over
+Summary: On day 68 of the Iran war, US President Donald Trump announced a temporary pause to the 'Project Freedom' operation to reopen the Strait of Hormuz, citing 'great progress' towards a potential agreement with Iran. Iranian President Masoud Pezeshkian accused Washington of pursuing 'maximum pressure' and expecting Iran to submit to unilateral demands. Other developments include a cargo vessel struck by a projectile in the strait, fears for jailed Nobel laureate Narges Mohammadi's health, and US Secretary of State Marco Rubio saying the offensive stage of the war is 'over'. Iranian Foreign Minister Araghchi met China's top diplomat in Beijing for talks.
+
+================================================================================
 RUN TIME UTC: 2026-05-06T02:53:51Z
 WINDOW: Last 6 hours
 ARTICLES USED: 2
