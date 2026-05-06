@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-05-06T02:53:51Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+Al Jazeera reports on Arsenal's historic Champions League final qualification and a US pause on military operations in the Strait of Hormuz amid negotiations with Iran.
+
+ARTICLE BREAKDOWN
+[1] Arsenal beat Atletico to reach first Champions League final in 20 years | Football News | Al Jazeera
+Published: 2026-05-05T21:05:20Z
+URL: https://www.aljazeera.com/sports/2026/5/5/arsenal-beat-atletico-to-reach-first-champions-league-final-in-20-years
+Summary: Arsenal defeated Atletico Madrid 1-0 in the Champions League semifinal second leg, with Bukayo Saka scoring the decisive goal, advancing 2-1 on aggregate. This marks Arsenal's first Champions League final in 20 years, and they will face either Paris Saint-Germain or Bayern Munich in Budapest on May 30. The team is also chasing a Premier League title, needing to win their remaining three games to secure the double.
+
+[2] Trump pauses US operation in Strait of Hormuz in push for deal with Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-05T23:40:09Z
+URL: https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz
+Summary: US President Donald Trump announced a temporary pause on 'Project Freedom,' the military operation to move ships through the Strait of Hormuz, citing progress toward a final agreement with Iran. The announcement came amid ongoing tensions, including US destruction of Iranian boats and missiles, and Iran expanding its control area in the strait. Secretary of State Marco Rubio stated that US offensive operations against Iran are complete, but emphasized that Iran must 'pay a price' for its actions in the strait.
+
+================================================================================
 RUN TIME UTC: 2026-05-05T21:03:48Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
