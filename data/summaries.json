@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-05-07T02:54:58Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The batch covers PSG advancing to the Champions League final, US-Iran peace talks progress, SpaceX backing Anthropic with a data center deal, Russia warning diplomats to leave Kyiv, US lawmakers demanding transparency on Israel's nuclear capability, Argentina investigating a hantavirus outbreak linked to a cruise ship, and North Korea declaring it is not bound by the NPT.",
+    "articles": [
+      {
+        "title": "Holders PSG beat Bayern Munich to reach Champions League final with Arsenal",
+        "url": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal",
+        "published": "2026-05-06T21:14:05Z",
+        "summary": "Paris Saint-Germain drew 1-1 with Bayern Munich in the second leg of their Champions League semifinal, securing a 6-5 aggregate victory. Ousmane Dembele scored early for PSG, and despite Harry Kane's stoppage-time goal for Bayern, PSG advanced to face Arsenal in the final on May 30 in Budapest. PSG aims to become the first back-to-back winner since Real Madrid in 1990."
+      },
+      {
+        "title": "Trump says war will be ‘over quickly’ as Iran reviews US peace proposal",
+        "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal",
+        "published": "2026-05-06T21:17:47Z",
+        "summary": "US President Donald Trump expressed optimism about a deal with Iran, saying talks have been 'very good' and the war will 'be over quickly.' Reports suggest the two sides are close to a one-page memorandum where Iran would halt uranium enrichment for at least 12 years in exchange for sanctions relief and reopening the Strait of Hormuz. However, Iran's foreign ministry said it has yet to provide its response and is still reviewing the US proposal."
+      },
+      {
+        "title": "SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit",
+        "url": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit",
+        "published": "2026-05-06T21:26:12Z",
+        "summary": "Anthropic has reached a deal to use SpaceX's Colossus 1 data center in Memphis, gaining 300 megawatts of computing power for its Claude AI assistants. The announcement came as Anthropic unveiled a new 'dreaming' feature for its AI system. Elon Musk, who is suing OpenAI, said he was impressed by Anthropic's commitment to ensuring AI is 'good for humanity' and decided to lease the computing power."
+      },
+      {
+        "title": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
+        "url": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes",
+        "published": "2026-05-06T21:30:05Z",
+        "summary": "Russia's foreign ministry urged diplomatic missions to evacuate staff from Kyiv, warning of a retaliatory strike if Ukraine attacks during Russia's May 9 Victory Day commemorations. The warning follows Ukrainian President Zelenskyy's comments about disrupting the parade, which Russia says are aggressive. Both countries have announced competing ceasefires, with each accusing the other of violations."
+      },
+      {
+        "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
+        "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability",
+        "published": "2026-05-06T22:05:28Z",
+        "summary": "A group of 30 Democratic US lawmakers sent a letter to Secretary of State Marco Rubio demanding transparency on Israel's nuclear capabilities, citing the US-Israel war on Iran. They argue that the longstanding policy of ambiguity hinders nonproliferation efforts in the Middle East. The lawmakers specifically asked about Israel's enrichment capabilities, nuclear doctrine, and any assurances that nuclear weapons will not be used."
+      },
+      {
+        "title": "Argentina investigates link to deadly hantavirus outbreak on cruise ship",
+        "url": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship",
+        "published": "2026-05-06T22:12:05Z",
+        "summary": "Argentinian health authorities are investigating whether the country is the source of a hantavirus outbreak on an Atlantic cruise ship that has killed three people, including a Dutch couple. The ministry will capture and test rodents in Ushuaia linked to the couple's route. The WHO reported eight suspected cases, with the virus spreading through close contact, and noted that warming conditions may be expanding rodent territories."
+      },
+      {
+        "title": "North Korea says it is not bound by any treaty on nuclear non-proliferation",
+        "url": "https://www.aljazeera.com/news/2026/5/7/north-korea-says-it-is-not-bound-by-any-treaty-on-nuclear-non-proliferation",
+        "published": "2026-05-07T00:55:08Z",
+        "summary": "North Korea's UN ambassador declared that Pyongyang will not be bound by any treaty on atomic weapons, stating its status as a nuclear-armed state is irreversible. The statement came during the NPT review conference, where the US criticized North Korea's nuclear program. North Korea withdrew from the NPT in 2003 and has since conducted six nuclear tests, with observers noting it receives military technology from Russia in exchange for support in Ukraine."
+      }
+    ]
+  },
+  {
     "time": "2026-05-06T21:11:45Z",
     "window_hours": 6,
     "article_count": 6,
