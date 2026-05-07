@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-05-07T07:42:58Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+A South Korean court reduced former Prime Minister Han Duck-soo's prison term for his role in a martial law declaration; an Israeli soldier was investigated for desecrating a Virgin Mary statue in Lebanon; the 2026 World Cup schedule and ticket resale policies were detailed; an Israeli attack in Gaza wounded a Hamas leader's son; the San Antonio Spurs tied their NBA playoff series; and drought, conflict, and aid cuts worsened hunger in Somalia.
+
+ARTICLE BREAKDOWN
+[1] South Korean court reduces Han Duck-soo’s prison term in martial law case | News | Al Jazeera
+Published: 2026-05-07T03:25:09Z
+URL: https://www.aljazeera.com/news/2026/5/7/south-korean-court-reduces-han-duck-soos-prison-term-in-martial-law-case
+Summary: A South Korean appeals court reduced former Prime Minister Han Duck-soo's prison sentence from 23 years to 15 for crimes related to ex-President Yoon Suk Yeol's 2024 martial law declaration. The court maintained most convictions but lessened penalties, citing Han's long public service and lack of evidence of active insurrection leadership. Han, who denied wrongdoing except perjury, has been imprisoned since January.
+
+[2] Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-05-07T04:48:38Z
+URL: https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon
+Summary: Israel's military launched an investigation after a photo showed a soldier placing a cigarette into the mouth of a Virgin Mary statue in the Christian village of Debel, southern Lebanon. This incident follows other desecrations and destruction in the area amid Israeli attacks on Lebanon. Concerns have also grown over treatment of Christians in Israel and occupied Palestinian territory, including an assault on a French nun.
+
+[3] What’s the full match schedule, groups and format for World Cup 2026? | World Cup 2026 News | Al Jazeera
+Published: 2026-05-07T05:40:14Z
+URL: https://www.aljazeera.com/sports/2026/5/7/whats-the-full-match-schedule-groups-and-format-for-world-cup-2026
+Summary: The 2026 FIFA World Cup will feature 48 nations in 104 matches across 16 venues in Canada, Mexico, and the United States from June 11 to July 19. The tournament opens in Mexico City and concludes at MetLife Stadium (renamed New York New Jersey Stadium). Groups include debutants Cape Verde, Curacao, Jordan, and Uzbekistan, with a format of group stage, round of 32, round of 16, quarterfinals, and semifinals.
+
+[4] Toronto World Cup tickets to be resold for face value on FIFA Marketplace | World Cup 2026 News | Al Jazeera
+Published: 2026-05-07T06:02:07Z
+URL: https://www.aljazeera.com/sports/2026/5/7/toronto-world-cup-tickets-to-be-resold-for-face-value-on-fifa-marketplace
+Summary: FIFA updated its policy so that tickets for World Cup matches in Toronto can only be resold at face value on the FIFA Marketplace, complying with Ontario's ban on reselling above original price. Tickets for other venues can be listed above face value. FIFA has faced criticism over high ticket prices, with some final tickets listed for over $2 million, and has struggled to sell out some group-stage games.
+
+[5] Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-07T06:37:03Z
+URL: https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya
+Summary: An Israeli air attack on Gaza City killed one person and wounded Azzam al-Hayya, son of Hamas political bureau chief Khalil al-Hayya, along with at least nine others. Two other Israeli raids killed four more Palestinians, including a police colonel. Hamas condemned the attacks as a violation of a ceasefire agreement, while al-Hayya said the violence would not intimidate his people.
+
+[6] Wembanyama and Spurs rebound to level against Timberwolves in NBA Playoffs | Basketball | Al Jazeera
+Published: 2026-05-07T07:01:03Z
+URL: https://www.aljazeera.com/sports/2026/5/7/wembanyama-and-spurs-rebound-to-level-against-timberwolves-in-nba-playoffs
+Summary: Victor Wembanyama scored 19 points and grabbed 15 rebounds as the San Antonio Spurs defeated the Minnesota Timberwolves 133-95, tying their Western Conference semifinal series at 1-1. The Spurs dominated after the first quarter, building a 24-point halftime lead. In the Eastern Conference, the New York Knicks took a 2-0 series lead over the Philadelphia 76ers with a 108-102 win.
+
+[7] Aid cuts, drought and conflict leave Somalis desperate | Drought News | Al Jazeera
+Published: 2026-05-07T07:23:59Z
+URL: https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate
+Summary: Drought, conflict, and US aid cuts have driven over 300,000 Somalis from their homes since January, with malnutrition rates doubling. In Kismayo IDP camps, five children died of malnutrition in March alone, and many health centers and schools have closed. Farmers face one of the worst droughts on record, and a hospital is turning away severe malnutrition cases due to lack of space and staff.
+
+================================================================================
 RUN TIME UTC: 2026-05-07T02:54:58Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
