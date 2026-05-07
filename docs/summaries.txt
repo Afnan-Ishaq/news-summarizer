@@ -1,4 +1,73 @@
 ================================================================================
+RUN TIME UTC: 2026-05-07T11:48:36Z
+WINDOW: Last 6 hours
+ARTICLES USED: 12
+
+OVERALL SUMMARY
+The batch covers the ongoing US-Israel war on Iran, including diplomatic negotiations, military movements, and global economic impacts. Other stories include a Gaza journalist killed on the day his daughter was born, a French warship heading to the Strait of Hormuz, Neymar's apology to a teammate, US Secretary of State Rubio's Vatican visit, China's anti-sanctions law, Spain's World Cup squad updates, US deportation proceedings against a Palestinian student, Turkiye's new ICBM, and a campaign to boycott Israel football matches.
+
+ARTICLE BREAKDOWN
+[1] Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-07T08:01:07Z
+URL: https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut
+Summary: On day 69 of the US-Israel war on Iran, Tehran says it is still reviewing a US proposal delivered through Pakistan, while US President Donald Trump claims talks are progressing. Israel has expanded its campaign by bombing Beirut for the first time since a fragile ceasefire on April 17. Iran's Parliament Speaker mocked US operations, and Iran seeks China's support for a post-war framework. Trump aims for a fast deal before his China trip, and a US warplane disabled an Iranian oil tanker in the Gulf of Oman.
+
+[2] The Gaza journalist killed on the day his daughter was born | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-07T08:12:43Z
+URL: https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born
+Summary: Yahya Sobaih, a Gaza journalist, was killed in an Israeli air strike on May 7, 2025, just hours after his daughter Sana was born. His wife Amal described the day as initially perfect, with Yahya overjoyed and spending time with the newborn before leaving briefly. He was killed in a strike on a commercial area in central Gaza City that killed at least 17 people. Relatives struggled to break the news to Amal while she was in a fragile state after delivery.
+
+[3] French warship moves towards Hormuz for possible defensive mission | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-07T08:36:21Z
+URL: https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission
+Summary: A French aircraft carrier, the Charles de Gaulle, is heading towards the Strait of Hormuz for a possible defensive mission to restore safe navigation, as the waterway remains blocked amid the US-Israel war on Iran. French President Macron and UK PM Starmer are leading a multinational mission that would be deployed only after the war ends. Macron framed the mission as a win-win, offering Iran passage in return for negotiations on nuclear issues. This comes as Tehran reviews a US proposal that Trump says could end the war.
+
+[4] Neymar apologises to Robinho’s son after slapping him in training | World Cup 2026 | Al Jazeera
+Published: 2026-05-07T09:21:25Z
+URL: https://www.aljazeera.com/sports/2026/5/7/neymar-apologises-to-robinhos-son-after-slapping-him-in-training
+Summary: Brazilian footballer Neymar publicly apologized to Santos teammate Robinho Jr for slapping him during a training session, saying he crossed the line. The altercation occurred after Neymar was upset at being dribbled past by the 18-year-old. Robinho Jr accepted the apology, and the two hugged during a match where Neymar scored. Neymar, 34, still hopes to be called up for the 2026 World Cup, while Robinho Jr's father is imprisoned in Brazil for gang rape.
+
+[5] Rubio arrives at Vatican to meet Pope Leo amid Trump attacks | News | Al Jazeera
+Published: 2026-05-07T09:22:35Z
+URL: https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks
+Summary: US Secretary of State Marco Rubio arrived at the Vatican to meet Pope Leo XIV in an attempt to repair relations after Trump's repeated attacks on the pontiff. The closed-door meeting is the first known between the pope and a Trump official in nearly a year. Relations have deteriorated as Pope Leo became a vocal critic of the US-Israel war on Iran, leading Trump to accuse the pope of endangering Catholics. Rubio is also set to meet Italian Prime Minister Giorgia Meloni, who has defended the pope.
+
+[6] What is China’s anti-sanctions law and how does it work? | Business and Economy News | Al Jazeera
+Published: 2026-05-07T09:50:50Z
+URL: https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work
+Summary: China has ordered its citizens and companies not to comply with US sanctions on five Chinese refineries accused of handling Iranian oil, marking the first invocation of its 2021 anti-sanctions law. The Ministry of Commerce issued the prohibition order after the US Treasury sanctioned Hengli Petrochemical and others, calling them key customers of Tehran. The law allows China to block compliance with foreign sanctions deemed unjustified, with penalties for those who fail to report such restrictions. China is Iran's largest trade partner and biggest buyer of Iranian oil.
+
+[7] Madrid captain Carvajal in race against time for Spain’s World Cup squad | World Cup 2026 | Al Jazeera
+Published: 2026-05-07T10:08:19Z
+URL: https://www.aljazeera.com/sports/2026/5/7/madrid-captain-carvajal-in-race-against-time-for-spains-world-cup-squad
+Summary: Spain manager Luis de la Fuente said Dani Carvajal could still make the World Cup squad but must prove his fitness after a foot injury in training with Real Madrid. Carvajal, 34, has struggled for game time this season amid competition from Trent Alexander-Arnold. De la Fuente noted Carvajal would understand if left out, as Spain begins its World Cup campaign against Cape Verde on June 15 in Group H.
+
+[8] US reinstates deportation proceedings against Mohsen Mahdawi | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-07T10:43:38Z
+URL: https://www.aljazeera.com/news/2026/5/7/us-reinstates-deportation-proceedings-against-mohsen-mahdawi
+Summary: The US Board of Immigration Appeals has reinstated deportation proceedings against Palestinian student Mohsen Mahdawi, overturning a previous judge's decision to block the Trump administration's efforts. Mahdawi, a Columbia University student, was arrested last year after pro-Palestinian protests and accused the government of weaponizing the immigration system to silence his advocacy. His legal team said he was arrested under a provision allowing deportation for adverse foreign policy consequences. The Trump administration has cracked down on pro-Palestinian movements, facing legal challenges.
+
+[9] What are US proposals to end war, and will Iran agree to them? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-07T10:45:29Z
+URL: https://www.aljazeera.com/news/2026/5/7/what-are-us-proposals-to-end-war-and-will-iran-agree-to-them
+Summary: Iran says it is reviewing a US peace proposal that sources say would formally end the war, leaving key demands like Iran's nuclear programme and the Strait of Hormuz unresolved. Trump said he believed Iran wanted a deal, while a 14-point memorandum reportedly includes Iran agreeing not to develop nuclear weapons for 12 years and reopening the strait within 30 days. The US would lift sanctions and release frozen assets. However, the memorandum may not address past US demands on Iran's missile programme, which Iran has rejected.
+
+[10] Africa sees winners and losers as Iran war pushes up oil prices | Business and Economy News | Al Jazeera
+Published: 2026-05-07T11:29:43Z
+URL: https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices
+Summary: The US-Israel war on Iran has caused soaring energy prices, creating winners and losers in Africa. Oil-rich nations enjoy windfalls, while resource-sparse countries like Kenya face mounting deficits and subsidy costs. A motorcycle taxi driver in Nairobi reported his income halved due to rising petrol prices, and Kenya may seek a $600m loan from the World Bank. The war has triggered the most severe oil supply shock in history, with global oil production reduced by 14.5 million barrels per day.
+
+[11] Turkiye unveils its first intercontinental ballistic missile: What we know | Weapons News | Al Jazeera
+Published: 2026-05-07T11:40:38Z
+URL: https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know
+Summary: Turkiye has unveiled a prototype of its first intercontinental ballistic missile (ICBM), named Yildirimhan, at a defence exhibition in Istanbul. The missile has a range of 6,000 km, a maximum speed of Mach 25, and a payload capacity of 3,000 kg. Experts say the capability to produce an ICBM is significant for Turkiye's deterrence and positioning as a key regional power, though production has not yet begun. The unveiling comes amid serious tensions in the Middle East.
+
+[12] Irish footballers and celebrities urge boycott of Israel matches | Football News | Al Jazeera
+Published: 2026-05-07T11:42:03Z
+URL: https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match
+Summary: Leading Irish footballers and celebrities have signed an open letter urging the Football Association of Ireland to boycott a UEFA Nations League match against Israel, accusing Israel of genocide in Gaza. The letter, from campaign group Irish Sport for Palestine, cites UEFA and FIFA statutes against playing on occupied land. In November 2025, 93% of FAI members voted to press UEFA to suspend Israel. Ireland's prime minister said the matches should go ahead, while the FAI cited obligations to avoid harming Irish football's long-term interests.
+
+================================================================================
 RUN TIME UTC: 2026-05-07T07:42:58Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
