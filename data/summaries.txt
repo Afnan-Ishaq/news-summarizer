@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-05-08T21:01:24Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+The batch covers a range of topics including sports incidents, geopolitical conflicts, and political transitions. Real Madrid fines players for a fight, Israeli attacks escalate in Lebanon, Premier League title race updates, Serbian water polo resignations, ASEAN economic measures, a Russia-Ukraine ceasefire, convictions in Haiti's president assassination, Libya refinery shutdown, and Costa Rica's new president.
+
+ARTICLE BREAKDOWN
+[1] Real Madrid fine Valverde and Tchouameni for dressing-room fight | Football News | Al Jazeera
+Published: 2026-05-08T16:19:46Z
+URL: https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight
+Summary: Real Madrid fined Aurelien Tchouameni and Federico Valverde 500,000 euros each after a training ground clash that sent Valverde to the hospital. The club concluded internal procedures without sporting sanctions, and both players apologized. Valverde will miss the Clasico due to a head injury, while Tchouameni trained and may play. The altercation occurred amid high tensions as Real Madrid trails Barcelona in La Liga.
+
+[2] More than a dozen reported killed in Israeli attacks on south Lebanon | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-05-08T17:18:33Z
+URL: https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon
+Summary: Israeli air raids killed at least 20 people in southern Lebanon, including a civil defence rescuer, despite a ceasefire with Hezbollah. The Lebanese health ministry reported 50 deaths in the past 24 hours, with strikes hitting multiple districts. Hezbollah responded with attacks on Israeli forces, citing Israeli violations. Al Jazeera reported a significant escalation in military activity over the past 12 hours.
+
+[3] How and when can Arsenal or Man City win the Premier League? | Football News | Al Jazeera
+Published: 2026-05-08T17:27:25Z
+URL: https://www.aljazeera.com/sports/2026/5/8/how-and-when-can-arsenal-or-man-city-win-the-premier-league
+Summary: Arsenal leads the Premier League by five points with three games left, while Manchester City has four matches remaining. City's draw at Everton handed control to Arsenal, but Guardiola's team can pressure the Gunners by beating Brentford. Arsenal faces West Ham next, while City also plays Crystal Palace, Chelsea, Bournemouth, and Aston Villa. The title could be decided in the coming rounds if Arsenal drops points.
+
+[4] Olympic water polo resignations cite lack of respect, belittling behaviour | Olympics News | Al Jazeera
+Published: 2026-05-08T17:29:22Z
+URL: https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect
+Summary: Serbia's men's Olympic water polo head coach resigned and 11 players boycotted the team after federation president Slobodan Soro belittled their European gold medal win. Soro called the victory 'momentary inspiration' and said the team was no longer at its previous level. The players withdrew from the national team until Soro remains in charge. Soro has not commented on the boycott.
+
+[5] ASEAN leaders adopt measures to ease economic pain caused by Iran war | ASEAN News | Al Jazeera
+Published: 2026-05-08T18:07:49Z
+URL: https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war
+Summary: ASEAN leaders agreed on measures to reduce the impact of the Iran war, including a regional fuel-sharing framework, but acknowledged implementation will take time. The closure of the Strait of Hormuz dominated the summit, as ASEAN imports over half its crude oil from the Middle East. Philippine President Marcos noted the economic consequences will persist for years. The bloc also aims to develop a regional power grid and reduce Middle East energy dependence.
+
+[6] Trump announces three-day ceasefire in Russia-Ukraine war | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-08T18:15:46Z
+URL: https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war
+Summary: US President Donald Trump announced a three-day ceasefire in the Russia-Ukraine war from May 9 to 11, including a swap of 1,000 prisoners from each country. Ukrainian President Zelenskyy confirmed the truce, and Russian aide Ushakov said it followed a phone call between Putin and Trump. The ceasefire coincides with Russia's Victory Day celebrations. Trump said talks are continuing and expressed hope it is the beginning of the end of the war.
+
+[7] Four convicted in US related to killing of Haitian President Jovenel Moise | Crime News | Al Jazeera
+Published: 2026-05-08T18:22:31Z
+URL: https://www.aljazeera.com/news/2026/5/8/four-convicted-in-us-related-to-killing-of-haitian-president-jovenel-moise
+Summary: Four people were convicted in the US for conspiring to kill or kidnap Haitian President Jovenel Moise in 2021. Prosecutors said Florida served as a hub for planning the assassination, which sparked a political crisis in Haiti. The defense argued the defendants were scapegoats involved in a plan to serve an arrest warrant. All four face possible life sentences, and no elections have been held in Haiti since the assassination.
+
+[8] Libya’s largest oil refinery halts operations during fighting | Conflict News | Al Jazeera
+Published: 2026-05-08T18:47:02Z
+URL: https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting
+Summary: Libya's largest oil refinery at Zawiya halted operations after fighting between armed groups nearby, with an emergency declared. The National Oil Corporation evacuated employees and said fuel supplies would continue normally. Authorities launched a security operation against criminal groups, and the refinery called for a ceasefire. The cause of the fighting is unclear, but it follows a history of violence between rival governments.
+
+[9] Laura Fernandez sworn in as Costa Rica’s new president | Elections News | Al Jazeera
+Published: 2026-05-08T20:12:50Z
+URL: https://www.aljazeera.com/news/2026/5/8/laura-fernandez-sworn-in-as-costa-ricas-new-president
+Summary: Laura Fernandez was sworn in as Costa Rica's new president, vowing to fight rising crime and maintain close ties with the US. Outgoing President Rodrigo Chaves will remain in government as dual minister, and Fernandez appointed her second vice president as ambassador to Washington. Her right-wing party holds an absolute majority in the legislature. Fernandez plans reforms to the judiciary and security laws, including a crackdown on organized crime.
+
+================================================================================
 RUN TIME UTC: 2026-05-08T16:15:03Z
 WINDOW: Last 6 hours
 ARTICLES USED: 19
