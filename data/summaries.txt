@@ -1,4 +1,48 @@
 ================================================================================
+RUN TIME UTC: 2026-05-08T02:56:55Z
+WINDOW: Last 6 hours
+ARTICLES USED: 7
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers escalating US-Iran tensions near the Strait of Hormuz, a US trade court ruling against Trump's global tariffs, Trump's tariff deadline for the EU, Tennessee redistricting ahead of midterms, and a Real Madrid dressing room fight ahead of El Clasico.
+
+ARTICLE BREAKDOWN
+[1] Trump sets July 4 deadline for EU tariff hike decision
+Published: 2026-05-07T20:58:55Z
+URL: https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision
+Summary: US President Donald Trump has given the European Union until July 4th to comply with a proposed trade deal or face increased tariffs. Trump claimed he had a 'great call' with European Commission President Ursula von der Leyen, but the 27-country bloc has yet to finalize the deal. He threatened to raise tariffs on EU cars and trucks to 25 percent from 15 percent, alleging non-compliance. The two leaders also discussed Iran, agreeing that Tehran can never have a nuclear weapon.
+
+[2] Iran says it attacked US Navy ships after they targeted Iranian tanker
+Published: 2026-05-07T21:11:00Z
+URL: https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy
+Summary: Iran's military said it retaliated against US Navy ships after US forces targeted an oil tanker in Iran's territorial waters, accusing the US of violating a ceasefire. The Islamic Revolutionary Guard Corps Navy claimed to have used ballistic and antiship cruise missiles and drones, causing 'significant damage' to US ships. The US Central Command said it intercepted 'unprovoked Iranian attacks' and responded with self-defense strikes, stressing it does not seek escalation. The clashes represent the first military Iranian response to the US blockade of Iran's ports, amid reports of advanced talks to end the war.
+
+[3] Tennessee approves new congressional map in latest redistricting flurry
+Published: 2026-05-07T21:19:01Z
+URL: https://www.aljazeera.com/news/2026/5/7/tennessee-approves-new-congressional-map-in-latest-redistricting-flurry
+Summary: Tennessee's Republican-dominated state legislature and governor approved a new congressional map ahead of the US midterms, carving up the state's only Black majority district. The move follows a US Supreme Court ruling that weakened a provision of the Voting Rights Act, making it harder to challenge maps for diluting minority voting power. Opposing legislators called the map a racist tool, while Republicans said it was drawn based on population and politics. The redistricting is part of a broader push in multiple states to create more districts favoring their party.
+
+[4] US trade court rules against Trump’s 10 percent global tariffs
+Published: 2026-05-07T21:34:37Z
+URL: https://www.aljazeera.com/economy/2026/5/7/us-trade-court-rules-against-trumps-10-percent-global-tariffs
+Summary: The US Court of International Trade ruled against President Donald Trump's 10 percent global tariffs, finding that across-the-board tariffs were not justified under Section 122 of the Trade Act of 1974. The 2-1 ruling favored small businesses that challenged the tariffs, which took effect on February 24. The court found the law was not appropriate for the trade deficits Trump cited, with one judge saying it was premature to grant victory. The Trump administration had argued a serious balance-of-payments deficit existed, but economists and trade lawyers said the US is not on the cusp of such a crisis.
+
+[5] Real Madrid’s Valverde hospitalised with head injury after Tchouameni fight
+Published: 2026-05-07T22:13:13Z
+URL: https://www.aljazeera.com/sports/2026/5/7/real-madrids-valverde-hospitalised-with-head-injury-after-tchouameni-clash
+Summary: Real Madrid's Federico Valverde was hospitalized with a cut head after a dressing room fight with teammate Aurelien Tchouameni at the club's training ground. Real confirmed Valverde sustained a head trauma and will be sidelined for up to two weeks, while disciplinary proceedings have been opened against both players. Valverde later apologized on social media, saying he 'accidentally knocked over a table' during an argument. The incident adds to a turbulent season for Real Madrid ahead of El Clasico against Barcelona.
+
+[6] Barcelona vs Real Madrid: El Clasico – La Liga, history, Valverde, Mbappe
+Published: 2026-05-07T22:37:33Z
+URL: https://www.aljazeera.com/sports/2026/5/7/barcelona-vs-real-madrid-el-clasico-la-liga-history-head-to-head
+Summary: Barcelona and Real Madrid will contest the 264th El Clasico on Sunday, with Barcelona potentially sealing the La Liga title with a win. Real Madrid faces a demoralized squad, with Federico Valverde ruled out after a training ground bust-up and Kylian Mbappe a doubt due to a hamstring injury. Barcelona leads Real by 11 points with four matches remaining, and anything but a Real win will see Barcelona crowned champions at home. The article also discusses the history of the rivalry and key talking points ahead of the match.
+
+[7] As US and Iran weigh peace deal, stranded seafarers wait in limbo
+Published: 2026-05-08T01:45:17Z
+URL: https://www.aljazeera.com/news/2026/5/8/as-us-and-iran-weigh-peace-deal-stranded-seafarers-wait-in-limbo
+Summary: An estimated 20,000 seafarers are stranded in the Gulf amid the closure of the Strait of Hormuz, with some stuck at Iranian ports for nearly 10 weeks since the start of the Iran war. Indian seafarer Anish, speaking anonymously, described subsisting on limited food and facing issues with pay and travel. Despite a tenuous ceasefire between the US and Iran, maritime traffic remains at a standstill due to recurrent attacks. The US has blockaded Iranian ports since April 13, while Iran has offered safe passage through its waters for a fee.
+
+================================================================================
 RUN TIME UTC: 2026-05-07T21:05:44Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
