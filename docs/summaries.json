@@ -1,5 +1,127 @@
 [
   {
+    "time": "2026-05-08T16:15:03Z",
+    "window_hours": 6,
+    "article_count": 19,
+    "overall_summary": "A batch of 19 Al Jazeera articles covers a range of topics including a Gaza family discovering their son alive in an Israeli prison, assurances that ICE will not be at World Cup games in Miami, Iran's response to a US ceasefire proposal, crowd trouble at a Copa Libertadores match, maritime clashes between Iran and the US, an environmental disaster in Russia's Black Sea coast, strained Italy-US ties over the Iran war, the potential consequences of prolonged war in Sudan, a CAF Cup final for Zamalek, the Palestine Marathon, a cancer cluster in Kenya linked to oil waste, the death of Botswana's former president Festus Mogae, a West Bank family's resilience, a Virginia Supreme Court ruling on redistricting, the Pentagon's release of UFO files, a revived impeachment inquiry against South Africa's president, Reform UK's election gains, a FIFPRO legal win over football calendar failings, and South Koreans planning to cheer for a North Korean football team.",
+    "articles": [
+      {
+        "title": "After 18 months of mourning, a Gaza son is found alive in an Israeli prison | Gaza | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison",
+        "published": "2026-05-08T11:15:02Z",
+        "summary": "The family of Eid Nael Abu Shaar, a 25-year-old Palestinian from Gaza, believed he was dead for 18 months after he went missing near the Netzarim Corridor. They searched morgues, obtained a death certificate, and held a mourning tent before a lawyer confirmed he was alive in Israel's Ofer Prison. The discovery highlights the plight of thousands of other families in Gaza who still do not know the fate of their missing relatives."
+      },
+      {
+        "title": "Miami host committee assured ICE will not be at World Cup games | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/8/miami-host-committee-assured-ice-will-not-be-at-world-cup-games",
+        "published": "2026-05-08T11:25:20Z",
+        "summary": "Rodney Barreto, co-chair of the Miami host committee, said he received reassurances from Secretary of State Marco Rubio that ICE will not be present at World Cup matches this summer. Barreto stated that the event will not be used for immigration enforcement and that the federal government will ensure orderly processing of passports. The assurance comes amid increased ICE enforcement under President Trump and after security failures at the 2024 Copa America championship game at Hard Rock Stadium."
+      },
+      {
+        "title": "What we know about Iran’s response to the latest US ceasefire proposal | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
+        "published": "2026-05-08T11:47:05Z",
+        "summary": "Iran is reviewing a US peace proposal that includes a 12-year halt to uranium enrichment and the handover of its 60% enriched uranium stock, in exchange for sanctions relief and the lifting of a naval blockade. Iran has not formally responded, but officials have pushed back, with one lawmaker calling the proposal an 'American wish-list'. The exchange comes amid ongoing naval clashes in the Strait of Hormuz."
+      },
+      {
+        "title": "Holders Flamengo see Copa Libertadores match abandoned amid crowd trouble | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/8/holders-flamengo-see-copa-libertadores-match-abandoned-amid-crowd-trouble",
+        "published": "2026-05-08T12:17:02Z",
+        "summary": "A Copa Libertadores match between Independiente Medellin and defending champions Flamengo was abandoned after home fans set off flares and lit fires in the stands. The referee ordered players off the field, and authorities later evacuated spectators. Flamengo's sporting director called on CONMEBOL to award the visiting side the three points, stating the home team failed to guarantee security."
+      },
+      {
+        "title": "Iran says seized tanker in Gulf of Oman, as US ‘disables’ two ships | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports",
+        "published": "2026-05-08T12:22:09Z",
+        "summary": "Iran's IRGC claimed to have seized an oil tanker in the Gulf of Oman, while the US military said it disabled two Iranian-flagged tankers attempting to access Iranian ports. The actions follow hours after the US and Iran exchanged fire in the Strait of Hormuz. Both sides continue to review ceasefire proposals amid the ongoing maritime tensions."
+      },
+      {
+        "title": "The disaster unfolding on Russia’s Black Sea coast is of its own making | Environment | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/5/8/the-disaster-unfolding-on-russias-black-sea-coast-is-of-its-own-making",
+        "published": "2026-05-08T12:29:49Z",
+        "summary": "Ukrainian strikes on Russian oil infrastructure in Tuapse have caused massive refinery fires and oil spills along the Black Sea coast, leading to 'black rain' and wildlife deaths. The article argues that while Ukraine's actions cause environmental harm, the deeper cause is Russia's deregulation and dismantling of environmental protections under its war economy. Authorities are accused of silencing activists and prioritizing the tourist season over addressing the catastrophe."
+      },
+      {
+        "title": "Italy-US ties strained as pope and Iran war dominate talks | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/italy-us-ties-strained-as-pope-and-iran-war-dominate-talks",
+        "published": "2026-05-08T13:41:09Z",
+        "summary": "Italian Prime Minister Giorgia Meloni met US Secretary of State Marco Rubio amid tensions over the US-Israel war on Iran and Trump's attacks on Pope Leo. Italy has refused to back the war and declined to allow US aircraft to use a key airbase for combat operations. The dispute puts Meloni in a difficult position as she balances her close ties with Trump against domestic opposition to the war."
+      },
+      {
+        "title": "What would prolonged war mean for Sudan? | Al Jazeera | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/8/what-would-prolonged-war-mean-for-sudan",
+        "published": "2026-05-08T13:57:10Z",
+        "summary": "Sudan's war, which has killed over 150,000 people and displaced nearly 15 million, could worsen if it becomes protracted, with both sides vowing to fight for years. A UNDP report warns that a conflict lasting until 2030 would push an additional 34 million people into extreme poverty and cause a $34.5 billion drop in GDP. Healthcare and education systems are shattered, and state institutions are on the verge of total collapse."
+      },
+      {
+        "title": "Cash-strapped Egyptians Zamalek eye record CAF Cup prize money | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/8/cash-strapped-egyptians-zamalek-eye-record-caf-cup-prize-money",
+        "published": "2026-05-08T13:57:47Z",
+        "summary": "Financially struggling Egyptian club Zamalek will play USM Alger in the CAF Confederation Cup final, with a record $4m prize at stake. Zamalek, which has debts of $6.5m, owes money to clubs and former coaches. A win would qualify them for the CAF Super Cup, offering an additional $500,000."
+      },
+      {
+        "title": "Thousands run Palestine Marathon under shadow of Israel’s war on Gaza | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/5/8/thousands-run-palestine-marathon-under-shadow-of-israels-war-on-gaza",
+        "published": "2026-05-08T14:10:59Z",
+        "summary": "The tenth Palestine International Marathon was held in Bethlehem, with a parallel race in Gaza after a two-year hiatus. Over 13,000 runners from 88 countries participated, including 2,523 in Gaza. The event was framed as an act of peaceful resistance and solidarity amid ongoing Israeli attacks on Gaza and violence in the West Bank."
+      },
+      {
+        "title": "Kenya cancer cluster sparks ‘environmental genocide’ claims over oil waste | Al Jazeera | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/8/kenya-cancer-cluster-sparks-environmental-genocide-claims-over-oil-waste",
+        "published": "2026-05-08T14:11:49Z",
+        "summary": "A group of 298 petitioners from Marsabit County, Kenya, is suing BP and the Kenyan government over toxic waste left behind during oil exploration in the 1980s, which they say is causing a cancer cluster that has killed over 500 people. Residents report rising cases of digestive system cancers, and independent tests have pointed to possible contamination of local water sources. A definitive causal link has not yet been established."
+      },
+      {
+        "title": "Botswana’s former President Festus Mogae dies aged 86 | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/botswanas-former-president-festus-mogae-dies-aged-86",
+        "published": "2026-05-08T14:25:01Z",
+        "summary": "Botswana's former President Festus Mogae has died at age 86, prompting three days of national mourning. Mogae, who led the country from 1998 to 2008, was praised for good governance and his fight against HIV/AIDS, winning the Ibrahim Prize in 2008. He oversaw strong economic growth and a smooth transition of power."
+      },
+      {
+        "title": "‘In the days of old, the world was safe’: West Bank family’s enduring unity | Conflict | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/8/in-the-days-of-old-the-world-was-safe-west-bank-familys-enduring-unity",
+        "published": "2026-05-08T14:44:18Z",
+        "summary": "The Masallam family in the occupied West Bank hamlet of Khirbet al-Marajim remains rooted to their land despite settler violence, including arson and kidnappings. Four generations live in the compound, which is one of only two year-round households in the area. The family's presence is seen as a key barrier to settler control of the pastures."
+      },
+      {
+        "title": "Virginia Supreme Court strikes down Democrats’ redistricting plan in US | US Midterm Elections 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/virginia-supreme-court-strikes-down-democrats-redistricting-plan-in-us",
+        "published": "2026-05-08T15:08:07Z",
+        "summary": "Virginia's Supreme Court threw out a Democratic-led redistricting plan that aimed to flip four Republican-held US House seats, ruling that the legislature violated procedural requirements. The decision, combined with a recent US Supreme Court ruling weakening the Voting Rights Act, boosts Republican gerrymandering advantages ahead of the November midterm elections. President Trump called the ruling a 'huge win' for the Republican Party."
+      },
+      {
+        "title": "‘Make up their own minds’: Pentagon releases first tranche of UFO files | Space News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/make-up-their-own-minds-pentagon-releases-first-tranche-of-ufo-files",
+        "published": "2026-05-08T15:18:18Z",
+        "summary": "The Pentagon released 162 previously classified files on UFOs, following an order from President Trump in February. The files, from agencies including the FBI and NASA, have not been analyzed for anomalies. Critics accuse Trump of using the release to divert attention from other issues, such as the handling of files related to financier Jeffrey Epstein."
+      },
+      {
+        "title": "South Africa’s top court revives impeachment inquiry against president | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/south-africas-top-court-revives-impeachment-inquiry-against-president",
+        "published": "2026-05-08T15:19:39Z",
+        "summary": "South Africa's Constitutional Court ruled that parliament's 2022 decision to block an impeachment inquiry into President Cyril Ramaphosa was unconstitutional, reviving the 'Farmgate' scandal. The scandal involves a large sum of foreign currency stolen from Ramaphosa's farm, which he says came from buffalo sales. An impeachment committee will review evidence, but Ramaphosa is likely to survive a vote due to his party's parliamentary seats."
+      },
+      {
+        "title": "‘Leader of the pack’: What next as Reform UK makes huge election gains? | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/8/leader-of-the-pack-what-next-as-reform-makes-huge-election-gains",
+        "published": "2026-05-08T15:35:20Z",
+        "summary": "Reform UK made sweeping gains in England's local council elections, winning over 500 seats and four councils, while Labour lost some 300 councillors. The results are seen as a major blow to Prime Minister Keir Starmer's authority, with analysts suggesting a leadership challenge may be imminent. The Liberal Democrats and Green Party also made gains."
+      },
+      {
+        "title": "FIFPRO in ‘landmark’ win as European body admits football calendar failings | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/8/fifpro-in-landmark-win-as-european-body-admits-football-calendar-failings",
+        "published": "2026-05-08T15:48:01Z",
+        "summary": "FIFPRO hailed a 'landmark' legal win after the European Committee of Social Rights agreed to investigate whether France failed to protect professional footballers from health and safety risks due to a congested match calendar. The committee rejected France's argument that labour violations were the responsibility of private sports bodies. The case highlights concerns over FIFA's expansion of competitions like the Club World Cup."
+      },
+      {
+        "title": "South Koreans gear up to roar on football team from rival North | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/8/south-koreans-gear-up-to-roar-on-football-team-from-rival-north",
+        "published": "2026-05-08T15:55:02Z",
+        "summary": "Hundreds of South Koreans plan to cheer for North Korea's Naegohyang Women's FC when it plays Suwon FC Women in the Asian Champions League semifinal on May 20, the first North Korean sports team in the South since 2018. Civic organizations are rallying volunteers, though South Korean laws restrict the display of North Korean flags or anthems. The match is seen as a hope for reconciliation amid tense inter-Korean relations."
+      }
+    ]
+  },
+  {
     "time": "2026-05-08T11:17:04Z",
     "window_hours": 6,
     "article_count": 16,
