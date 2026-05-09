@@ -1,4 +1,18 @@
 ================================================================================
+RUN TIME UTC: 2026-05-09T02:52:08Z
+WINDOW: Last 6 hours
+ARTICLES USED: 1
+
+OVERALL SUMMARY
+The batch contains one article from Al Jazeera covering the ongoing displacement of Cambodian families due to border clashes with Thailand, highlighting the struggles of children missing school and the fragile ceasefire that prevents a return to normal life.
+
+ARTICLE BREAKDOWN
+[1] Cambodians struggle with displaced lives amid tense ceasefire with Thailand | Border Disputes News | Al Jazeera
+Published: 2026-05-09T01:23:18Z
+URL: https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand
+Summary: The article reports that over 34,440 Cambodians, including more than 11,000 children, remain in displacement camps following recent border fighting with Thailand. Families like that of 11-year-old Sokna have stopped attending school and survive on aid, while the ceasefire remains fragile with Thai forces blocking access to villages and Cambodian troops preventing returns to militarized front-line areas.
+
+================================================================================
 RUN TIME UTC: 2026-05-08T21:01:24Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
