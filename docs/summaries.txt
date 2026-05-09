@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-05-09T20:44:08Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles from the last 6 hours covers Niger's suspension of French media, Iran's emphasis on the Strait of Hormuz amid US talks, Israeli attacks in Lebanon despite a ceasefire, Trump Media's financial losses, Syria-Lebanon talks, a Premier League match, settler violence in the West Bank, Venezuela's ICJ case, and a car bomb attack in Pakistan.
+
+ARTICLE BREAKDOWN
+[1] Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision | Censorship News | Al Jazeera
+Published: 2026-05-09T15:53:27Z
+URL: https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision
+Summary: Niger's military government suspended nine French media outlets, including France 24 and AFP, citing risks to public order. Reporters Without Borders condemned the move as an abusive crackdown on press freedom. The suspensions are part of a broader pattern since the 2023 coup, with Niger also severing ties with France and turning to Russia.
+
+[2] ‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-09T16:35:01Z
+URL: https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks
+Summary: Iranian officials are emphasizing the strategic importance of the Strait of Hormuz, with a senior adviser comparing it to an atomic bomb for its ability to impact the global economy. As the US awaits Iran's response to proposals, authorities signal they will not relinquish control over the strait. The first vice president said control over the waterway will counter US sanctions.
+
+[3] Israeli attacks across Lebanon kill at least 23 | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-05-09T17:07:31Z
+URL: https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19
+Summary: Israeli attacks across Lebanon killed at least 23 people despite a US-brokered ceasefire in its third week. The Lebanese Health Ministry reported strikes on several towns, including al-Saksakieh where seven people died. The attacks come as the US announced a second round of negotiations between Israel and Lebanon for May 14-15.
+
+[4] Parent company of Trump’s Truth Social site reports $400m loss this year | Donald Trump News | Al Jazeera
+Published: 2026-05-09T17:47:11Z
+URL: https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year
+Summary: Trump Media and Technology Group reported a $400m loss in the first quarter of 2026, driven by declining cryptocurrency asset values. The company reported revenue of about $870,000 and is pursuing a merger with nuclear fusion firm TAE Technologies. Bitcoin's price dropped from $126,000 to $70,000 during the period.
+
+[5] Syria and Lebanon make ‘significant progress’ at talks on joint interests | Politics News | Al Jazeera
+Published: 2026-05-09T17:50:18Z
+URL: https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests
+Summary: Lebanese Prime Minister Nawaf Salam and Syrian President Ahmed al-Sharaa concluded talks in Damascus, reporting significant progress on security, transport, and economic issues. The discussions included the release of Syrian prisoners in Lebanon and border security. Both governments oppose Hezbollah, which lost its supply route through Syria after al-Assad's overthrow.
+
+[6] Man City beat Brentford to close gap to Arsenal to two points in title race | Football News | Al Jazeera
+Published: 2026-05-09T18:40:25Z
+URL: https://www.aljazeera.com/sports/2026/5/9/man-city-beat-brentford-to-close-gap-to-arsenal-to-two-points-in-title-race
+Summary: Manchester City beat Brentford 3-0 with a second-half performance, closing the gap to Premier League leaders Arsenal to two points. Jeremy Doku broke the deadlock, followed by goals from Erling Haaland and Omar Marmoush. Arsenal can still clinch the title if they win their remaining matches.
+
+[7] Israeli settlers force Palestinian family to exhume and rebury their father | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-09T19:16:19Z
+URL: https://www.aljazeera.com/news/2026/5/9/israeli-settlers-force-palestinian-family-to-exhume-and-rebury-their-father
+Summary: Israeli settlers forced a Palestinian family in the occupied West Bank to exhume and rebury their father, with the UN condemning the act as appalling and dehumanizing. The family had coordinated the burial with Israeli forces, but settlers claimed the land was part of a settlement. The Israeli military denied giving reburial instructions but said soldiers confiscated tools from settlers.
+
+[8] Venezuela’s Delcy Rodriguez heads to The Hague for land dispute case | US-Venezuela Tensions News | Al Jazeera
+Published: 2026-05-09T19:48:38Z
+URL: https://www.aljazeera.com/news/2026/5/9/venezuelas-delcy-rodriguez-heads-to-the-hague-for-land-dispute-case
+Summary: Venezuela's acting President Delcy Rodriguez is traveling to The Hague for an ICJ case on the Essequibo region dispute with Guyana. This is her first trip abroad since President Maduro's abduction by US forces in January. The case concerns a centuries-old border dispute over oil-rich territory.
+
+[9] Three police officers killed in car bomb attack in northwest Pakistan | Armed Groups News | Al Jazeera
+Published: 2026-05-09T20:29:37Z
+URL: https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan
+Summary: A car bomb attack at a police post in Bannu, Khyber Pakhtunkhwa, killed at least three officers, followed by an intense firefight. A suicide bomber detonated an explosives-laden vehicle, collapsing the security post, and attackers also used drones. No group claimed responsibility, but similar attacks have been linked to the Pakistan Taliban.
+
+================================================================================
 RUN TIME UTC: 2026-05-09T15:53:40Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
