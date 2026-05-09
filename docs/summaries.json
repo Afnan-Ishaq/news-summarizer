@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-05-09T07:07:12Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "Two NBA playoff games are covered: the San Antonio Spurs, led by Victor Wembanyama, defeated the Minnesota Timberwolves to take a 2-1 series lead, while the New York Knicks beat the Philadelphia 76ers to go up 3-0 in their series.",
+    "articles": [
+      {
+        "title": "Wembanyama powers Spurs past T-Wolves as Knicks beat Sixers in NBA playoffs | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/9/wembanyama-powers-spurs-past-t-wolves-as-knicks-beat-sixers-in-nba-playoffs",
+        "published": "2026-05-09T05:57:54Z",
+        "summary": "Victor Wembanyama scored 39 points, 15 rebounds, and five blocks to lead the San Antonio Spurs to a 115-108 win over the Minnesota Timberwolves, giving the Spurs a 2-1 lead in their playoff series. The Timberwolves' Anthony Edwards returned to the starting lineup and scored 32 points but could not secure the win. In the other game, Jalen Brunson starred as the New York Knicks beat the Philadelphia 76ers 108-94 to take a 3-0 series lead, moving within one win of the Eastern Conference finals."
+      }
+    ]
+  },
+  {
     "time": "2026-05-09T02:52:08Z",
     "window_hours": 6,
     "article_count": 1,
