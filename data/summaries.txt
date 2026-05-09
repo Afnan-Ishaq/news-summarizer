@@ -1,4 +1,73 @@
 ================================================================================
+RUN TIME UTC: 2026-05-09T10:58:21Z
+WINDOW: Last 6 hours
+ARTICLES USED: 12
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers financial struggles in Yemen's army, settler violence in the West Bank, a hantavirus-stricken cruise ship heading to Spain's Canary Islands, Russia's scaled-back Victory Day parade, a cyberattack on the Canvas educational platform, the arrest of a senior Sri Lankan monk for alleged child sex crimes, an opinion piece on the US-Iran war, a preview of the Barcelona vs Real Madrid Clasico, the evolution of US football since 1994, a photo gallery of the Victory Day parade, a feature on the Gaza Genocide Tapestry at the Venice Biennale, and a US military attack in the eastern Pacific Ocean.
+
+ARTICLE BREAKDOWN
+[1] Financial struggles burden Yemen’s army as soldiers wait for wages | Business and Economy | Al Jazeera
+Published: 2026-05-09T07:11:53Z
+URL: https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall
+Summary: Yemeni soldiers earn between $38 and $116 monthly, but an unstable currency and delayed wage payments are eroding their salaries and morale. The army, which has 180,000 to 220,000 personnel, receives a monthly budget of about $23.2m, but some soldiers have not been paid since December. Non-regular formations, such as the Security Belts and Giants Brigades, pay up to $320 per month, highlighting disparities within the military.
+
+[2] Israeli settlers set fire to homes and cars in violent West Bank raids | News | Al Jazeera
+Published: 2026-05-09T07:18:27Z
+URL: https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids
+Summary: Dozens of Israeli settlers stormed several West Bank villages, setting homes and cars on fire and attacking Palestinians, including a father and child who were hospitalized with head injuries. In separate incidents, Israeli forces forced residents to exhume a newly buried body, fired stun grenades at picnickers, and arrested multiple Palestinians. Human rights groups say Israeli authorities allow settlers to operate with impunity.
+
+[3] Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship | Health News | Al Jazeera
+Published: 2026-05-09T07:42:06Z
+URL: https://www.aljazeera.com/news/2026/5/9/spains-canary-islands-brace-for-incoming-hantavirus-stricken-cruise-ship
+Summary: The MV Hondius cruise ship, hit by a hantavirus outbreak, is en route to Spain's Canary Islands with 140 passengers and crew who will be evacuated to a cordoned-off area. Three people have died since the outbreak, and five passengers are known to be infected, but the WHO considers the risk to the wider public low. Some Spanish residents have expressed concern about the arrival, with an anti-establishment group calling for the ship to be barred.
+
+[4] Russia holds downsized Victory Day parade | The World Wars News | Al Jazeera
+Published: 2026-05-09T08:07:57Z
+URL: https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day
+Summary: Russia held its annual Victory Day parade in Moscow, scaled back due to security concerns, with no tanks or heavy weapons on display for the first time in nearly 20 years. President Vladimir Putin used the event to rally support for the war in Ukraine, invoking the Soviet victory in World War II. US President Donald Trump announced a ceasefire agreement between Russia and Ukraine running from Saturday through Monday.
+
+[5] Hacked educational platform partially restored for millions of students | Education News | Al Jazeera
+Published: 2026-05-09T09:01:16Z
+URL: https://www.aljazeera.com/news/2026/5/9/hacked-educational-platform-partially-restored-for-millions-of-students
+Summary: The educational platform Canvas, used by about 30 million people globally, has been partially restored after a cyberattack by the hacking group ShinyHunters, who claimed to have stolen 3.5 terabytes of data. The group threatened to release the data if ransoms were not paid by May 12, but it is unclear if a ransom was paid. The hack has caused major disruption during exam season, with institutions like Harvard and Cambridge scrambling to adjust deadlines.
+
+[6] Senior Sri Lankan monk arrested for alleged child sex crimes | Crime News | Al Jazeera
+Published: 2026-05-09T09:13:49Z
+URL: https://www.aljazeera.com/news/2026/5/9/senior-sri-lankan-monk-arrested-for-alleged-child-sex-crimes
+Summary: Pallegama Hemarathana, a 71-year-old chief prelate of Colombo, was arrested for allegedly sexually abusing an 11-year-old girl in a temple in 2022. The victim's mother was also arrested for aiding and abetting the monk. This is the highest-profile case involving a religious leader in Sri Lanka, where there have been several cases of clergy abusing children.
+
+[7] The war on Iran will likely end in American retreat | US-Israel war on Iran | Al Jazeera
+Published: 2026-05-09T09:14:33Z
+URL: https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat
+Summary: An opinion piece argues that the US-Israel war on Iran, launched on February 28, 2026, will likely end in an American retreat because the US cannot win at acceptable costs. The author states that the decapitation strike failed to fracture the Iranian government, and Iran can impose costs the US cannot bear. The piece concludes that the only path is a US retreat, with Iran in control of the Strait of Hormuz.
+
+[8] Barcelona vs Real Madrid: La Liga – preview, team news, start and lineups | Football News | Al Jazeera
+Published: 2026-05-09T09:38:14Z
+URL: https://www.aljazeera.com/sports/2026/5/9/barcelona-vs-real-madrid-la-liga-preview-team-news-start-lineups
+Summary: Barcelona host Real Madrid in a La Liga Clasico, needing only a draw to clinch back-to-back titles, while Madrid are desperate to postpone Barcelona's celebrations. Barcelona lead by 11 points and could match the all-time league record of 100 points if they win their remaining games. Madrid come into the match amid internal chaos, including a training ground bust-up, and have not won a trophy in two seasons.
+
+[9] World Cup 2026: How US football has evolved since hosting the 1994 event | World Cup 2026 News | Al Jazeera
+Published: 2026-05-09T09:46:16Z
+URL: https://www.aljazeera.com/sports/2026/5/9/world-cup-2026-how-united-states-football-has-evolved-since-1994-hosting
+Summary: The article examines how football in the US has evolved since hosting the 1994 World Cup, moving from the margins to the mainstream. In 1994, the US had no professional league and the national team was cobbled together, but the tournament's success led to the creation of Major League Soccer. Today, MLS is a 30-team league, the US national team is ranked 16th in the world, and ticket demand for the 2026 World Cup far outpaces supply.
+
+[10] Scaled-back Victory Day parade held in Moscow | In Pictures News | Al Jazeera
+Published: 2026-05-09T10:04:45Z
+URL: https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow
+Summary: A photo gallery shows Russia's scaled-back Victory Day parade in Moscow, which featured no tanks or heavy military hardware for the first time in years due to security concerns. Instead, weapons were displayed on giant screens, and soldiers, including North Korean troops, marched. President Vladimir Putin delivered an eight-minute address, promising victory in the war in Ukraine.
+
+[11] Gaza at the Venice Biennale: Where language falls short, threads take over | Gaza | Al Jazeera
+Published: 2026-05-09T10:19:31Z
+URL: https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over
+Summary: A journalist describes co-commissioning the Gaza Genocide Tapestry for the Venice Biennale, an art project where Palestinian women use embroidery to document Gaza's destruction. The tapestry consists of 100 embroidered panels, each with 55,000 stitches, telling fragments of the horrors of the war. The project aims to insist that these stories are not lost to the sheer scale of devastation.
+
+[12] US military kills two people in new eastern Pacific Ocean attack | News | Al Jazeera
+Published: 2026-05-09T10:32:48Z
+URL: https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack
+Summary: The US military killed two people in its third attack in May in the eastern Pacific Ocean, targeting a vessel it claims was operated by narco-traffickers. US Southern Command said the vessel was on known narco-trafficking routes, but provided no evidence. Rights groups have described these attacks as extrajudicial killings, and families of past victims insist those targeted were fishermen, not narco-terrorists.
+
+================================================================================
 RUN TIME UTC: 2026-05-09T07:07:12Z
 WINDOW: Last 6 hours
 ARTICLES USED: 1
