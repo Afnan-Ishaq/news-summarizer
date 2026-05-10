@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-05-10T15:55:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers sports, conflict, and economic issues, including Kylian Mbappe missing El Clasico, the ongoing suffering of mothers in Gaza, the high cost of motherhood in the US, strain on the US-Iran ceasefire due to drone attacks, Iran's response to a US proposal via Pakistan, a landmark trial of a former Syrian official, Jorge Martin's MotoGP win, a Gaza orphan finding refuge in football, and California considering a billionaire tax amid food benefit cuts.
+
+ARTICLE BREAKDOWN
+[1] El Clasico: Kylian Mbappe not in Real Madrid squad to face Barcelona | Football News | Al Jazeera
+Published: 2026-05-10T11:13:00Z
+URL: https://www.aljazeera.com/sports/2026/5/10/el-clasico-kylian-mbappe-not-in-real-madrid-squad-to-face-barcelona
+Summary: Kylian Mbappe will miss Real Madrid's crucial La Liga match against Barcelona despite training with teammates, as he was left out of the 21-man squad due to a hamstring injury. Barcelona leads the league by 11 points and can clinch the title with a win. Vinicius Jr will lead Madrid's forward line, while Mbappe is expected to be fit for France's World Cup campaign.
+
+[2] The genocide is still taking Gaza's mothers | Gaza | Al Jazeera
+Published: 2026-05-10T11:52:14Z
+URL: https://www.aljazeera.com/features/2026/5/10/the-genocide-is-still-taking-gazas-mothers
+Summary: The article describes the immense suffering of mothers in Gaza amid the ongoing genocide, with 22,000 women killed in two and a half years. It highlights personal stories, such as the author's mother battling cancer, and notes that maternal death rates during childbirth have tripled. Many mothers have lost children to famine or attacks, and over 22,000 women are now widowed, forced to care for their families alone.
+
+[3] Why is being a mother so expensive in the United States? | Infographic News | Al Jazeera
+Published: 2026-05-10T11:54:55Z
+URL: https://www.aljazeera.com/news/2026/5/10/why-is-being-a-mother-so-expensive-in-the-united-states
+Summary: The article details the high cost of motherhood in the US, including childbirth expenses, maternity leave policies, and childcare costs, which are significantly higher than in other wealthy countries. It notes that the US has a high maternal mortality rate of 18.6 per 100,000 live births, with Black women three times more likely to die from childbirth complications. The national median in-network cost for a vaginal delivery is $15,178, varying by state.
+
+[4] US-Iran ceasefire under strain as Gulf states report drone attacks | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-10T12:16:51Z
+URL: https://www.aljazeera.com/news/2026/5/10/us-iran-ceasefire-under-strain-as-gulf-states-report-drone-attacks
+Summary: A fragile ceasefire in the US-Israel war on Iran is under strain after drone attacks in the Gulf region, including a strike on a cargo ship off Qatar's coast and repelled attacks in Kuwait and the UAE. No casualties were reported, but the incidents pressure the April 8 truce. The US and Iran have exchanged fire in the Strait of Hormuz, with Iran warning of a 'heavy assault' if its vessels are attacked.
+
+[5] Iran sends response to US proposal to end war via mediator Pakistan | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-10T12:40:50Z
+URL: https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan
+Summary: Iran has sent its response to a US proposal to end the war via mediator Pakistan, with initial negotiations focusing on ending hostilities and ensuring maritime security. The US proposal includes Iran agreeing to not develop nuclear weapons and halting uranium enrichment for 12 years in exchange for sanctions relief. The development comes ahead of President Trump's visit to China, while the Strait of Hormuz blockade continues despite the ceasefire.
+
+[6] Atef Najib faces at least 10 charges in landmark Syria trial | Bashar al-Assad News | Al Jazeera
+Published: 2026-05-10T12:45:42Z
+URL: https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial
+Summary: Atef Najib, cousin of former Syrian President Bashar al-Assad, faces at least 10 charges including murder, torture, and responsibility for massacres in a landmark trial in Damascus. He is accused of overseeing a violent crackdown on protesters in Deraa in 2011, which sparked the civil war. The trial is the first effort to bring Assad-era officials to justice, with al-Assad and his brother being tried in absentia.
+
+[7] Jorge Martin wins his first Aprilia Grand Prix at French MotoGP | Motorsports News | Al Jazeera
+Published: 2026-05-10T13:44:37Z
+URL: https://www.aljazeera.com/sports/2026/5/10/jorge-martin-wins-his-first-aprilia-grand-prix-at-french-motogp
+Summary: Jorge Martin won the French Grand Prix, his first MotoGP victory in 588 days, moving within one point of championship leader Marco Bezzecchi. Martin overtook Bezzecchi with three laps remaining, while Ai Ogura completed an Aprilia podium sweep in third. Ducati's Marc Marquez missed the race due to injury, and Francesco Bagnaia crashed while in second place.
+
+[8] Football on ruins: Gaza's orphans find refuge on the pitch | Conflict | Al Jazeera
+Published: 2026-05-10T13:52:58Z
+URL: https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch
+Summary: The article profiles 16-year-old Mohammed Eyad Azzam, who lost his immediate family in an Israeli air attack and now uses football as an escape from trauma. He was a promising player before the war, but his club and pitches were destroyed. Despite the devastation, the Palestinian Football Association organized a tournament, offering Mohammed a way to cope with his grief and responsibility for his elderly grandmother.
+
+[9] With food benefit cuts looming in the US, Californians eye billionaire tax | US Midterm Elections 2026 | Al Jazeera
+Published: 2026-05-10T15:45:09Z
+URL: https://www.aljazeera.com/economy/2026/5/10/with-food-benefit-cuts-looming-in-the-us-californians-eye-billionaire
+Summary: The article discusses how US federal cuts to SNAP food benefits, part of the One Big Beautiful Bill Act, will impact millions, including 665,000 recipients in California. In response, California is considering a billionaire tax to make up for the funding gap, which is likely to be on the November ballot. Recipients like single mother Greer Dove rely on food banks and benefits to survive, facing uncertainty as cuts begin to take effect.
+
+================================================================================
 RUN TIME UTC: 2026-05-10T11:01:07Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
