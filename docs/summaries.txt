@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-05-10T20:50:04Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+Recent Al Jazeera articles cover Putin's hint at ending the Ukraine war amid stalled talks and ongoing attacks, severe food inflation in Iran due to war and blockade, Trump's warning on Iran's enriched uranium, intensified Israeli attacks on Lebanon killing medics, and Arsenal's late win over West Ham in the Premier League.
+
+ARTICLE BREAKDOWN
+[1] Putin hints at ending Russia’s war in Ukraine, but why now? | Explainer News | Al Jazeera
+Published: 2026-05-10T15:53:13Z
+URL: https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now
+Summary: Russian President Vladimir Putin has signaled that the war in Ukraine may be 'coming to an end,' blaming the West for prolonging the conflict through military support to Kyiv. He expressed readiness for direct talks with Ukrainian President Volodymyr Zelenskyy in Moscow or a neutral country, but only after a peace agreement is settled. The comments come amid a US-backed three-day ceasefire and prisoner-swap discussions, though broader peace talks remain stalled and attacks continue.
+
+[2] Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-10T15:56:02Z
+URL: https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce
+Summary: At least three people were killed in Russian attacks on Ukraine in the past 24 hours despite a three-day ceasefire announced by US President Donald Trump. Regional authorities reported deaths in Zaporizhia, Dnipropetrovsk, and Kherson regions, with additional injuries in Kharkiv. Russia's Defence Ministry accused Ukraine of over 1,000 ceasefire violations, including drone and artillery attacks, and said its forces had 'responded in kind.'
+
+[3] Food inflation hammers households in war-hit Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-10T16:37:10Z
+URL: https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran
+Summary: 
+
+[4] Trump says US will not allow Iran to reach enriched uranium | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-10T17:22:18Z
+URL: https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium
+Summary: President Donald Trump warned that the US will target any Iranian trying to reach the country's highly enriched uranium, claiming it is under constant surveillance by the US military. The uranium, estimated at over 400kg enriched to 60% purity, is a sticking point in ceasefire negotiations, with the US demanding its transfer abroad and Iran refusing to give up its domestic enrichment programme. Trump previously claimed Iran agreed to let the US retrieve the uranium, but Tehran denied this.
+
+[5] Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-05-10T19:01:09Z
+URL: https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours
+Summary: The Lebanese Health Ministry reported that Israeli attacks in the past 24 hours killed 51 people, including two medical workers, despite a US-brokered ceasefire. Since March 2, 2,846 people have been killed, and the UN says at least 103 Lebanese medical workers have been killed in over 130 Israeli strikes. A war surgeon noted parallels with Israeli actions in Gaza, and attacks have displaced over 1.2 million Lebanese people since March.
+
+[6] Trossard scores late as Arsenal beats West Ham, moves closer to title | Football News | Al Jazeera
+Published: 2026-05-10T19:09:39Z
+URL: https://www.aljazeera.com/sports/2026/5/10/trossard-scores-late-as-arsenal-beats-west-ham-moves-closer-to-title
+Summary: Arsenal secured a dramatic 1-0 win over West Ham United with a late goal from Leandro Trossard in the 83rd minute, restoring their five-point lead in the Premier League. The visitors survived a VAR controversy when West Ham's Callum Wilson had an equalizer ruled out for a foul in stoppage time. Victory puts Arsenal closer to their first Premier League title since 2004, while West Ham face relegation threats.
+
+================================================================================
 RUN TIME UTC: 2026-05-10T15:55:35Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
