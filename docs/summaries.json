@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-05-10T07:25:23Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "A batch of Al Jazeera articles from the last 6 hours covers a range of topics: Putin suggests Russia's war on Ukraine may be ending and offers to meet Zelenskyy; India and Pakistan each claim strategic successes a year after their four-day war; Macron tours East Africa to redefine France's role; Dubois wins WBO heavyweight title; Strickland defeats Chimaev in UFC 328; a cruise ship hit by hantavirus arrives in Tenerife; Israel deports two Gaza aid flotilla activists; and Sabalenka exits the Italian Open with injury concerns ahead of Roland Garros.",
+    "articles": [
+      {
+        "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’ | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end",
+        "published": "2026-05-10T04:17:38Z",
+        "summary": "Russian President Vladimir Putin suggested that the war on Ukraine may be 'coming to an end' and expressed willingness to meet Ukrainian President Volodymyr Zelenskyy in a third country if a peace deal is reached. The remarks came as Russia and Ukraine began a three-day ceasefire and agreed to exchange 1,000 prisoners, raising cautious hopes of diplomatic progress. At a scaled-back Victory Day parade, Putin praised Russian troops and framed their mission as a 'just cause' against NATO. The parade featured North Korean troops for the first time, and the ceasefire was announced by US President Donald Trump."
+      },
+      {
+        "title": "Two wins, two losses: What India, Pakistan have learned a year after war | India-Pakistan Tensions News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war",
+        "published": "2026-05-10T05:11:43Z",
+        "summary": "India and Pakistan each claim strategic successes a year after their four-day aerial war in May 2025, with both governments celebrating military achievements. Pakistan held ceremonies honoring its air force for downing Indian jets, while India marked Operation Sindoor with Prime Minister Modi urging citizens to support the operation. Analysts note that behind the public claims of victory, key questions remain about whether both countries have learned from their gains and weaknesses exposed during the conflict. The war began after a deadly attack in Indian-administered Kashmir, which India blamed on Pakistan."
+      },
+      {
+        "title": "Macron tours East Africa amid push to redefine France’s role in Africa | Emmanuel Macron News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/10/macron-tours-east-africa-amid-push-to-redefine-frances-role-in-africa",
+        "published": "2026-05-10T05:38:12Z",
+        "summary": "French President Emmanuel Macron began a three-country tour of East Africa, visiting Egypt, Kenya, and Ethiopia, as Paris seeks to rebuild influence after setbacks in former West African colonies. The tour includes the 'Africa Forward' summit in Kenya, focusing on economic cooperation and moving away from postcolonial roles. Macron aims to repair economic and security ties and counter rising anti-French sentiment, which has grown alongside political instability and competition from other powers like Russia. The visit is seen as an attempt to reshape France's Africa policy through partnerships in entrepreneurship, climate, and youth engagement."
+      },
+      {
+        "title": "Dubois stops Wardley in 11th round to take WBO heavyweight boxing title | Boxing News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/10/dubois-stops-wardley-in-11th-round-to-take-wbo-heavyweight-boxing-title",
+        "published": "2026-05-10T05:44:42Z",
+        "summary": "Daniel Dubois recovered from two knockdowns to defeat Fabio Wardley by stoppage in the 11th round, winning the WBO World Heavyweight title in an all-British clash in Manchester. Wardley, making his first defense, bled heavily from the nose and had his right eye almost closed before the referee stopped the fight. Dubois, a former IBF champion, praised the battle, and promoter Frank Warren confirmed a rematch clause in the contract. The fight was described as a war, with both fighters showing immense heart."
+      },
+      {
+        "title": "Strickland vs Chimaev – UFC 328: Strickland downs Chimaev on split decision | Mixed Martial Arts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/10/strickland-vs-chimaev-ufc-328-strickland-downs-chimaev-on-split",
+        "published": "2026-05-10T06:18:12Z",
+        "summary": "Sean Strickland defeated Khamzat Chimaev via split decision at UFC 328 to win the 185-pound championship for the second time, with two scorecards 48-47. The fight followed intense trash talk, including Strickland's threats and derogatory comments, but the prefight hostilities did not spill into the cage. Strickland apologized after the fight for weaponizing stereotypes. In the co-main event, Joshua Van defended his flyweight title by stopping Tatsuro Taira in the fifth round."
+      },
+      {
+        "title": "Cruise ship hit by hantavirus outbreak arrives in Tenerife | Health News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife",
+        "published": "2026-05-10T06:48:20Z",
+        "summary": "The Dutch-flagged MV Hondius, hit by a deadly hantavirus outbreak, arrived near the Port of Granadilla in Tenerife, escorted by a Civil Guard vessel. The WHO reported at least eight people fell ill, including three deaths, and all passengers are considered high-risk contacts. Spanish health authorities will test passengers, who will be transported to the airport and flown to their countries, while 30 crew members remain on board to sail to the Netherlands for disinfection. WHO Director General Tedros assured the public that this is not another COVID-19, and the risk to the general public remains low."
+      },
+      {
+        "title": "Israel deports two Gaza aid flotilla activists | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists",
+        "published": "2026-05-10T07:13:50Z",
+        "summary": "Israel deported two foreign activists, Saif Abu Keshek (Spanish) and Thiago Avila (Brazilian), who were abducted from a Gaza-bound aid flotilla in international waters on April 30. The Israeli Foreign Ministry said they were suspected of affiliation with a 'terrorist' organization and illegal activity, which the activists denied, stating they were on a humanitarian mission. Spain, Brazil, and the UN called for their release, and an Israeli court rejected an appeal against their detention. The flotilla aimed to break Israel's blockade of Gaza, which has faced shortages during the ongoing war."
+      },
+      {
+        "title": "Sabalenka out of Italian Open amid injury concerns for Roland Garros | Tennis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/10/sabalenka-out-of-italian-open-amid-injury-concerns-for-roland-garros",
+        "published": "2026-05-10T07:19:59Z",
+        "summary": "World number one Aryna Sabalenka was defeated by Sorana Cirstea in the third round of the Italian Open, losing 2-6, 6-3, 7-5, amid concerns over a lower back injury. Sabalenka, who needed treatment during the match, expressed frustration and said her body limited her performance. The loss raises concerns for her French Open preparations, which begin on May 24, as she hopes to recover in time. Defending champion Jasmine Paolini also lost in the third round, while Jannik Sinner started his Italian Open campaign with a win."
+      }
+    ]
+  },
+  {
     "time": "2026-05-10T03:22:54Z",
     "window_hours": 6,
     "article_count": 1,
