@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-05-10T03:22:54Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "Brazilian Supreme Court Justice Alexandre de Moraes has suspended a law that could reduce former President Jair Bolsonaro's 27-year prison sentence for his role in a coup plot, pending a full court review. The law, passed by Congress and overriding a presidential veto, is being challenged as unconstitutional. Bolsonaro's lawyers have filed an appeal against his conviction.",
+    "articles": [
+      {
+        "title": "Brazil judge bars law that could reduce Bolsonaro’s 27-year prison sentence | Jair Bolsonaro News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/9/brazil-judge-bars-law-that-could-reduce-bolsonaros-27-year-prison-sentence",
+        "published": "2026-05-09T21:34:53Z",
+        "summary": "Brazilian Supreme Court Justice Alexandre de Moraes has suspended a law that could reduce former President Jair Bolsonaro's 27-year prison sentence for involvement in a coup plot after the 2022 election. The law, passed by Congress and overriding a presidential veto, is now blocked until the Supreme Court holds a full hearing on its constitutionality. Bolsonaro's lawyers have filed a new appeal against his conviction, which his allies decry as a political witch-hunt."
+      }
+    ]
+  },
+  {
     "time": "2026-05-09T20:44:08Z",
     "window_hours": 6,
     "article_count": 9,
