@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-05-11T03:35:31Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+Barcelona defeated Real Madrid 2-0 in El Clasico to clinch the 2026 La Liga title, marking a trophy-less season for Madrid. A follow-up article analyzes Real Madrid's struggles and future prospects after the loss.
+
+ARTICLE BREAKDOWN
+[1] Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title | Football News | Al Jazeera
+Published: 2026-05-10T21:35:48Z
+URL: https://www.aljazeera.com/sports/2026/5/10/barcelona-beat-real-madrid-2-0-in-el-clasico-to-retain-la-liga-title
+Summary: Barcelona secured their 29th La Liga title with a 2-0 win over Real Madrid in El Clasico, opening an unassailable 14-point lead. Goals from Marcus Rashford and Ferran Torres in the first half sealed the victory at Camp Nou, with Barcelona coach Hansi Flick overseeing the triumph despite his father's passing. The win consigned Real Madrid to a second consecutive trophy-less season, while Barcelona expressed disappointment at their Champions League exit but celebrated the league title.
+
+[2] What next for Real Madrid after Barcelona’s La Liga and Clasico triumph? | Football News | Al Jazeera
+Published: 2026-05-11T00:18:44Z
+URL: https://www.aljazeera.com/sports/2026/5/11/what-next-for-real-madrid-after-barcelonas-la-liga-and-clasico-triumph
+Summary: Real Madrid's 2-0 defeat to Barcelona confirmed a second trophy-less season, raising questions about the team's future. The article notes that Kylian Mbappe's arrival disrupted the formation that previously brought success, forcing key players like Jude Bellingham and Vinicius Junior to adjust. Rumors of friction between players and coach Xabi Alonso, who replaced Carlo Ancelotti, have added to the uncertainty surrounding the club's direction.
+
+================================================================================
 RUN TIME UTC: 2026-05-10T20:50:04Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
