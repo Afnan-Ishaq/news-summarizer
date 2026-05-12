@@ -1,4 +1,18 @@
 ================================================================================
+RUN TIME UTC: 2026-05-12T03:22:34Z
+WINDOW: Last 6 hours
+ARTICLES USED: 1
+
+OVERALL SUMMARY
+The last passengers from a hantavirus-hit cruise ship have been evacuated to the Netherlands, with one American testing positive for the infection. The outbreak, involving the Andes virus, has caused three deaths and led to the quarantine of 94 people across 20 countries, though officials say the public risk remains low.
+
+ARTICLE BREAKDOWN
+[1] Last passengers from hantavirus-hit ship evacuated; American tests positive | Health News | Al Jazeera
+Published: 2026-05-12T02:58:55Z
+URL: https://www.aljazeera.com/news/2026/5/12/last-passengers-from-hantavirus-hit-ship-evacuated-american-tests-positive
+Summary: The final two evacuation planes carrying passengers and crew from the MV Hondius, a cruise ship hit by a hantavirus outbreak, have landed in the Netherlands. A repatriated US passenger has tested positive for the Andes virus, which is typically spread by rodents and can transmit person-to-person. Three people have died in the outbreak, and 94 evacuees are being quarantined across 20 countries. US officials, including Secretary of Health Robert F Kennedy Jr, expressed confidence in the response, while the World Health Organization believes the first infection occurred before the voyage began.
+
+================================================================================
 RUN TIME UTC: 2026-05-11T21:18:13Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
