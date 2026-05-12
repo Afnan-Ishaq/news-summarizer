@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-05-12T07:42:59Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+A Bolivian judge issued an arrest warrant for former President Evo Morales after he failed to appear for his trial on charges of trafficking a minor. The former mayor of Arcadia, California, pleaded guilty to acting as an illegal agent of China. Israel's parliament approved a law establishing a special tribunal with the power to impose the death penalty on Palestinians accused of involvement in the October 7, 2023 attacks. The US announced a release of 53.3 million barrels of oil from its strategic petroleum reserve amid rising prices due to the war on Iran. A global energy crisis highlights the lack of oil buffers in developing countries. The Oklahoma City Thunder swept the Los Angeles Lakers in the NBA playoffs. Malaysia rescued 23 migrants after their boat capsized, with 14 still missing. Tensions remain high in the Iran war as Tehran warns it is ready for aggression. An article explains why Israel is allowed to participate in the Eurovision song contest despite boycotts. Ukrainian soldiers are facing food supply crises on the front lines of the war with Russia. The UK is facing trust issues with Palantir over its handling of NHS patient data.
+
+ARTICLE BREAKDOWN
+[1] Bolivia issues warrant for Evo Morales’s arrest after court no-show | Evo Morales News | Al Jazeera
+Published: 2026-05-12T03:16:28Z
+URL: https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show
+Summary: A Bolivian judge found former President Evo Morales in contempt of court and reissued an arrest warrant after he failed to appear for his trial on charges of trafficking a minor. Morales is accused of fathering a child with a 15-year-old girl while in office, which he denies. His supporters have warned of unrest if he is arrested, and he has been hiding in his stronghold of Chapare since late 2024.
+
+[2] California ex-mayor admits acting as agent of China, US authorities say | Crime News | Al Jazeera
+Published: 2026-05-12T03:38:54Z
+URL: https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say
+Summary: Eileen Wang, the former mayor of Arcadia, California, pleaded guilty to acting as an illegal agent of China from late 2020 to 2022. She operated a website that promoted pro-Beijing propaganda without notifying the US government. Wang faces a maximum penalty of 10 years in prison, and her lawyers said her actions were related to her personal life, not her role as an elected official.
+
+[3] Israel approves law on public trials, death penalty for October 7 detainees | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-12T05:03:09Z
+URL: https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees
+Summary: Israeli legislators approved a bill to establish a special tribunal with the power to impose the death penalty on Palestinians accused of involvement in the October 7, 2023 attacks. The bill passed 93-0 and allows mass trials and public broadcasting of proceedings. Rights groups warn it lowers fair trial protections and treats indictment as a finding of guilt.
+
+[4] US moves to release more oil stockpiles under IEA agreement | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-12T05:42:15Z
+URL: https://www.aljazeera.com/economy/2026/5/12/us-moves-to-release-more-oil-stockpiles-under-iea-agreement
+Summary: The US announced the release of 53.3 million barrels of oil from its strategic petroleum reserve under an IEA agreement, with contracts awarded to nine companies. This follows a previous release of 172 million barrels in March amid rising oil prices due to the war on Iran and the blockade of the Strait of Hormuz. Oil prices topped $105 a barrel after Trump rejected Iran's peace proposal.
+
+[5] Global energy crisis highlights meagre oil buffers in developing world | Oil and Gas News | Al Jazeera
+Published: 2026-05-12T06:38:03Z
+URL: https://www.aljazeera.com/economy/2026/5/12/global-energy-crisis-highlights-meagre-oil-buffers-in-developing-world
+Summary: The blockade of the Strait of Hormuz has caused a global energy crunch, with developing countries being the least prepared to mitigate the shock due to a lack of oil stockpiles. The IEA's coordinated release of 400 million barrels of emergency reserves highlights the disparity, as its member countries represent only about 16 percent of the world's population. The Asia Pacific region is expected to take the biggest economic hit.
+
+[6] Thunder outlasts Lakers in Game 4 to complete NBA playoff sweep | Basketball News | Al Jazeera
+Published: 2026-05-12T06:44:24Z
+URL: https://www.aljazeera.com/sports/2026/5/12/thunder-outlasts-lakers-in-game-4-to-complete-nba-playoff-sweep
+Summary: The Oklahoma City Thunder defeated the Los Angeles Lakers 115-110 in Game 4, completing a four-game sweep and advancing to the Western Conference finals. Shai Gilgeous-Alexander scored 35 points, and the Thunder improved to 8-0 in the playoffs. LeBron James, who scored 24 points, is set to become an unrestricted free agent after 23 seasons.
+
+[7] Malaysia rescues 23 migrants after boat capsizes, 14 still missing | Migration News | Al Jazeera
+Published: 2026-05-12T06:54:12Z
+URL: https://www.aljazeera.com/news/2026/5/12/malaysia-rescues-23-migrants-after-boat-capsizes-14-still-missing
+Summary: Malaysian authorities rescued 23 undocumented migrants after their boat capsized off Pangkor Island, with 14 still missing. The migrants departed from Indonesia on May 9 and were headed to several destinations in Malaysia. Search operations involving boats, a helicopter, and surveillance aircraft are ongoing.
+
+[8] Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’ | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-12T06:56:31Z
+URL: https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression
+Summary: Tensions remain high as Iran warns it is prepared to respond to any aggression after Trump rejected its peace proposal as 'stupid'. Iran's parliamentary speaker said forces are ready to retaliate, and the US and UK announced new sanctions. The UK and France will host a meeting of 40 countries to discuss restoring trade flows through the Strait of Hormuz.
+
+[9] Why is Israel allowed to take part in the Eurovision song contest? | Protests News | Al Jazeera
+Published: 2026-05-12T07:03:44Z
+URL: https://www.aljazeera.com/news/2026/5/12/why-is-israel-allowed-to-take-part-in-the-eurovision-song-contest
+Summary: Five countries are boycotting the 70th Eurovision contest on May 16 due to Israel's participation, citing its genocidal war on Gaza. Israel is allowed to participate because the contest is not restricted to European nations, and Israel was the first non-European country to join in 1973. The European Broadcasting Union confirmed Israel's participation despite calls for a boycott.
+
+[10] Starving on the front lines: Food supply in crisis as Ukraine fights Russia | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-12T07:16:50Z
+URL: https://www.aljazeera.com/news/2026/5/12/with-drone-dropped-food-on-ukraines-frontline-do-soldiers-starve
+Summary: Ukrainian soldiers on the front lines are facing severe food shortages, with some going up to 17 days without food deliveries due to drone warfare making supply routes dangerous. Photos of emaciated soldiers have emerged, and soldiers report surviving on minimal rations like chocolate bars and oatmeal. Russian soldiers are also struggling with meagre rations.
+
+[11] ‘Potential security risk’: Unpacking the UK’s trust issues with Palantir | Health News | Al Jazeera
+Published: 2026-05-12T07:17:21Z
+URL: https://www.aljazeera.com/news/2026/5/12/palantir
+Summary: The UK is facing trust issues with Palantir over its handling of NHS patient data, accelerated by the company's militaristic manifesto and reports of unlimited employee access to data. Palantir's Federated Data Platform contract with the NHS is under scrutiny, with officials considering a 2027 break point. Critics argue the company's defence origins conflict with healthcare values.
+
+================================================================================
 RUN TIME UTC: 2026-05-12T03:22:34Z
 WINDOW: Last 6 hours
 ARTICLES USED: 1
