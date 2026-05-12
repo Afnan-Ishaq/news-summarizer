@@ -1,4 +1,83 @@
 ================================================================================
+RUN TIME UTC: 2026-05-12T21:20:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 14
+
+OVERALL SUMMARY
+The batch covers a range of topics including business (eBay rejects GameStop's bid), US inflation driven by the Iran war, geopolitical tensions (Israel-Iron Dome in UAE, Iran-UAE messaging, Pakistan as mediator), a snap election in the Bahamas, Serbia-NATO military exercise, US Federal Reserve confirmation, a racist comment by a US lawmaker, Ukraine-Russia conflict updates, Colombia displacement, US tariff court ruling, Trump's China visit, and the death of NBA player Brandon Clarke.
+
+ARTICLE BREAKDOWN
+[1] EBay rejects GameStop’s $56bn bid as ‘neither credible nor attractive’
+Published: 2026-05-12T17:24:49Z
+URL: https://www.aljazeera.com/economy/2026/5/12/ebay-rejects-gamestops-56bn-bid-as-neither-credible-nor-attractive
+Summary: EBay has rejected a $56bn takeover bid from GameStop, calling it 'neither credible nor attractive' due to financing doubts and concerns about long-term growth. GameStop CEO Ryan Cohen, who holds a 5 percent stake in eBay, has hinted he may take the offer directly to shareholders. EBay's stock has traded below the offer price since the bid was made.
+
+[2] US faces rising costs with Iran war driving energy prices, inflation higher
+Published: 2026-05-12T17:37:54Z
+URL: https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher
+Summary: 
+
+[3] Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy
+Published: 2026-05-12T17:49:22Z
+URL: https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy
+Summary: US Ambassador Mike Huckabee confirmed that Israel deployed Iron Dome batteries and personnel to the UAE to help defend against Iranian attacks, marking the first known use of the technology outside Israel. Huckabee praised the UAE as an example of strong Israel-Gulf ties and called on Gulf states to 'pick a side' between Israel and Iran.
+
+[4] Voters head to the polls in the Bahamas for high-stakes snap election
+Published: 2026-05-12T18:00:09Z
+URL: https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election
+Summary: A snap election is underway in the Bahamas, with Prime Minister Philip Davis seeking a rare second consecutive term for his Progressive Liberal Party. Davis faces challenger Michael Pintard of the Free National Movement, with affordability and housing costs as key issues. The election was moved up from October due to hurricane season concerns.
+
+[5] Serbia hosts first joint military exercise with NATO
+Published: 2026-05-12T18:02:35Z
+URL: https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato
+Summary: Serbia and NATO launched their first-ever joint military exercise, involving about 600 troops from Serbia, Italy, Romania, and Turkiye. The two-week drills, part of NATO's Partnership for Peace programme, come less than 30 years after NATO bombed Belgrade. Serbia maintains military neutrality but has balanced ties with both NATO and Russia.
+
+[6] Kevin Warsh confirmed to US Federal Reserve board in close Senate vote
+Published: 2026-05-12T18:13:39Z
+URL: https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote
+Summary: Kevin Warsh was confirmed to the Federal Reserve Board of Governors in a 51-45 Senate vote, with Democrat John Fetterman joining Republicans. A vote to confirm him as Fed chair is expected soon. Warsh's confirmation comes amid tensions over Fed independence, with Trump pushing for rate cuts and a surge in oil prices from the Iran war affecting inflation.
+
+[7] ‘Cotton picking’: US lawmaker condemned for racist comment about Jeffries
+Published: 2026-05-12T18:23:06Z
+URL: https://www.aljazeera.com/news/2026/5/12/cotton-picking-us-lawmaker-condemned-for-racist-comment-about-jeffries
+Summary: US Representative Jen Kiggans faced condemnation after appearing to endorse a radio host's racist comment calling for Hakeem Jeffries to keep his 'cotton-picking hands off Virginia.' Kiggans later denied approving the language, saying she agreed only with the sentiment about redistricting. Top Democrats and the Congressional Black Caucus called for her resignation.
+
+[8] Ukraine hits Russia’s distant gas facilities after Moscow’s attacks kill 6
+Published: 2026-05-12T19:36:36Z
+URL: https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest
+Summary: Ukraine struck gas facilities in Russia's Orenburg region, over 1,500km from the border, in retaliation for Russian overnight attacks that killed six in Dnipropetrovsk. The strikes came after a three-day ceasefire brokered by Trump ended. Russia tested a new nuclear-capable intercontinental missile, while Putin suggested the war is nearing its end.
+
+[9] Why is Iran increasingly targeting the UAE in its war messaging?
+Published: 2026-05-12T19:37:09Z
+URL: https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging
+Summary: Iran has increasingly singled out the UAE in its war messaging, warning of stronger strikes if the US and Israel resume attacks. Iranian officials have labeled the UAE a 'hostile base' due to its ties with the US and Israel. The UAE has condemned Iranian attacks and terminated visas for Iranians, while Iran seeks alternative trade routes due to a US naval blockade.
+
+[10] Red Cross says people displaced by conflict in Colombia doubled last year
+Published: 2026-05-12T19:52:10Z
+URL: https://www.aljazeera.com/news/2026/5/12/red-cross-says-people-displaced-by-conflict-in-colombia-doubled-last-year
+Summary: The ICRC reported that 2025 saw the worst humanitarian consequences in a decade for Colombia's internal conflict, with displacement doubling to 235,619 people. The use of explosives and drones increased, killing or injuring 965 people. The report highlighted fragmentation since the 2016 FARC ceasefire, with armed groups causing lockdowns and restricting access to services.
+
+[11] Trump backs Pakistan as Iran mediator after criticism from Lindsey Graham
+Published: 2026-05-12T20:24:30Z
+URL: https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham
+Summary: President Trump reaffirmed support for Pakistan as a mediator with Iran, praising its prime minister and army chief for helping negotiate a ceasefire. Senator Lindsey Graham criticized Pakistan, citing a report that it may be allowing Iran to park military assets on its airfields. Graham, a foreign policy hawk, has been a vocal supporter of the war with Iran.
+
+[12] US court pauses decision blocking Trump’s 10 percent global tariff
+Published: 2026-05-12T21:00:53Z
+URL: https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff
+Summary: A federal appeals court temporarily paused a lower court decision that blocked Trump's 10 percent global tariff, which was imposed under Section 122 of the 1974 Trade Act. The lower court had ruled the tariff invalid, but the appeals court granted an administrative stay. A coalition of 24 states argues the tariff is an abuse of executive power, with consumer costs rising.
+
+[13] Trump downplays US-Iran differences as he heads to Beijing to meet with Xi
+Published: 2026-05-12T21:02:19Z
+URL: https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi
+Summary: President Trump departed for Beijing to meet with Xi Jinping, giving conflicting signals about how much the Iran war will feature in talks. US officials have downplayed the topic, emphasizing trade instead. Trump invited business leaders like Elon Musk and Tim Cook, and both sides seek to avoid a return to tariff wars.
+
+[14] Basketball star Brandon Clarke, Memphis Grizzlies forward, dies at age 29
+Published: 2026-05-12T21:19:21Z
+URL: https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29
+Summary: Memphis Grizzlies forward Brandon Clarke died at age 29, with no cause of death immediately announced. He was pronounced dead at a home in California's San Fernando Valley. Clarke, a Canadian-born NBA player, spent his entire career with the Grizzlies and was named to the All-Rookie First Team in 2020, but injuries limited his recent appearances.
+
+================================================================================
 RUN TIME UTC: 2026-05-12T17:12:11Z
 WINDOW: Last 6 hours
 ARTICLES USED: 16
