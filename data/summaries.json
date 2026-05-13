@@ -1,5 +1,31 @@
 [
   {
+    "time": "2026-05-13T03:30:35Z",
+    "window_hours": 6,
+    "article_count": 3,
+    "overall_summary": "Three major stories from Al Jazeera cover a high-stakes trial between Sam Altman and Elon Musk over OpenAI's direction, the arrest of a Honduran mayor for the murder of an environmental activist, and financial charges against a Peruvian presidential candidate.",
+    "articles": [
+      {
+        "title": "Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial | Courts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial",
+        "published": "2026-05-12T22:09:35Z",
+        "summary": "OpenAI CEO Sam Altman testified in a California trial that Elon Musk sought a 90 percent stake in the company, countering Musk's claim that Altman betrayed OpenAI's original nonprofit mission. Musk is suing for $150bn, alleging Altman and OpenAI president Greg Brockman 'stole a charity' by shifting to a for-profit model in 2019. Altman argued Musk was aware of and pushed for the for-profit structure, and the trial's outcome could affect OpenAI's future, including a potential $1 trillion IPO."
+      },
+      {
+        "title": "Honduras mayor arrested for masterminding environmentalist’s killing | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/12/honduras-mayor-arrested-for-masterminding-environmentalists-killing",
+        "published": "2026-05-12T23:19:53Z",
+        "summary": "Honduran authorities arrested former Tocoa mayor Adan Funez, along with two others, for allegedly masterminding the 2024 murder of environmental activist Juan Lopez. Lopez, who opposed an iron oxide mining project, was shot six times days after calling for Funez's resignation over a corruption scandal. The arrests follow years of accusations by religious and environmental leaders, and the trial is set for June."
+      },
+      {
+        "title": "Peru presidential candidate Roberto Sanchez charged with financial crimes | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/13/peru-presidential-candidate-roberto-sanchez-charged-with-financial-crimes",
+        "published": "2026-05-13T01:05:33Z",
+        "summary": "Peruvian prosecutors charged leftist presidential candidate Roberto Sanchez with financial crimes, seeking a five-year and four-month prison term for false financial disclosures related to campaign contributions between 2018 and 2020. The charges emerged as Sanchez advanced to a run-off against conservative Keiko Fujimori, with a judge set to decide on May 27 whether the case goes to trial. Sanchez's lawyer argued the party's treasurer, not Sanchez, was responsible for the filings."
+      }
+    ]
+  },
+  {
     "time": "2026-05-12T21:20:35Z",
     "window_hours": 6,
     "article_count": 14,
