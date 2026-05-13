@@ -1,5 +1,73 @@
 [
   {
+    "time": "2026-05-13T12:05:03Z",
+    "window_hours": 6,
+    "article_count": 10,
+    "overall_summary": "A batch of Al Jazeera articles covers a range of international news, including a high-stakes summit between China's Xi Jinping and US President Trump focusing on Taiwan and tariffs, Lionel Messi's new MLS salary, the death of NBA pioneer Jason Collins, earthquake concerns near Tehran, an opinion piece on class and disease outbreaks, Israeli drone strikes in Lebanon, gang violence in Haiti, UN calls for probes into civilian deaths in Nigeria and Chad, US-Iran tensions, and the jailing of journalists in the Maldives.",
+    "articles": [
+      {
+        "title": "China’s Xi expected to press Trump on Taiwan, tariffs during summit",
+        "url": "https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit",
+        "published": "2026-05-13T07:48:54Z",
+        "summary": "Chinese President Xi Jinping is expected to seek concessions on Taiwan and US tariffs during a summit with US President Donald Trump in China. Analysts say Xi is predictable in his goals regarding Beijing's 'core interests,' particularly Taiwan, which China views as part of its territory. Trump has indicated the summit agenda will include US arms sales to Taiwan, a multibillion-dollar deal that still requires his final approval."
+      },
+      {
+        "title": "Messi doubles MLS base salary to make $28m a year at Inter Miami",
+        "url": "https://www.aljazeera.com/sports/2026/5/13/messi-doubles-mls-base-salary-to-make-28m-a-year-at-inter-miami",
+        "published": "2026-05-13T08:38:18Z",
+        "summary": "Lionel Messi remains the highest-paid player in Major League Soccer with an annual base salary of $25 million, more than double the next-highest-paid player, Son Heung-min. His total guaranteed compensation is $28.3 million, reflecting a contract extension signed in October that keeps him with Inter Miami through 2028. The figures do not include endorsement deals or his option to acquire a stake in the franchise."
+      },
+      {
+        "title": "Jason Collins, first openly gay active NBA player, dies after cancer battle",
+        "url": "https://www.aljazeera.com/sports/2026/5/13/jason-collins-first-openly-gay-active-nba-player-dies-after-cancer-battle",
+        "published": "2026-05-13T08:48:19Z",
+        "summary": "Jason Collins, the first openly gay active player in the NBA, has died at age 47 after battling glioblastoma, an aggressive brain cancer. Collins came out in a 2013 Sports Illustrated essay and played 13 NBA seasons, helping the Nets reach back-to-back NBA Finals. His family said he was an inspiration, and his former agent noted his legacy as a beacon for tolerance and inclusion."
+      },
+      {
+        "title": "Series of tremors near Tehran renews concerns over major quake risk",
+        "url": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk",
+        "published": "2026-05-13T09:35:51Z",
+        "summary": "A series of nine small earthquakes struck the Pardis area east of Tehran overnight, renewing fears of a major seismic disaster in the Iranian capital. The tremors occurred near the Mosha fault, one of Iran's most active seismic zones, and seismologists say it is unclear if they reduce future risk or are warning signs. Tehran's vulnerability is amplified by dense urban development, population concentration, and limited preparedness."
+      },
+      {
+        "title": "The class politics of modern outbreaks",
+        "url": "https://www.aljazeera.com/opinions/2026/5/13/the-class-politics-of-modern-outbreaks",
+        "published": "2026-05-13T09:51:07Z",
+        "summary": "This opinion piece argues that wealthy travelers and elites accelerate the international spread of diseases, as seen during COVID-19, but poorer populations suffer the most once outbreaks become entrenched. The author notes that affluent mobility, such as ski holidays and luxury cruises, often serves as a vector for disease transmission. The piece concludes that pandemics mirror global inequalities, with those having the greatest freedom of movement generating disproportionate epidemiological risk."
+      },
+      {
+        "title": "At least eight killed in Israeli drone strikes on Lebanon highway",
+        "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut",
+        "published": "2026-05-13T09:53:02Z",
+        "summary": "Three Israeli drone strikes on cars on a major highway linking Beirut to southern Lebanon killed at least eight people, including two children, according to Lebanon's Ministry of Health. The attacks occurred in the Jiyeh area, and Al Jazeera's correspondent said the conflict is escalating and taking a high toll on civilians. Lebanon and Israel are expected to hold new direct negotiations in Washington, while Hezbollah opposes the talks."
+      },
+      {
+        "title": "Gang violence displaces hundreds in Haiti’s capital",
+        "url": "https://www.aljazeera.com/gallery/2026/5/13/gang-violence-displaces-hundreds-in-haitis-capital",
+        "published": "2026-05-13T10:58:44Z",
+        "summary": "Residents of the Cite Soleil neighborhood in Port-au-Prince protested after a surge of gang violence forced hundreds to flee their homes. Medical services have been hit, with Doctors Without Borders evacuating its hospital and another facility suspending operations. An international security mission backed by the UN has begun deploying, with troops from Chad arriving, but gang warfare has already displaced an estimated 1.4 million people."
+      },
+      {
+        "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
+        "url": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks",
+        "published": "2026-05-13T11:40:12Z",
+        "summary": "The UN human rights chief has demanded independent investigations into reports that Nigerian and Chadian air attacks killed more than 100 civilians in northern Nigeria. Amnesty International cited witnesses saying many of those killed in a market attack in Zamfara state were women and children. The Nigerian military said there is no evidence of civilian casualties, calling reports unverified, while the UN urged both militaries to comply with international humanitarian law."
+      },
+      {
+        "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
+        "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters",
+        "published": "2026-05-13T11:42:19Z",
+        "summary": "Optimism for a peace deal between the US and Iran has faded as both sides dig in, with Trump saying the ceasefire is on 'life support.' Analysts say Trump is trapped between escalation and concession, as resuming hostilities is unpopular ahead of midterm elections but conceding to Tehran's demands is difficult. Iran wants an end to the war on all fronts and negotiations focused on ending hostilities before discussing its nuclear program, which Trump has rejected."
+      },
+      {
+        "title": "Maldives jails two journalists for reporting on president’s alleged affair",
+        "url": "https://www.aljazeera.com/news/2026/5/13/maldives-jails-two-journalists-for-reporting-on-presidents-alleged-affair",
+        "published": "2026-05-13T11:54:08Z",
+        "summary": "Two journalists from the news website Adhadhu have been jailed in the Maldives for violating a gag order on a documentary alleging an affair between President Mohamed Muizzu and a former aide. Mohamed Shahzan received 15 days and Leevan Ali Nasir 10 days, with rights groups condemning the sentences as an attack on press freedom. The president's spokesperson rejected the criticism, calling the proceedings warranted and not politically motivated."
+      }
+    ]
+  },
+  {
     "time": "2026-05-13T07:49:23Z",
     "window_hours": 6,
     "article_count": 11,
