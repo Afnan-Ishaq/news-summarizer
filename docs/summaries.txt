@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-05-13T17:17:02Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles from the past six hours covers a wide range of topics, including a major corruption probe into former Ukrainian President Zelenskyy's aides, an escalation of Israeli attacks on Gaza since the Iran ceasefire, a dramatic standoff at the Philippine Senate over an ICC arrest warrant, and US political maneuvering in Iraq. Other stories include the geopolitical dynamics of a Trump-Xi summit, South Africa's impeachment proceedings against President Ramaphosa, a sports suspension for a rugby coach, and World Cup preparations amid the US-Israel war on Iran. The batch also features a list of past World Cup winners, a Russian missile test, a cruise ship health scare in France, a UK parliamentary probe into Nigel Farage, the harsh conditions of Indian salt workers, ongoing Russian attacks on Ukraine, and Russia placing a former UK minister on a wanted list.
+
+ARTICLE BREAKDOWN
+[1] Key Zelenskyy aides under corruption cloud: What are they accused of? | Corruption News | Al Jazeera
+Published: 2026-05-13T12:11:01Z
+URL: https://www.aljazeera.com/news/2026/5/13/key-zelenskyy-aides-under-corruption-cloud-what-are-they-accused-of
+Summary: Andriy Yermak, former chief of staff to Ukrainian President Zelenskyy, is at the center of a major corruption investigation, accused of involvement in a $10.5 million money laundering scheme linked to a luxury housing project. He appeared in court on Tuesday, rejecting the charges as 'unfounded,' while his lawyer called the allegations groundless. The probe is widening to include other senior figures, and though Zelenskyy is not accused, the scandal could threaten Ukraine's EU membership aspirations.
+
+[2] Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report | Gaza News | Al Jazeera
+Published: 2026-05-13T12:39:17Z
+URL: https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report
+Summary: 
+
+[3] Gunshots ring out at Philippine Senate where lawmaker is holed up | ICC News | Al Jazeera
+Published: 2026-05-13T12:44:12Z
+URL: https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up
+Summary: Gunshots were fired at the Philippine Senate as police and marines moved to arrest Senator Ronald dela Rosa, who faces an ICC arrest warrant for crimes against humanity related to the former Duterte administration's drug war. Dela Rosa, who is holed up in his legislative office, urged President Marcos not to hand him over and appealed for public support. The ICC unsealed the warrant on Monday, and it remains unclear who fired the shots.
+
+[4] Why Trump decided to back Iraq’s prime minister-designate, Ali al-Zaidi | US-Israel war on Iran | Al Jazeera
+Published: 2026-05-13T12:59:48Z
+URL: https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi
+Summary: US President Trump backed Ali al-Zaidi as Iraq's prime minister-designate after opposing the nomination of Nouri al-Maliki, whom Washington viewed as too pro-Iran. Trump's pressure campaign included suspending cash payments from Iraq's oil revenues and halting security assistance, leading the Coordination Framework to approve al-Zaidi as a compromise candidate. Washington's confidence in al-Zaidi stems from his status as a business-oriented outsider, his lack of US sanctions, and his potential to curb pro-Iran militia activity.
+
+[5] Trump needs Xi much more than Xi needs Trump | Xi Jinping | Al Jazeera
+Published: 2026-05-13T13:08:38Z
+URL: https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump
+Summary: The article argues that ahead of a Trump-Xi summit, the US is in a position of vulnerability due to its failed military campaign against Iran, which has led to a blockade of the Strait of Hormuz. Washington is increasingly dependent on China's help to resolve the crisis, while Beijing has shown resilience through stockpiling and diversified supply chains. The US is making desperate appeals for China to intervene, despite ongoing confrontational policies.
+
+[6] Could South Africa’s Ramaphosa be impeached over ‘cash-in-sofa’ scandal? | Corruption | Al Jazeera
+Published: 2026-05-13T13:12:36Z
+URL: https://www.aljazeera.com/features/2026/5/13/could-south-africas-ramaphosa-be-impeached-over-cash-in-sofa-scandal
+Summary: South African President Cyril Ramaphosa faces a multi-party impeachment committee over allegations he covered up a 2020 break-in at his ranch where $580,000 was stolen from a sofa. The scandal, dubbed 'Farmgate,' has damaged his anticorruption mandate, and the Constitutional Court recently overturned parliament's rejection of a 2022 report on the matter. Ramaphosa denies wrongdoing, saying the cash came from selling buffalo, and has refused to resign.
+
+[7] Japan suspends Australian rugby coach Jones for verbally abusing officials | Rugby News | Al Jazeera
+Published: 2026-05-13T13:17:18Z
+URL: https://www.aljazeera.com/news/2026/5/13/japan-suspends-australian-rugby-coach-jones-for-verbally-abusing-officials
+Summary: Japan has suspended rugby coach Eddie Jones for four games and cut his salary for verbally abusing match officials during a tour of Australia with the Japan Under-23 team. The Japan Rugby Football Union stated that Jones accepted the disciplinary action and apologized for his remarks. Jones will miss several matches, including Japan's Nations Championship opener against Italy.
+
+[8] Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup | World Cup 2026 News | Al Jazeera
+Published: 2026-05-13T14:05:49Z
+URL: https://www.aljazeera.com/sports/2026/5/13/amid-us-israel-war-on-iran-arizona-awaits-iranian-team-before-world-cup
+Summary: Tucson, Arizona, is preparing to host the Iranian football team for the 2026 World Cup amid the ongoing US-Israel war on Iran, with the Kino Sports Complex ensuring facilities are ready. Despite the conflict and Trump's comments questioning the team's safety, FIFA insists Iran will participate, and local officials are moving forward with plans. The team will train in Tucson before playing group-stage games in Los Angeles and Seattle.
+
+[9] Which teams have won the FIFA World Cup? | World Cup 2026 News | Al Jazeera
+Published: 2026-05-13T14:13:15Z
+URL: https://www.aljazeera.com/sports/2026/5/13/which-teams-have-won-the-fifa-world-cup
+Summary: The article provides a chronological list of all FIFA World Cup winners since 1930, with Argentina as the reigning champions after winning in 2022. Brazil holds the record for the most titles with five, followed by Italy and Germany with four each. The list includes notable moments such as Pele's three titles and Diego Maradona's 1986 triumph.
+
+[10] ‘Most powerful’: What’s the Sarmat missile Russia has test-launched? | Military News | Al Jazeera
+Published: 2026-05-13T14:25:53Z
+URL: https://www.aljazeera.com/news/2026/5/13/most-powerful-whats-the-sarmat-missile-russia-has-test-launched
+Summary: Russia has test-launched the RS-28 Sarmat intercontinental ballistic missile, which President Putin claims is the most powerful in the world with a range of over 35,000 km. Western analysts estimate the range at about 18,000 km. The missile, designed to replace the Soviet-built Voyevoda, is nuclear-armed and Putin says it will enter combat service by the end of the year.
+
+[11] France confines over 1,700 passengers on cruise ship over gastroenteritis | Health News | Al Jazeera
+Published: 2026-05-13T15:07:55Z
+URL: https://www.aljazeera.com/news/2026/5/13/cruise-ship-passengers-barred-from-disembraking-amid-illness-outbreak
+Summary: French authorities have temporarily prevented 1,233 passengers and 514 crew from leaving the British cruise ship Ambition in Bordeaux after nearly 50 suspected gastroenteritis cases were reported. The regional health authority said there is no link to a hantavirus cluster on another ship, and the restriction is a precaution while medical tests are conducted. The cruise operator has implemented enhanced sanitation measures and canceled shore excursions.
+
+[12] Reform UK leader Farage faces parliamentary probe over nearly $7m gift | Politics News | Al Jazeera
+Published: 2026-05-13T15:40:47Z
+URL: https://www.aljazeera.com/news/2026/5/13/reform-uk-leader-farage-faces-parliamentary-investigation-over-7m-gift
+Summary: Reform UK leader Nigel Farage is under investigation by the Parliamentary Commissioner for Standards over a $6.7 million gift from a party donor, which he says was for personal security. Opponents accuse him of breaking rules on declaring donations, and if found guilty, he could be suspended from the House of Commons. Farage's party has denied wrongdoing and topped opinion polls, with much of its funding coming from the donor in question.
+
+[13] India’s salt workers brave brutal heat on Gujarat’s desert plains | Weather News | Al Jazeera
+Published: 2026-05-13T16:05:53Z
+URL: https://www.aljazeera.com/gallery/2026/5/13/indias-salt-workers-endure-brutal-heat-in-gujarats-remote-desert
+Summary: Tens of thousands of seasonal salt workers in Gujarat, India, endure extreme heat, with temperatures exceeding 45°C, while living without electricity or healthcare. They work in the Little Rann of Kutch region, producing 75% of India's salt, and face risks of heat stress and kidney malfunction. Despite harsh conditions, many have no choice but to return year after year.
+
+[14] ‘One of the longest’ Russian attacks kills at least six people in Ukraine | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-13T16:52:52Z
+URL: https://www.aljazeera.com/news/2026/5/13/russian-attacks-across-ukraine-kill-at-least-six
+Summary: At least six people were killed in what Ukrainian President Zelenskyy described as one of the longest Russian attacks, striking Kyiv, Lviv, Odesa, and other areas. The attacks occurred despite claims from Trump and Putin that the war may be nearing an end. In Russia, Ukrainian drones injured two people in the Bryansk region, and two women were killed in Russian-controlled parts of Ukraine's Kherson region.
+
+[15] Russia places UK ex-Defence Minister Ben Wallace on wanted list | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-13T17:03:22Z
+URL: https://www.aljazeera.com/news/2026/5/13/russia-places-uk-former-minister-ben-wallace-on-wanted-list
+Summary: Russia has placed former UK Defence Minister Ben Wallace on a wanted list in connection with an unspecified criminal investigation, with state media citing terrorism-related charges. The move follows Wallace's comments last year advocating for Ukraine to strike the bridge linking Russia to Crimea. The Kremlin has previously dismissed his remarks as 'stupid,' and the action is part of a broader crackdown on dissent regarding the war in Ukraine.
+
+================================================================================
 RUN TIME UTC: 2026-05-13T12:05:03Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
