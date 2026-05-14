@@ -1,4 +1,38 @@
 ================================================================================
+RUN TIME UTC: 2026-05-14T07:42:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 5
+
+OVERALL SUMMARY
+The latest Al Jazeera articles cover a mix of sports and geopolitics: the announcement of a historic half-time show for the 2026 World Cup final, an NBA playoff game result, Iran's World Cup team sendoff amid visa concerns, Trump's visit to China for high-stakes talks, and updates on the ongoing US-Israel war on Iran, including diplomatic progress and regional tensions.
+
+ARTICLE BREAKDOWN
+[1] Madonna, Shakira, BTS to headline World Cup final half-time show | World Cup 2026 News | Al Jazeera
+Published: 2026-05-14T05:44:39Z
+URL: https://www.aljazeera.com/sports/2026/5/14/madonna-shakira-bts-to-headline-world-cup-final-half-time-show
+Summary: FIFA confirmed that Madonna, Shakira, and BTS will headline a Super Bowl-style half-time show at the 2026 World Cup final on July 19 at MetLife Stadium, curated by Coldplay's Chris Martin. The move raises concerns about the length of half-time, as similar shows at recent FIFA events have exceeded the regulation 15 minutes. The show will support FIFA's Global Citizen Education Fund, aiming to raise $100 million for children worldwide. Shakira also teased a new World Cup song, 'Dai Dai,' produced with Burna Boy, set for official release on Thursday.
+
+[2] Cavaliers rally late, beat Pistons for 3-2 lead in NBA Playoff semifinals | Basketball | Al Jazeera
+Published: 2026-05-14T06:33:08Z
+URL: https://www.aljazeera.com/sports/2026/5/14/cavaliers-rally-late-beat-pistons-for-3-2-lead-in-nba-playoff-semifinals
+Summary: The Cleveland Cavaliers defeated the Detroit Pistons 117-113 in overtime, taking a 3-2 lead in the Eastern Conference semifinals. James Harden scored 30 points, and Donovan Mitchell added 21, including seven in overtime, while Cade Cunningham led the Pistons with 39 points. The Cavaliers rallied late in the fourth quarter to force overtime and secured the win at the free-throw line. The Pistons now face elimination for the fourth time this postseason.
+
+[3] Iran’s US-bound World Cup squad given public sendoff in Tehran | World Cup 2026 News | Al Jazeera
+Published: 2026-05-14T06:33:42Z
+URL: https://www.aljazeera.com/sports/2026/5/14/irans-us-bound-world-cup-squad-given-public-sendoff-in-tehran
+Summary: Thousands of fans gathered in Tehran's Enqelab Square to send off Iran's World Cup squad, amid concerns about the team traveling to the United States for the tournament. The team's 2026 kit was unveiled, and they will travel to Turkiye for a training camp. The sendoff comes after an FFIRI delegation was denied entry to Canada due to alleged ties with the IRGC, raising fears about visa issues for the Iranian delegation entering the US. Iran's football federation has placed responsibility for securing visas on FIFA, with no updates yet on the status of the visas.
+
+[4] Trump in China for talks with Xi Jinping | Donald Trump News | Al Jazeera
+Published: 2026-05-14T06:56:12Z
+URL: https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping
+Summary: US President Donald Trump arrived in Beijing for a high-stakes summit with Chinese leader Xi Jinping, aimed at easing tensions over Iran, trade, and Taiwan. Trump said he expected a 'long talk' about the US-Israeli war on Iran, but downplayed disagreements, stating he didn't need China's help on Iran. The Chinese Ministry of Foreign Affairs welcomed the visit and expressed readiness to expand cooperation and manage differences.
+
+[5] Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-14T07:00:12Z
+URL: https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon
+Summary: US Vice President JD Vance said progress is being made in negotiations with Iran, despite President Trump rejecting Tehran's latest proposal. Iran's military remains at 'the highest level of readiness,' warning against any escalation. Separately, Israel claimed Prime Minister Netanyahu made a 'secret' visit to the UAE during the war, which the UAE denied, prompting Iran to warn states 'colluding' with Israel. Other developments include Iran's World Cup sendoff, Vance's comments on nuclear protections, and analysts suggesting China may seek concessions over its role in the conflict.
+
+================================================================================
 RUN TIME UTC: 2026-05-14T03:30:26Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
