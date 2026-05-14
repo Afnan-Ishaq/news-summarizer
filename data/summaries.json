@@ -1,5 +1,109 @@
 [
   {
+    "time": "2026-05-14T11:53:36Z",
+    "window_hours": 6,
+    "article_count": 16,
+    "overall_summary": "A batch of 16 Al Jazeera articles covers a range of global events, including Fatah's general congress amid Palestinian leadership questions, a Philippine politician's escape from the Senate, a diplomatic workaround for Marco Rubio's China visit, California's probe into FIFA World Cup ticket sales, US-China drone competition on Everest, a UK artist's cancelled exhibition, Japanese snack packaging changes due to Iran war ink shortages, Lionel Messi's MLS performance, UK Muslim voter dynamics, a US judge blocking sanctions on a UN rapporteur, World Cup transport price cuts, Russian drone attacks on Ukraine, US CEOs accompanying Trump to China, Zimbabweans trafficked to fight in Ukraine, Israeli attacks on southern Lebanon, and UK Labour's Angela Rayner being cleared over tax affairs.",
+    "articles": [
+      {
+        "title": "What is at stake as Fatah holds its 8th general congress? | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/what-is-at-stake-as-fatah-holds-its-8th-general-congress",
+        "published": "2026-05-14T08:04:39Z",
+        "summary": "Fatah is convening its eighth general congress on May 14, delayed for five years, at a volatile time for Palestinians. Critics accuse the leadership of curating delegates to ensure predetermined outcomes, with succession for 90-year-old President Mahmoud Abbas looming. The congress meets as Gaza remains under attack and the West Bank faces annexation, but experts doubt it will produce a breakthrough political strategy."
+      },
+      {
+        "title": "Philippine politician wanted by ICC flees Senate | ICC News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/philippine-politician-wanted-by-icc-flees-senate",
+        "published": "2026-05-14T08:05:51Z",
+        "summary": "Senator Ronald 'Bato' dela Rosa, wanted by the ICC for crimes against humanity related to the 'war on drugs,' has fled the Philippine Senate building where he had been taking refuge. Gunfire erupted at the Senate on Wednesday, and one person has been arrested. Dela Rosa's lawyer said he spoke to him late at night and believed he was still inside, but independent sources confirmed he escaped early Thursday morning."
+      },
+      {
+        "title": "How China changed Rubio name to let him join Trump summit despite sanctions | Explainer News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions",
+        "published": "2026-05-14T08:11:39Z",
+        "summary": "US Secretary of State Marco Rubio entered China for a summit despite being under Chinese sanctions, thanks to a linguistic workaround. Beijing transliterated his surname with a different Chinese character for 'lu,' changing his name to 'Marco Lu' in official documents. This allowed China to welcome Rubio without lifting the sanctions, which were imposed in 2020 for his criticism of Beijing's policies on Hong Kong and Xinjiang."
+      },
+      {
+        "title": "California questions FIFA’s possible violations in World Cup ticket sales | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/california-questions-fifas-possible-violations-in-world-cup-ticket-sales",
+        "published": "2026-05-14T08:21:20Z",
+        "summary": "California Attorney General Rob Bonta has contacted FIFA over potential legal violations in World Cup ticket sales, following reports that some fans purchased seats in categories that were later changed. Bonta requested copies of seating map changes and the number of affected fans. FIFA said its category maps were only 'indicative,' while the high ticket prices have already triggered a global backlash."
+      },
+      {
+        "title": "Nepal in a bind as US-China drone war reaches Everest | Mount Everest News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest",
+        "published": "2026-05-14T08:23:35Z",
+        "summary": "A US team led by President Trump's special envoy attempted to test a drone on Mount Everest but was denied a flight permit by Nepal's Ministry of Home Affairs due to 'security sensitivity.' China's DJI drones have been operating on Everest since 2024, and this year DJI provided its latest drone to a Nepalese company. The incident highlights Nepal being caught in the US-China tech rivalry on the world's highest peak."
+      },
+      {
+        "title": "UK artist defends ‘Drawings Against Genocide’ show after cancellation | Arts and Culture News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/uk-artist-defends-drawings-against-genocide-show-after-cancellation",
+        "published": "2026-05-14T08:30:20Z",
+        "summary": "Artist Matthew Collings' exhibition 'Drawings Against Genocide' was cancelled after UK Lawyers for Israel claimed the images were anti-Semitic. Collings, who has made over 3,000 drawings since October 2023 focusing on Israeli violence against Palestinians, denies the allegations, saying his work criticizes Zionism and genocide, not Jews. He argues that the drawings depict public figures supporting genocide, using artistic metaphors for brutality."
+      },
+      {
+        "title": "Japanese snacks go black-and-white: Why Iran war is driving up ink prices | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices",
+        "published": "2026-05-14T08:49:02Z",
+        "summary": "Tokyo-based Calbee is switching to black-and-white packaging for 14 products due to a shortage of printing ink, caused by the US-Israeli war on Iran disrupting naphtha supplies through the Strait of Hormuz. Japan imports 40 percent of its naphtha from the Middle East. Major ink producers like Sun Chemical and Hubergroup have raised prices due to rising raw-material and energy costs."
+      },
+      {
+        "title": "Lionel Messi scores two goals as Inter Miami rally to beat Cincinnati | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/lionel-messi-scores-two-goals-as-inter-miami-rally-to-beat-cincinnati",
+        "published": "2026-05-14T08:56:37Z",
+        "summary": "Lionel Messi scored his 10th and 11th goals and had an assist as Inter Miami rallied to beat Cincinnati 5-3, securing their fifth consecutive away win in MLS. German Berterame scored the go-ahead goal in the 84th minute after a defensive blunder by Cincinnati. Messi opened the scoring by deflecting an opponent's pass into an open goal and later leveled the game at 2-2."
+      },
+      {
+        "title": "In the UK, Muslim votes are treated as a problem to be managed | Elections | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/5/14/in-the-uk-muslim-votes-are-treated-as-a-problem-to-be-managed",
+        "published": "2026-05-14T09:02:11Z",
+        "summary": "The article argues that British Muslim civic engagement in the May local elections was met with suspicion, including accusations of 'family voting' and 'sectarian voting.' Reform UK made significant gains on an anti-immigration platform, while Labour's vote declined. The author, from the Muslim Council of Britain, criticizes media and political actors for spreading misinformation about Muslim voters."
+      },
+      {
+        "title": "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese",
+        "published": "2026-05-14T09:16:59Z",
+        "summary": "A federal judge has temporarily blocked US sanctions against UN expert Francesca Albanese, imposed in July 2025 after she criticized US policy on Israel's war in Gaza. The judge found the Trump administration sought to regulate her speech because of the 'idea or message expressed.' Albanese's husband and daughter had sued over the sanctions, which barred her from entering the US and using its banking systems."
+      },
+      {
+        "title": "World Cup train and shuttle bus ticket prices cut in New York, New Jersey | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/world-cup-train-and-shuttle-bus-ticket-prices-cut-in-new-york-new-jersey",
+        "published": "2026-05-14T09:43:43Z",
+        "summary": "New Jersey and New York have reduced train and shuttle bus ticket prices for travel to the World Cup venue at MetLife Stadium after backlash. Round-trip train tickets were cut from $150 to $98, and shuttle bus fares from $80 to $20. NJ Transit said it would cost $62 million to transport fans, with only $14 million defrayed by grants, but the new prices aim to ease costs for fans."
+      },
+      {
+        "title": "Russia launches hundreds more drones at Ukraine, killing three people | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people",
+        "published": "2026-05-14T10:19:39Z",
+        "summary": "Russia launched over 670 attack drones and 56 missiles at Ukraine overnight, killing three people and wounding 40 in Kyiv. President Zelenskyy said Russia used more than 1,560 drones since midnight, calling it one of the largest attacks of the war. The attack comes after a brief three-day ceasefire brokered by President Trump, which was marred by violations from both sides."
+      },
+      {
+        "title": "Who are the US CEOs in China with Trump, and what’s in it for them? | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/who-are-the-us-ceos-in-china-with-trump-and-whats-in-it-for-them",
+        "published": "2026-05-14T11:09:32Z",
+        "summary": "More than a dozen US business leaders, including Elon Musk, Tim Cook, and David Solomon, have joined President Trump on his state visit to China. The CEOs hope to expand their businesses in China amid a long-simmering trade war. Trump and Chinese President Xi Jinping are set to discuss extending a tariff truce and the export of Chinese rare earth metals."
+      },
+      {
+        "title": "Zimbabweans lured into Russia’s war as families plead for their return | Al Jazeera | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/14/zimbabweans-lured-into-russias-war-as-families-plead-for-their-return",
+        "published": "2026-05-14T11:22:23Z",
+        "summary": "Zimbabwean families are pleading for the return of loved ones who were trafficked to Russia and forced to fight in Ukraine. Four people have appeared in court in Harare on human trafficking charges for sending Zimbabweans to Russia. Government spokesperson Nick Mangwana said 18 Zimbabweans have died abroad, but only four can be repatriated due to documentation problems."
+      },
+      {
+        "title": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks",
+        "published": "2026-05-14T11:27:22Z",
+        "summary": "Israel has intensified attacks on southern Lebanon, killing two people in Srifa and issuing forced displacement orders, as both sides prepare for US-brokered talks on extending a ceasefire. The Israeli army targeted alleged Hezbollah infrastructure sites, while a Hezbollah drone injured several people in Israeli territory. The talks are controversial in Lebanon, with Hezbollah opposing direct discussions with Israel."
+      },
+      {
+        "title": "Labour’s Angela Rayner says she has been cleared over UK tax affairs | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/labours-angela-rayner-says-she-has-been-cleared-over-uk-tax-affairs",
+        "published": "2026-05-14T11:31:30Z",
+        "summary": "Former UK Deputy Prime Minister Angela Rayner says she has been cleared by HMRC of deliberate wrongdoing over her tax affairs, paving the way for a potential Labour leadership challenge. Prime Minister Keir Starmer is under pressure to resign after disastrous local elections, with over 80 MPs urging him to quit. Rayner is popular among Labour's left wing, while Health Minister Wes Streeting is also seen as a potential candidate."
+      }
+    ]
+  },
+  {
     "time": "2026-05-14T07:42:35Z",
     "window_hours": 6,
     "article_count": 5,
