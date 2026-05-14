@@ -1,4 +1,38 @@
 ================================================================================
+RUN TIME UTC: 2026-05-14T03:30:26Z
+WINDOW: Last 6 hours
+ARTICLES USED: 5
+
+OVERALL SUMMARY
+The batch covers five Al Jazeera articles from May 13-14, 2026, focusing on US political developments under President Trump, including a new ICE director appointment, a lawsuit against a Trump-backed task force, and aid to Cuba, alongside a Premier League title race update and a BRICS foreign ministers meeting in India.
+
+ARTICLE BREAKDOWN
+[1] Trump taps David Venturella, former private prison executive, to lead ICE
+Published: 2026-05-13T21:48:11Z
+URL: https://www.aljazeera.com/news/2026/5/13/trump-taps-david-venturella-former-private-prison-executive-to-lead-ice
+Summary: The Trump administration has appointed David Venturella, a former executive at private prison company GEO Group, as the new acting director of ICE, replacing Todd Lyons. Venturella's appointment is seen as a 'revolving-door' example by critics, as GEO Group has benefited from lucrative contracts tied to Trump's mass deportation campaign. The article notes that at least 18 deaths have been reported in ICE custody in the first four months of 2026, and ICE has faced allegations of excessive tactics.
+
+[2] Man City beat Palace to close gap with Arsenal to 2, with two games to play
+Published: 2026-05-13T21:58:39Z
+URL: https://www.aljazeera.com/sports/2026/5/13/man-city-beat-palace-to-close-the-gap-to-arsenal-to-two-with-two-to-play
+Summary: Manchester City defeated Crystal Palace 3-0, reducing Arsenal's Premier League lead to two points with two games remaining. Goals from Antoine Semenyo, Omar Marmoush, and Savinho secured the win, though Arsenal remain favorites for the title. City faces Chelsea in the FA Cup final next, while the title race could go to the final day on May 24.
+
+[3] Memphis residents file lawsuit alleging abuses by Trump-backed task force
+Published: 2026-05-13T22:58:19Z
+URL: https://www.aljazeera.com/news/2026/5/13/memphis-residents-file-lawsuit-alleging-abuses-by-trump-backed-task-force
+Summary: Four Memphis residents have filed a lawsuit against the Trump administration, alleging harassment by the Memphis Safe Task Force during immigration and crime crackdowns. The lawsuit claims agents retaliated against bystanders filming arrests, threatening arrests and using physical intimidation. The US government has denied wrongdoing, stating it remains committed to professional law enforcement.
+
+[4] Trump administration offers $100m in aid to Cuba in exchange for reform
+Published: 2026-05-13T23:01:57Z
+URL: https://www.aljazeera.com/news/2026/5/13/trump-administration-offers-100m-in-aid-to-cuba-in-exchange-for-reform
+Summary: The US has publicly offered $100 million in humanitarian aid to Cuba, conditional on the Cuban government agreeing to 'meaningful reforms' approved by the Trump administration. This comes amid a US-led oil blockade that has worsened Cuba's energy crisis, leading to blackouts and humanitarian warnings. Critics denounce the embargo as exacerbating conditions, while Trump has threatened regime change in Cuba.
+
+[5] Iran war: Why the BRICS foreign ministers meeting in India matters
+Published: 2026-05-14T03:00:33Z
+URL: https://www.aljazeera.com/news/2026/5/14/iran-war-why-the-brics-foreign-ministers-meeting-in-india-matters
+Summary: India is hosting a BRICS foreign ministers meeting on May 14-15, ahead of the 18th BRICS summit in September. The meeting will discuss economic cooperation and coordinate positions on global issues, coinciding with Trump's visit to Beijing. BRICS, now expanded to include Egypt, Ethiopia, Iran, UAE, and Indonesia, aims to amplify Global South demands in international forums.
+
+================================================================================
 RUN TIME UTC: 2026-05-13T21:26:11Z
 WINDOW: Last 6 hours
 ARTICLES USED: 15
