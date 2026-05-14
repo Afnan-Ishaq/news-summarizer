@@ -1,4 +1,78 @@
 ================================================================================
+RUN TIME UTC: 2026-05-14T21:10:51Z
+WINDOW: Last 6 hours
+ARTICLES USED: 13
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles from May 14, 2026, covers Iraq's partial cabinet approval, Iran's call for BRICS to condemn US-Israeli aggression, the Israeli Flag March in East Jerusalem, Sudan's hunger crisis, US humanitarian aid pledges, Jerome Powell's Fed legacy, World Cup heat risks, Iran's internet restrictions, France's World Cup squad, Palestinian reform pledges, Lebanon-Israel talks, and a US Border Patrol chief resignation.
+
+ARTICLE BREAKDOWN
+[1] Iraq’s parliament approves new Ali al-Zaidi government
+Published: 2026-05-14T17:04:51Z
+URL: https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government
+Summary: Iraq's parliament approved a partial cabinet for new Prime Minister Ali al-Zaidi, swearing in 14 ministers but failing to reach consensus on key posts like interior and defence. Al-Zaidi, Iraq's youngest PM at 40, was chosen after US President Trump intervened to block former PM Nouri al-Maliki. He faces challenges including disarming Iran-backed militias and balancing ties between Washington and Tehran.
+
+[2] Iran urges BRICS nations to condemn US-Israeli war aggression
+Published: 2026-05-14T17:29:53Z
+URL: https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression
+Summary: Iran's Foreign Minister Abbas Araghchi called on BRICS nations to condemn US and Israeli violations of international law, accusing the UAE of direct involvement in military operations against Iran. Araghchi urged the bloc to resist Western hegemony, while India hosted the meeting amid disruptions to Gulf shipping routes. The war has strained India's economy, and India condemned an attack on an Indian-flagged ship off Oman.
+
+[3] ‘May your village burn’: Israeli Flag March returns to East Jerusalem
+Published: 2026-05-14T17:50:31Z
+URL: https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem
+Summary: Far-right Israeli marchers attacked Palestinians and Jewish peace activists during the annual Jerusalem Day Flag March in East Jerusalem, chanting slogans like 'May your village burn' and 'Death to Arabs'. National Security Minister Itamar Ben-Gvir led a group into the Al-Aqsa Mosque compound, drawing condemnation from Jordan. Police arrested 13 people, and activists accused authorities of failing to curb the violence.
+
+[4] Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC
+Published: 2026-05-14T18:23:09Z
+URL: https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc
+Summary: A UN-backed IPC report found that nearly 19.5 million Sudanese people face acute hunger due to a three-year civil war, with 135,000 in catastrophic conditions in Darfur and Kordofan. Families have resorted to eating leaves and animal feed, and 825,000 children are expected to suffer severe acute malnutrition. The Norwegian Refugee Council warned that lack of food and health access will lead to many deaths.
+
+[5] Trump administration pledges $1.8bn in additional humanitarian aid to UN
+Published: 2026-05-14T18:24:00Z
+URL: https://www.aljazeera.com/news/2026/5/14/trump-administration-pledges-1-8bn-in-additional-humanitarian-aid-to-un
+Summary: The Trump administration pledged an extra $1.8bn in humanitarian funding to the UN, on top of a $2bn commitment from December, but far below past US aid levels of up to $17bn. US Ambassador Mike Waltz framed the sum as part of a push for transparency and UN reform. Critics, including Human Rights Watch, warned that cuts to foreign aid weaken human rights accountability.
+
+[6] Jerome Powell: Steering the US Fed through COVID-19 and political pressures
+Published: 2026-05-14T18:25:17Z
+URL: https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures
+Summary: Jerome Powell's term as US Federal Reserve chair ends on May 15, marked by tension with President Trump over interest rate cuts. Powell resisted political pressure to cut rates aggressively, stressing the Fed's independence, and faced an investigation into renovations that found no wrongdoing. He will be succeeded by Trump appointee Kevin Warsh but will remain on the board as a governor.
+
+[7] FIFA warned ‘gruelling heat’ could impact a quarter of World Cup games
+Published: 2026-05-14T18:39:33Z
+URL: https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games
+Summary: Climate scientists from World Weather Attribution warned that global warming could cause 26 of 104 World Cup 2026 matches to be played in very hot conditions, with five at cancellation-level heat. The final at MetLife Stadium has a one in eight chance of reaching 26C WBGT, a level requiring cooling breaks. Only three of 16 stadiums have air conditioning, raising risks for players and fans.
+
+[8] Israeli ultranationalists chant racist slogans during Jerusalem Day march
+Published: 2026-05-14T18:41:50Z
+URL: https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march
+Summary: Israeli ultranationalists chanted 'Death to Arabs' and 'May your villages burn' during the Jerusalem Day march, as Palestinian residents shuttered shops and stayed indoors. Activists from Standing Together tried to shield residents from harassment, accusing police of failing to intervene. Journalists covering the march also faced hostility from participants.
+
+[9] Iran expands tiered internet access amid continued online blackout
+Published: 2026-05-14T19:00:34Z
+URL: https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout
+Summary: Iran is offering limited tiered internet access to approved individuals amid a near-total online blackout that began on February 28, now the longest nationwide shutdown globally. President Pezeshkian created a new entity to review internet policy, but the shutdown continues, with users only able to access a slow intranet. Expensive VPNs and Starlink are targeted by authorities, and a state-distributed 'Internet Pro' service is priced several times higher than regular connections.
+
+[10] Mbappe and Dembele head up star-studded France World Cup squad
+Published: 2026-05-14T19:40:40Z
+URL: https://www.aljazeera.com/sports/2026/5/14/mbappe-and-dembele-head-up-star-studded-france-world-cup-squad
+Summary: France coach Didier Deschamps announced a 26-man World Cup squad led by Kylian Mbappe and Ballon d'Or winner Ousmane Dembele, with goalkeeper Robin Risser as a surprise call-up. France, tournament favourites, are in Group I with Senegal, Iraq, and Norway. Deschamps, who won the 2018 World Cup, will leave after the tournament, with Zinedine Zidane expected to take over.
+
+[11] Palestinian President Abbas pledges elections, reform at Fatah conference
+Published: 2026-05-14T20:07:21Z
+URL: https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference
+Summary: Mahmoud Abbas was unanimously re-elected leader of Fatah at the party's Eighth General Conference in Ramallah, pledging to reform the Palestinian Authority and hold long-delayed elections without providing a timeline. The conference aims to elect a new central committee for the first time in 10 years amid pressure from the US and EU. Fatah faces declining popularity and challenges from Hamas, which is excluded from the PLO.
+
+[12] Cautious optimism in Lebanon as direct talks with Israel progress
+Published: 2026-05-14T20:25:19Z
+URL: https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress
+Summary: A third round of direct talks between Israel and Lebanon began in Washington, DC, aiming for a new ceasefire deal before the current one expires on Sunday. Lebanese officials hope to address Israeli withdrawal from southern Lebanon and Hezbollah disarmament, though Hezbollah opposes the talks. US Secretary of State Marco Rubio did not attend, and Lebanese President Joseph Aoun has declined to meet Israeli Prime Minister Netanyahu directly.
+
+[13] Border Patrol chief Mike Banks resigns in latest Trump immigration shakeup
+Published: 2026-05-14T20:55:16Z
+URL: https://www.aljazeera.com/news/2026/5/14/border-patrol-chief-mike-banks-resigns-in-latest-trump-immigration-shakeup
+Summary: Mike Banks resigned as head of US Border Patrol, citing a desire to enjoy family and life, and took credit for reducing border crossings under Trump. His departure follows other high-profile resignations at the Department of Homeland Security, including Kristi Noem and Todd Lyons. Democrats surfaced a media report accusing Banks of soliciting prostitution, though the article does not confirm the allegation.
+
+================================================================================
 RUN TIME UTC: 2026-05-14T17:01:56Z
 WINDOW: Last 6 hours
 ARTICLES USED: 17
