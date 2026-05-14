@@ -1,5 +1,115 @@
 [
   {
+    "time": "2026-05-14T17:01:56Z",
+    "window_hours": 6,
+    "article_count": 17,
+    "overall_summary": "A batch of 17 Al Jazeera articles covers a wide range of topics including a high-profile MMA fight on Netflix, a UK government resignation, a US-China summit with warnings on Taiwan, deadly storms in India, a Latvian PM resignation, Serie A scheduling chaos, Lebanon-Israel negotiations, Iran's World Cup visa issues, Saudi Arabia's FIFA deal, Strait of Hormuz discussions, an Israeli minister's criticism of a footballer, World Cup format analysis, big tech as colonialism, Israel suing the New York Times, a Yemen prisoner swap, and Cuba's fuel crisis.",
+    "articles": [
+      {
+        "title": "Ronda Rousey vs Gina Carano Netflix MMA fight: Card, start, how to watch | Mixed Martial Arts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/ronda-rousey-vs-gina-carano-netflix-mma-fight-card-start-how-to-watch",
+        "published": "2026-05-14T11:55:18Z",
+        "summary": "Former UFC star Ronda Rousey will fight pioneering women's MMA fighter Gina Carano on May 16, 2026, as part of the first MMA card on Netflix. The event, produced by Most Valuable Promotions, will take place at the Intuit Dome in Los Angeles and also includes a heavyweight matchup between Francis Ngannou and Philipe Lins. Rousey, who retired after back-to-back defeats, says she is happy to fight again on her own terms."
+      },
+      {
+        "title": "Britain’s Health Secretary Wes Streeting resigns from government | Government News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/uk-health-secretary-wes-streeting-resigns-from-government",
+        "published": "2026-05-14T12:31:42Z",
+        "summary": "Britain's Health Secretary Wes Streeting has resigned from the Labour government, saying he no longer has confidence in Prime Minister Keir Starmer's leadership. Streeting's resignation deepens a crisis for Starmer, who is under pressure after poor local election results, though Streeting did not trigger a formal leadership contest. Several junior ministers have resigned, and over 80 MPs have urged Starmer to quit, but Starmer's spokesman reiterated that the prime minister is not going anywhere."
+      },
+      {
+        "title": "China’s Xi warns Trump about Taiwan at Beijing summit | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit",
+        "published": "2026-05-14T12:34:39Z",
+        "summary": "Chinese President Xi Jinping warned US President Donald Trump that mishandling the Taiwan issue could push the two countries into conflict, during their summit in Beijing. Trump called Xi a 'great leader' and invited him to the White House in September, while Xi emphasized that the two sides should be partners. Both leaders stressed the importance of US-China relations, with Xi saying they 'must make it work and never mess it up.'"
+      },
+      {
+        "title": "Duststorms and lightning kill at least 96 people in northern India | Weather News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/duststorms-and-lightning-kill-at-least-96-people-in-northern-india",
+        "published": "2026-05-14T13:01:23Z",
+        "summary": "Duststorms, heavy rain, and lightning have killed at least 96 people in the northern Indian state of Uttar Pradesh, with more than 50 injured. Officials said many deaths were caused by falling trees, collapsing structures, and lightning, and emergency teams were deployed to clear debris. Uttar Pradesh Chief Minister Yogi Adityanath ordered relief operations to be completed within 24 hours and compensation to be provided to affected families."
+      },
+      {
+        "title": "Latvian prime minister resigns after drone incident | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/latvian-prime-minister-resigns-after-drone-incident",
+        "published": "2026-05-14T13:07:09Z",
+        "summary": "Latvian Prime Minister Evika Silina has resigned after her coalition partner, the Progressives Party, pulled support following a drone incident. The resignation came after Latvia's Defence Minister was forced to resign over the government's handling of stray drones suspected to be from Ukraine crossing into Latvian territory. Silina's resignation occurs months before general elections due in October, and President Edgars Rinkevics will meet with parliamentary parties to appoint a new head of government."
+      },
+      {
+        "title": "Serie A finish in chaos, worsened by clash with Italian Open tennis final | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/serie-a-fixtures-in-chaos-for-final-weekend-extending-italy-football-crisis",
+        "published": "2026-05-14T13:08:40Z",
+        "summary": "Italian football faces scheduling chaos as half of Serie A teams do not know when their matches will be played, three days before the penultimate round. The Rome derby is at the core of the issue, as it clashes with the Italian Open men's tennis final at the same venue, and local authorities have ordered the derby to be moved to Monday. The Lega Serie A has lodged a formal appeal, as five matches involving teams competing for Champions League spots must be played simultaneously to ensure fairness."
+      },
+      {
+        "title": "What is on the table during Lebanon-Israel direct negotiations? | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations",
+        "published": "2026-05-14T13:17:28Z",
+        "summary": "A new round of negotiations between Israel and Lebanon will take place to discuss a ceasefire and disarming Hezbollah, as the fragile ceasefire is set to expire on Sunday. The talks have deeply divided Lebanon, with President Joseph Aoun and Prime Minister Nawaf Salam supporting direct negotiations, while Hezbollah and their allies prefer indirect talks. Israel continues to intensify attacks across Lebanon despite the ceasefire, with eight people killed on Wednesday, including two children."
+      },
+      {
+        "title": "Iran still waiting for US visas less than a month before World Cup | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/iran-still-waiting-on-us-visas-for-world-cup-2026",
+        "published": "2026-05-14T13:37:05Z",
+        "summary": "Iran's football federation chief says no visas have been issued for the national team to play World Cup games in the United States, less than a month before the tournament. The players were expected to travel to Ankara for fingerprinting as part of the visa process, but the federation is trying to arrange for this to be done in Antalya. Iran held a send-off ceremony for the team, which will be based in Tucson, Arizona, and opens its campaign against New Zealand on June 15."
+      },
+      {
+        "title": "‘Never mess it up’: What Xi and Trump said on day one of Beijing talks | Business and Economy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/never-mess-it-up-what-xi-and-trump-said-on-day-one-of-beijing-talks",
+        "published": "2026-05-14T14:17:29Z",
+        "summary": "US President Donald Trump and Chinese President Xi Jinping exchanged toasts at a state banquet in Beijing, hailing their relationship as the world's most consequential. Xi warned that failure to handle the bond would create a 'very dangerous situation,' while Trump described Xi as 'my friend' and invited him to the White House. Al Jazeera reported that China is deeply invested in symbolism and rolled out the red carpet for Trump, with Vice President Han Zheng greeting him at the airport."
+      },
+      {
+        "title": "Saudi investment fund seals FIFA deal as official World Cup 2026 supporter | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/saudi-investment-fund-seals-deal-as-official-world-cup-2026-supporter",
+        "published": "2026-05-14T14:18:33Z",
+        "summary": "Saudi Arabia's Public Investment Fund (PIF) has been named an official tournament supporter for the 2026 World Cup in North America and Asia, deepening ties with international football ahead of hosting the 2034 tournament. The partnership includes support for grassroots programmes, youth and women's football, and education projects, though no financial details were disclosed. PIF, which has spent over $5bn on LIV Golf, said it would cut funding at the close of the 2026 season."
+      },
+      {
+        "title": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/trump-xi-discuss-strait-of-hormuz-as-chinese-vessels-transit-key-waterway",
+        "published": "2026-05-14T14:23:21Z",
+        "summary": "US President Donald Trump and Chinese President Xi Jinping discussed the Strait of Hormuz during their meeting, agreeing that it must remain open for energy flow. Trump claimed Xi told him China would not provide military equipment to Iran and wants the strait open due to oil purchases. Meanwhile, the US said it had redirected 70 vessels and disabled four to enforce Trump's blockade, and a ship was seized and taken toward Iran in renewed escalation."
+      },
+      {
+        "title": "Israeli minister blasts Barcelona’s Lamine Yamal for Palestinian flag wave | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/israeli-minister-blasts-barcelonas-lamine-yamal-for-palestinian-flag-wave",
+        "published": "2026-05-14T14:25:02Z",
+        "summary": "Israel's defence minister criticized Barcelona's teenage star Lamine Yamal for waving a Palestinian flag during a victory parade, saying the act 'incites hate.' Yamal, who is Muslim, posted pictures of himself holding the flag on Instagram. The article notes that Spain's government and population have been highly critical of Israel's war in Gaza, and protests have spread to sport and culture."
+      },
+      {
+        "title": "What to expect from the 48-team format at the World Cup 2026 | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-world-cup-2026-what-to-expect-from-the-48-team-format",
+        "published": "2026-05-14T14:53:17Z",
+        "summary": "The FIFA World Cup 2026 will feature 48 teams, the largest in the competition's history, with 12 groups of four teams each. The top two teams from each group and the eight best third-placed teams will advance to a round of 32. FIFA's Gianni Infantino said the $11bn in expected revenue will be ploughed back into football globally, while the WTO estimated the tournament will produce $80.1bn in gross output."
+      },
+      {
+        "title": "‘The world is sounding an alarm’: Why big tech is the new colonist | Features | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/14/the-world-is-sounding-an-alarm-why-big-tech-is-the-new-colonist",
+        "published": "2026-05-14T15:08:38Z",
+        "summary": "The article argues that power in the modern world is increasingly exercised through technology, finance, and control over information, reviving debates around decolonisation. It cites examples such as Israeli-linked AI systems used in Gaza and the use of US tech company infrastructure in Israeli surveillance operations. Esra Albayrak, daughter of Turkish President Erdogan, said the war in Gaza marked a turning point, shining a spotlight on how international principles are not applied equally."
+      },
+      {
+        "title": "Israel’s Netanyahu says suing New York Times over Palestinian rape article | Media News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/israels-netanyahu-says-suing-new-york-times-over-palestinian-rape-article",
+        "published": "2026-05-14T16:16:29Z",
+        "summary": "The Israeli government says it is suing The New York Times over an article by Nicholas Kristof detailing rape allegations by Palestinian detainees against Israeli forces. Israel's Prime Minister's Office called the report 'the most hideous and distorted lies,' while The New York Times stood by the article, calling it a 'deeply reported piece of opinion journalism.' The article adds to evidence of systematic Israeli sexual abuse of Palestinian detainees documented by rights groups."
+      },
+      {
+        "title": "Yemen gov’t, Houthis to release more than 1,600 POWs in ‘largest’ swap | Houthis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/yemen-govt-houthis-to-release-more-than-1600-pows-in-largest-swap",
+        "published": "2026-05-14T16:26:17Z",
+        "summary": "Yemen's internationally recognized government and the Houthi group have signed a UN-backed agreement to exchange more than 1,600 detainees, marking the largest prisoner swap since the civil war began. Under the accord, the Houthis will release 580 prisoners, including seven Saudis and 20 Sudanese, while the government will release 1,100 Houthi prisoners. The ICRC welcomed the agreement, and both sides agreed to hold further talks on additional releases."
+      },
+      {
+        "title": "‘Absolutely no fuel’: Cuba hit by blackouts, protests amid power outages | Energy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/14/absolutely-no-fuel-cuba-hit-by-blackouts-protests-amid-power-outages",
+        "published": "2026-05-14T16:45:52Z",
+        "summary": "Cuba has been hit by worsening power outages after the government said fuel reserves had run out, with rare protests erupting in neighborhoods around Havana. Energy Minister Vicente de la O Levy said the country has 'absolutely no fuel,' and President Miguel Diaz-Canel blamed the crisis on US sanctions. Residents in some parts of Havana have endured outages lasting more than 19 hours a day."
+      }
+    ]
+  },
+  {
     "time": "2026-05-14T11:53:36Z",
     "window_hours": 6,
     "article_count": 16,
