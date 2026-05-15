@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-05-15T07:51:47Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "The batch covers India's RSS lobbying the West amid minority rights criticism, updates on the Iran war including US-China talks on the Strait of Hormuz, a historical analysis of Zionist misjudgment of Palestinians, Japan's World Cup squad announcement excluding injured star Mitoma, Palestinian Nakba commemorations, and Kylian Mbappe's public dispute with his Real Madrid coach over playing time.",
+    "articles": [
+      {
+        "title": "Why India’s RSS is lobbying the West amid attacks on minorities at home | Human Rights News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/15/why-indias-rss-is-lobbying-the-west-amid-attacks-on-minorities-at-home",
+        "published": "2026-05-15T05:50:35Z",
+        "summary": "India's far-right RSS is organizing visits to Western countries to improve its global image and counter claims of violence against minorities, following a US federal report accusing the group of decades of such acts. The article details the RSS's history, its Hindutva ideology, and its ties to the ruling BJP, noting that hate speech against minorities in India rose last year."
+      },
+      {
+        "title": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics",
+        "published": "2026-05-15T06:18:39Z",
+        "summary": "US President Trump and Chinese President Xi Jinping agreed in Beijing that the Strait of Hormuz must remain open for global energy flows amid the Iran war. Iran's foreign minister urged BRICS nations to condemn the US-Israel war, while Tehran signaled the strait is open to ships cooperating with Iranian forces. A third round of Israel-Lebanon talks in Washington was described as 'positive' by a US official."
+      },
+      {
+        "title": "How David Ben-Gurion got the Palestinians wrong in 1948 | Israel-Palestine conflict | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/5/15/how-david-ben-gurion-got-the-palestinians-wrong-in-1948",
+        "published": "2026-05-15T06:26:38Z",
+        "summary": "The article argues that Zionist leaders like David Ben-Gurion mistakenly believed the Palestinian refugee problem would resolve itself after 1948, but instead the Palestinian national cause grew stronger. It states that Israeli policies of violence and dispossession backfired, with refugee camps becoming centers of resistance and the Palestinian commitment to rights and return persisting across generations."
+      },
+      {
+        "title": "Mitoma fails to make Japan’s 2026 World Cup squad due to hamstring injury | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury",
+        "published": "2026-05-15T06:38:24Z",
+        "summary": "Injured Brighton winger Kaoru Mitoma was left out of Japan's World Cup squad after suffering a hamstring injury, with coach Hajime Moriyasu saying it would be difficult for him to regain fitness during the tournament. Monaco forward Takumi Minamino also missed out due to a knee injury, while ex-Arsenal defender Takehiro Tomiyasu made the 26-man squad despite a long injury layoff."
+      },
+      {
+        "title": "Millions of Palestinians mark 78 years since the Nakba | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/5/15/millions-of-palestinians-mark-78-years-since-the-nakba",
+        "published": "2026-05-15T06:41:10Z",
+        "summary": "Millions of Palestinians are commemorating the 78th anniversary of the Nakba, the mass expulsion of about 750,000 Palestinians during the 1948 war surrounding Israel's creation. The article notes that this is the third Nakba since Israel's war on Gaza began, with over two million people displaced and confined to a fraction of the enclave. Activists say the commemoration is both remembrance and a reassertion of demands for justice, return, and self-determination."
+      },
+      {
+        "title": "Benched Mbappe says he’s fourth-choice forward at Real Madrid under Arbeloa | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/benched-mbappe-says-hes-fourth-choice-forward-at-real-madrid-under-arbeloa",
+        "published": "2026-05-15T07:05:04Z",
+        "summary": "Real Madrid striker Kylian Mbappe said coach Alvaro Arbeloa told him he was the 'fourth forward' in the squad after being benched against Real Oviedo, where he was jeered by fans. Mbappe, returning from injury, claimed he was behind Vinicius Junior, Franco Mastantuono, and Gonzalo Garcia. Arbeloa denied telling Mbappe he had dropped in the pecking order, saying the decision was based on fitness and not wanting to take risks."
+      }
+    ]
+  },
+  {
     "time": "2026-05-15T03:33:51Z",
     "window_hours": 6,
     "article_count": 4,
