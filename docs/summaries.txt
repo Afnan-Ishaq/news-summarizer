@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-05-15T21:01:43Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The batch covers Russia's intensified aerial assault on Kyiv amid a slowing ground advance in eastern Ukraine, US President Trump's visit to China yielding trade deals but little progress on Iran or Taiwan, and a deadly Russian strike on a Kyiv apartment block prompting a Ukrainian vow of retaliation. Other stories include a Boeing jet purchase agreement, a Canadian separatist legal setback, WHO updates on hantavirus cases, a cricket world record, and the US arrest of a former Mexican security chief over cartel ties.
+
+ARTICLE BREAKDOWN
+[1] Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl
+Published: 2026-05-15T17:32:33Z
+URL: https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill
+Summary: Russia launched over 1,400 drones and 56 missiles into Ukraine on Wednesday and Thursday, heavily targeting Kyiv after threatening to do so if Ukraine attacked its Victory Day parade. The onslaught came as Russia's advance in eastern Ukraine slowed, with the Institute for the Study of War estimating daily territorial gains dropped to 2.63 sq km in May from 14.9 sq km in late 2024. Ukraine claimed to have shot down 92 percent of the drones and 41 of 57 missiles, while President Zelenskyy reported strikes on civilian infrastructure including a nine-storey apartment building that killed 12 people.
+
+[2] Trump departs China touting deals, but little clarity on Iran or Taiwan
+Published: 2026-05-15T17:46:06Z
+URL: https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan
+Summary: US President Donald Trump concluded a three-day visit to China, announcing broad trade deals but offering little clarity on Taiwan or the US-Israeli war in Iran. Trump said he discussed Taiwan with Chinese leader Xi Jinping but made no commitment on US arms sales to the island, which Beijing opposes. On Iran, Trump noted discussions about reopening the Strait of Hormuz but said he was not 'asking for any favours,' and the White House reported little concrete progress.
+
+[3] Zelenskyy vows response after Russian strike kills 24 in Kyiv
+Published: 2026-05-15T18:08:51Z
+URL: https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv
+Summary: Ukrainian President Volodymyr Zelenskyy vowed retaliation after a Russian strike on a nine-storey apartment block in Kyiv's Darnytskyi district killed at least 24 people, including three children, in what Ukraine's air force called the largest aerial assault since the war began. Zelenskyy said he discussed long-range strikes targeting Russia's oil and military infrastructure, and Ukraine launched a large-scale drone attack on Russian regions, killing at least four in Ryazan. The attack came after a three-day ceasefire brokered by US President Donald Trump, who said the strike could delay peace efforts.
+
+[4] Trump says China to buy 200 Boeing planes, much lower than expected
+Published: 2026-05-15T18:12:41Z
+URL: https://www.aljazeera.com/economy/2026/5/15/trump-says-china-to-buy-200-boeing-planes-much-lower-than-expected
+Summary: US President Donald Trump announced that China agreed to buy 200 Boeing jets, with a potential for up to 750 planes, though neither the Chinese government nor Boeing confirmed the deal. The order, valued at roughly $17bn to $19bn, would help Boeing narrow the gap with Airbus in China but was lower than some expectations. Trump's announcement came during his visit to Beijing, where Boeing CEO Kelly Ortberg was among US executives seeking to sell products.
+
+[5] Canada’s Carney travels to Alberta as separatists face legal setback
+Published: 2026-05-15T18:40:05Z
+URL: https://www.aljazeera.com/news/2026/5/15/canadas-carney-travels-to-alberta-as-separatists-face-legal-setback
+Summary: Canadian Prime Minister Mark Carney visited Alberta to unveil a crude oil pipeline agreement, as a separatist movement faced a legal setback when a provincial court ruled that signature collection for a secession referendum violated Indigenous consultation requirements. The Alberta Prosperity Project and Stay Free Alberta groups had sought to capitalize on discontent with Liberal policies, but the court decision halted their push. Premier Danielle Smith, who opposes secession but has supported easier referendum rules, said the government would appeal the ruling.
+
+[6] WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free
+Published: 2026-05-15T18:49:20Z
+URL: https://www.aljazeera.com/news/2026/5/15/who-confirms-10-global-hantavirus-cases-hondius-crew-remain-symptom-free
+Summary: The World Health Organization confirmed 10 global hantavirus cases, lowering its earlier figure of 11 after a US test was confirmed negative, with three deaths since the outbreak began on the MV Hondius cruise ship. WHO Director-General Tedros Adhanom Ghebreyesus reiterated the global risk is 'low,' and the ship's 26 crew members remain symptom-free but are monitored due to a six-week incubation period. The Andes virus strain can spread between humans through prolonged close contact, and no approved vaccines or treatments exist.
+
+[7] Pakistan’s Fatima Sana breaks world record for fastest 50 in women’s T20
+Published: 2026-05-15T19:44:08Z
+URL: https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is
+Summary: Pakistan captain Fatima Sana scored a 15-ball half-century, breaking the world record for the fastest 50 in women's T20 international cricket, previously held jointly by three players at 18 balls. Playing in Karachi, she top-scored with 62 runs off 19 balls, hitting 10 fours and two sixes, as Pakistan beat Zimbabwe by 133 runs to seal the series 3-0. Sana also took one wicket as Zimbabwe were bowled out for 90 runs.
+
+[8] Ex-Sinaloa security chief in Mexico arrested in US over alleged cartel ties
+Published: 2026-05-15T20:31:24Z
+URL: https://www.aljazeera.com/news/2026/5/15/ex-sinaloa-security-chief-in-mexico-arrested-in-us-over-alleged-cartel-ties
+Summary: Gerardo Merida Sanchez, former public security secretary of Mexico's Sinaloa state, was arrested in Arizona on May 11 and transferred to New York on charges of conspiring with the Sinaloa Cartel to import narcotics in exchange for bribes and political support. Prosecutors allege he accepted over $100,000 monthly in cash bribes from the Los Chapitos faction, leaked intelligence about raids, and ordered law enforcement to protect cartel operations. The indictment also charges former Sinaloa Governor Ruben Rocha, who denies the allegations and has taken a leave of absence.
+
+================================================================================
 RUN TIME UTC: 2026-05-15T16:51:59Z
 WINDOW: Last 6 hours
 ARTICLES USED: 22
