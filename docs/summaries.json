@@ -1,5 +1,145 @@
 [
   {
+    "time": "2026-05-15T16:51:59Z",
+    "window_hours": 6,
+    "article_count": 22,
+    "overall_summary": "A batch of 22 Al Jazeera articles covers a range of topics including a new Ebola outbreak in DR Congo, David Beckham becoming Britain's first billionaire sportsman, BRICS divisions over the Iran war, World Cup squad announcements for Belgium and Portugal, a deadly attack in Pakistan threatening a ceasefire, the Philippines vowing to hand a fugitive senator to the ICC, disagreements between the US and China after a summit, political turmoil for UK PM Keir Starmer, calls for the US to acknowledge the Nakba, shifting Jewish and Muslim demographics, football violence in Libya, the FA Cup final preview, Meta facing a new lawsuit, Israel-Lebanon talks amid ongoing attacks, and the UAE accelerating a pipeline project to bypass the Strait of Hormuz.",
+    "articles": [
+      {
+        "title": "Health officials raise alarm over new Ebola outbreak in DR Congo",
+        "url": "https://www.aljazeera.com/news/2026/5/15/health-officials-raise-alarm-over-new-ebola-outbreak-in-dr-congo",
+        "published": "2026-05-15T12:03:48Z",
+        "summary": "Health officials have raised alarm over a new Ebola outbreak in the Democratic Republic of the Congo's Ituri province, with 246 suspected cases and 65 deaths reported. The Africa CDC expressed concern about rapid spread due to population movement and a precarious security situation in the region bordering Uganda and South Sudan. Preliminary tests detected the virus in 13 of 20 samples, and an urgent high-level meeting is being convened to reinforce cross-border surveillance and response efforts."
+      },
+      {
+        "title": "David Beckham becomes first British billionaire sportsman",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/david-beckham-becomes-first-british-billionaire-sportsman",
+        "published": "2026-05-15T12:11:30Z",
+        "summary": "Former Manchester United and England star David Beckham has become Britain's first billionaire sportsman, according to the 2026 Sunday Times Rich List, with his and wife Victoria's collective wealth estimated at 1.185 billion pounds. Beckham, a co-owner of Inter Miami, also has lucrative brand ambassador roles. The list also noted the wealth of other sports figures like Lewis Hamilton, Rory McIlroy, and Anthony Joshua."
+      },
+      {
+        "title": "Why the Iran conflict is becoming a problem for BRICS",
+        "url": "https://www.aljazeera.com/news/2026/5/15/why-the-iran-conflict-is-becoming-a-problem-for-brics",
+        "published": "2026-05-15T12:21:12Z",
+        "summary": "A two-day BRICS foreign ministers meeting in New Delhi ended without a common position on the US-Israeli war on Iran, marking the second consecutive BRICS gathering to fail on this issue. The outcome document only acknowledged 'differing views' among members. Iranian Foreign Minister Abbas Araghchi urged members to condemn US and Israeli actions, but disagreements, particularly with the UAE, prevented a joint statement."
+      },
+      {
+        "title": "Lukaku included in Belgium's World Cup squad despite injury-plagued season",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/lukaku-included-in-belgiums-world-cup-squad-despite-injury-plagued-season",
+        "published": "2026-05-15T12:45:18Z",
+        "summary": "Belgium has included striker Romelu Lukaku in their World Cup squad despite him playing only an hour of competitive football this season due to injury. Coach Rudi Garcia gambled on the fitness of the country's leading scorer for the tournament in Group G. The squad also includes the timely return of goalkeeper Thibaut Courtois and promising attacker Matias Fernandez-Pardo."
+      },
+      {
+        "title": "Deadly attack on Pakistan outpost puts Afghanistan ceasefire at risk",
+        "url": "https://www.aljazeera.com/news/2026/5/15/deadly-attack-on-pakistan-outpost-puts-afghanistan-ceasefire-at-risk",
+        "published": "2026-05-15T12:55:06Z",
+        "summary": "An attack on a security compound in northwest Pakistan's Bajaur district killed several paramilitary officers, with the Afghan-based Pakistan Taliban (TTP) claiming responsibility. The attack, involving a vehicle-borne explosive and gun battle, is the latest in a string of deadly incidents threatening the fragile ceasefire between Islamabad and Kabul. Islamabad accuses Afghanistan of harboring armed groups, a charge Kabul denies."
+      },
+      {
+        "title": "Ronaldo judged on form not age for Portugal at World Cup, says Martinez",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/ronaldo-judged-on-form-not-age-for-portugal-at-world-cup-says-martinez",
+        "published": "2026-05-15T13:04:27Z",
+        "summary": "Portugal coach Roberto Martinez said 41-year-old Cristiano Ronaldo is judged on current form, not age, for the upcoming World Cup. Martinez emphasized that Ronaldo's place in the squad rests on merit and that modern football has moved past treating the starting lineup as the only measure of status. Ronaldo, the record international scorer with 143 goals, could play in a sixth World Cup."
+      },
+      {
+        "title": "Philippines vows to hand fugitive senator to ICC following shootout",
+        "url": "https://www.aljazeera.com/news/2026/5/15/philippines-vows-to-hand-fugitive-senator-to-icc-following-shootout",
+        "published": "2026-05-15T13:09:36Z",
+        "summary": "The Philippines has pledged to cooperate with an ICC arrest warrant for Senator Ronald 'Bato' dela Rosa, who faces charges of crimes against humanity for his alleged role as top enforcer in former President Duterte's deadly drug war. Dela Rosa evaded arrest earlier this week, leading to a shootout at the Senate building. Justice Secretary Fredderick Vida said authorities will submit to the ICC request, though the senator's whereabouts are currently unknown."
+      },
+      {
+        "title": "Trump-Xi summit: China, US disagree on what they agreed on",
+        "url": "https://www.aljazeera.com/news/2026/5/15/trump-xi-summit-china-us-disagree-on-what-they-agreed-on",
+        "published": "2026-05-15T13:39:45Z",
+        "summary": "Following a two-day summit between US President Donald Trump and Chinese President Xi Jinping, the two countries released statements that only overlap in limited areas. While the US touted trade deals, including China agreeing to buy 200 Boeing jets, China did not mention any specific trade agreements in its statement and warned the US against overstepping on Taiwan. Neither side confirmed the other's claims, and no breakthrough deal on AI chips was indicated."
+      },
+      {
+        "title": "Pressure mounts on embattled UK PM Keir Starmer as rivals circle",
+        "url": "https://www.aljazeera.com/news/2026/5/15/pressure-mounts-on-embattled-uk-pm-keir-starmer-as-rivals-circle",
+        "published": "2026-05-15T13:59:37Z",
+        "summary": "British Prime Minister Keir Starmer's administration is in turmoil after a poor local election result for Labour, with over 80 MPs urging him to quit and four junior ministers resigning. Key rival Wes Streeting publicly backed Greater Manchester Mayor Andy Burnham as a potential challenger. Burnham's path to a leadership bid requires winning a by-election and gathering support from 81 Labour MPs."
+      },
+      {
+        "title": "Historical reckoning: The push for the US to acknowledge the Nakba",
+        "url": "https://www.aljazeera.com/news/2026/5/15/historical-reckoning-the-push-for-the-us-to-acknowledge-the-nakba",
+        "published": "2026-05-15T14:31:48Z",
+        "summary": "On the 78th anniversary of the Nakba, Palestinian survivors and rights advocates question whether the US can create just policy in the Middle East without recognizing the mass expulsion of Palestinians in 1948. Experts say 'political amnesia' has long defined the US approach, which continues to support Israel despite the occupation and genocide in Gaza. US Representative Rashida Tlaib introduced a resolution to officially recognize the ongoing Nakba and Palestinian refugees' rights."
+      },
+      {
+        "title": "Nakba: Jewish voices are challenging the stories Israel tells about itself",
+        "url": "https://www.aljazeera.com/features/2026/5/15/nakba-jewish-voices-are-challenging-the-stories-israel-tells-about-itself",
+        "published": "2026-05-15T14:32:24Z",
+        "summary": "A growing number of Jewish and Israeli intellectuals, artists, and historians are challenging the Israeli narrative, particularly regarding the Nakba and the war in Gaza. A documentary, 'Planet Israel: A Cautionary Tale,' explores how trauma and nationalism have shaped Israeli society. Polling shows British Jewish opinion is divided, with many weakening their attachment to Israel and questioning Zionism."
+      },
+      {
+        "title": "Araghchi: Iran doubts US 'seriousness' about talks amid nuclear deadlock",
+        "url": "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock",
+        "published": "2026-05-15T14:33:47Z",
+        "summary": "Iran's Foreign Minister Abbas Araghchi said Tehran received messages from the Trump administration about new talks but remains distrustful of US intentions. He stated there is a 'deadlock' on Iran's nuclear program, which will be postponed to later stages of any talks. Araghchi also said Iran may consider Russia's offer to store its enriched uranium and is open to support from China to help resolve the war."
+      },
+      {
+        "title": "Gov't building set ablaze and several injured in Libya football violence",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/govt-building-set-ablaze-and-several-injured-in-libya-football-violence",
+        "published": "2026-05-15T14:45:06Z",
+        "summary": "Clashes erupted after a football match in Tarhuna, Libya, between Tripoli's Al-Ittihad and Misrata's Asswehly, which was suspended over a disputed penalty. The violence led to fights between supporters and security forces, and a government building in Tripoli was set on fire. The Libyan Presidential Council called for an investigation into the 'unfortunate events.'"
+      },
+      {
+        "title": "'Half of British Muslims are under 25': Report shows shifting demographics",
+        "url": "https://www.aljazeera.com/economy/2026/5/15/young-and-educated-report-reveals-shifting-demographics-among-uk-muslims",
+        "published": "2026-05-15T14:46:20Z",
+        "summary": "A new report by the Muslim Council of Britain found that Muslims make up 6.5% of the population of England and Wales, with a median age of 27, 13 years younger than the national average. Nearly half are under 25, making them one of the fastest-growing groups. Researchers say this young, educated generation could become politically significant, especially if the voting age is lowered to 16."
+      },
+      {
+        "title": "FA Cup final: Man City's season a success 'regardless of trophies'",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-man-citys-season-a-success-regardless-of-trophies",
+        "published": "2026-05-15T14:53:26Z",
+        "summary": "Manchester City manager Pep Guardiola insists the season has been successful regardless of whether they win the Premier League or FA Cup. City face Chelsea in the FA Cup final on Saturday, having already won the League Cup. Guardiola is likely to field a full-strength team for the final, despite the team being on the verge of falling short in the Premier League and Champions League."
+      },
+      {
+        "title": "How the far right got its name",
+        "url": "https://www.aljazeera.com/features/longform/2026/5/15/how-the-far-right-got-its-name",
+        "published": "2026-05-15T15:30:58Z",
+        "summary": "The article explores the history and meaning of the term 'far right,' tracing its roots to French political language and the rise of Jean-Marie Le Pen's National Front in the 1980s. It discusses how figures like Tommy Robinson reject the label, framing themselves as patriots, while academics argue the term's ambiguity is exploited. The piece emphasizes that understanding the label is important to avoid sanitizing extremist politics."
+      },
+      {
+        "title": "India and UAE sign defence pacts, as Iran war tensions simmer",
+        "url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer",
+        "published": "2026-05-15T15:44:47Z",
+        "summary": "India and the UAE signed pacts on defence, energy, and shipping during Prime Minister Modi's visit to the Gulf state, deepening ties amid heightened tensions between Abu Dhabi and Tehran. The strategic defence partnership covers maritime security, cyber defence, and information exchange. The UAE also agreed to invest up to $5 billion in India, as both countries feel the impact of the Iran war and the blockade of the Strait of Hormuz."
+      },
+      {
+        "title": "California county scam ad lawsuit adds to mounting Meta legal woes",
+        "url": "https://www.aljazeera.com/news/2026/5/15/california-county-scam-ad-lawsuit-adds-to-mounting-meta-legal-woes",
+        "published": "2026-05-15T16:12:16Z",
+        "summary": "Santa Clara County in California has filed a lawsuit against Meta, alleging the company knowingly profits from scam advertising, which it says generated $7 billion in annual revenue. The lawsuit claims Meta's systems target vulnerable consumers with fraudulent financial products and other scams. Meta has denied the allegations, stating it aggressively fights scams and removed 159 million scam advertisements last year."
+      },
+      {
+        "title": "Israel kills seven in Lebanon as direct talks continue in US for second day",
+        "url": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack",
+        "published": "2026-05-15T16:34:31Z",
+        "summary": "A second day of direct talks between Israeli and Lebanese officials is taking place in Washington, DC, despite ongoing Israeli attacks that killed seven people in southern Lebanon. Lebanon demands an end to Israeli attacks and occupation, while Israel focuses on disarming Hezbollah. The talks are significant as the third round this year, but Lebanon has refused a meeting between President Aoun and Prime Minister Netanyahu."
+      },
+      {
+        "title": "FA Cup final: Chelsea vs Manchester City – teams, start, lineups",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-chelsea-vs-manchester-city-teams-start-lineups",
+        "published": "2026-05-15T16:35:05Z",
+        "summary": "Manchester City will face Chelsea in the FA Cup final on Saturday, with City aiming for a domestic treble after already winning the League Cup. This is the first meeting between the clubs in the FA Cup final, and City will be the first side to appear in four consecutive finals. The article provides details on the match, including how each team reached the final and their recent form."
+      },
+      {
+        "title": "BRICS talks end without joint statement as divisions over Iran war deepen",
+        "url": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen",
+        "published": "2026-05-15T16:39:44Z",
+        "summary": "The BRICS alliance failed to issue a joint statement after a two-day meeting in India due to internal divisions over the Iran war. Iranian Foreign Minister Abbas Araghchi urged members to condemn US and Israeli actions, but the UAE, a fellow BRICS member, blocked parts of the statement. The meeting did produce consensus on other issues, including calls for UN reforms and reaffirming Gaza as part of a future Palestinian state."
+      },
+      {
+        "title": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
+        "url": "https://www.aljazeera.com/news/2026/5/15/uae-to-accelerate-oil-pipeline-project-to-bypass-hormuz",
+        "published": "2026-05-15T16:48:22Z",
+        "summary": "The UAE is fast-tracking the West-East Pipeline project to double export capacity through Fujairah, bypassing the Strait of Hormuz amid the US-Israel war on Iran. The pipeline, expected to be operational by 2027, aims to meet global demands as Gulf nations seek alternative trade routes. The UAE currently has the Abu Dhabi Crude Oil Pipeline with a capacity of 1.5 million barrels per day."
+      }
+    ]
+  },
+  {
     "time": "2026-05-15T11:56:57Z",
     "window_hours": 6,
     "article_count": 7,
