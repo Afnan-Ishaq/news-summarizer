@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-05-16T07:13:36Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "A batch of five Al Jazeera articles covers the San Antonio Spurs reaching the NBA Western Conference Finals, the killing of an ISIL second-in-command by US and Nigerian forces, US charges against an alleged Kataib Hezbollah commander, controversy over Israel's participation in Eurovision, and Aston Villa securing a Champions League place by defeating Liverpool.",
+    "articles": [
+      {
+        "title": "Wembanyama’s Spurs reach Western finals, Pistons stay alive in NBA playoffs | Basketball News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/wembanyamas-spurs-reach-western-finals-pistons-stay-alive-in-nba-playoffs",
+        "published": "2026-05-16T06:16:10Z",
+        "summary": "The San Antonio Spurs defeated the Minnesota Timberwolves 139-109 to advance to the NBA Western Conference Finals for the first time since 2017, setting up a series against the Oklahoma City Thunder. Victor Wembanyama scored 19 points, and Stephon Castle led with 32 points and 11 rebounds. Meanwhile, the Detroit Pistons stayed alive in the Eastern Conference by beating the Cleveland Cavaliers 115-94 to tie their series at 3-3."
+      },
+      {
+        "title": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed",
+        "published": "2026-05-16T06:16:44Z",
+        "summary": "President Donald Trump announced that Abu-Bilal al-Minuki, the alleged second-in-command of ISIL globally, was killed in a joint operation by US and Nigerian forces. Al-Minuki had been under US sanctions since 2023 as a Sahel-based senior leader. Trump thanked Nigeria for its partnership, though no further details were provided."
+      },
+      {
+        "title": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know",
+        "published": "2026-05-16T06:24:45Z",
+        "summary": "The US Department of Justice arrested and charged Iraqi national Mohammad Baqer Saad Dawood al-Saadi, a senior commander of the Iran-backed Kataib Hezbollah, with involvement in at least 18 attacks across the US, Canada, and Europe. Prosecutors allege the attacks aimed to compel the US and Israel to halt military actions against Iran. Al-Saadi was arrested overseas and brought to the US, with FBI Director Kash Patel calling it a success in bringing terrorists to justice."
+      },
+      {
+        "title": "Where did Eurovision go wrong? | Music News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/longform/2026/5/16/where-did-eurovision-go-wrong",
+        "published": "2026-05-16T06:45:24Z",
+        "summary": "The article examines growing controversy over Israel's participation in the Eurovision Song Contest amid its attacks on Gaza and Lebanon, with critics accusing the European Broadcasting Union of double standards for banning Russia but allowing Israel. It notes that Israel spent heavily on advertising and digital campaigns to influence voting, and despite no evidence of systemic fraud, the EBU reduced the maximum votes per person to 10. The piece describes Eurovision as a platform for geopolitical messaging and cultural whitewashing."
+      },
+      {
+        "title": "Aston Villa trounce Liverpool 4-2 to seal Champions League place | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place",
+        "published": "2026-05-16T06:48:11Z",
+        "summary": "Aston Villa defeated Liverpool 4-2 in a Premier League match, securing fourth place and Champions League qualification for next season. Ollie Watkins scored twice, and John McGinn added a late goal, while Virgil van Dijk scored two for Liverpool. The win leaves Liverpool vulnerable to being caught by Bournemouth and Brighton in the race for a Champions League spot."
+      }
+    ]
+  },
+  {
     "time": "2026-05-16T02:56:32Z",
     "window_hours": 6,
     "article_count": 3,
