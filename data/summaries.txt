@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-05-16T11:02:41Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+Three articles from Al Jazeera cover a fatal shark attack in Australia, a mass kidnapping of students in Nigeria, and developments in the Iran war including potential talks and a Lebanon truce extension.
+
+ARTICLE BREAKDOWN
+[1] Man killed in great white shark attack in western Australia | Wildlife News | Al Jazeera
+Published: 2026-05-16T07:13:16Z
+URL: https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia
+Summary: A 38-year-old man was killed by a great white shark off Rottnest Island near Perth, Australia, on Saturday. The attack occurred at Horseshoe Reef, a popular diving and fishing spot, and the victim died at the scene despite CPR efforts. The shark measured four meters and was confirmed as a long great white, marking the first fatal attack in Western Australia since March 2025.
+
+[2] Gunmen kidnap dozens of students in Nigeria’s Borno State | News | Al Jazeera
+Published: 2026-05-16T07:58:49Z
+URL: https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state
+Summary: Gunmen on motorcycles kidnapped dozens of students from Mussa Primary and Junior Secondary School in Borno State, Nigeria, on Friday. No group claimed responsibility, but the attack bore the hallmark of Boko Haram, which has used abductions as a key tactic in its 17-year rebellion. In a separate incident, gunmen also abducted students at a school in Oyo State, prompting school closures and a police manhunt.
+
+[3] Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended | Border Disputes News | Al Jazeera
+Published: 2026-05-16T08:02:43Z
+URL: https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended
+Summary: On day 78 of the Iran war, Iran's Foreign Minister said the US signaled openness to talks, but a deadlock remains over Iran's nuclear material. Lebanon and Israel extended a ceasefire by 45 days, despite ongoing Israeli attacks that killed 12 people on Friday. Tehran reported over 1,260 deaths and 51,000 damaged homes from US-Israeli attacks on the capital, while China signaled a likely veto on a US-backed Security Council resolution on the Strait of Hormuz.
+
+================================================================================
 RUN TIME UTC: 2026-05-16T07:13:36Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
