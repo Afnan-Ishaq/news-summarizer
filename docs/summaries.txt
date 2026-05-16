@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-05-16T15:58:41Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The batch covers a range of topics including ongoing Israeli strikes on Lebanon despite a ceasefire extension, Kansas City's selection as a 2026 World Cup host, a deadly train-bus collision in Bangkok, Robert Lewandowski's departure from Barcelona, a call for agroecology in Africa amid a fertiliser crisis, a political crisis in Israel over ultra-Orthodox conscription, diaspora investment trends in Zimbabwe, dual protests in London, Israeli military actions in the West Bank, Republican dissent represented by Thomas Massie, and Iran's warnings about war and economic costs as US talks falter.
+
+ARTICLE BREAKDOWN
+[1] Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-05-16T10:34:53Z
+URL: https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension
+Summary: Despite a 45-day ceasefire extension agreed between Lebanon and Israel, Israeli air strikes and artillery bombardments continue in southern Lebanon, targeting multiple villages. Lebanon's state-run news agency reported strikes on at least five villages, and the Israeli army issued new forced displacement orders for nine villages. Al Jazeera's correspondent noted that the ceasefire is in name only, as Israel continues attacks and evacuation orders, leaving residents concerned about further escalation.
+
+[2] How Kansas City became unlikely 2026 World Cup hosts for the US | World Cup 2026 News | Al Jazeera
+Published: 2026-05-16T10:41:17Z
+URL: https://www.aljazeera.com/sports/2026/5/16/how-kansas-city-became-unlikely-2026-world-cup-hosts-for-the-us
+Summary: Kansas City overcame major odds to become one of 11 US venues for the 2026 World Cup, despite being the 37th most populous US city. The city invested over $650 million in stadiums and training facilities and impressed FIFA officials with a staged welcome, including volunteers and pop-up games. Arrowhead Stadium will host six matches, including a potential Argentina-Portugal quarterfinal.
+
+[3] At least eight killed, 35 injured as train hits bus in Bangkok | News | Al Jazeera
+Published: 2026-05-16T10:43:06Z
+URL: https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok
+Summary: A freight train crashed into a public bus near an airport rail link station in central Bangkok, killing at least eight people and injuring 35 others. The bus appeared to get stuck on the rail line after safety barriers descended, and the collision caused a fire that engulfed the bus and nearby vehicles. Prime Minister Anutin Charnvirakul ordered an investigation, and the incident raises concerns about Thailand's antiquated rail system.
+
+[4] Robert Lewandowski to leave Barcelona with his ‘mission complete’ | Football News | Al Jazeera
+Published: 2026-05-16T12:02:02Z
+URL: https://www.aljazeera.com/sports/2026/5/16/robert-lewandowski-to-leave-barcelona-with-his-mission-complete
+Summary: Barcelona striker Robert Lewandowski announced he is leaving the club this summer at the end of his contract, having scored 119 goals in 191 games since joining in 2022. He helped Barcelona win three La Liga titles and the Copa del Rey in 2025, stating his mission is complete. Lewandowski will play his last match at Camp Nou on Sunday against Real Betis, and media reports suggest he has offers from Saudi Arabia, Italy, and the United States.
+
+[5] Amid the fertiliser crisis, Africa has a chemical-free option: Agroecology | Agriculture | Al Jazeera
+Published: 2026-05-16T12:05:26Z
+URL: https://www.aljazeera.com/opinions/2026/5/16/amid-the-fertiliser-crisis-africa-has-a-chemical-free-option
+Summary: The article argues that the US-Israel war on Iran is driving up fertiliser costs, threatening a global food crisis, with Africa particularly vulnerable due to high dependence on imports. It criticises past subsidised fertiliser schemes that left governments in debt and failed to reduce hunger, citing Malawi as an example. The author advocates for investment in agroecology as a sustainable, chemical-free alternative to increase yields and food security in Africa.
+
+[6] Ultra-Orthodox conscription dispute pushes Israeli government to brink | Politics News | Al Jazeera
+Published: 2026-05-16T12:06:33Z
+URL: https://www.aljazeera.com/news/2026/5/16/how-ultra-orthodox_recruitment_could_unseat_netanyahu_in_israeli_elections
+Summary: Israel's ruling coalition has submitted a call for an early election after ultra-Orthodox parties withdrew support over the conscription issue. Ultra-Orthodox parties Shas and United Torah Judaism have made exemption from military draft a key demand, and one UTJ faction has called for the government's collapse. If the vote passes, a general election is projected for August, two months before the government's term ends.
+
+[7] Zimbabwe’s diaspora reshapes real estate and farming investment trends | Features | Al Jazeera
+Published: 2026-05-16T13:09:50Z
+URL: https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends
+Summary: Zimbabwe's real estate and farming sectors are seeing increased investment from the diaspora, influenced by social media content creators Kundai Chitima and Kelvin Birioti. Their videos on property tours and agricultural tips are shaping decisions for Zimbabweans abroad considering return or investment. One UK-based Zimbabwean, Catherine Mutisi, said the content shifted her plans from visiting to permanently relocating.
+
+[8] Tens of thousands march in London in far-right and pro-Palestine protests | Protests News | Al Jazeera
+Published: 2026-05-16T13:59:39Z
+URL: https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests
+Summary: Tens of thousands marched in central London in two separate protests: a pro-Palestine demonstration on Nakba Day and a far-right rally led by Tommy Robinson. Police deployed 4,000 officers and used armoured vehicles, drones, and helicopters, making 11 arrests by midday. Authorities imposed conditions on routes and timings to keep groups apart, and the government blocked 11 foreign nationals from entering for the far-right rally.
+
+[9] Israeli army kills Palestinian man, raids homes in occupied West Bank | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-16T15:16:14Z
+URL: https://www.aljazeera.com/news/2026/5/16/israeli-army-kills-palestinian-man-raids-homes-in-occupied-west-bank
+Summary: Israeli forces killed a 34-year-old Palestinian man, Nour al-Din Kamal Hassan Fayyad, in the Jenin refugee camp in the occupied West Bank. The Israeli military claimed troops fired after he tried to infiltrate a prohibited area. Separately, Israeli soldiers arrested Palestinians, settlers set fire to an agricultural room, and a UN official condemned an arson attack on a mosque in the village of Jibiya.
+
+[10] How Thomas Massie came to represent Republican dissent in age of Trump | US Midterm Elections 2026 News | Al Jazeera
+Published: 2026-05-16T15:21:57Z
+URL: https://www.aljazeera.com/news/2026/5/16/how-thomas-massie-came-to-represent-republican-dissent-in-age-of-trump
+Summary: Congressman Thomas Massie, a Kentucky libertarian, is one of the last Republican dissidents against Donald Trump, having voted against a key tax bill and opposed the war on Iran. He faces a Trump-endorsed opponent, Ed Gallrein, in next week's congressional primary, which is seen as a test of the influence of podcasters and social media against traditional campaign spending. Massie's race could gauge faultlines within the Republican base over military interventions and support for Israel.
+
+[11] Iran warns of readiness for war and economic costs as US talks falter | Conflict News | Al Jazeera
+Published: 2026-05-16T15:33:13Z
+URL: https://www.aljazeera.com/economy/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter
+Summary: Iranian Foreign Minister Abbas Araghchi warned that Iran is ready to resume direct military conflict with the US if negotiations fail, and highlighted the economic impact on American households due to the closure of the Strait of Hormuz. He noted rising US energy costs and Treasury bond yields, predicting potential recession. A key sticking point in talks is the future of the strait, with Iran insisting on sovereignty, while other Gulf states reject this.
+
+================================================================================
 RUN TIME UTC: 2026-05-16T11:02:41Z
 WINDOW: Last 6 hours
 ARTICLES USED: 3
