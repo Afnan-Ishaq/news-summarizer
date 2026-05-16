@@ -1,5 +1,31 @@
 [
   {
+    "time": "2026-05-16T02:56:32Z",
+    "window_hours": 6,
+    "article_count": 3,
+    "overall_summary": "Three Al Jazeera articles from May 15, 2026 cover a deadly Israeli strike in Gaza on Nakba Day, details on World Cup 2026 team base camps, and a legal appeal by Mahmoud Khalil against deportation citing new evidence of government misconduct.",
+    "articles": [
+      {
+        "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+        "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member",
+        "published": "2026-05-15T21:05:22Z",
+        "summary": "At least seven Palestinians, including three women and a child, were killed in Israeli air strikes on a residential building and a civilian vehicle in Gaza City on Nakba Day. Israel stated it targeted Izz al-Din al-Haddad, a Hamas armed wing leader, but did not confirm his death, and Hamas has not commented. The attack occurred on the 78th anniversary of the Nakba, with witnesses reporting multiple missiles and a massive fire at the overcrowded site."
+      },
+      {
+        "title": "What are World Cup 2026 national team base camps and their locations?",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay",
+        "published": "2026-05-15T21:07:16Z",
+        "summary": ""
+      },
+      {
+        "title": "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
+        "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence",
+        "published": "2026-05-15T21:13:24Z",
+        "summary": "Lawyers for Mahmoud Khalil, a former Columbia University student facing deportation for pro-Palestine advocacy, have asked an immigration appeals court to reopen his case based on new evidence. The evidence, including a New York Times report, suggests the Trump administration fast-tracked his case and engineered the outcome to make an example of him. Khalil, a US permanent resident, was released from detention in June 2025 and is appealing a final removal order, with authorities barred from deporting him during the appeal."
+      }
+    ]
+  },
+  {
     "time": "2026-05-15T21:01:43Z",
     "window_hours": 6,
     "article_count": 8,

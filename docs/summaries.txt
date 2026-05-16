@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-05-16T02:56:32Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+Three Al Jazeera articles from May 15, 2026 cover a deadly Israeli strike in Gaza on Nakba Day, details on World Cup 2026 team base camps, and a legal appeal by Mahmoud Khalil against deportation citing new evidence of government misconduct.
+
+ARTICLE BREAKDOWN
+[1] Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member
+Published: 2026-05-15T21:05:22Z
+URL: https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member
+Summary: At least seven Palestinians, including three women and a child, were killed in Israeli air strikes on a residential building and a civilian vehicle in Gaza City on Nakba Day. Israel stated it targeted Izz al-Din al-Haddad, a Hamas armed wing leader, but did not confirm his death, and Hamas has not commented. The attack occurred on the 78th anniversary of the Nakba, with witnesses reporting multiple missiles and a massive fire at the overcrowded site.
+
+[2] What are World Cup 2026 national team base camps and their locations?
+Published: 2026-05-15T21:07:16Z
+URL: https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay
+Summary: 
+
+[3] Mahmoud Khalil calls for deportation to be halted in light of new evidence
+Published: 2026-05-15T21:13:24Z
+URL: https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence
+Summary: Lawyers for Mahmoud Khalil, a former Columbia University student facing deportation for pro-Palestine advocacy, have asked an immigration appeals court to reopen his case based on new evidence. The evidence, including a New York Times report, suggests the Trump administration fast-tracked his case and engineered the outcome to make an example of him. Khalil, a US permanent resident, was released from detention in June 2025 and is appealing a final removal order, with authorities barred from deporting him during the appeal.
+
+================================================================================
 RUN TIME UTC: 2026-05-15T21:01:43Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
