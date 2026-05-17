@@ -1,5 +1,85 @@
 [
   {
+    "time": "2026-05-17T11:07:06Z",
+    "window_hours": 6,
+    "article_count": 12,
+    "overall_summary": "A batch of Al Jazeera articles from the last 6 hours covers diverse topics including modest fashion's global growth, Chelsea's appointment of Xabi Alonso as manager, a US Senate ruling blocking funding for a Trump ballroom, Iran's World Cup squad announcement excluding Sardar Azmoun, Bulgaria's Eurovision win amid Israel boycott, Conor McGregor's UFC return, Ukrainian drone attacks on Russia, the Premier League title race, a teenage Egyptian squash champion, Nepali Sherpa climbers breaking records, an opinion piece on Israel's strike capabilities, and Republican Senator Cassidy losing his primary.",
+    "articles": [
+      {
+        "title": "Modest fashion’s global turn | Fashion Industry | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/17/modest-fashions-global",
+        "published": "2026-05-17T08:02:03Z",
+        "summary": "Modest fashion is booming globally, with the Muslim market projected to reach $433bn by 2028. Paris Modest Fashion Week featured full-coverage designs, including a niqab-inspired balaclava, despite France's ban on visible Muslim identity symbols. Think Fashion CEO Ozlem Sahin said bringing the event to Paris positions modesty within the global fashion dialogue. Brands like DKNY and H&M have launched Ramadan collections, and conservative silhouettes have increasingly appeared on mainstream runways."
+      },
+      {
+        "title": "Chelsea appoint Xabi Alonso as new manager on four-year deal | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/chelsea-appoint-xabi-alonso-as-new-manager-premier-league-club-says",
+        "published": "2026-05-17T08:37:02Z",
+        "summary": "Chelsea has appointed Xabi Alonso as their new manager on a four-year deal starting July 1, replacing Liam Rosenior after a difficult season. Alonso, who previously managed Real Madrid and Bayer Leverkusen, said he shares the club's ambition to build a team capable of competing for trophies. Chelsea slipped to ninth in the Premier League and lost the FA Cup final to Manchester City. Alonso's appointment is the fifth permanent one under BlueCo ownership."
+      },
+      {
+        "title": "Federal funding for Trump ballroom in trouble after Senate ruling | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling",
+        "published": "2026-05-17T08:37:38Z",
+        "summary": "Senate Parliamentarian Elizabeth MacDonough ruled that proposed $1bn in federal funding for Secret Service security upgrades linked to President Trump's planned White House ballroom does not comply with Senate budget rules. Republicans sought to include the funding in a $72bn spending package focused on immigration enforcement, but Democrats criticized it as an unnecessary luxury. The ruling blocks the fast-track budget process, and Republicans may struggle to secure enough votes if the ruling stands."
+      },
+      {
+        "title": "Sardar Azmoun left out as Iran announce World Cup 2026 squad | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad",
+        "published": "2026-05-17T08:40:52Z",
+        "summary": "Iran's preliminary World Cup squad excludes veteran striker Sardar Azmoun, who was reportedly expelled from the national team after posting a picture of a meeting with Dubai's ruler. Azmoun, who has scored 57 goals in 91 appearances for Iran, was part of the squad in the last two World Cups. The 30-player squad will be trimmed to 26 by June 1, and Iran will begin their campaign against New Zealand on June 15. Head coach Amir Ghalenoei said the selection was based solely on technical criteria."
+      },
+      {
+        "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott | Music News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott",
+        "published": "2026-05-17T08:42:47Z",
+        "summary": "Bulgaria won the Eurovision Song Contest for the first time with singer Darina Yotova's song 'Bangaranga,' while Israel came second amid a boycott from Spain, the Netherlands, Ireland, Iceland, and Slovenia over its war on Gaza. Protests against Israel's participation occurred near the arena, and Spanish broadcaster RTVE boycotted the contest entirely. Eurovision organizers tightened voting rules this year after allegations of an Israeli lobbying campaign."
+      },
+      {
+        "title": "Conor McGregor to fight Max Holloway in UFC return on July 11 | Mixed Martial Arts News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11",
+        "published": "2026-05-17T09:09:09Z",
+        "summary": "Conor McGregor will return to the UFC for a welterweight bout against Max Holloway on July 11 at UFC 329 in Las Vegas, his first fight since July 2021. McGregor, 37, last fought Dustin Poirier and broke his leg in that match. Holloway, 34, is a former featherweight champion who has beaten several top fighters. The fight is a rematch of their 2013 featherweight bout, which McGregor won."
+      },
+      {
+        "title": "At least four killed in Ukrainian drone attacks on Russia | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia",
+        "published": "2026-05-17T09:14:31Z",
+        "summary": "At least four people were killed in Ukrainian drone attacks on Russian regions, including Moscow, in what officials described as the biggest drone assault in over a year. Three people died in the Moscow region and one in Belgorod, with 81 drones shot down over the capital. Russia's Ministry of Defence said it intercepted 556 drones across the country. The attacks came as US President Trump and Russian President Putin suggested the war could be nearing an end."
+      },
+      {
+        "title": "How Arsenal or Man City can clinch Premier League title with two games left | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/how-arsenal-or-man-city-can-clinch-premier-league-title-with-two-games-left",
+        "published": "2026-05-17T09:29:28Z",
+        "summary": "Arsenal lead Manchester City by two points in the Premier League title race with two games remaining. If Arsenal win both their final matches, they will win the title for the first time in 22 years, but City have a better goal difference and head-to-head record. Arsenal face relegated Burnley and Crystal Palace, while City travel to Bournemouth and host Aston Villa. City must win both games and hope Arsenal slip up to clinch the title."
+      },
+      {
+        "title": "Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title | Sport News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title",
+        "published": "2026-05-17T09:44:37Z",
+        "summary": "Egyptian teenager Amina Orfi, 18, defeated compatriot Nour El-Sherbini in a five-set thriller to win the PSA World Championship title, becoming the youngest women's world champion. Orfi won 6-11, 11-6, 11-9, 7-11, 14-12 in Giza, and is the first player to hold both world junior and senior PSA titles simultaneously. The final was the second-longest women's PSA World Championships final. Reigning champion Mostafa Asal also won the men's trophy."
+      },
+      {
+        "title": "Two Nepali Sherpa climbers break own records on Mount Everest | Mount Everest News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/17/two-nepali-sherpa-climbers-break-own-records-on-mount-everest",
+        "published": "2026-05-17T10:05:37Z",
+        "summary": "Kami Rita Sherpa, 56, broke his own record with a 32nd climb of Mount Everest, while Lhakpa Sherpa, 52, broke her own women's record with an 11th summit. Kami Rita first summited in 1994, and Lhakpa became the first Nepali woman to summit and descend in 2000. Nepal has issued a record 492 Everest permits this year, raising concerns about overcrowding. The climbs were hailed as milestones in Nepal's mountaineering history."
+      },
+      {
+        "title": "The strike that changed the geometry of war | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war",
+        "published": "2026-05-17T10:13:52Z",
+        "summary": "An opinion piece argues that Israel's strikes on Doha in September 2025 and Tehran in February 2026 demonstrated a new capability using air-launched ballistic missiles released from outside target airspace, removing the need for penetration. The Doha strike targeted a Hamas leadership meeting and was described as a strategic error that exposed the capability. The author details the operational sequence, including an F-15I releasing a Silver Sparrow missile from international waters, which follows a suborbital trajectory to evade air defenses."
+      },
+      {
+        "title": "Republican Senator Cassidy loses Louisiana primary after opposing Trump | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump",
+        "published": "2026-05-17T10:29:16Z",
+        "summary": "US Senator Bill Cassidy lost his Louisiana Republican primary after failing to secure enough support, finishing behind Representative Julia Letlow and State Treasurer John Fleming, who will face a run-off. Cassidy was one of seven Republican senators who voted to convict Trump after the January 6 Capitol attack, and Trump attacked him on social media. Letlow embraced Trump's backing, and Trump celebrated Cassidy's loss. The result underscores Trump's continued influence over the Republican Party."
+      }
+    ]
+  },
+  {
     "time": "2026-05-17T07:32:59Z",
     "window_hours": 6,
     "article_count": 6,
