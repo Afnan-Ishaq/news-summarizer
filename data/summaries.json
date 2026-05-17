@@ -1,5 +1,25 @@
 [
   {
+    "time": "2026-05-17T03:30:56Z",
+    "window_hours": 6,
+    "article_count": 2,
+    "overall_summary": "Two articles from Al Jazeera cover recent events in Latin America: a campaign staffer killing in Colombia ahead of presidential elections, and a government crackdown on roadblocks in Bolivia amid an economic crisis.",
+    "articles": [
+      {
+        "title": "Two presidential campaign staffers killed in Colombia as elections near | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near",
+        "published": "2026-05-16T21:42:04Z",
+        "summary": "Two staffers for right-wing presidential candidate Abelardo de la Espriella were shot and killed by gunmen on motorbikes in Meta department, Colombia, two weeks before the May 31 election. The victims were identified as former mayor Rogers Mauricio Devia Escoba and adviser Eder Fabian Cardona Lopez. Colombia's citizens' rights ombudsman warned the violence could undermine political rights and democratic participation. The killings occur amid a presidential race focused on crime and violence, with left-wing frontrunner Ivan Cepeda and de la Espriella leading polls."
+      },
+      {
+        "title": "Bolivia launches early-morning crackdown on roadblocks outside La Paz | Protests News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz",
+        "published": "2026-05-16T23:24:54Z",
+        "summary": "Bolivia's government deployed about 3,500 soldiers and police to clear roadblocks outside La Paz set up by protesters demanding President Rodrigo Paz's resignation. The crackdown, which began early Saturday, resulted in around 57 arrests. The protests, led by miners, teachers, Indigenous groups, and unions, are fueled by a severe economic crisis marked by depleted foreign currency reserves, fuel shortages, and the end of a fuel subsidy. The government says the operation aims to create a humanitarian corridor for supplies to reach hospitals."
+      }
+    ]
+  },
+  {
     "time": "2026-05-16T20:49:42Z",
     "window_hours": 6,
     "article_count": 11,

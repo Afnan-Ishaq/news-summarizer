@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-05-17T03:30:56Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+Two articles from Al Jazeera cover recent events in Latin America: a campaign staffer killing in Colombia ahead of presidential elections, and a government crackdown on roadblocks in Bolivia amid an economic crisis.
+
+ARTICLE BREAKDOWN
+[1] Two presidential campaign staffers killed in Colombia as elections near | Crime News | Al Jazeera
+Published: 2026-05-16T21:42:04Z
+URL: https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near
+Summary: Two staffers for right-wing presidential candidate Abelardo de la Espriella were shot and killed by gunmen on motorbikes in Meta department, Colombia, two weeks before the May 31 election. The victims were identified as former mayor Rogers Mauricio Devia Escoba and adviser Eder Fabian Cardona Lopez. Colombia's citizens' rights ombudsman warned the violence could undermine political rights and democratic participation. The killings occur amid a presidential race focused on crime and violence, with left-wing frontrunner Ivan Cepeda and de la Espriella leading polls.
+
+[2] Bolivia launches early-morning crackdown on roadblocks outside La Paz | Protests News | Al Jazeera
+Published: 2026-05-16T23:24:54Z
+URL: https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz
+Summary: Bolivia's government deployed about 3,500 soldiers and police to clear roadblocks outside La Paz set up by protesters demanding President Rodrigo Paz's resignation. The crackdown, which began early Saturday, resulted in around 57 arrests. The protests, led by miners, teachers, Indigenous groups, and unions, are fueled by a severe economic crisis marked by depleted foreign currency reserves, fuel shortages, and the end of a fuel subsidy. The government says the operation aims to create a humanitarian corridor for supplies to reach hospitals.
+
+================================================================================
 RUN TIME UTC: 2026-05-16T20:49:42Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
