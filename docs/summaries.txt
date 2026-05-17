@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-05-17T20:53:13Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles from the last 6 hours covers a resurgence of Ebola in the DRC, Israeli attacks in Gaza and Lebanon, a car-ramming and stabbing attack in Italy, France's Epstein investigation, Peru's presidential runoff, a mass shooting in Mexico, and US President Trump's threats to Iran amid stalled talks.
+
+ARTICLE BREAKDOWN
+[1] DRC faces deadly Ebola resurgence amid worsening humanitarian crisis
+Published: 2026-05-17T16:09:55Z
+URL: https://www.aljazeera.com/features/2026/5/17/drc-faces-deadly-ebola-resurgence-amid-worsening-humanitarian-crisis
+Summary: The Democratic Republic of the Congo is facing a new Ebola outbreak in northeastern Ituri province, just five months after its previous epidemic ended. The Bundibugyo strain has caused over 300 suspected cases and 88 deaths, with the WHO declaring it a public health emergency of international concern. The epicenter in Rwampara has recorded an average of five deaths daily, and local officials fear community mistrust could hinder containment efforts.
+
+[2] Three community kitchen workers among eight killed by Israel in Gaza
+Published: 2026-05-17T16:31:20Z
+URL: https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza
+Summary: Israeli attacks across Gaza killed at least eight Palestinians on Sunday, including three community kitchen workers in Deir el-Balah. Al Jazeera's correspondent noted that Israel is targeting both people and community organizations. Hamas condemned the attack as a war crime, and Gaza's Health Ministry reported at least 871 Palestinians killed since the ceasefire began last October.
+
+[3] Italy’s leaders visit victims of Modena car-ramming, stabbing attacks
+Published: 2026-05-17T17:17:32Z
+URL: https://www.aljazeera.com/news/2026/5/17/italian-leaders-visit-victims-of-modena-car-ramming-stabbing-attacks
+Summary: Italian Prime Minister Giorgia Meloni and President Sergio Mattarella visited victims of a car-ramming and stabbing attack in Modena, carried out by 31-year-old Salim El Koudri. The attacker drove through the city center, hitting over a dozen people and stabbing a pedestrian, with eight hospitalized in serious condition. Interior Minister Matteo Piantedosi said the attack appears related to psychiatric distress, not terrorism.
+
+[4] France listening to 10 ‘new’ suspected victims of Epstein: Prosecutor
+Published: 2026-05-17T17:44:07Z
+URL: https://www.aljazeera.com/news/2026/5/17/france-listening-to-10-new-suspected-victims-of-epstein-prosecutor
+Summary: Paris Public Prosecutor Laure Beccuau said about 10 new suspected victims have come forward in France's probe into Jeffrey Epstein's network, following her February call for potential victims to speak. French magistrates are investigating possible offenses committed in France or involving French perpetrators who facilitated Epstein's crimes. The investigation includes examining Epstein's computers, telephone records, and address books.
+
+[5] Peruvian authorities confirm Fujimori and Sanchez advance to runoff
+Published: 2026-05-17T18:29:29Z
+URL: https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff
+Summary: Peru's National Jury of Elections confirmed that right-wing candidate Keiko Fujimori and left-wing Congress member Roberto Sanchez will face off in a June 7 presidential runoff. The first round was marred by logistical errors and fraud allegations, with far-right candidate Rafael Lopez Aliaga calling for the results to be annulled. The electoral body acknowledged difficulties and pledged to strengthen oversight for the second round.
+
+[6] Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo
+Published: 2026-05-17T19:22:28Z
+URL: https://www.aljazeera.com/news/2026/5/17/mexican-officials-announce-10-dead-in-early-morning-shooting-in-tehuitzingo
+Summary: The government of Puebla state confirmed 10 deaths in an early-morning shooting in Tehuitzingo, with victims including six men, three women, and a minor. Officials blamed armed individuals but provided no details on attackers or motives, and no arrests have been announced. The attack comes as Mexico prepares to co-host the FIFA World Cup in less than a month, with President Claudia Sheinbaum pledging to bolster security.
+
+[7] Israel kills at least five in Lebanon after ‘ceasefire’ extended
+Published: 2026-05-17T20:16:14Z
+URL: https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended
+Summary: Israeli air attacks on southern and eastern Lebanon killed at least five people and injured over a dozen, despite a ceasefire extension agreed with Hezbollah. The attacks hit several municipalities, and the Israeli military issued forced displacement orders to residents in five villages. Since the war resumed on March 2, at least 2,988 people have been killed in Israeli attacks, according to the Lebanese Health Ministry.
+
+[8] ‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks
+Published: 2026-05-17T20:16:35Z
+URL: https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks
+Summary: US President Donald Trump threatened Iran on Truth Social, warning that time is running short before fresh US military action, saying 'there won’t be anything left of them.' The conflict began on February 28 with joint US-Israeli attacks on Iran, and Trump has demanded Iran dismantle its nuclear programme and missile stocks. Iran has denounced the rhetoric and rejected the demands as excessive, with a government-sponsored news agency accusing the US of offering no tangible concessions.
+
+================================================================================
 RUN TIME UTC: 2026-05-17T15:59:20Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
