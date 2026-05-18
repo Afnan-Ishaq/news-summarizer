@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-05-18T08:45:05Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "A batch of Al Jazeera articles covers the upcoming Hajj pilgrimage, Jannik Sinner's historic tennis win, worsening bread shortages in Gaza, political turmoil in Britain, the ongoing US-Israeli war on Iran, a deadly drone strike in Mali, the interception of a Gaza-bound aid flotilla, and a court ruling in India declaring a mosque a temple.",
+    "articles": [
+      {
+        "title": "When are Hajj and Eid al-Adha 2026? A visual guide to the Muslim pilgrimage | Religion News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/18/when-are-hajj-and-eid-al-adha-2026-a-visual-guide-to-the-muslim-pilgrimage",
+        "published": "2026-05-18T05:12:17Z",
+        "summary": "Nearly 2 million Muslims will begin the Hajj pilgrimage to Mecca on May 25, 2026, following the sighting of the crescent moon. The article provides a visual guide to the key steps, rituals, and preparations for the pilgrimage, which is the fifth pillar of Islam. It notes that the Hajj takes place from May 25 to May 27 in 2026 and explains the spiritual significance and historical context of the journey."
+      },
+      {
+        "title": "Sinner wins Italian Open to complete career Golden Masters | Tennis | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/18/sinner-wins-italian-open-to-complete-career-golden-masters",
+        "published": "2026-05-18T06:27:40Z",
+        "summary": "Jannik Sinner defeated Casper Ruud 6-4, 6-4 in the Italian Open final, becoming the first Italian man to win the tournament in 50 years and only the second man after Novak Djokovic to complete the career Golden Masters by winning all nine Masters 1000 events. Sinner, who extended his winning streak to 29 matches, is now poised to enter the French Open as a favorite with Carlos Alcaraz sidelined due to injury. Djokovic congratulated Sinner on joining the exclusive club."
+      },
+      {
+        "title": "Growing bread queues in Gaza as Israel restricts fuel, flour imports | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/18/growing-bread-lines-gaza-israel-restricts-fuel-flour",
+        "published": "2026-05-18T06:49:01Z",
+        "summary": "A flour and fuel shortage in Gaza, caused by Israeli restrictions on imports, has led to long queues outside bakeries and reduced bread production. Palestinians, many displaced by the war, wait hours for subsidized bread, often returning empty-handed. The World Food Programme has been forced to reduce flour supplies, and the article notes that Israel's closure of crossings in February and limited reopening have exacerbated the crisis."
+      },
+      {
+        "title": "Britain faces weeks of leadership limbo in slow-motion coup against Starmer | Politics News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/18/britain-faces-weeks-of-leadership-limbo-in-slow-motion-coup-against-starmer",
+        "published": "2026-05-18T06:53:40Z",
+        "summary": "UK Prime Minister Keir Starmer is facing a slow-motion coup from Labour MPs, though he has not yet faced a formal leadership challenge. The article contrasts Labour's leadership challenge rules with the Conservatives', noting that Labour requires 20 percent of MPs to endorse a challenger, which can lead to prolonged limbo. It highlights historical examples of Conservative leaders being ousted and notes that no sitting Labour prime minister has ever faced a formal challenge."
+      },
+      {
+        "title": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression",
+        "published": "2026-05-18T07:24:18Z",
+        "summary": "On the 80th day of the US-Israeli war on Iran, President Trump warned Iran that the 'clock is ticking' to reach a deal, amid reports of potential strikes on Iranian energy infrastructure. Iran's military stated it is 'fully prepared' to confront any new aggression. The article also reports that Israel continued strikes in Lebanon despite a ceasefire extension, and that Saudi Arabia intercepted three drones after a drone strike hit a UAE nuclear plant."
+      },
+      {
+        "title": "Mali drone strikes kill at least 10 civilians at wedding | Conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/18/mali-drone-strikes-kill-at-least-10-civilians-at-wedding",
+        "published": "2026-05-18T07:51:58Z",
+        "summary": "Mali's army drone strikes killed at least 10 civilians preparing for a wedding in the central San region, escalating the conflict after recent attacks by al-Qaeda-linked JNIM and Tuareg separatists. A resident and a local official confirmed the deaths, with the strikes targeting a procession of motorbikes. The article notes that Mali has faced a deepening security crisis since a coordinated assault in April killed the defense minister."
+      },
+      {
+        "title": "Israeli forces intercept Gaza-bound aid flotilla | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/18/israeli-forces-intercept-gaza-bound-aid-flotilla",
+        "published": "2026-05-18T08:23:22Z",
+        "summary": "Israeli forces began intercepting vessels from the Gaza-bound Global Sumud Flotilla off the coast of Cyprus, boarding several boats as the convoy attempted to reach the besieged Gaza Strip. More than 50 vessels departed from Turkey last week in what organizers described as a challenge to Israel's blockade. Video footage showed activists filming the Israeli approach, and the Turkish branch reported one vessel had come under 'attack' and 'close harassment.'"
+      },
+      {
+        "title": "'Hindu order runs India': Court declares another medieval mosque a temple | Islamophobia News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/5/18/hindu-order-runs-india-court-declares-another-medieval-mosque-a-temple",
+        "published": "2026-05-18T08:34:35Z",
+        "summary": "The Madhya Pradesh High Court ruled that the historic Kamal Maula mosque in Dhar is a temple dedicated to a Hindu goddess, following a petition claiming a temple predated the mosque. The ruling has barred Muslims from the site, which was previously shared under a 2003 agreement. The article notes that this is part of a broader pattern of Hindutva activists making similar claims across India, emboldened by Prime Minister Modi's rise to power."
+      }
+    ]
+  },
+  {
     "time": "2026-05-18T03:43:18Z",
     "window_hours": 6,
     "article_count": 3,
