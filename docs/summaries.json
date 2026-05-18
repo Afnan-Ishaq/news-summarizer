@@ -1,5 +1,31 @@
 [
   {
+    "time": "2026-05-18T03:43:18Z",
+    "window_hours": 6,
+    "article_count": 3,
+    "overall_summary": "The batch covers three distinct stories: a controversial prayer rally hosted by the Trump administration to rededicate the US as 'one nation under God', an analysis of the resurgence of ISWAP and Boko Haram violence in the Lake Chad Basin, and a White House announcement that China will buy billions of dollars in US agricultural goods following a Trump-Xi summit.",
+    "articles": [
+      {
+        "title": "Trump holds prayer rally to ‘rededicate’ US as ‘one nation under God’",
+        "url": "https://www.aljazeera.com/gallery/2026/5/17/trump-holds-prayer-rally-to-rededicate-us-as-one-nation-under-god",
+        "published": "2026-05-17T22:54:49Z",
+        "summary": "The Trump administration hosted a nine-hour prayer event on the National Mall in Washington, DC, called 'Rededicate 250: A National Jubilee of Prayer, Praise and Thanksgiving' to mark the country's 250th anniversary. The event featured performers, pastors, and Republican allies, with video messages from Trump and Secretary of State Marco Rubio emphasizing a Christian foundation for the US. Critics denounced the event as a political stunt that blurs the separation of church and state, noting that only one non-Christian speaker was included and that it violated the First Amendment's Establishment Clause."
+      },
+      {
+        "title": "How ISWAP and Boko Haram are reshaping the Lake Chad Basin",
+        "url": "https://www.aljazeera.com/news/2026/5/18/how-iswap-and-boko-haram-are-reshaping-the-lake-chad-basin",
+        "published": "2026-05-18T01:44:18Z",
+        "summary": ""
+      },
+      {
+        "title": "US says China to buy billions in agricultural goods after Trump-Xi talks",
+        "url": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks",
+        "published": "2026-05-18T02:43:12Z",
+        "summary": "The White House announced that China will buy at least $17 billion worth of US agricultural goods annually through 2028, following a summit between President Trump and Chinese leader Xi Jinping in Beijing. The deal is in addition to a previous commitment for 87 million metric tonnes of US soya beans, and includes restored market access for US beef and poultry. China has not yet confirmed the announcement, and the summit produced few concrete agreements on sensitive issues like Taiwan and Iran."
+      }
+    ]
+  },
+  {
     "time": "2026-05-17T20:53:13Z",
     "window_hours": 6,
     "article_count": 8,
