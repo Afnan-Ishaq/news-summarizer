@@ -1,5 +1,121 @@
 [
   {
+    "time": "2026-05-18T21:13:04Z",
+    "window_hours": 6,
+    "article_count": 18,
+    "overall_summary": "A batch of 18 Al Jazeera articles covers a wide range of topics including US politics, legal cases, international conflicts, and human rights. Key stories involve Trump dropping an IRS lawsuit and creating a fund, UN concerns over Gaza, Elon Musk losing an OpenAI lawsuit, joint nuclear drills by Belarus and Russia, a major energy merger, primary elections in Pennsylvania and Idaho, Somaliland's independence day, Cuban defense against US threats, Iranian Nobel laureate's hospital release, Fatah elections, a San Diego Islamic center shooting, Kenyan fuel protests, Trump delaying an Iran attack, a record-spending primary race in Kentucky, US dropping charges against Adani, Croatia rejecting an Israeli ambassador, and Greenland's premier rejecting US purchase overtures.",
+    "articles": [
+      {
+        "title": "Trump drops IRS lawsuit, sets up $1.7bn US anti-weaponisation fund",
+        "url": "https://www.aljazeera.com/economy/2026/5/18/trump-drops-irs-lawsuit-sets-up-1-7bn-us-anti-weaponisation-fund",
+        "published": "2026-05-18T17:39:46Z",
+        "summary": "US President Donald Trump withdrew his $10bn lawsuit against the IRS over a leak of his tax returns, and the Department of Justice announced a $1.77bn Anti-Weaponisation Fund to compensate Trump's political allies. The court filing did not disclose the deal's terms, but the fund is part of a settlement agreement. The move sparked backlash from Democrats, with Representative Jamie Raskin calling it an unconstitutional political grievance fund."
+      },
+      {
+        "title": "UN calls on Israel to prevent Gaza 'genocide'",
+        "url": "https://www.aljazeera.com/news/2026/5/18/un-calls-on-israel-to-prevent-gaza-genocide",
+        "published": "2026-05-18T17:49:34Z",
+        "summary": "The UN urged Israel to prevent acts of genocide in Gaza and raised concerns about ethnic cleansing, citing a new report that found Israel committed serious violations of international humanitarian law. The report noted that many killings were unlawful, and UN rights chief Volker Turk called on Israel to end its unlawful presence in Palestinian territory. The report also condemned Hamas for abuses and indiscriminate projectiles."
+      },
+      {
+        "title": "Elon Musk loses US lawsuit against OpenAI",
+        "url": "https://www.aljazeera.com/news/2026/5/18/elon-musk-loses-lawsuit-against-openai",
+        "published": "2026-05-18T17:58:47Z",
+        "summary": "A US jury ruled against Elon Musk in his lawsuit against OpenAI, finding the AI company not liable for straying from its original mission. The unanimous verdict in Oakland federal court said Musk brought the case too late, with the jury deliberating for less than two hours. Musk slammed the verdict as a terrible precedent and said he will appeal."
+      },
+      {
+        "title": "Belarus dismisses concerns as it launches joint nuclear drills with Russia",
+        "url": "https://www.aljazeera.com/news/2026/5/18/belarus-dismisses-concerns-as-it-launches-joint-nuclear-drills-with-russia",
+        "published": "2026-05-18T18:10:29Z",
+        "summary": "Belarus began joint military exercises with Russia on nuclear weapons combat, stating the drills are planned and not directed at any third party. Ukraine and NATO allies expressed concern, with Kyiv accusing Moscow of planning a new attack from Belarus. Kremlin spokesman Dmitry Peskov rejected allegations of a planned offensive, calling them an attempt to inflame tensions."
+      },
+      {
+        "title": "NextEra, Dominion to create huge power biz as AI drives US energy demand",
+        "url": "https://www.aljazeera.com/economy/2026/5/18/nextera-dominion-to-create-huge-power-biz-as-ai-drives-us-energy-demand",
+        "published": "2026-05-18T18:22:10Z",
+        "summary": "NextEra Energy is acquiring Dominion Energy in an all-stock deal valued at about $67bn, creating the world's largest regulated electric utility business. The combined company will serve about 10 million customers across four US states, including Virginia, which has the world's biggest data centre hub. The deal aims to meet surging energy demand from AI data centres, though consumers are pushing back against rising electric bills."
+      },
+      {
+        "title": "What to know about the primary elections in the US state of Pennsylvania",
+        "url": "https://www.aljazeera.com/news/2026/5/18/what-to-know-about-the-primary-elections-in-the-us-state-of-pennsylvania",
+        "published": "2026-05-18T18:25:33Z",
+        "summary": "Pennsylvania holds primary elections on Tuesday, with Republican and Democratic candidates facing off for the upcoming midterm elections in November. Key races include a gubernatorial race that could showcase incumbent Democratic Governor Josh Shapiro, and contests for all 17 US House seats. The state's closed primary system requires voters to cast ballots only in their registered party's primary."
+      },
+      {
+        "title": "Somaliland marks first Independence Day following Israeli recognition",
+        "url": "https://www.aljazeera.com/gallery/2026/5/18/somaliland-marks-first-independence-day-following-israeli-recognition",
+        "published": "2026-05-18T18:25:45Z",
+        "summary": "Somaliland celebrated its first Independence Day after Israel recognized its independence in December, the first country to do so since 1991. Thousands gathered in Hargeisa for a military parade, but the recognition has divided opinion, with some embracing the alliance and others protesting due to Israel's war on Gaza. Somaliland's leaders tout stability and strategic location, but broader international recognition remains elusive."
+      },
+      {
+        "title": "Cuba says it has 'legitimate' right to defend itself amid US threats",
+        "url": "https://www.aljazeera.com/news/2026/5/18/cuba-says-it-has-legitimate-right-to-defend-itself-amid-us-threats",
+        "published": "2026-05-18T18:59:43Z",
+        "summary": "Cuban President Miguel Diaz-Canel said Cuba has the legitimate right to defend itself if the US follows through on military threats, warning of a bloodbath. The remarks follow a report claiming Cuba has amassed drones for a potential attack, which was met with skepticism. The Trump administration has ramped up pressure with sanctions and an energy blockade, triggering nationwide blackouts and protests."
+      },
+      {
+        "title": "Iranian Nobel laureate Narges Mohammadi returns home after hospital release",
+        "url": "https://www.aljazeera.com/news/2026/5/18/iranian-nobel-laureate-narges-mohammadi-returns-home-after-hospital-release",
+        "published": "2026-05-18T19:14:08Z",
+        "summary": "Iranian Nobel Peace Prize laureate Narges Mohammadi returned home after being discharged from hospital, where she was treated for a severe cardiac crisis. She will remain under close medical observation with outpatient physiotherapy. Her daughter warned that returning Mohammadi to prison would be a death sentence, as she has been arrested 13 times and sentenced to over 30 years in prison."
+      },
+      {
+        "title": "Some change, but much more of the same in Palestinian Fatah elections",
+        "url": "https://www.aljazeera.com/features/2026/5/18/some-change-but-much-more-of-the-same-in-palestinian-fatah-elections",
+        "published": "2026-05-18T19:33:52Z",
+        "summary": "Fatah's eighth General Conference concluded with Mahmoud Abbas unanimously re-elected as chair, and his son Yasser elected to the Central Committee, raising nepotism concerns. Half of the old guard was replaced, but critics say Abbas engineered the outcome. Palestinian detainees, including Marwan Barghouti, secured three seats in the top leadership body."
+      },
+      {
+        "title": "Police say threat 'neutralised' after San Diego Islamic centre shooting",
+        "url": "https://www.aljazeera.com/news/2026/5/18/san-diego-police-say-responding-to-an-active-shooter-at-islamic-center",
+        "published": "2026-05-18T19:42:17Z",
+        "summary": "Police neutralised an active shooter threat at the Islamic Center of San Diego, which includes a mosque and school. The imam said children are safe but there were a few casualties, though official reports were not immediately available. The shooter's identity and motives remain unclear, and the NYPD increased protection for mosques in New York City as a precaution."
+      },
+      {
+        "title": "A race on the right: What to know about Idaho's 2026 primary elections",
+        "url": "https://www.aljazeera.com/news/2026/5/18/a-race-on-the-right-what-to-know-about-idahos-2026-primary-elections",
+        "published": "2026-05-18T20:09:25Z",
+        "summary": "Idaho holds primary elections on Tuesday, with many Republican races pitting incumbents against hardline challengers. Governor Brad Little faces seven opponents, including Mark Fitzpatrick, who has accused Little of allowing an illegal immigrant invasion. The winners are likely to win in November due to Idaho's deep-red political leanings."
+      },
+      {
+        "title": "Four reported killed, 30 injured, in Kenyan fuel price protests",
+        "url": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests",
+        "published": "2026-05-18T20:12:06Z",
+        "summary": "At least four people were killed and 30 injured in Kenya during nationwide protests over sharply rising fuel prices, with 348 arrested. Transport strikes disrupted major cities as commuters walked long distances. The government defended the fuel hike, citing global oil market volatility due to the war in Iran, while opposition figures accused President Ruto of profiteering."
+      },
+      {
+        "title": "Trump delays 'scheduled attack' on Iran, crediting 'serious negotiations'",
+        "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations",
+        "published": "2026-05-18T20:12:45Z",
+        "summary": "US President Donald Trump announced he will postpone a scheduled attack on Iran, crediting serious negotiations and intervention by regional leaders. He instructed the military to be prepared for a full-scale assault if a deal is not reached. Trump reiterated that any deal must include no nuclear weapons for Iran, while Iran's president said dialogue does not mean surrender."
+      },
+      {
+        "title": "Massie race breaks spending record as pro-Israel groups target Trump critic",
+        "url": "https://www.aljazeera.com/news/2026/5/18/massie-race-breaks-spending-record-as-pro-israel-groups-target-trump-critic",
+        "published": "2026-05-18T20:28:01Z",
+        "summary": "The Kentucky primary race between Congressman Thomas Massie and Trump-endorsed challenger Ed Gallrein has become the most expensive US House primary, with over $34m spent. Pro-Israel groups, including AIPAC, have spent heavily to defeat Massie, a rare Republican critic of Israel. Massie called the election a referendum on foreign policy and whether pro-Israel lobby groups can bully members of Congress."
+      },
+      {
+        "title": "US drops fraud charges after billionaire Adani pledges $10bn investment",
+        "url": "https://www.aljazeera.com/economy/2026/5/18/us-drops-fraud-charges-after-billionaire-adani-pledges-10bn-investment",
+        "published": "2026-05-18T21:02:25Z",
+        "summary": "The US Department of Justice moved to dismiss criminal fraud charges against Indian billionaire Gautam Adani after he pledged a $10bn investment in the US. The charges accused Adani of bribing Indian officials and misleading US investors for a solar energy project. A judge must still approve the dismissal, and Adani denied the allegations."
+      },
+      {
+        "title": "Croatian president rejects new Israeli ambassador",
+        "url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador",
+        "published": "2026-05-18T21:03:49Z",
+        "summary": "Croatian President Zoran Milanovic refused to approve Israel's new ambassador due to the policies of the current Israeli authorities, citing Israel's genocidal war on Gaza. Milanovic said Israel broke an unwritten rule by announcing the ambassador before receiving consent. It is the first time in Croatia's history a president has rejected an ambassador."
+      },
+      {
+        "title": "'Not for sale': Greenland premier tells US envoy",
+        "url": "https://www.aljazeera.com/news/2026/5/18/not-for-sale-greenland-premier-tells-us-envoy",
+        "published": "2026-05-18T21:11:04Z",
+        "summary": "Greenland's Prime Minister Jens-Frederik Nielsen told US special envoy Jeff Landry that Greenland is not for sale, following a meeting in Nuuk. Nielsen said the meeting was constructive but nothing had changed on the US position. Trump has threatened to take over Greenland by military force, citing security concerns, but Greenland's leaders reaffirmed their red lines against annexation or purchase."
+      }
+    ]
+  },
+  {
     "time": "2026-05-18T17:29:34Z",
     "window_hours": 6,
     "article_count": 9,
