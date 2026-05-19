@@ -1,4 +1,93 @@
 ================================================================================
+RUN TIME UTC: 2026-05-19T17:38:33Z
+WINDOW: Last 6 hours
+ARTICLES USED: 16
+
+OVERALL SUMMARY
+The batch covers a wide range of topics including geopolitical tensions (China-Russia relations, US-Israel war on Iran, Israeli attacks on Lebanon), a hate crime shooting at a San Diego mosque, World Cup squad announcements for Portugal and Brazil, FIFA's broadcast rights struggle in India, a car bomb in Damascus, a Philippine Senate shooting probe, a death sentence in Pakistan for killing a TikTok star, Carlos Alcaraz's Wimbledon withdrawal, US midterm election redistricting, US sanctions on Gaza flotilla organizers, and a personal tribute to the San Diego mosque hero.
+
+ARTICLE BREAKDOWN
+[1] China-Russia relations are as strong as ever thanks to Trump
+Published: 2026-05-19T12:51:24Z
+URL: https://www.aljazeera.com/opinions/2026/5/19/china-russia-relations-are-as-strong-as-ever-thanks-to-trump
+Summary: The article argues that US President Donald Trump has failed to drive a wedge between Russia and China, instead repeating counterproductive policies that strengthen their alliance. The Iran war has boosted Russo-Chinese ties, with China becoming critically reliant on Russian oil and gas due to the Strait of Hormuz closure, and bilateral trade jumping nearly 20 percent. The shared perception of the US as a rogue actor unites Beijing and Moscow, contrasting with past US diplomatic successes in exploiting Sino-Soviet differences.
+
+[2] Who was Amin Abdullah, the ‘hero’ guard killed in San Diego shooting?
+Published: 2026-05-19T13:01:38Z
+URL: https://www.aljazeera.com/news/2026/5/19/who-was-amin-abdullah-the-hero-guard-killed-in-san-diego-shooting
+Summary: Amin Abdullah, a security guard at the Islamic Center of San Diego, was killed while trying to prevent two teenage attackers from entering the mosque complex, an attack police are investigating as a hate crime. Authorities say his actions were heroic and likely saved lives, as children were attending a private school inside the complex. Abdullah, a father of eight, had worked at the mosque for over a decade and was remembered for his dedication to defending the innocent.
+
+[3] Ronaldo to lead Portugal at sixth World Cup as Martinez names squad
+Published: 2026-05-19T13:14:41Z
+URL: https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad
+Summary: Cristiano Ronaldo, aged 41, will lead Portugal at his sixth World Cup after being named in a 27-man squad by coach Roberto Martinez. The squad includes a symbolic 'plus one' in memory of the late Diogo Jota, who died in a car accident last year. Portugal opens their Group K campaign against the Democratic Republic of the Congo on June 17 in Houston.
+
+[4] US extends sanctions waiver on Russian oil: Why it matters
+Published: 2026-05-19T13:40:39Z
+URL: https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters
+Summary: The US has extended a 30-day sanctions waiver for countries buying Russian oil already loaded on tankers, aiming to stabilize global energy markets disrupted by the US-Israel war on Iran. Treasury Secretary Scott Bessent said the extension provides flexibility for vulnerable nations and helps reroute supply away from China. The waiver comes as crude prices surged above $100 per barrel and the Strait of Hormuz closure has stranded significant oil volumes.
+
+[5] Why has FIFA not signed a World Cup broadcast deal in India?
+Published: 2026-05-19T14:01:16Z
+URL: https://www.aljazeera.com/sports/2026/5/19/why-has-fifa-not-signed-a-world-cup-broadcast-deal-in-india
+Summary: With just weeks until the 2026 World Cup, FIFA has not secured a broadcast rights buyer in India, the world's most populous country, despite significant viewership in previous tournaments. Experts cite the unfavorable kickoff times due to a 10-12 hour time difference with North America as the main concern for Indian broadcasters. FIFA's asking price, reportedly slashed from an estimated $100 million, has not yet attracted buyers.
+
+[6] Flight to Argentina: How significant is it for Israel’s LatAm outreach?
+Published: 2026-05-19T14:22:59Z
+URL: https://www.aljazeera.com/economy/2026/5/19/flight-to-argentina-how-significant-is-it-for-israels-latam-outreach
+Summary: Israel and Argentina have launched a direct flight from Tel Aviv to Buenos Aires, driven by political ambitions to cement Israel's footprint in Latin America amid its international isolation. The route is part of the 'Isaac Accords,' a framework inspired by the Abraham Accords, aiming for strategic cooperation in security and technology with Latin American nations. Analysts say Israel is leveraging its military and surveillance technologies to bypass boycotts and secure recognition.
+
+[7] Neymar is going to the World Cup: Why did Brazil name him in the squad?
+Published: 2026-05-19T15:29:53Z
+URL: https://www.aljazeera.com/sports/2026/5/19/fifa-world-cup-2026-all-to-know-about-neymar-surprise-brazil-selection-ancelotti
+Summary: Brazil coach Carlo Ancelotti selected Neymar in the World Cup squad despite the 34-year-old forward not playing for the national team since 2023 due to a serious knee injury. Ancelotti cited improved fitness and consistent playing time as reasons for the selection, though doubts remain about Neymar's ability to handle the expanded tournament's demands. The decision has sparked national debate, with some questioning whether it will backfire or prove a masterstroke.
+
+[8] At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus
+Published: 2026-05-19T15:36:47Z
+URL: https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus
+Summary: A car bomb exploded near a Syrian Defence Ministry building in Damascus, killing at least one soldier and wounding 21 people. Authorities said army units discovered an improvised explosive device and were attempting to defuse it when the car bomb detonated. No group has claimed responsibility, and the attack follows intermittent security incidents in Syria since the fall of President Bashar al-Assad in late 2024.
+
+[9] Security guards face probe after last week’s Philippine Senate shooting
+Published: 2026-05-19T15:42:15Z
+URL: https://www.aljazeera.com/news/2026/5/19/security-guards-face-probe-after-last-weeks-philippine-senate-shooting
+Summary: Philippine authorities are investigating Senate security officers who fired weapons during an incident where Senator Ronald Dela Rosa, facing an ICC arrest warrant, took shelter and later escaped. Interior Secretary Juanito Victor Remulla said the shooting was not an 'attack on the Senate' and identified Senate Sergeant-at-Arms Mao Aplasca as the first to fire. The case has been handed to the Department of Justice for further investigation.
+
+[10] Pakistan sentences man to death for killing TikTok star Sana Yousaf
+Published: 2026-05-19T15:43:28Z
+URL: https://www.aljazeera.com/news/2026/5/19/death-sentence-handed-to-man-for-killing-tiktok-star-sana-yousaf
+Summary: A Pakistani court sentenced Umar Hayat to death for murdering 17-year-old TikTok influencer Sana Yousaf, who was shot dead at her home last year. The victim's father said the verdict is a lesson for society. Hayat had confessed to the crime, admitting to a one-sided obsession with Yousaf after she refused to meet him.
+
+[11] Carlos Alcaraz withdraws from Wimbledon with wrist injury
+Published: 2026-05-19T16:21:13Z
+URL: https://www.aljazeera.com/sports/2026/5/19/carlos-alcaraz-withdraws-from-wimbledon-with-wrist-injury
+Summary: World number two Carlos Alcaraz announced he will skip Wimbledon due to a right wrist injury that also forced him out of the French Open. The 23-year-old seven-time Grand Slam champion has not played since withdrawing from the Barcelona Open in April. His absence is a significant blow to fans and broadcasters, as his rivalry with Jannik Sinner has captivated men's tennis.
+
+[12] At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry
+Published: 2026-05-19T16:29:05Z
+URL: https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry
+Summary: At least 22 people have been killed in Israeli attacks on Lebanon in the past 24 hours, according to the Health Ministry, despite a 45-day ceasefire extension. The total death toll since March 2 has reached 3,042. Israeli strikes targeted homes and vehicles in southern Lebanon, and the military issued forced displacement threats to residents of 12 towns and villages.
+
+[13] How the shape of a map can determine the US midterm elections
+Published: 2026-05-19T16:29:37Z
+URL: https://www.aljazeera.com/news/longform/2026/5/19/how-the-shape-of-a-map-can-determine-the-us-midterm-elections
+Summary: The article explains how the shape of electoral district maps can favor one political party over another in the upcoming US midterm elections on November 3. With all 435 House seats and a third of the Senate up for grabs, both parties are fighting over redistricting. The piece details how primaries work and how the razor-thin Republican majority in the House makes redistricting battles crucial.
+
+[14] I knew Amin Abdullah, the hero of the San Diego mosque shooting
+Published: 2026-05-19T16:39:59Z
+URL: https://www.aljazeera.com/features/2026/5/19/i-knew-amin-abdullah-the-hero-of-the-san-diego-mosque-shooting
+Summary: A personal tribute describes Amin Abdullah, the security guard killed in the San Diego mosque shooting, as a former colleague who was always fascinated by men in uniform and greeted everyone with a big smile. The author recounts meeting Abdullah at his father's funeral and notes that Abdullah's heroic actions in shielding others from gunfire were not surprising. The piece reflects on the rise of anti-Muslim rhetoric and the need for security at mosques.
+
+[15] Trump says Xi assured him China would not send weapons to Iran
+Published: 2026-05-19T16:53:42Z
+URL: https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran
+Summary: US President Donald Trump said Chinese leader Xi Jinping assured him that Beijing would not send weapons to Iran during the ongoing war. Trump also threatened new strikes on Iran if progress on a ceasefire is not made within 'days,' while noting that he put a 'hold' on a planned attack at the request of Qatar, Saudi Arabia, and the UAE. Iran has reportedly submitted a revised 14-point peace plan, though details are not public.
+
+[16] US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown
+Published: 2026-05-19T17:36:16Z
+URL: https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown
+Summary: The US imposed sanctions on four activists involved in aid flotillas trying to break Israel's siege on Gaza, alleging without evidence that they are acting 'in support of Hamas.' The sanctions target representatives from the Popular Conference for Palestinians Abroad and the Samidoun network. Rights advocates accused Washington of using the 'terrorism label' to shut down Palestine activism internationally.
+
+================================================================================
 RUN TIME UTC: 2026-05-19T12:39:42Z
 WINDOW: Last 6 hours
 ARTICLES USED: 14
