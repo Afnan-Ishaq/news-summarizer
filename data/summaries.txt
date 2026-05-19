@@ -1,4 +1,83 @@
 ================================================================================
+RUN TIME UTC: 2026-05-19T12:39:42Z
+WINDOW: Last 6 hours
+ARTICLES USED: 14
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a wide range of topics, including UK politics with Andy Burnham's potential leadership challenge, deadly floods in China, Putin's visit to Beijing, a corporate scandal in South Korea, recovery in war-torn Khartoum, US-Israel scandals, Iran's World Cup preparations, an Ebola outbreak in the DRC, a corruption probe in Spain, the OpenAI legal verdict, a Gaza aid flotilla interception, Thailand's visa policy changes, US-Iran negotiations, and an ICC warrant for an Israeli minister.
+
+ARTICLE BREAKDOWN
+[1] ‘King of the North’: Who is Andy Burnham, a potential UK prime minister?
+Published: 2026-05-19T08:27:48Z
+URL: https://www.aljazeera.com/news/2026/5/19/king-of-the-north-who-is-andy-burnham-a-potential-uk-prime-minister
+Summary: With UK Prime Minister Keir Starmer under pressure to resign, Manchester Mayor Andy Burnham has announced plans to win a parliamentary seat, positioning himself as a potential replacement. Burnham, dubbed the 'King of the North,' is a popular soft-left figure seen as an outsider from the London political elite, but he has previously served in senior Labour roles. His supporters view him as the best candidate to lead the party, amid Labour's poor polling and Starmer's unpopularity.
+
+[2] At least 10 dead as huge floods sweep southern and central China
+Published: 2026-05-19T08:49:44Z
+URL: https://www.aljazeera.com/news/2026/5/19/at-least-10-dead-as-huge-floods-sweep-southern-and-central-china
+Summary: Heavy rains have caused widespread flooding and landslides across southern and central China, killing at least 10 people. The China Meteorological Administration has issued elevated orange alerts, warning that the precipitation system is at its strongest stage. In Guangxi, six people died when a pick-up truck fell into a swollen river, while flash floods in Hubei killed three, and another death was recorded in Hunan. Authorities have suspended schools and businesses, and are relocating residents in affected areas.
+
+[3] ‘China holds the cards’: Why Putin’s visit to Beijing after Trump matters
+Published: 2026-05-19T09:15:24Z
+URL: https://www.aljazeera.com/features/2026/5/19/neutral-superpower-china-why-putin-visit-to-beijing-after-trump-matters
+Summary: Russian President Vladimir Putin is visiting Beijing for a summit with Xi Jinping, following US President Donald Trump's recent trip to China. Analysts say the timing underscores China's growing diplomatic leverage, as it hosts rival powers back-to-back. No major shifts are expected from the visit, but it will likely deepen bilateral economic and military cooperation between Russia and China. The relationship remains strategic but not a formal military alliance.
+
+[4] Starbucks Korea CEO fired over promotion that evoked military crackdown
+Published: 2026-05-19T09:25:18Z
+URL: https://www.aljazeera.com/economy/2026/5/19/starbucks-korea-ceo-fired-over-promotion-that-evoked-military-crackdown
+Summary: Starbucks Korea CEO Son Jung-hyun has been fired after a marketing campaign using the wording 'Tank Day' and '5/18' provoked outrage for evoking the 1980 Gwangju uprising crackdown. Shinsegae Group Chairman Chung Yong-jin ordered the dismissal after an internal investigation, calling the incident unacceptable. South Korean President Lee Jae-myung condemned the campaign as inhumane, and Starbucks' global headquarters apologized, calling the incident unintentional but deeply offensive.
+
+[5] Khartoum’s slow recovery amid cautious return
+Published: 2026-05-19T09:41:34Z
+URL: https://www.aljazeera.com/news/2026/5/19/khartoums-slow-recovery-amid-cautious-return
+Summary: Khartoum is showing signs of recovery after war, with rubble cleared and traffic returning, but the recovery is uneven across the city. Wealthy eastern districts and central areas remain largely deserted, while some neighborhoods like Karari in northern Omdurman have seen economic and population growth. Displaced residents are returning cautiously, weighing factors like income, education, healthcare, and security, with many postponing return until services improve.
+
+[6] The US, Israel and the normalisation of scandal
+Published: 2026-05-19T09:46:18Z
+URL: https://www.aljazeera.com/opinions/2026/5/19/the-us-israel-and-the-normalisation-of-scandal
+Summary: The article discusses the 'Hondurasgate' scandal, where leaked audios suggest Israel financed the release of former Honduran President Juan Orlando Hernandez to further US-Israeli interests in Latin America. It argues that such scandals fail to shock due to a long history of US-Israeli interventions and a general desensitization to global crises. The piece also references other controversial actions by Trump and Netanyahu, including the war on Iran and the ongoing conflict in Gaza.
+
+[7] Iran squad in race against time for World Cup readiness amid US-Israel war
+Published: 2026-05-19T10:00:36Z
+URL: https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war
+Summary: Iran's national football team faces a challenge preparing for the World Cup as the domestic league has been suspended since March due to the US-Israel war on Iran. Most of the 30-man squad, who play for Iranian clubs, have been out of action for seven weeks. Coach Amir Ghalenoei hopes a training camp in Turkiye will improve their readiness, with a friendly against The Gambia scheduled before the final squad is named. Iran will face New Zealand, Belgium, and Egypt in the World Cup group stage.
+
+[8] WHO to hold emergency committee meeting as Ebola death toll rises to 131
+Published: 2026-05-19T10:05:55Z
+URL: https://www.aljazeera.com/news/2026/5/19/who-to-hold-emergency-committee-meeting-as-ebola-death-toll-rises-to-131
+Summary: The Ebola outbreak in the Democratic Republic of the Congo has killed an estimated 131 people out of 513 suspected cases, with the WHO declaring it a public health emergency of international concern. The outbreak has spread into Uganda, and no vaccine or treatment exists for the Bundibugyo strain responsible. The WHO's Emergency Committee will meet to discuss vaccine options, including the Ervebo vaccine used for the Zaire strain, which may offer some protection.
+
+[9] Spain’s former PM Zapatero faces corruption probe
+Published: 2026-05-19T10:08:44Z
+URL: https://www.aljazeera.com/news/2026/5/19/spains-former-pm-zapatero-faces-corruption-probe
+Summary: Former Spanish Prime Minister Jose Luis Rodriguez Zapatero is under investigation for alleged influence peddling related to the 2021 state rescue of Plus Ultra airline, which received 53 million euros during the pandemic. His office was searched, and he has been summoned to testify on June 2. The case involves allegations that Zapatero pressed for the bailout and received commissions, with the opposition using it to attack Prime Minister Pedro Sanchez's government.
+
+[10] Musk vs Altman: What to know about the OpenAI verdict
+Published: 2026-05-19T10:50:45Z
+URL: https://www.aljazeera.com/news/2026/5/19/musk-vs-altman-what-to-know-about-the-openai-verdict
+Summary: A jury in Oakland, California, ruled in favor of OpenAI CEO Sam Altman in Elon Musk's $150bn lawsuit, finding that Musk waited too long to bring his claims under the statute of limitations. The case did not resolve whether OpenAI betrayed its nonprofit mission by becoming a for-profit entity. Musk plans to appeal, arguing the case was lost on timing rather than substance, ensuring the legal battle continues.
+
+[11] Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing
+Published: 2026-05-19T11:24:19Z
+URL: https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing
+Summary: Israeli forces have raided 41 boats from a Gaza-bound aid flotilla, with 10 vessels still sailing about 121 nautical miles from Gaza, according to organisers. The flotilla, which set sail from Turkey, aims to challenge Israel's blockade of Gaza. Foreign ministers from 10 countries condemned the Israeli actions as violations of international law, and several activists were abducted, including the sister of Irish President Catherine Connolly.
+
+[12] Thailand to slash tourist visa-free stays
+Published: 2026-05-19T11:26:36Z
+URL: https://www.aljazeera.com/news/2026/5/19/thailand-to-slash-tourist-visa-free-stays
+Summary: Thailand's cabinet has approved a reduction in visa-free stays for tourists from over 90 countries, shifting from a 60-day exemption to a tiered system with caps of 30 or 15 days. The change aims to address security concerns and curb abuse by foreign nationals involved in illicit activities. The government has not announced when the changes will take effect, amid a 3.4% drop in foreign arrivals in the first quarter.
+
+[13] Trump says Iran attack on ‘hold’: What we know about latest negotiations
+Published: 2026-05-19T12:06:34Z
+URL: https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations
+Summary: US President Donald Trump says he has paused a planned attack on Iran after Gulf leaders requested it, citing serious negotiations. Iran has submitted a revised 14-point peace plan through Pakistan, demanding the lifting of sanctions and release of frozen assets. A temporary ceasefire has been in place since April, but a durable peace agreement remains elusive, with both sides dissatisfied with proposed terms.
+
+[14] Israeli far-right minister Smotrich says ICC seeks his arrest
+Published: 2026-05-19T12:26:06Z
+URL: https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest
+Summary: Israeli Finance Minister Bezalel Smotrich says the International Criminal Court has requested an arrest warrant for him, making him the third Israeli official targeted after Prime Minister Netanyahu and former Defence Minister Gallant. Smotrich called the warrants a 'declaration of war' and announced plans to evacuate the Palestinian community of Khan al-Ahmar in the West Bank. The ICC accusations reportedly relate to his forced displacement orders and support for starving Palestinians in Gaza.
+
+================================================================================
 RUN TIME UTC: 2026-05-19T08:28:04Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
