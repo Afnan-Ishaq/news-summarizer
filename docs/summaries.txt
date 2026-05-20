@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-05-20T08:26:10Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+The latest Al Jazeera articles cover a range of topics including high-level diplomatic talks between China and Russia, US political primaries, sports events, and global economic impacts from the Middle East crisis. Key stories include Xi Jinping and Vladimir Putin meeting in Beijing, a Republican primary run-off in Georgia, a historic Knicks comeback in the NBA, and the UN downgrading its growth forecast due to the war on Iran.
+
+ARTICLE BREAKDOWN
+[1] China’s Xi Jinping, Russian President Vladimir Putin hold talks in Beijing
+Published: 2026-05-20T03:34:08Z
+URL: https://www.aljazeera.com/news/2026/5/20/chinas-xi-jinping-and-russian-president-vladimir-putin-meet-in-beijing
+Summary: Chinese leader Xi Jinping and Russian President Vladimir Putin began talks in Beijing, with Putin hailing strong cooperation despite external factors and Xi praising their unyielding relationship. Xi also addressed the US-Israel war on Iran, calling for a ceasefire and warning against further conflict. The visit, marking 25 years of Sino-Russian friendship, is expected to focus on energy security and include signing around 40 agreements.
+
+[2] Jones, Jackson move to Republican primary run-off in Georgia governor race
+Published: 2026-05-20T05:31:32Z
+URL: https://www.aljazeera.com/news/2026/5/20/jones-jackson-move-to-republican-primary-run-off-in-georgia-governor-race
+Summary: Burt Jones and Rick Jackson advanced to a June 16 run-off in Georgia's Republican primary for governor after neither secured enough support on Tuesday. The winner will replace term-limited Governor Brian Kemp, with Jones endorsed by President Trump. Separately, Democrat Jasmine Clark won her party's nomination for Georgia's 13th Congressional District, and two-term Representative Mike Collins advanced to a run-off in the US Senate race.
+
+[3] Knicks rally from 22 points down to stun Cavs in overtime
+Published: 2026-05-20T06:05:16Z
+URL: https://www.aljazeera.com/sports/2026/5/20/knicks-rally-from-22-points-down-to-stun-cavs-in-overtime
+Summary: Jalen Brunson scored 38 points as the New York Knicks erased a 22-point fourth-quarter deficit to beat the Cleveland Cavaliers 115-104 in overtime in Game One of the NBA Eastern Conference finals. The Knicks tied the game late in regulation and scored the first nine points in overtime. It was the first time in NBA history that both conference finals openers went to overtime.
+
+[4] ‘Cockroach Janta Party’: Top Indian judge’s comment sparks satire, protest
+Published: 2026-05-20T06:09:59Z
+URL: https://www.aljazeera.com/features/2026/5/20/cockroach-janata-party-top-indian-judges-comment-sparks-satire-protest
+Summary: India's Chief Justice Surya Kant sparked outrage by calling some youngsters 'cockroaches' during a court hearing, though he later clarified he was referring to those with fraudulent degrees. In response, Abhijeet Dipke created the satirical 'Cockroach Janta Party' online, which gained over 3 million Instagram followers and 350,000 membership sign-ups in three days. The movement has attracted opposition politicians and reflects frustration among Gen Z over unemployment and inflation.
+
+[5] UN cuts global growth forecast, blaming Middle East crisis
+Published: 2026-05-20T06:30:58Z
+URL: https://www.aljazeera.com/economy/2026/5/20/un-cuts-global-growth-forecast-blaming-middle-east-crisis
+Summary: The United Nations cut its global GDP growth forecast to 2.5% for 2026 and 2.8% for 2027, citing the fallout from the war on Iran, including rising energy prices and financial market volatility. Developing countries have been hit hardest, with Western Asia's forecast slashed from 4.1% to 1.4%. The UN warned that in an adverse scenario, growth could slow to 2.1%, one of the worst performances this century outside of crises.
+
+[6] Bangladesh beat Pakistan by 78 runs to clinch historic Test series win
+Published: 2026-05-20T06:33:12Z
+URL: https://www.aljazeera.com/sports/2026/5/20/bangladesh-beat-pakistan-by-78-runs-to-clinch-historic-test-series-win
+Summary: Bangladesh defeated Pakistan by 78 runs in the second Test in Sylhet, securing their first home Test series win over Pakistan. Spinner Taijul Islam took six wickets in the second innings, bowling out Pakistan for 328 while chasing 437. The series sweep follows Bangladesh's 2-0 win in Pakistan in 2024, with Mushfiqur Rahim scoring 137 in the second innings.
+
+[7] Taiwan’s president says future will not be decided by ‘external forces’
+Published: 2026-05-20T06:58:02Z
+URL: https://www.aljazeera.com/news/2026/5/20/taiwans-president-says-future-will-not-be-decided-by-external-forces
+Summary: Taiwanese President William Lai Ching-te said on his second inauguration anniversary that Taiwan's future should be decided by its 23 million citizens, not external forces. He expressed willingness to engage with Beijing through orderly exchanges based on equality and dignity. China's Taiwan Affairs Office accused Lai of inciting confrontation and peddling separatist fallacies, while Lai faces domestic pressures including a reduced defence budget and a 38% approval rating.
+
+[8] Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline
+Published: 2026-05-20T07:16:18Z
+URL: https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline
+Summary: Iran warned of opening new fronts if the US launches new attacks, as President Trump gave Iran two to three days to reach a deal. US Vice President Vance said talks are making good progress, while the Senate advanced a War Powers Resolution requiring congressional approval for continued military action. Israeli strikes in southern Lebanon killed 19 people, and a US commander declined responsibility for a school strike that killed 155.
+
+[9] Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal
+Published: 2026-05-20T07:47:55Z
+URL: https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal
+Summary: Two Chinese supertankers carrying about 4 million barrels of crude left the Strait of Hormuz after waiting for over two months, as US officials signaled a potential deal to end the war on Iran. Oil prices eased slightly, but experts warn they will remain elevated even after a deal due to supply disruptions. The UN cut global growth forecasts to 2.5% this year, citing higher energy costs from the conflict.
+
+================================================================================
 RUN TIME UTC: 2026-05-20T03:37:53Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
