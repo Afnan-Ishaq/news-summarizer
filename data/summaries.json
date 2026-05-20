@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-05-20T21:54:35Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "Recent Al Jazeera articles cover a Russian interception of a British spy plane over the Black Sea, a progressive primary win in Pennsylvania, the arrival of West African deportees in Sierra Leone, US charges against former Cuban leader Raul Castro, James Murdoch's acquisition of New York Magazine and Vox Media's podcast network, AIPAC's campaign spending tactics, and Bolivia's cabinet reshuffle amid protests.",
+    "articles": [
+      {
+        "title": "Russia ‘dangerously’ intercepts British spy plane over Black Sea: Ministry",
+        "url": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry",
+        "published": "2026-05-20T18:01:08Z",
+        "summary": "The UK Defence Ministry reported that two Russian jets repeatedly and dangerously intercepted a British Rivet Joint surveillance aircraft over the Black Sea in April. The unarmed plane was conducting routine surveillance in international airspace to secure NATO's eastern flank. Defence Minister John Healey called the actions dangerous and unacceptable, noting they create a risk of accidents and escalation. The UK formally complained to the Russian embassy about the incident."
+      },
+      {
+        "title": "Chris Rabb win in Pennsylvania energises Democrats’ progressive flank",
+        "url": "https://www.aljazeera.com/news/2026/5/20/chris-rabb-win-in-pennsylvania-energises-democrats-progressive-flank",
+        "published": "2026-05-20T18:27:55Z",
+        "summary": "Chris Rabb's victory in a US House primary in Pennsylvania is seen as a boost to Democrats' progressive flank. Rabb, a state lawmaker, handily defeated competitors Sharif Street and Ala Stanford in a heavily Democratic district, all but assuring a midterm win. He broke from opponents on Israel policy, pledging to sign a resolution recognizing the Nakba and urging others to describe Israel's actions in Gaza as genocide. The race highlighted internal Democratic strife between progressive and establishment factions."
+      },
+      {
+        "title": "Sierra Leone receives first group of West African deportees from US",
+        "url": "https://www.aljazeera.com/news/2026/5/20/sierra-leone-receives-first-group-of-west-african-deportees-from-us",
+        "published": "2026-05-20T18:41:31Z",
+        "summary": "Sierra Leone received the first plane carrying nine West African migrants expelled from the US under President Trump's immigration crackdown. The deportees, from Ghana, Guinea, Senegal, and Nigeria, were described as traumatized from months in detention. They will be housed in a hotel and returned to their home countries within two weeks. The US provided a $1.5m grant for humanitarian and operational costs, and similar third-country deportation deals have been struck with at least eight other African nations."
+      },
+      {
+        "title": "US indicts Cuba’s former leader Raul Castro: Why it matters",
+        "url": "https://www.aljazeera.com/news/2026/5/20/us-indicts-cubas-former-leader-raul-castro-why-it-matters",
+        "published": "2026-05-20T18:58:32Z",
+        "summary": "The Trump administration has issued criminal charges against former Cuban leader Raul Castro over the 1996 downing of two civilian planes that killed four people. Acting US Attorney General Todd Blanche described the indictment as historic, saying senior Cuban leadership has been charged for violence against American citizens. The charges are expected to escalate tensions between the US and Cuba, as Trump has already imposed sanctions and a de facto fuel blockade. Cuban President Miguel Diaz-Canel called the shootdown an act of legitimate self-defense."
+      },
+      {
+        "title": "James Murdoch to acquire New York Magazine and Vox Media Podcast Network",
+        "url": "https://www.aljazeera.com/economy/2026/5/20/james-murdoch-to-acquire-new-york-magazine-and-vox-media-podcast-network",
+        "published": "2026-05-20T19:39:10Z",
+        "summary": "James Murdoch has agreed to acquire New York Magazine and the Vox Media Podcast Network in a deal valued at over $300m. The acquisition expands his portfolio and boosts his influence over news and entertainment, with his company Lupa Systems buying both properties from Vox Media. Murdoch and his wife were involved in courting key talent like Kara Swisher and Scott Galloway. The deal comes after Murdoch's past disputes with his father over editorial direction."
+      },
+      {
+        "title": "As AIPAC becomes ‘toxic’, it is trying to conceal spending in US elections",
+        "url": "https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections",
+        "published": "2026-05-20T20:50:14Z",
+        "summary": "Al Jazeera reports that AIPAC has used shell PACs with deceptive names to conceal its spending in US elections, aiming to defeat candidates critical of Israel. In Illinois, an advertisement boosting candidate Bushra Amiwala was funded by AIPAC through a chain of PACs, including the United Democracy Project, to siphon votes from progressive Palestinian American activist Kat Abughazaleh. Critics argue this undermines election transparency and exploits gaps in campaign finance laws. AIPAC also contributed to other PACs in what is seen as an effort to hide its involvement."
+      },
+      {
+        "title": "Bolivian president to reshuffle cabinet amid antigovernment protests",
+        "url": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests",
+        "published": "2026-05-20T21:07:38Z",
+        "summary": "Bolivian President Rodrigo Paz announced a cabinet reshuffle to ease tensions amid weeks of widespread protests against his free-market reforms and economic measures. Protesters, including farmers, laborers, and miners, have denounced cuts to fuel subsidies and other policies. The government has accused former President Evo Morales of fomenting unrest, while the US expressed support for Paz. Paz also criticized Colombian President Gustavo Petro and announced plans to ask the Colombian ambassador to leave the country."
+      }
+    ]
+  },
+  {
     "time": "2026-05-20T17:54:28Z",
     "window_hours": 6,
     "article_count": 16,
