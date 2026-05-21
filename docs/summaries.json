@@ -1,5 +1,121 @@
 [
   {
+    "time": "2026-05-21T17:31:04Z",
+    "window_hours": 6,
+    "article_count": 18,
+    "overall_summary": "The batch covers a mix of World Cup 2026 preparations (Iran, Brazil, Senegal, Germany, England, New York tickets), geopolitical developments (US-Iran diplomacy, Trump-Taiwan remarks, Russia-Belarus nuclear drills), health crises (Ebola in DR Congo, India-Africa summit postponed), legal rulings (Airbus/Air France manslaughter, ICJ strike rights), and other sports and opinion pieces.",
+    "articles": [
+      {
+        "title": "Iran World Cup squad members apply for US, Canada visas in Turkiye",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/iran-world-cup-squad-members-apply-for-us-canada-visas-in-turkiye",
+        "published": "2026-05-21T13:01:38Z",
+        "summary": "Iran's football team attended visa appointments in Turkiye, with the whole squad applying for Canadian visas and some for US visas. The World Cup is co-hosted by the US, Canada, and Mexico, and Iran will play group-stage matches on the US West Coast. The team is holding a pre-tournament camp in Turkiye after the Iranian domestic league was suspended in March."
+      },
+      {
+        "title": "Neymar set to shake off injury scare to play for Brazil at World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/neymar-expected-to-shake-off-injury-scare-for-brazil-at-world-cup",
+        "published": "2026-05-21T13:05:31Z",
+        "summary": "Neymar has a minor calf injury but is expected to recover in time to join Brazil's World Cup camp next week. The 34-year-old, Brazil's all-time leading scorer, was named in the squad on Monday after a prolonged injury layoff. Brazil open their World Cup campaign against Morocco on June 13."
+      },
+      {
+        "title": "India-Africa summit postponed as Ebola spreads to M23-held DR Congo area",
+        "url": "https://www.aljazeera.com/news/2026/5/21/india-africa-summit-postponed-as-ebola-spreads-to-m23-held-dr-congo-area",
+        "published": "2026-05-21T13:18:12Z",
+        "summary": "The African Union and India postponed the India-Africa Forum Summit due to the evolving health situation in parts of Africa. The first Ebola case was confirmed in DR Congo's South Kivu province, an area controlled by M23 rebels. The WHO reports 600 suspected cases and 139 deaths in the outbreak, which has been complicated by armed conflict and foreign aid cuts."
+      },
+      {
+        "title": "What’s Trump’s ‘anti-weaponisation fund’ and why are legal experts alarmed?",
+        "url": "https://www.aljazeera.com/news/2026/5/21/whats-trumps-anti-weaponisation-fund-and-why-are-legal-experts-alarmed",
+        "published": "2026-05-21T13:28:06Z",
+        "summary": "The US Department of Justice introduced an 'anti-weaponisation fund' as part of a settlement from Trump's lawsuit against the IRS over a leak of his tax information. The fund will receive just under $1.8bn to compensate people who claim they were unfairly targeted by the federal government. Democrats argue the fund will be used to compensate January 6 rioters pardoned by Trump."
+      },
+      {
+        "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+        "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade",
+        "published": "2026-05-21T13:31:11Z",
+        "summary": "The Strait of Hormuz has remained closed to naval traffic 11 weeks after the start of the Iran war, with Iran charging transit fees as high as $2m per ship. Before the war, about 120-140 ships passed daily, carrying 20 million barrels of oil. The article explores whether paying Iran's toll is cheaper than the economic losses from the blockade, which has stranded about 2,000 ships."
+      },
+      {
+        "title": "Sadio Mane, Kalidou Koulibaly star picks in Senegal’s World Cup squad",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/sadio-mane-kalidou-koulibaly-star-picks-in-senegals-world-cup-squad",
+        "published": "2026-05-21T13:43:21Z",
+        "summary": "Senegal named a 28-man World Cup squad featuring Sadio Mane and Kalidou Koulibaly, with Mane looking to make up for missing the 2022 tournament through injury. The squad includes forwards Nicolas Jackson, Iliman Ndiaye, and Ismaila Sarr. Senegal open their campaign against France on June 16 in a repeat of their 2002 World Cup meeting."
+      },
+      {
+        "title": "Germany make Neuer first-choice World Cup keeper to cap retirement U-turn",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/germany-make-neuer-first-choice-world-cup-keeper-to-cap-retirement-u-turn",
+        "published": "2026-05-21T14:06:40Z",
+        "summary": "Manuel Neuer has come out of international retirement to be Germany's starting goalkeeper for the World Cup, despite Oliver Baumann previously being labelled first choice. The 40-year-old will play in his fifth successive World Cup. Germany face Curacao, Ecuador, and Ivory Coast in Group E and aim for a fifth title after first-round exits in 2018 and 2022."
+      },
+      {
+        "title": "Israel’s arrogance is becoming the evidence in the case against it",
+        "url": "https://www.aljazeera.com/opinions/2026/5/21/israels-arrogance-is-becoming-the-evidence-in-the-case-against-it",
+        "published": "2026-05-21T14:44:09Z",
+        "summary": "An opinion piece argues that Israeli National Security Minister Itamar Ben-Gvir's video of abused flotilla activists reveals a state accustomed to impunity. The article cites reports of abuse against Palestinian detainees and foreign nationals, including the killing of American activist Rachel Corrie and journalist Shireen Abu Akleh. It concludes that Israel's arrogance is becoming evidence in the case against it."
+      },
+      {
+        "title": "French court finds Airbus, Air France guilty of manslaughter in 2009 crash",
+        "url": "https://www.aljazeera.com/news/2026/5/21/french-court-finds-airbus-air-france-guilty-of-manslaughter-in-2009-crash",
+        "published": "2026-05-21T15:01:57Z",
+        "summary": "A French appeals court found Airbus and Air France guilty of manslaughter in the 2009 Rio de Janeiro-Paris crash that killed 228 people. The court ordered a payment of 225,000 euros per passenger, the maximum fine for corporate manslaughter. Airbus plans to appeal the ruling, which overturned a 2023 acquittal."
+      },
+      {
+        "title": "US-Iran diplomacy picks up: What’s the latest?",
+        "url": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest",
+        "published": "2026-05-21T15:10:12Z",
+        "summary": "Pakistani Interior Minister Mohsin Naqvi arrived in Tehran to meet with his Iranian counterpart, amid ongoing US-Iran peace negotiations since a temporary ceasefire in April. Trump said peace talks are 'borderline' between talks and renewed strikes. Iran is reviewing the latest US peace proposal, and a major point of contention remains unresolved."
+      },
+      {
+        "title": "Arteta made a BBQ instead of watching Arsenal’s Premier League crowning",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/arteta-built-a-fire-over-watching-arsenal-crowned-premier-league-winners",
+        "published": "2026-05-21T15:19:37Z",
+        "summary": "Arsenal manager Mikel Arteta did not watch Manchester City's draw that crowned Arsenal as Premier League champions; instead, he built a fire and had a barbecue at home. His eldest son told him the news, and Arteta said he wanted the players to have their moment without him. It is Arteta's first league title as manager, and he admitted to doubting himself during the campaign."
+      },
+      {
+        "title": "Afghan women’s refugee team returns to world cricket post Taliban exclusion",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/afghan-womens-refugee-team-returns-to-world-cricket-post-taliban-exclusion",
+        "published": "2026-05-21T15:53:10Z",
+        "summary": "Afghanistan's displaced female cricketers will tour England in June, marking a milestone after being excluded from sport by the Taliban. The Afghanistan Refugee team includes players who left the country and will play T20 matches and attend the Women's T20 World Cup final. The ECB said the tour stands for inclusion and the protection of women's participation in sport."
+      },
+      {
+        "title": "Putin and Lukashenko monitor joint Russia-Belarus nuclear exercises",
+        "url": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises",
+        "published": "2026-05-21T16:07:02Z",
+        "summary": "Russian President Vladimir Putin and Belarusian President Alexander Lukashenko participated via video conference in a joint nuclear forces exercise, the first time both leaders directly took part. Putin stressed that nuclear weapons use remains an extreme measure for national security. The drills included launches of Yars and Zircon missiles, and a Sineva intercontinental ballistic missile from a submarine."
+      },
+      {
+        "title": "Trump says he’ll speak to Taiwan’s leader: Why that is significant",
+        "url": "https://www.aljazeera.com/news/2026/5/21/trump-says-hell-speak-to-taiwans-leader-why-that-is-significant",
+        "published": "2026-05-21T16:31:40Z",
+        "summary": "President Donald Trump suggested he may speak with Taiwan's President William Lai Ching-te, which would mark the first direct contact between leaders since 1979. Taiwan's president said he would be 'happy' to talk, while China's foreign ministry firmly opposes official exchanges. Analysts say the remarks reflect Trump's unpredictability and could jar with Beijing."
+      },
+      {
+        "title": "French Open rejects prize money change despite tennis stars’ boycott threat",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/french-open-to-reject-prize-money-increase-despite-tennis-stars-complaints",
+        "published": "2026-05-21T16:47:02Z",
+        "summary": "French Open tournament director Amelie Mauresmo said prize money will not change this year despite players complaining about a reduced share of revenue. Top players like Aryna Sabalenka and Coco Gauff have supported a boycott threat. The players' share of revenue is alleged to be 14.3 percent, compared to 22 percent at standard ATP and WTA events."
+      },
+      {
+        "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
+        "url": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty",
+        "published": "2026-05-21T17:05:50Z",
+        "summary": "The International Court of Justice ruled that the right to strike is protected under the ILO's 1948 Freedom of Association treaty, in a 10-4 advisory opinion. The ruling is nonbinding but is expected to influence labour laws globally. The ICJ said strikes are a main tool for workers to promote their interests, but did not determine the precise scope of the right."
+      },
+      {
+        "title": "Shocked Maguire posts on Insta that he is not in England’s World Cup squad",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/shocked-maguire-posts-on-insta-that-he-is-not-in-englands-world-cup-squad",
+        "published": "2026-05-21T17:17:19Z",
+        "summary": "Manchester United defender Harry Maguire confirmed on social media that he is not in England's World Cup squad, saying he was 'shocked and gutted.' Maguire helped England reach the 2018 semifinals and Euro 2020 final, but has fallen behind other defenders. Thomas Tuchel is set to confirm his squad on Friday."
+      },
+      {
+        "title": "Mayor cuts limited World Cup tickets for New Yorkers to $50 after furore",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/mamdani-cuts-limited-world-cup-tickets-for-new-yorkers-to-50-after-furore",
+        "published": "2026-05-21T17:18:15Z",
+        "summary": "New York City Mayor Zohran Mamdani announced 1,000 tickets costing $50 for city residents to World Cup games at MetLife Stadium, excluding the final. The tickets include free bus transportation and will be distributed via a lottery starting May 25. The tickets are non-transferable to prevent resale, and the mayor said the effort ensures working people are not priced out."
+      }
+    ]
+  },
+  {
     "time": "2026-05-21T12:45:27Z",
     "window_hours": 6,
     "article_count": 17,
