@@ -1,5 +1,79 @@
 [
   {
+    "time": "2026-05-21T21:27:41Z",
+    "window_hours": 6,
+    "article_count": 11,
+    "overall_summary": "The batch covers a range of topics including UK migration and cost-of-living policies, US political shifts on Israel and Iran, World Cup-related sports and fan culture, and conflict updates from Gaza, Lebanon, and DR Congo.",
+    "articles": [
+      {
+        "title": "Net migration to the UK falls by nearly 50 percent amid tighter policies",
+        "url": "https://www.aljazeera.com/news/2026/5/21/net-migration-to-the-uk-falls-by-nearly-50-percent-amid-tighter-policies",
+        "published": "2026-05-21T17:30:44Z",
+        "summary": "The UK's net migration nearly halved to 171,000 in the 12 months to December 2025, down from 331,000 a year earlier, driven by stricter visa rules and salary thresholds. The government welcomed the drop but pledged further action, while employers raised concerns about labour shortages in sectors like care and hospitality."
+      },
+      {
+        "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+        "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel",
+        "published": "2026-05-21T18:05:12Z",
+        "summary": "A New York Times/Siena poll found nearly 75% of Democratic voters oppose US military aid to Israel, up from 45% three years ago, amid anger over Israel's war on Gaza. The poll also showed 60% of Democratic voters sympathize more with Palestinians than Israel, though this shift has not yet changed Democratic Party leadership policy."
+      },
+      {
+        "title": "Who are the 10 best FIFA World Cup players of all time?",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/who-are-the-10-best-fifa-world-cup-players-of-all-time",
+        "published": "2026-05-21T18:06:27Z",
+        "summary": "The article lists 10 all-time great World Cup players, including Zinedine Zidane, who won the 1998 World Cup for France, and Jimmy Greaves, a 1966 England winner known for rescuing a dog during the 1962 World Cup. It also mentions Ferenc Puskas, captain of Hungary's golden team, as part of the list."
+      },
+      {
+        "title": "UK launches ‘Great British Summer Savings’ to ease family costs",
+        "url": "https://www.aljazeera.com/news/2026/5/21/uk-launches-great-british-summer-savings-to-ease-family-costs",
+        "published": "2026-05-21T18:29:47Z",
+        "summary": "The UK government launched a scheme from June 25 to September 1, 2026, temporarily reducing VAT from 20% to 5% on children's meals and family tickets for attractions like theme parks and museums. The initiative, costing about 300 million pounds, also includes free local bus travel for children aged 5-15 in August."
+      },
+      {
+        "title": "Trump shifts between diplomacy and threats in Iran standoff",
+        "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff",
+        "published": "2026-05-21T19:11:17Z",
+        "summary": "President Trump has oscillated between expressing hope for a ceasefire with Iran and threatening military escalation, with Iran reviewing Washington's latest ceasefire proposal. Trump also reposted an op-ed advocating for sustained economic warfare, while reports indicated a tense phone call with Netanyahu over the future of the Iran war."
+      },
+      {
+        "title": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
+        "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss",
+        "published": "2026-05-21T19:14:34Z",
+        "summary": "The Democratic Party released an incomplete and inconclusive report on Kamala Harris's 2024 election loss to Trump, with factual errors and missing sections. Notably, the 192-page document made no mention of Gaza or Israel, despite polls suggesting the Gaza policy was a key factor in Harris's defeat."
+      },
+      {
+        "title": "Ebola tensions rise as treatment centre torched in DR Congo’s Ituri",
+        "url": "https://www.aljazeera.com/gallery/2026/5/21/ebola-tensions-rise-as-treatment-center-torched-in-congos-ituri",
+        "published": "2026-05-21T19:46:37Z",
+        "summary": "Residents in Rwampara, DR Congo, set fire to an Ebola treatment centre after authorities refused to release the body of a local man believed to have died from Ebola, highlighting mistrust over burial protocols. The incident underscores challenges in containing the outbreak amid conflict and community anger over restrictions on traditional funeral practices."
+      },
+      {
+        "title": "Fans create AI-generated team songs ahead of World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/fans-create-ai-generated-team-songs-ahead-of-world-cup-2026",
+        "published": "2026-05-21T20:00:47Z",
+        "summary": "Fans are using AI to create viral team songs for the World Cup, with millions of plays on social media, rivaling official FIFA-commissioned anthems. The trend started with a French song and spread to other teams, raising questions about authorship and copyright, though many users prefer the AI-generated tunes."
+      },
+      {
+        "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+        "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials",
+        "published": "2026-05-21T20:09:10Z",
+        "summary": "The US imposed sanctions on nine individuals, including Hezbollah MPs and Lebanese security officials, for allegedly enabling Hezbollah to undermine Lebanon's sovereignty. Hezbollah dismissed the sanctions as having no effect on its strategy, while Israel continues air raids on southern Lebanon despite a ceasefire extension."
+      },
+      {
+        "title": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr",
+        "published": "2026-05-21T21:02:16Z",
+        "summary": "Cristiano Ronaldo scored twice to lead Al-Nassr to the Saudi Pro League title with a 4-1 win over Damac, ending his wait for domestic silverware since 2020. The 41-year-old now adds the Saudi championship to his titles from England, Spain, and Italy, and is set to play in his sixth World Cup with Portugal."
+      },
+      {
+        "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+        "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo",
+        "published": "2026-05-21T21:10:02Z",
+        "summary": "Nickolay Mladenov, the Board of Peace envoy for Gaza, warned the UN Security Council that the current status quo risks becoming permanent, with a divided Gaza and Hamas still in control. He urged the council to press both Israel and Hamas to implement a ceasefire roadmap, noting that Israeli restrictions and continued killings are hindering progress."
+      }
+    ]
+  },
+  {
     "time": "2026-05-21T17:31:04Z",
     "window_hours": 6,
     "article_count": 18,
