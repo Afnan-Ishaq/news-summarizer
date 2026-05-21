@@ -1,5 +1,49 @@
 [
   {
+    "time": "2026-05-21T03:46:01Z",
+    "window_hours": 6,
+    "article_count": 6,
+    "overall_summary": "A batch of Al Jazeera articles from the last 6 hours covers a Tennessee death row inmate's potential execution with expired drugs, US condemnation of Israel's Ben-Gvir alongside sanctions on Gaza flotilla organizers, SpaceX's IPO filing, a lawsuit by police officers against Trump's anti-weaponisation fund, the US lifting sanctions on UN expert Francesca Albanese, and Nvidia's record quarterly profit and revenue.",
+    "articles": [
+      {
+        "title": "US lawyers say man on death row could be executed with expired lethal drugs | Death Penalty News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/20/us-lawyers-say-man-on-death-row-could-be-executed-with-expired-lethal-drugs",
+        "published": "2026-05-20T22:09:02Z",
+        "summary": "Lawyers for Tennessee death row inmate Tony Carruthers, scheduled for execution on Thursday, expressed concern that the state may use expired lethal injection drugs. The Tennessee Department of Correction declined to confirm whether the drugs are expired, and a federal public defender warned that expired drugs could cause a slow, painful death. The case highlights ongoing issues with drug availability due to public opposition to executions, with some states passing shield laws to keep supplier identities secret."
+      },
+      {
+        "title": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers",
+        "published": "2026-05-20T22:20:48Z",
+        "summary": "US Ambassador to Israel Mike Huckabee condemned far-right Israeli minister Itamar Ben-Gvir for a video taunting detained Gaza flotilla activists, but critics noted the condemnation came a day after the US Treasury sanctioned the flotilla organizers. Analysts described this as a double standard, with the US out of step with other Western countries that summoned Israeli ambassadors over the incident. The article questions whether the Israeli government's criticism of Ben-Gvir is motivated by the abuses or by the public relations fallout."
+      },
+      {
+        "title": "Elon Musk’s SpaceX unveils filing for blockbuster IPO | Elon Musk News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo",
+        "published": "2026-05-20T22:30:29Z",
+        "summary": "SpaceX filed for an IPO that could value the company at a record $1.75 trillion, potentially making Elon Musk the first trillionaire. The company, which generated $18.67bn in revenue last year mainly from its Starlink satellite network, plans to use the funds for Mars colonization and AI data centers in space. The share sale is expected as early as June 11, with the listing aimed for the next day."
+      },
+      {
+        "title": "US police officers sue Trump over $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/20/us-police-officers-sue-trump-over-1-8bn-anti-weaponisation-fund",
+        "published": "2026-05-20T23:32:08Z",
+        "summary": "Washington, DC police officers Harry Dunn and Daniel Hodges sued the Trump administration over a $1.776bn fund to compensate victims of alleged government 'weaponisation', arguing it could be used to reward January 6 rioters who attacked the Capitol. Both officers were injured during the attack and say the fund encourages further violence. The lawsuit seeks to dissolve the fund, noting Trump has already pardoned most participants and refused to rule out paying them from the fund."
+      },
+      {
+        "title": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/21/us-lifts-sanctions-on-francesca-albanese-un-expert-on-palestinian-rights",
+        "published": "2026-05-21T01:02:37Z",
+        "summary": "The US Treasury removed sanctions against UN special rapporteur Francesca Albanese, a week after a federal judge ruled the measures restricted her freedom of speech. The Trump administration had imposed sanctions after Albanese recommended ICC arrest warrants for Israeli leaders and published a report on companies complicit in Gaza. Albanese previously said the sanctions were 'calculated to weaken my mission'."
+      },
+      {
+        "title": "Nvidia posts record profit and revenue amid AI chip boom | Technology | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom",
+        "published": "2026-05-21T03:08:39Z",
+        "summary": "Nvidia reported record quarterly profit of $58.3bn and revenue of $81.6bn for February-April, driven by explosive demand for AI chips, with data-centre revenue surging 92% year-on-year. The company announced an $80bn stock buyback and dividend hike, but shares fell slightly in after-hours trading due to high expectations. CEO Jensen Huang cited the arrival of 'agentic AI' as a key driver, though analysts noted the muted market response reflects that expectations have caught up with fundamentals."
+      }
+    ]
+  },
+  {
     "time": "2026-05-20T21:54:35Z",
     "window_hours": 6,
     "article_count": 7,
