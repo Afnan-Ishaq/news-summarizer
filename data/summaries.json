@@ -1,5 +1,67 @@
 [
   {
+    "time": "2026-05-21T08:31:55Z",
+    "window_hours": 6,
+    "article_count": 9,
+    "overall_summary": "The batch covers a UN resolution supporting an ICJ climate ruling, NBA playoff results, South Korean market gains after a Samsung strike is averted, Iran-US diplomatic developments amid war tensions, global mental health statistics, Aston Villa's Europa League win, Taiwan's president open to speaking with Trump, DR Congo canceling a World Cup camp due to Ebola, and Israel's push for renewed conflict with Iran.",
+    "articles": [
+      {
+        "title": "UN adopts resolution supporting international court’s climate ruling | Climate Crisis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/21/un-adopts-resolution-supporting-international-courts-climate-ruling",
+        "published": "2026-05-21T06:15:56Z",
+        "summary": "The UN General Assembly voted 141-8-28 to support an ICJ ruling that states have a legal duty to prevent climate change from worsening. Vanuatu's climate minister called it a victory for frontline communities, while the US had urged members to vote no. The ICJ's July 2025 ruling found climate change an 'existential threat' requiring legal action."
+      },
+      {
+        "title": "MVP Gilgeous-Alexander stars as Thunder level series with Spurs | Basketball | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/mvp-gilgeous-alexander-stars-as-thunder-level-series-with-spurs",
+        "published": "2026-05-21T06:26:46Z",
+        "summary": "Shai Gilgeous-Alexander scored 30 points and nine assists to lead the Oklahoma City Thunder to a 122-113 win over the San Antonio Spurs, tying the Western Conference finals at 1-1. Victor Wembanyama was stifled after a strong Game 1, while both teams had players leave with injuries. The series now moves to San Antonio for Games Three and Four."
+      },
+      {
+        "title": "South Korea’s stock market soars as Samsung union calls off planned strike | Financial Markets | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/5/21/south-koreas-stock-market-soars-as-samsung-union-calls-off-planned-strike",
+        "published": "2026-05-21T06:54:01Z",
+        "summary": "South Korea's KOSPI rose over 8% after Samsung Electronics and its union reached a tentative deal to avert an 18-day strike by 48,000 workers. The agreement, pending union approval, would give workers 10.5% of operating profits. Market sentiment was also boosted by Nvidia's record $58.3bn profit, with Samsung and SK Hynix shares jumping over 7.5% and 11% respectively."
+      },
+      {
+        "title": "Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/21/iran-war-day-83-tehran-reviewing-latest-us-response-to-end-conflict",
+        "published": "2026-05-21T06:59:10Z",
+        "summary": "Iran's foreign ministry is reviewing the US response to its proposal to end the war, received via Pakistan, as Pakistan's army chief prepares to travel to Tehran. Iran's president said diplomatic paths remain open but warned against pressure. Meanwhile, Iran's new Persian Gulf Strait Authority requires vessels to get permission to transit the Strait of Hormuz, and global condemnation grows over Israel's treatment of Gaza-bound flotilla activists."
+      },
+      {
+        "title": "The numbers behind global mental health and its different disorders | Mental Health News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/21/the-numbers-behind-global-mental-health-and-its-different-disorders",
+        "published": "2026-05-21T07:05:33Z",
+        "summary": "The WHO reports over one billion people, or one in eight globally, live with a mental health condition, with anxiety and depression most common. Young people are hardest hit, and men face higher suicide rates while women experience more anxiety and depression. Mental health funding remains low, with median government spending at just 2% of health budgets, and treatment scarce in low- and middle-income countries."
+      },
+      {
+        "title": "‘King’ Emery hailed as Aston Villa beat Freiburg 3-0 in Europa League | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/2118",
+        "published": "2026-05-21T07:33:59Z",
+        "summary": "Aston Villa won the Europa League final 3-0 against Freiburg in Istanbul, ending a 30-year trophy drought and securing their first major European title since 1982. Goals from Youri Tielemans, Emiliano Buendia, and Morgan Rogers sealed the win, with Unai Emery winning his fifth Europa League title. Villa also qualified for next season's Champions League after a late-season turnaround."
+      },
+      {
+        "title": "Taiwan’s President Lai says he would be happy to speak with Donald Trump | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/21/taiwans-president-lai-says-he-would-be-happy-to-speak-with-donald-trump",
+        "published": "2026-05-21T07:41:05Z",
+        "summary": "Taiwan's President Lai Ching-te said he would be happy to speak with US President Donald Trump, a move that would break a 47-year protocol since the US shifted recognition to Beijing. Trump reiterated he would speak to Lai, as the US weighs a $14bn arms sale to Taiwan. China claims Taiwan as its territory and has not renounced force, while Lai's government insists US policy on Taiwan remains unchanged."
+      },
+      {
+        "title": "DR Congo cancel World Cup training camp in Kinshasa over Ebola outbreak | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/dr-congo-cancel-world-cup-training-camp-in-kinshasa-over-ebola-outbreak",
+        "published": "2026-05-21T07:57:44Z",
+        "summary": "DR Congo canceled a three-day World Cup training camp and public farewell in Kinshasa due to an Ebola outbreak in the east, which has killed over 130 people. The team's warm-up games against Denmark and Chile are still on, and preparations will now take place in Europe. The US has banned entry from DRC, Uganda, and South Sudan for 30 days, but the Congolese team training in Europe is not affected."
+      },
+      {
+        "title": "Israel pushes for war amid US ceasefire, but its options may be limited | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited",
+        "published": "2026-05-21T07:59:56Z",
+        "summary": "Israeli officials and media indicate renewed conflict with Iran is being considered, but Israel likely cannot act without US approval, which appears slow. An Israeli anchor revealed supposed plans to attack a uranium storage facility, later calling it hypothetical. The April 8 ceasefire has been politically costly for Netanyahu, with polls showing most Israelis view the truce as premature and expect conflict to resume."
+      }
+    ]
+  },
+  {
     "time": "2026-05-21T03:46:01Z",
     "window_hours": 6,
     "article_count": 6,
