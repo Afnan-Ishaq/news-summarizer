@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-05-22T03:42:22Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+A series of violent incidents and political developments dominate the news, including deadly attacks in Honduras, a mosque shooting in San Diego, US sanctions reversal on a UN expert, Senate pushback against Trump's fund, a Turkish court ousting an opposition leader, and Malaysia ordering TikTok to address content about the king.
+
+ARTICLE BREAKDOWN
+[1] At least 16 people killed in two attacks in northern Honduras | Crime News | Al Jazeera
+Published: 2026-05-21T22:46:52Z
+URL: https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras
+Summary: Two separate incidents of gun violence in northern Honduras killed at least 16 people. One attack occurred on a remote palm farm in Rigores, where up to 10 workers were shot dead, while the other involved an ambush of police officers during an anti-gang operation in Omoa, killing six officers. Authorities have vowed to intervene directly in the affected areas and capture those responsible.
+
+[2] Over 2,000 gather in San Diego to mourn three men killed in mosque attack | Gun Violence News | Al Jazeera
+Published: 2026-05-21T23:14:14Z
+URL: https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack
+Summary: More than 2,000 people gathered in San Diego to mourn three men killed in a shooting at the Islamic Center of San Diego on Monday. The victims—Amin Abdullah, Mansour Kaziha, and Nadir Awad—were remembered as heroes for delaying and distracting two teenage suspects, potentially preventing further bloodshed. The attack is being investigated as a hate crime, and the suspects were later found dead from self-inflicted gunshots.
+
+[3] US says it has not changed its stance on sanctioning Francesca Albanese | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-21T23:39:24Z
+URL: https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese
+Summary: The US State Department clarified that the cancellation of sanctions against UN special rapporteur Francesca Albanese was due to a court ruling, not a policy change, and that it intends to restore her to the sanctions list if the court order is overturned. Albanese was sanctioned in July 2025 after recommending ICC arrest warrants for Israeli officials, and her family successfully sued to block the sanctions as a violation of free speech. The Trump administration has appealed the court's decision.
+
+[4] US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera
+Published: 2026-05-22T00:26:31Z
+URL: https://www.aljazeera.com/news/2026/5/22/us-senate-pushes-back-against-trumps-1-8bn-anti-weaponisation-fund
+Summary: Senate Republicans delayed a vote on a $72bn immigration enforcement bill due to backlash over two Trump administration decisions: a $1.8bn 'anti-weaponisation' fund from a lawsuit settlement and a request for $1bn for a White House ballroom. Critics, including some Republican senators, called the fund 'stupid on stilts' and questioned the conflict of interest in Trump suing his own government. The ballroom funds were removed from the bill, and the Senate summoned acting Attorney General Todd Blanche for questioning.
+
+[5] Turkish court ousts leader of main opposition party | Politics News | Al Jazeera
+Published: 2026-05-22T01:25:07Z
+URL: https://www.aljazeera.com/news/2026/5/22/turkish-court-ousts-leader-of-main-opposition-party
+Summary: A Turkish court annulled the 2023 leadership election of the main opposition Republican People's Party (CHP), ousting current leader Ozgur Ozel and naming former chair Kemal Kilicdaroglu as interim leader. The CHP rejected the ruling as an 'attempted coup,' while the government said it renewed faith in the rule of law. The decision triggered a 6% drop in the Borsa Istanbul and could boost President Erdogan's political prospects.
+
+[6] Malaysia orders TikTok to address ‘defamatory’ content about king | Social Media | Al Jazeera
+Published: 2026-05-22T02:32:16Z
+URL: https://www.aljazeera.com/economy/2026/5/22/malaysia-orders-tiktok-to-address-defamatory-content-about-king
+Summary: Malaysia's internet watchdog, the MCMC, ordered TikTok to take immediate action against 'offensive and defamatory' content about King Sultan Ibrahim, including AI-generated videos and manipulated images. The regulator cited TikTok's unsatisfactory response to previous notifications and demanded stronger moderation policies. This is part of broader efforts by Malaysian authorities to regulate social media platforms, including upcoming legislation to ban under-16s from social media.
+
+================================================================================
 RUN TIME UTC: 2026-05-21T21:27:41Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
