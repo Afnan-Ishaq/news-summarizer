@@ -1,5 +1,85 @@
 [
   {
+    "time": "2026-05-22T21:10:47Z",
+    "window_hours": 6,
+    "article_count": 12,
+    "overall_summary": "A batch of Al Jazeera articles from the last 6 hours covers allegations of abuse against Gaza flotilla activists, Tulsi Gabbard's resignation as US intelligence chief, Israel's new October 7 tribunal, DRC World Cup team isolation due to Ebola, US Green Card policy changes, drone warfare in Colombia, Pep Guardiola's activism, Alberta's separation referendum, Pakistan-Iran mediation, Slovenia's new prime minister, Bolivia's political crisis, and a US judge dismissing an indictment against Kilmar Abrego Garcia.",
+    "articles": [
+      {
+        "title": "Gaza flotilla activists allege abuse, sexual assault in Israeli detention",
+        "url": "https://www.aljazeera.com/news/2026/5/22/gaza-flotilla-activists-allege-abuse-sexual-assault-in-israeli-detention",
+        "published": "2026-05-22T17:12:49Z",
+        "summary": "Organisers of the Global Sumud Flotilla say freed foreign activists abducted from international waters faced abuse in Israeli detention, with at least 15 reporting sexual assault or rape. Several activists were hospitalised with injuries, and Germany and Italy have noted the allegations. The UN expressed concern, and Israeli forces abducted about 430 people on 50 ships to halt an aid flotilla to Gaza."
+      },
+      {
+        "title": "Tulsi Gabbard resigns as Trump’s top US intelligence official",
+        "url": "https://www.aljazeera.com/news/2026/5/22/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official",
+        "published": "2026-05-22T17:34:02Z",
+        "summary": "Tulsi Gabbard resigned as US Director of National Intelligence, citing her husband's diagnosis with a rare bone cancer. President Trump confirmed the resignation, effective June 30, and named Aaron Lukas as acting director. Gabbard, a former Democrat and anti-interventionist, had faced scrutiny for actions including firing officials after a report contradicted administration claims."
+      },
+      {
+        "title": "Israel’s October 7 tribunal: Show trial of Palestinians or justice?",
+        "url": "https://www.aljazeera.com/news/2026/5/22/israel-october-7-tribunal-show-trial-palestinians",
+        "published": "2026-05-22T18:04:47Z",
+        "summary": "Israel approved a special military tribunal to try Palestinians accused of participating in the October 7, 2023 attack, with power to impose the death penalty. Analysts and rights groups, including the UN, question whether justice will be delivered, citing risks of unfair trials and abuse. The tribunal is seen by some as revenge, with many detainees being civilians, according to human rights groups."
+      },
+      {
+        "title": "US says DRC team must isolate due to Ebola before arriving for World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/us-says-congo-team-must-isolate-due-to-ebola-before-arriving-for-world-cup",
+        "published": "2026-05-22T18:18:26Z",
+        "summary": "The US requires the Democratic Republic of Congo's national football team to isolate for 21 days in Belgium before entering the US for the World Cup due to an Ebola outbreak. DRC's first game is against Portugal on June 17 in Houston. The team's members are based outside DRC, and the US is enforcing strict health protocols."
+      },
+      {
+        "title": "US says temporary visa holders should leave to apply for Green Cards",
+        "url": "https://www.aljazeera.com/news/2026/5/22/us-says-temporary-visa-holders-should-leave-to-apply-for-green-cards",
+        "published": "2026-05-22T18:37:37Z",
+        "summary": "The Trump administration says foreign nationals on temporary visas should return to their home countries to apply for Green Cards, aiming to reinforce standard immigration procedures. USCIS issued guidance stating adjustment of status is discretionary, not automatic. Immigrant advocacy groups criticized the measure, warning it could force vulnerable people to return to unsafe conditions."
+      },
+      {
+        "title": "‘I always hear them before I see them’: Drones strike fear in Colombia",
+        "url": "https://www.aljazeera.com/news/longform/2026/5/22/i-always-hear-them-before-i-see-them-drones-strike-fear-in-colombia",
+        "published": "2026-05-22T18:49:40Z",
+        "summary": "Armed groups in Colombia are increasingly using cheap, widely available drones for attacks, causing fear among civilians. The Defence Ministry reported 8,395 weaponised drone attacks in 2025, a 445 percent increase over 2024, with 20 people killed and 297 injured. The trend reflects a global rise in drone warfare, with experts warning of heightened threats to civilians."
+      },
+      {
+        "title": "From Palestine to Catalonia, Guardiola believed in more than just football",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/from-palestine-to-catalonia-guardiola-believed-in-more-than-just-football",
+        "published": "2026-05-22T18:51:04Z",
+        "summary": "Pep Guardiola, departing Manchester City after 10 years and 20 trophies, has used his platform to advocate for causes like Palestinian children in Gaza and Catalan independence. He attended a charity event for Palestine and faced criticism from Manchester's Jewish community for his remarks. Guardiola remains unbowed, emphasizing his role in speaking up for a better society."
+      },
+      {
+        "title": "Canada’s Carney says Alberta is ‘essential’ as province mulls separation",
+        "url": "https://www.aljazeera.com/news/2026/5/22/canadas-carney-says-alberta-is-essential-as-province-mulls-separation",
+        "published": "2026-05-22T19:08:38Z",
+        "summary": "Canadian Prime Minister Mark Carney said Alberta is central to his economic plans, hours after the province announced a referendum on whether to hold a separation vote. Alberta Premier Danielle Smith opposes separation but rejected a court ruling blocking a petition. The referendum is set for October 19, though polls show most Albertans do not support independence."
+      },
+      {
+        "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
+        "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks",
+        "published": "2026-05-22T19:11:05Z",
+        "summary": "Pakistan's army chief Asim Munir is in Tehran for mediation efforts to end the US-Israel war on Iran, following a temporary ceasefire on April 8. Iran's foreign ministry spokesperson said gaps between Tehran and Washington are deep, and a ceasefire is a prerequisite for future talks. US President Trump said Iran is 'dying to make a deal,' while Secretary of State Rubio noted 'slight progress.'"
+      },
+      {
+        "title": "Slovenia’s parliament approves right-wing Janez Jansa as prime minister",
+        "url": "https://www.aljazeera.com/news/2026/5/22/slovenias-parliament-approves-right-wing-janez-jansa-as-prime-minister",
+        "published": "2026-05-22T19:42:20Z",
+        "summary": "Slovenia's parliament voted 51-36 to approve right-wing politician Janez Jansa as prime minister, marking a shift from the previous liberal government. Jansa, an admirer of Trump and ally of Hungary's Orban, will need another vote to confirm his cabinet. His coalition includes centre-right groups, and he has promised to lower taxes and support private education and healthcare."
+      },
+      {
+        "title": "Bolivia in crisis: Social unrest, demands for president to resign escalate",
+        "url": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate",
+        "published": "2026-05-22T20:29:37Z",
+        "summary": "Bolivia is facing a political crisis with protests, highway blockades, and calls for President Rodrigo Paz to resign just six months into his term. The unrest began over wage increases, contaminated fuel, and a land law, with Indigenous groups blocking roads around La Paz. The government has conceded to some demands but ruled out a state of emergency."
+      },
+      {
+        "title": "US judge dismisses indictment against Kilmar Abrego Garcia",
+        "url": "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia",
+        "published": "2026-05-22T20:43:09Z",
+        "summary": "A US judge dismissed an indictment against Kilmar Abrego Garcia, finding the human smuggling probe was reopened only after he sued over his deportation to El Salvador. The judge cited a 'presumption of vindictiveness' as the case was closed before his lawsuit. Despite his return to the US, Trump officials have pledged to deport him again to a third country."
+      }
+    ]
+  },
+  {
     "time": "2026-05-22T17:09:14Z",
     "window_hours": 6,
     "article_count": 16,
