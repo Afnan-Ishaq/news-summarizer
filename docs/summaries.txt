@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-05-23T16:02:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles from May 23, 2026, covers a range of topics including an Ebola outbreak in Uganda and DR Congo, Haiti fans' exclusion from the World Cup due to costs and travel bans, a satirical Indian political movement's website being taken down, a robbery injuring F1 legend Alain Prost, DR Congo's refusal to alter World Cup plans despite US Ebola warnings, the environmental pollution from the Iran war, France banning Israeli minister Ben-Gvir, joint Turkish-Syrian arrests of ISIL suspects, rising costs threatening Mexico's food stability, a positive meeting between French Open organizers and players, and an Israeli attack killing police officers and a boy in Gaza.
+
+ARTICLE BREAKDOWN
+[1] Uganda confirms three new Ebola cases, bringing total to five | Ebola News | Al Jazeera
+Published: 2026-05-23T11:30:59Z
+URL: https://www.aljazeera.com/news/2026/5/23/uganda-confirms-three-new-ebola-cases-bringing-total-to-five
+Summary: Uganda confirmed three new Ebola cases on Saturday, bringing the total to five, including a driver who transported the first patient and a health worker. The WHO revised the risk assessment for the Bundibugyo strain to 'very high' nationally and high regionally, as nearly 750 suspected cases and 177 deaths have been recorded in neighboring DR Congo. Uganda suspended public transport to the DRC on Thursday after confirming two cases involving Congolese nationals.
+
+[2] World Cup 2026: Haiti fans feel excluded from first tournament since 1974 | World Cup 2026 News | Al Jazeera
+Published: 2026-05-23T11:48:29Z
+URL: https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-haiti-fans-feel-excluded-from-first-tournament-since-1974
+Summary: Haitian fans are excited for their team's first World Cup since 1974, but high ticket and transport prices, along with a US travel ban, are preventing many from attending. Single tickets for Haiti's match against Scotland were listed at $2,100, with parking and train costs adding hundreds more. A Boston city councillor said community tickets at low or no cost have been requested but denied, and an informal survey found no one with tickets.
+
+[3] Cockroach Janta Party's founder says Indian government took website down | Politics News | Al Jazeera
+Published: 2026-05-23T11:51:16Z
+URL: https://www.aljazeera.com/news/2026/5/23/cockroach-janta-partys-founder-says-indian-government-took-website-down
+Summary: Abhijeet Dipke, founder of the satirical Cockroach Janta Party (CJP), accused the Indian government of taking down the group's website and said his Instagram and the CJP's account were hacked. The CJP, which mocks the ruling BJP, was launched after Chief Justice Surya Kant compared unemployed youth to cockroaches, a remark he later clarified. The CJP's Instagram has over 22 million followers, and Dipke said one million people have signed up to join the movement, which is campaigning for the education minister's resignation over exam paper leaks.
+
+[4] F1 legend Prost suffers head injury in alleged robbery at Swiss home | Motorsports News | Al Jazeera
+Published: 2026-05-23T12:25:04Z
+URL: https://www.aljazeera.com/sports/2026/5/23/f1-legend-prost-suffers-head-injury-in-alleged-robbery-at-swiss-home
+Summary: Four-time Formula One world champion Alain Prost, 71, sustained a head injury during a home invasion at his home in Nyon, Switzerland, on Tuesday morning. Swiss police reported that several balaclava-wearing intruders broke in, threatened occupants, and forced a family member to open a safe before fleeing with stolen goods. The perpetrators have not been apprehended, and Prost was described as 'visibly shaken' by the incident.
+
+[5] DR Congo will not change World Cup preparations despite US Ebola warning | World Cup 2026 News | Al Jazeera
+Published: 2026-05-23T12:37:37Z
+URL: https://www.aljazeera.com/sports/2026/5/23/dr-congo-will-not-change-world-cup-preparations-despite-us-warning
+Summary: The Democratic Republic of the Congo (DRC) said it will not alter its World Cup preparations despite a US warning that the team must isolate for 21 days before entering the country due to Ebola fears. A team spokesperson noted that no player in the squad is from the DRC, as all are based in Europe, and a planned send-off trip to Kinshasa has been cancelled. The WHO raised the Ebola risk to 'very high' in the DRC, with nearly 750 suspected cases and 177 deaths recorded.
+
+[6] The pollution that outlives war | US-Israel war on Iran | Al Jazeera
+Published: 2026-05-23T12:50:27Z
+URL: https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war
+Summary: This opinion piece argues that war causes long-lasting environmental pollution, citing the US-Israel war on Iran as an example where attacks on energy infrastructure release toxic particles and threaten marine ecosystems. It references the 1991 Gulf War, where burning oil wells caused widespread contamination and led to over $50bn in UN compensation, and the ongoing war in Ukraine, which has contaminated air, rivers, and farmland. The article notes that fossil fuel systems are especially vulnerable and that conflict erodes environmental oversight, leaving communities to suffer long-term health harms.
+
+[7] France bans far-right Israeli minister Ben-Gvir over abuse of activists | Human Rights News | Al Jazeera
+Published: 2026-05-23T13:18:01Z
+URL: https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir
+Summary: France banned Israel's far-right National Security Minister Itamar Ben-Gvir from its territory after he posted footage taunting abducted flotilla activists. French Foreign Minister Jean-Noel Barrot said the decision follows Ben-Gvir's 'reprehensible actions' towards French and European citizens on the Global Sumud Flotilla. Organizers reported at least 15 cases of sexual abuse, including rape, during detention, though Israel's prison service denied the allegations.
+
+[8] Turkish and Syrian officials detain 10 individuals with alleged ISIL ties | ISIL/ISIS News | Al Jazeera
+Published: 2026-05-23T13:55:24Z
+URL: https://www.aljazeera.com/news/2026/5/23/turkish-and-syrian-officials-detain-10-individuals-with-alleged-isil-ties
+Summary: Turkish and Syrian intelligence services arrested 10 people suspected of links to ISIL in a joint operation in Syria, according to Turkish state broadcaster TRT. The suspects allegedly participated in 'terrorist attacks' in Turkiye, and Interpol had issued Red Notices for all of them. One detainee is linked to the 2015 Ankara bombings that killed over 100 people, and another, Ali Bora, is believed to have been ISIL's intelligence chief for Turkiye.
+
+[9] Rising global costs threaten Mexico's production costs and food stability | Inflation | Al Jazeera
+Published: 2026-05-23T14:11:23Z
+URL: https://www.aljazeera.com/economy/2026/5/23/rising-global-costs-threaten-mexicos-production-costs-and-food-stability
+Summary: Rising global costs of fuel and fertiliser, driven by shipping disruptions in the Strait of Hormuz, are causing steep price hikes for staples in Mexico, forcing customers to tighten budgets. Low-income households spend nearly 70 percent of their income on food, and inflation stood at 4.45 percent in April, with the basic food basket rising 8.1 percent. Rising energy prices from the US-Israel war on Iran are also pushing up logistics and transportation costs, contributing to economic stagnation.
+
+[10] French Open has 'positive' meeting with players over tennis dispute | Tennis News | Al Jazeera
+Published: 2026-05-23T14:40:21Z
+URL: https://www.aljazeera.com/sports/2026/5/23/french-open-has-positive-meeting-with-players-over-tennis-dispute
+Summary: The French Tennis Federation (FFT) held a 'positive and transparent' meeting with player representatives on Friday to discuss greater revenue sharing from Grand Slam tournaments. Players are calling for a 22 percent share of revenues by 2030, up from about 15 percent, and have limited media commitments in protest. The FFT agreed to continue dialogue, and talks with Wimbledon and US Open organizers are planned, though no meeting is set with the Australian Open.
+
+[11] Five police officers, 13 year-old boy killed in Israeli attack on Gaza | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-23T15:00:30Z
+URL: https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza
+Summary: An Israeli air strike killed five police officers and a 13-year-old boy in northern Gaza, with at least 10 others wounded, according to Gaza police. The attack on a police post is part of a pattern of targeting law enforcement, which threatens aid distribution and worsens the humanitarian crisis. Since the ceasefire on October 10, 2025, 883 people have been killed, and Israel has maintained severe restrictions on humanitarian aid entry.
+
+================================================================================
 RUN TIME UTC: 2026-05-23T11:12:39Z
 WINDOW: Last 6 hours
 ARTICLES USED: 17
