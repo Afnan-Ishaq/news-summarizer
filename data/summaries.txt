@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-05-23T20:53:23Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The batch covers a measles outbreak in Bangladesh, sports events including CAF Champions League and Premier League promotion, US diplomacy with India and Iran, protests in Spain and Serbia, and cultural news from Cannes.
+
+ARTICLE BREAKDOWN
+[1] More than 500 children die in measles outbreak in Bangladesh | Health News | Al Jazeera
+Published: 2026-05-23T15:42:05Z
+URL: https://www.aljazeera.com/news/2026/5/23/more-than-500-children-killed-in-measles-outbreak-in-bangladesh
+Summary: A measles outbreak in Bangladesh has killed over 500 children, with 13 deaths in the past 24 hours. Hospitals in Dhaka are overwhelmed, lacking intensive care beds. A mass vaccination drive has reached 18 million children, but the full impact will take months. UNICEF attributes the outbreak to immunization gaps worsened by the 2024 student-led uprising.
+
+[2] Mamelodi Sundowns vs AS FAR Rabat: CAF Champions League final preview | Football News | Al Jazeera
+Published: 2026-05-23T15:48:44Z
+URL: https://www.aljazeera.com/sports/2026/5/23/mamelodi-sundowns-vs-far-rabat-caf-champions-league-final-preview
+Summary: Mamelodi Sundowns will defend a 1-0 lead against AS FAR Rabat in the second leg of the CAF Champions League final. The match is the most valuable club game in African football history, with a record $6m prize and potential $9.5m for the FIFA Club World Cup. Sundowns coach Miguel Cardoso is under pressure after losing the last two finals and failing to win domestic trophies this season.
+
+[3] US Secretary of State kicks off India visit, invites Modi to White House | Narendra Modi News | Al Jazeera
+Published: 2026-05-23T15:52:14Z
+URL: https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house
+Summary: US Secretary of State Marco Rubio began a four-day visit to India, inviting Prime Minister Modi to the White House. The trip aims to mend ties strained by trade frictions over India's Russian oil purchases and the US-Israeli war with Iran. Rubio and Modi agreed to deepen trade and defence cooperation. A Quad meeting with Japan and Australia is also planned.
+
+[4] Hull beat Boro in world’s most lucrative game to reach Premier League | Football News | Al Jazeera
+Published: 2026-05-23T17:18:55Z
+URL: https://www.aljazeera.com/sports/2026/5/23/hull-beat-boro-in-worlds-most-lucrative-game-to-reach-premier-league
+Summary: Hull City beat Middlesbrough 1-0 in the Championship playoff final at Wembley to secure promotion to the Premier League. Oli McBurnie scored in stoppage time, averting controversy from the spy-gate scandal that saw Southampton disqualified. Hull returns to the top flight for the first time since 2017, earning an estimated 200 million pounds ($268m).
+
+[5] Thousands march in Madrid demanding Spanish PM quit over graft allegations | Protests News | Al Jazeera
+Published: 2026-05-23T17:40:41Z
+URL: https://www.aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations
+Summary: Thousands marched in Madrid demanding Prime Minister Pedro Sanchez resign over corruption scandals involving his family and entourage. The protest, backed by the PP and Vox, saw 40,000 to 120,000 participants. Sanchez's brother faces trial for influence peddling, and his wife is under investigation. Sanchez dismisses the cases as politically motivated.
+
+[6] Morocco king pardons jailed Senegal football fans from AFCON final | Football News | Al Jazeera
+Published: 2026-05-23T17:53:57Z
+URL: https://www.aljazeera.com/sports/2026/5/23/morocco-king-pardons-jailed-senegal-football-fans-for-humanitarian-reasons
+Summary: Morocco's King Mohammed VI pardoned 15 Senegalese football fans jailed after violence at the 2025 AFCON final in Rabat, citing humanitarian reasons and Eid al-Adha. The fans were sentenced for a pitch invasion after a penalty decision. CAF later awarded the match 3-0 to Morocco, and Senegal has appealed to the Court of Arbitration for Sport.
+
+[7] ‘United States of the Middle East?’: Trump posts US flag covering Iran | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-23T17:56:27Z
+URL: https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran
+Summary: President Trump posted a photo of the US flag covering Iran on Truth Social, asking 'United States of the Middle East?' Experts say this could undermine delicate ceasefire negotiations in the US-Israeli war with Iran. Both US and Iranian officials indicated progress in talks, with a potential memorandum of understanding being finalized.
+
+[8] Barcelona beat Lyon 4-0 to win Women’s Champions League | Football News | Al Jazeera
+Published: 2026-05-23T18:10:34Z
+URL: https://www.aljazeera.com/sports/2026/5/23/barcelona-beat-lyon-to-claim-womens-champions-league-final
+Summary: Barcelona defeated Lyon 4-0 in the Women's Champions League final in Oslo, securing their fourth trophy of the season. Ewa Pajor scored two goals, and Salma Paralluelo added two more in the second half. Barcelona are now four-time European champions in six seasons, dominating women's football after Lyon's previous era.
+
+[9] Tens of thousands rally in Serbia for antigovernment demonstrations | Protests News | Al Jazeera
+Published: 2026-05-23T18:58:01Z
+URL: https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations
+Summary: Tens of thousands rallied in Belgrade, led by students, calling for early elections after the Novi Sad rail station disaster in November 2024. President Vucic said elections could be held between September and November. Sporadic clashes broke out between protesters and police, with teargas used. The Council of Europe criticized the government's hardline approach.
+
+[10] Iran move World Cup base from US to Mexico with FIFA approval | World Cup 2026 News | Al Jazeera
+Published: 2026-05-23T19:18:02Z
+URL: https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval
+Summary: Iran will base their World Cup squad in Tijuana, Mexico, after FIFA approved a move from Arizona due to visa complications from the US-Israel war on Iran. The team will play Group G matches in Los Angeles and Seattle. Iran had faced uncertainty over US visas and security arrangements for the tournament.
+
+[11] ‘Fjord’ by Romania’s Cristian Mungiu wins Cannes top film prize | Cinema News | Al Jazeera
+Published: 2026-05-23T20:35:17Z
+URL: https://www.aljazeera.com/news/2026/5/23/fjord-by-romanias-cristian-mungiu-wins-cannes-top-film-prize
+Summary: Romanian director Cristian Mungiu won his second Palme d'Or at Cannes for 'Fjord,' a drama about a Christian family in Norway. The film explores clashes of values when a religious family's children are taken by child services. Mungiu called for tolerance and inclusion. The Grand Prix went to Russian war drama 'Minotaur' by Andrey Zvyagintsev.
+
+================================================================================
 RUN TIME UTC: 2026-05-23T16:02:35Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
