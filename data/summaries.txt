@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-05-24T20:56:24Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+The batch covers Iran's historical references in response to US deal talks, the final day of the Premier League season with West Ham's relegation and emotional exits, Israeli strikes in southern Lebanon amid evacuation orders, and Senegal's political crisis as the parliament speaker resigns.
+
+ARTICLE BREAKDOWN
+[1] Iran recounts historic battles in response to Trump’s talk of agreement | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-24T16:18:19Z
+URL: https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement
+Summary: Iranian officials have evoked historical battles, such as the third-century Roman-Persian conflict and the 1982 recapture of Khorramshahr, to frame the current standoff with the US as a David-versus-Goliath struggle. This comes as US President Donald Trump announced a deal with Iran is 'largely negotiated,' with both sides portraying any agreement as a victory. Iranian leaders, including the IRGC commander and President Pezeshkian, used these references to signal continued resistance and sovereignty.
+
+[2] West Ham go down as Salah and Guardiola make emotional Premier League exits | Football News | Al Jazeera
+Published: 2026-05-24T17:45:39Z
+URL: https://www.aljazeera.com/sports/2026/5/24/premier-league-west-ham-go-down-salah-and-guardiola-make-emotional-exits
+Summary: West Ham United were relegated from the Premier League despite a 3-0 win over Leeds, as Tottenham Hotspur secured survival with a 1-0 victory over Everton. The final day also featured emotional farewells for Pep Guardiola, who ended his decade-long tenure at Manchester City with a 2-1 loss, and Mohamed Salah, who kissed the Anfield turf in his last game for Liverpool. Arsenal clinched the title, while Sunderland qualified for Europe in their first season back in the top division.
+
+[3] Israeli strikes kill six in southern Lebanon amid fresh evacuation orders | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-05-24T19:09:33Z
+URL: https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders
+Summary: Israeli air strikes killed at least six people in southern Lebanon, including a paramedic and several motorcyclists, as the Israeli army issued 16 new evacuation orders. Al Jazeera's correspondent reported a significant expansion of attacks targeting populated areas, not just front lines. Hezbollah responded with drone and rocket attacks on Israeli positions, while the ongoing ceasefire remains fragile amid US-Iran peace talks.
+
+[4] Senegal parliament speaker steps down as political crisis worsens | News | Al Jazeera
+Published: 2026-05-24T20:43:21Z
+URL: https://www.aljazeera.com/news/2026/5/24/senegal-parliament-speaker-steps-down-as-political-crisis-worsens
+Summary: Senegal's parliament speaker El Malick Ndiaye resigned, clearing the way for sacked prime minister Ousmane Sonko to run for the post, potentially complicating President Bassirou Diomaye Faye's reform efforts. Faye dismissed Sonko on Friday after months of tensions, risking further delays in IMF talks amid a debt crisis. The Pastef party's strong parliamentary majority could hinder governance and the passage of reforms needed for IMF support.
+
+================================================================================
 RUN TIME UTC: 2026-05-24T16:01:03Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
