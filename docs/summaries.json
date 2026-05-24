@@ -1,5 +1,37 @@
 [
   {
+    "time": "2026-05-24T07:48:57Z",
+    "window_hours": 6,
+    "article_count": 4,
+    "overall_summary": "The batch covers a diverse range of stories: a feature on women breaking barriers in Pakistan's male-dominated tent pegging sport, a dramatic heavyweight boxing match where Usyk narrowly avoids an upset, a fatal shark attack in Australia, and escalating attacks on Ebola health centers in the eastern DRC amid community mistrust.",
+    "articles": [
+      {
+        "title": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging | Women News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging",
+        "published": "2026-05-24T06:05:18Z",
+        "summary": "The article highlights the growing participation of women in Pakistan's traditional male-dominated sport of tent pegging, known locally as 'neza baazi'. It profiles Anum Shakoor and her all-female club, Bint-e-Zahra Club, formed in 2025, as they compete in a mela near Rawalpindi. The piece notes the cultural resistance from male spectators but emphasizes the women's determination to earn equal respect and recognition in the sport."
+      },
+      {
+        "title": "Usyk avoids shock defeat with 11th-round stoppage of Verhoeven | Boxing News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven",
+        "published": "2026-05-24T06:26:04Z",
+        "summary": "Ukraine's Oleksandr Usyk narrowly avoided a major upset by stopping Dutch former kickboxer Rico Verhoeven in the 11th round of a WBC title fight in Egypt. Verhoeven, who had only one prior professional boxing fight, pushed Usyk hard, with two judges scoring the fight tied and one having Verhoeven ahead before the stoppage. Usyk retained his WBA, IBF, and WBC belts, extending his unbeaten record to 25 fights, and dedicated the win to his family and people in Ukraine amid ongoing bombing."
+      },
+      {
+        "title": "Man dies in northeast Australia after shark attack | Wildlife News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack",
+        "published": "2026-05-24T07:13:57Z",
+        "summary": "A man died after being bitten by a shark near Kennedy Shoal off the coast of Queensland, Australia, on Sunday. He was rushed to shore but died shortly after being met by an ambulance. Local beaches have been closed for safety assessment, and this marks the second fatal shark attack in Australia in just over a week, following a death near Perth on May 16."
+      },
+      {
+        "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears",
+        "published": "2026-05-24T07:29:21Z",
+        "summary": "Attacks on Ebola health facilities are escalating in eastern DRC, driven by community anger and mistrust over strict burial protocols that prevent traditional farewells. Recent incidents include a health centre stormed by residents demanding bodies and a Doctors Without Borders tent set on fire after a patient's death. Health workers face resistance fueled by rumors and fear, while the outbreak has already caused nearly 180 deaths and close to 800 cases as of Saturday."
+      }
+    ]
+  },
+  {
     "time": "2026-05-24T03:39:14Z",
     "window_hours": 6,
     "article_count": 1,
