@@ -1,4 +1,73 @@
 ================================================================================
+RUN TIME UTC: 2026-05-24T11:17:41Z
+WINDOW: Last 6 hours
+ARTICLES USED: 12
+
+OVERALL SUMMARY
+The batch covers a range of topics including NBA playoffs, Russia-Iran historical tensions, a suicide bombing in Pakistan, Russian missile attacks on Kyiv, the humanitarian crisis in Yemen, a White House security incident, and multiple articles on potential US-Iran peace talks to end the war. Also included are stories about Senegalese football fans pardoned in Morocco, Cape Verde's World Cup debut, and an opinion piece on GCC economic resilience.
+
+ARTICLE BREAKDOWN
+[1] Knicks beat Cavaliers to reach brink of NBA Finals | Basketball | Al Jazeera
+Published: 2026-05-24T07:37:52Z
+URL: https://www.aljazeera.com/sports/2026/5/24/knicks-beat-cavaliers-to-reach-brink-of-nba-finals
+Summary: The New York Knicks defeated the Cleveland Cavaliers 121-108 to take a 3-0 lead in the Eastern Conference finals, putting them on the verge of their first NBA Finals since 1999. Jalen Brunson scored 30 points, and the Knicks extended their playoff win streak to 10 games. No NBA team has ever recovered from a 3-0 deficit to win a series. Game four is scheduled for Monday in Cleveland.
+
+[2] “They don’t like each other:” Is Russia and Iran’s alliance falling apart? | US-Israel war on Iran | Al Jazeera
+Published: 2026-05-24T08:10:30Z
+URL: https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart
+Summary: The article explores historical tensions between Russia and Iran, focusing on the 1829 killing of Russian ambassador Aleksander Griboyedov in Tehran. Griboyedov was killed after refusing to hand over fugitive Armenians, amid anger over a massive war indemnity imposed by Russia. The incident remains a cultural symbol of confrontation between the two nations. The piece questions whether the current Russia-Iran alliance is weakening.
+
+[3] Suicide car bomb attack on train in Pakistan kills at least 24 | Conflict News | Al Jazeera
+Published: 2026-05-24T08:21:58Z
+URL: https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people
+Summary: A suicide car bomb attack on a train carrying soldiers in Quetta, Balochistan, killed at least 24 people and wounded more than 50. The Balochistan Liberation Army claimed responsibility. Several buildings and train carriages were damaged or caught fire. Pakistani Prime Minister Shehbaz Sharif condemned the attack, vowing to eliminate terrorism.
+
+[4] Russian attacks on Ukraine’s Kyiv kill at least four people | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-24T08:22:40Z
+URL: https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people
+Summary: Russia launched massive missile and drone attacks on Kyiv and its surrounding areas, killing four people and wounding more than 60. The attack included an Oreshnik hypersonic ballistic missile, used for the third time in the war, along with 600 drones and 90 missiles. Ukraine's air force said it destroyed or jammed 549 drones and 55 missiles. The strikes were described as retaliation for Ukrainian attacks in Russian-occupied eastern Ukraine.
+
+[5] Yemen war sees scramble for scant resources between displaced and locals | Humanitarian Crises News | Al Jazeera
+Published: 2026-05-24T08:47:45Z
+URL: https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals
+Summary: The article reports on the dire situation at the Maryamah IDP camp in Seiyun, Yemen, where reduced aid and economic crisis have led to extreme suffering. Displaced families, like that of Ali Sagher Shareem, struggle to find food, medicine, and shelter. Local residents also face hardship as resources become scarce. Temperatures in summer average 40°C, with no way to cool tents due to power cuts.
+
+[6] Gunman shot dead by Secret Service agents near White House: What we know | News | Al Jazeera
+Published: 2026-05-24T09:06:09Z
+URL: https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know
+Summary: A gunman, identified as 21-year-old Nasire Best from Maryland, was shot dead by Secret Service agents after opening fire at a security checkpoint near the White House. A bystander was wounded. Best had a documented history of mental health issues and had previously attempted to approach the White House. President Donald Trump was in the White House but was not harmed.
+
+[7] US, Iran inch closer to deal to end the war: What to know | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-24T09:37:52Z
+URL: https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know
+Summary: US President Donald Trump said a potential agreement with Iran to end the war is 'largely negotiated', including reopening the Strait of Hormuz. The proposed memorandum of understanding would involve multiple countries and address Iran's nuclear programme. However, Iranian officials say major disagreements remain, particularly over the strait's status and nuclear issues. The deal would unfold in stages, including a 30-day negotiation window for broader peace.
+
+[8] Marco Rubio says ‘significant progress’ made in US-Iran talks to end war | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-24T10:01:44Z
+URL: https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war
+Summary: US Secretary of State Marco Rubio said 'significant progress' has been made in talks to end the US-Israeli war on Iran, echoing Trump's claims. Rubio stated the emerging deal would address the Strait of Hormuz and prevent Iran from obtaining nuclear weapons. Iran's Tasnim News Agency reported that shipping through the strait could return to pre-war levels within 30 days under a potential agreement. The deal also includes lifting the US naval blockade on Iranian ports and releasing some of Iran's frozen funds.
+
+[9] Senegal football fans return home after royal pardon in Morocco | Football News | Al Jazeera
+Published: 2026-05-24T10:13:31Z
+URL: https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco
+Summary: A group of Senegalese football supporters jailed after the AFCON 2025 final in Morocco have returned home after being pardoned by King Mohammed VI on humanitarian grounds. The fans were sentenced for hooliganism following a chaotic match that Senegal won, but which was later awarded to Morocco on appeal. Senegalese President Bassirou Diomaye Faye welcomed them at the airport. The incident had strained relations between the two countries.
+
+[10] Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’ | News | Al Jazeera
+Published: 2026-05-24T10:25:43Z
+URL: https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust
+Summary: On day 86 of the Iran war, Trump announced a potential memorandum of understanding to reopen the Strait of Hormuz, with Pakistan mediating. Iranian media pushed back on some claims, saying Iran would remain in charge of the strait. Israeli Prime Minister Netanyahu is expected to hold a security cabinet meeting to discuss the deal. Iran's foreign ministry noted a 'trend towards rapprochement' but cautioned that an agreement is not yet certain.
+
+[11] What to know about Cape Verde at World Cup 2026 | World Cup 2026 News | Al Jazeera
+Published: 2026-05-24T11:02:03Z
+URL: https://www.aljazeera.com/sports/2026/5/24/what-to-know-about-cape-verde-at-world-cup-2026
+Summary: Cape Verde is making its World Cup debut in 2026, qualifying by topping a group that included Cameroon and Angola. The country is the third-smallest to qualify for the tournament. Cape Verde has played at four Africa Cup of Nations, reaching the quarter-finals twice. They are in Group H with Spain, Uruguay, and Saudi Arabia, with all group matches to be played in the US.
+
+[12] The GCC should insure itself against the next Strait of Hormuz crisis | GCC | Al Jazeera
+Published: 2026-05-24T11:07:26Z
+URL: https://www.aljazeera.com/opinions/2026/5/24/the-gcc-should-insure-itself-against-the-next-strait-of-hormuz-crisis
+Summary: The opinion piece argues that the US-Israel war on Iran has affected GCC states differently, with Kuwait, Bahrain, and Qatar hit hardest by the Strait of Hormuz closure. It calls for collective action, such as swap arrangements, to mitigate future crises and prevent a zero-sum competition among Gulf states. The author warns that unilateral responses threaten GCC unity and global leverage. Practical steps like physical, contractual, and quality swap deals are suggested.
+
+================================================================================
 RUN TIME UTC: 2026-05-24T07:48:57Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
