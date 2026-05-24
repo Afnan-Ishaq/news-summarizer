@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-05-24T16:01:03Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+The batch covers a range of events including an Israeli attack on Gaza killing a family, student-led protests in Serbia, a deadly train blast in Pakistan, Texas primary run-off analysis, Syria's health crisis, Israel blocking Gaza's Hajj pilgrimage, France banning Israeli minister Ben-Gvir, Bahrain jailing defendants for ties to Iran, and a New York exhibition of Epstein files.
+
+ARTICLE BREAKDOWN
+[1] Israeli attack on Gaza kills three family members, including infant
+Published: 2026-05-24T11:41:58Z
+URL: https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant
+Summary: An Israeli air raid on a home in Gaza's Nuseirat refugee camp killed three family members, including a six-month-old child, according to medical workers. The attack wounded about 10 people, and Israel has continued near-daily attacks since a ceasefire in October, with Gaza health authorities reporting nearly 900 deaths since then. The article also notes that Israeli forces demolished homes and carried out air raids on Deir el-Balah, and that talks between Israel and Hamas have stalled.
+
+[2] Clashes in Belgrade as student-led protests demand elections
+Published: 2026-05-24T11:48:02Z
+URL: https://www.aljazeera.com/gallery/2026/5/24/clashes-in-belgrade-as-student-led-protests-demand-elections
+Summary: Clashes broke out between protesters and riot police in Belgrade after an antigovernment rally organized by a student movement. Demonstrators demanded early elections and the rule of law, accusing the government of corruption, and challenged President Aleksandar Vucic's rule. The protests, which began over a train station tragedy in 2024, have persisted despite a crackdown, and the Council of Europe's human rights commissioner criticized Serbia's government for its tactics.
+
+[3] Blast hits train in Pakistan’s Balochistan, killing at least 24 people
+Published: 2026-05-24T12:19:02Z
+URL: https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people
+Summary: At least 24 people were killed and more than 50 wounded in a blast targeting a train carrying military personnel in Quetta, Pakistan. The attack involved an explosive-laden car hitting a carriage, causing two carriages to overturn and catch fire. The Balochistan Liberation Army separatist group claimed responsibility for the attack.
+
+[4] Will the Texas primary run-off give Democrats a chance to flip the state?
+Published: 2026-05-24T13:30:46Z
+URL: https://www.aljazeera.com/news/2026/5/24/will-the-texas-primary-run-off-give-democrats-a-chance-to-flip-the-state
+Summary: Voters in Texas will vote in a Republican run-off for the US Senate primary between Ken Paxton, endorsed by President Trump, and incumbent John Cornyn. The winner will face Democratic nominee James Talarico in November, and Democrats see a potential opportunity as Paxton is considered less likely to fare well due to his controversial history. The article analyzes why Texas, which has not elected a Democrat statewide since 1994, is becoming more competitive.
+
+[5] Syria cannot heal without a rebuilt health system
+Published: 2026-05-24T13:53:31Z
+URL: https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health
+Summary: The article argues that Syria's health system is fractured after 14 years of conflict, with many returnees unable to access proper healthcare. A report by Relief International found that 78 percent of returnees in Deir Az Zor reported healthcare was unavailable, and communities face shortages of staff and equipment. The author calls for large-scale international action to restore health services, highlighting issues like malnutrition, chronic disease, and mental health distress.
+
+[6] For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims
+Published: 2026-05-24T14:00:23Z
+URL: https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims
+Summary: Israel has blocked Gaza Muslims from performing the Hajj pilgrimage for the third consecutive year, with border closures preventing travel. The article profiles individuals like Hanan al-Hams, who lost her son and home in the war, and notes that over 10,000 citizens have been prevented from performing Hajj. The deprivation is described as part of a systematic dismantling of Gaza's religious tourism economy, with a study calling it 'structural economic genocide.'
+
+[7] France bans Ben-Gvir: Which other Israeli leaders have been penalised?
+Published: 2026-05-24T14:01:27Z
+URL: https://www.aljazeera.com/news/2026/5/24/france-bans-ben-gvir-which-other-israeli-leaders-have-been-penalised
+Summary: France banned Israeli far-right minister Itamar Ben-Gvir from entering its territory after he taunted detained Gaza flotilla activists. The article lists other Israeli leaders and entities penalized, including the International Criminal Court issuing arrest warrants for Prime Minister Benjamin Netanyahu and former Defence Minister Yoav Gallant for their conduct in the Gaza war. Poland also barred Ben-Gvir, and the European Union has imposed sanctions on Israeli settlers.
+
+[8] Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC
+Published: 2026-05-24T14:16:50Z
+URL: https://www.aljazeera.com/news/2026/5/24/bahrain-jails-nine-defendants-for-life-for-cooperating-with-irans-irgc
+Summary: Bahrain sentenced nine people to life in prison for carrying out 'hostile and terrorist acts' in cooperation with Iran's Islamic Revolutionary Guard Corps, with two others jailed for three years. The convictions came amid an intensified crackdown following Iranian strikes on Bahrain after the US and Israel launched a war on Iran. Authorities accused the defendants of photographing strategic sites and facilitating fund transfers, and other Gulf states have also arrested individuals accused of cooperating with Iran.
+
+[9] ‘A paper city’: New York ‘library’ hosts 3.5 million pages of Epstein files
+Published: 2026-05-24T15:15:26Z
+URL: https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files
+Summary: A New York gallery has been transformed into a physical archive holding 3.5 million pages of law enforcement documents related to convicted sex offender Jeffrey Epstein, organized by the Institute for Primary Facts. The exhibition, titled 'The Donald J Trump and Jeffrey Epstein Memorial Reading Room,' aims to shed light on cases that never went to trial and has drawn survivors. Organizers say the physicality of the documents forces visitors to confront the scale of Epstein's crimes and the number of lives affected.
+
+================================================================================
 RUN TIME UTC: 2026-05-24T11:17:41Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
