@@ -1,4 +1,18 @@
 ================================================================================
+RUN TIME UTC: 2026-05-24T03:39:14Z
+WINDOW: Last 6 hours
+ARTICLES USED: 1
+
+OVERALL SUMMARY
+A gunman opened fire at a White House security checkpoint and was fatally shot by Secret Service officers; a bystander was also wounded. President Trump was inside and unharmed, and the White House was locked down.
+
+ARTICLE BREAKDOWN
+[1] US Secret Service fatally shoots gunman who fired at White House checkpoint
+Published: 2026-05-23T22:52:43Z
+URL: https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house
+Summary: A man was shot dead by US Secret Service officers after opening fire on a security checkpoint near the White House. The suspect approached the checkpoint, pulled a weapon from his bag, and began shooting; officers returned fire, killing him. A bystander was also wounded, though it is unclear if they were hit by the suspect's initial fire or the exchange. President Trump was inside the White House and unharmed, and the White House was placed under lockdown.
+
+================================================================================
 RUN TIME UTC: 2026-05-23T20:53:23Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
