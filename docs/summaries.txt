@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-05-25T21:07:19Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The batch covers a wide range of global events, including the start of the Hajj pilgrimage amid regional tensions, a new jail term for a Tunisian presidential critic, subdued Liberation Day celebrations in Lebanon under renewed Israeli occupation, an escalation of Israeli attacks in Gaza and Lebanon, Mexico hosting Iran's World Cup team, Bolivia's president taking a salary cut amid protests, analysis of Lebanon's ongoing conflict, Trump's push for Israel normalisation as part of a potential Iran deal, a guilty plea by a former SNP chief, and the detention of a Russian priest in the Czech Republic.
+
+ARTICLE BREAKDOWN
+[1] Over 1.5 million pilgrims begin Hajj amid regional tensions | Religion News | Al Jazeera
+Published: 2026-05-25T17:05:49Z
+URL: https://www.aljazeera.com/gallery/2026/5/25/over-1-5-million-pilgrims-begin-hajj-amid-regional-tensions
+Summary: More than 1.5 million pilgrims have begun the Hajj pilgrimage in Saudi Arabia, described as a transformative journey, amid a fragile ceasefire in the Iran war and a global energy crisis. Pilgrims have been circling the Kaaba in sweltering heat, with many expressing gratitude and spiritual renewal. The pilgrimage unfolds as the US, Iran, and regional allies discuss a potential memorandum of understanding that could reopen the Strait of Hormuz.
+
+[2] Tunisian court hands presidential critic Sonia Dahmani new jail term | Freedom of the Press News | Al Jazeera
+Published: 2026-05-25T17:39:48Z
+URL: https://www.aljazeera.com/news/2026/5/25/tunisian-court-hands-presidential-critic-sonia-dahmani-new-jail-term
+Summary: Tunisian lawyer and columnist Sonia Dahmani has been sentenced to two years in jail for criticising prison conditions, the latest in a string of convictions against President Kais Saied's critics. The case is based on Decree 54, a 'false information' law condemned by human rights groups as a tool of political repression. Dahmani faces prosecution in five separate cases and has lodged an appeal against this verdict.
+
+[3] Subdued Lebanon Liberation Day celebrations under new Israeli occupation | Israel attacks Lebanon | Al Jazeera
+Published: 2026-05-25T17:39:54Z
+URL: https://www.aljazeera.com/features/2026/5/25/subdued-lebanon-liberation-day-celebrations-under-new-israeli-occupation
+Summary: Lebanon's Liberation Day, marking the 2000 withdrawal of Israeli troops, was subdued this year due to a new Israeli occupation of the south that began in March. Over 1.2 million people have been displaced, predominantly from south Lebanon and Beirut's southern suburbs. Many Lebanese fear a protracted occupation is repeating itself, with 3,151 people killed since March 2, according to Lebanon's Ministry of Public Health.
+
+[4] Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls | Benjamin Netanyahu News | Al Jazeera
+Published: 2026-05-25T17:46:09Z
+URL: https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls
+Summary: Seven months after a ceasefire was brokered, Israel has killed at least 880 more Palestinians in Gaza, with analysts warning Prime Minister Netanyahu is stalling peace to appease his right-wing coalition ahead of September elections. The UN Human Rights Office says Israel has transformed the ceasefire into cover for ongoing war crimes, including systematic demolitions and forced evacuations. Rights groups warn that nearly 90 percent of Gaza's buildings have been destroyed, making the territory uninhabitable.
+
+[5] Mexico to host Iran team during 2026 FIFA World Cup amid US tensions | World Cup 2026 News | Al Jazeera
+Published: 2026-05-25T18:11:02Z
+URL: https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup
+Summary: Mexican President Claudia Sheinbaum announced that Mexico will host the Iranian national football team during the 2026 FIFA World Cup after the US said it did not wish to do so due to tensions. Iran had been scheduled to play group matches in the US, but visa issues and the US-Israeli war against Iran have complicated participation. The team plans to move its training base from Arizona to Tijuana, Mexico, to avoid visa complications.
+
+[6] Bolivia’s embattled president says will take a 50 percent salary cut | Business and Economy News | Al Jazeera
+Published: 2026-05-25T18:31:09Z
+URL: https://www.aljazeera.com/economy/2026/5/25/bolivias-embattled-president-says-will-take-a-50-percent-salary-cut
+Summary: Bolivian President Rodrigo Paz announced he will cut his salary and those of his cabinet ministers by 50 percent amid a political crisis marked by protests and roadblocks demanding his resignation. The protests, now in their fourth week, have caused shortages of food, fuel, and medicine in La Paz and El Alto. Paz defended the pay cuts as demonstrating the government's commitment, while protesters demand a rollback of austerity measures and restoration of fuel subsidies.
+
+[7] In Lebanon, everything and nothing has changed since 2000 | Israel attacks Lebanon | Al Jazeera
+Published: 2026-05-25T18:56:24Z
+URL: https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000
+Summary: An opinion piece argues that while technology and regional dynamics have changed since Israel's 2000 withdrawal from Lebanon, the unresolved issue of Palestine continues to drive conflict. Hezbollah has been reborn as a leaner force, and Iran remains determined to see Lebanon covered by any regional deal. The population remains split over Hezbollah's role, and the government seems unable to act decisively.
+
+[8] Trump dangles normalisation amid pro-Israel criticism of possible Iran deal | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-25T19:59:37Z
+URL: https://www.aljazeera.com/news/2026/5/25/trump-dangles-normalisation-amid-pro-israel-criticism-of-possible-iran-deal
+Summary: US President Donald Trump has proposed that regional countries, including Saudi Arabia and Pakistan, establish formal relations with Israel as part of a potential deal with Iran, softening criticism from pro-Israel advocates. Senator Lindsey Graham praised the move as 'simply brilliant' after initially warning against the deal. Trump said it should be 'mandatory' for countries to sign onto the Abraham Accords, though none have responded to his call.
+
+[9] Ex-Scottish National Party chief pleads guilty to embezzling funds | Politics News | Al Jazeera
+Published: 2026-05-25T20:07:52Z
+URL: https://www.aljazeera.com/news/2026/5/25/ex-scottish-national-party-chief-pleads-guilty-to-embezzling-funds
+Summary: Peter Murrell, former chief executive of the Scottish National Party and ex-husband of former First Minister Nicola Sturgeon, pleaded guilty to embezzling more than 400,000 British pounds from party funds. The offences occurred between 2010 and 2022, and Murrell was remanded in custody pending sentencing on June 23. Sturgeon said she was 'utterly appalled' and had no knowledge of the embezzlement.
+
+[10] Israel to intensify Lebanon offensive in bid to ‘crush’ Hezbollah | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-05-25T20:49:28Z
+URL: https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah
+Summary: Israeli Prime Minister Benjamin Netanyahu ordered the military to intensify strikes against Hezbollah in Lebanon to 'crush' the group, despite a recent ceasefire extension. The Israeli military launched attacks on Hezbollah infrastructure in the Beqaa Valley, sparking an exodus from Beirut's southern suburbs. The escalation came as Lebanon marked Liberation Day, with far-right ministers calling for resumed bombing of Beirut.
+
+[11] Czech police detain Russian priest over ‘white substance’ find | Crime News | Al Jazeera
+Published: 2026-05-25T20:55:00Z
+URL: https://www.aljazeera.com/news/2026/5/25/czech-police-detain-russian-priest-over-white-substance-find
+Summary: Czech police detained Russian Orthodox Bishop Hilarion after four containers of a suspicious white substance were found in his car in Karlovy Vary. The cleric denied any involvement in drug trafficking, and his defence called for independent forensic analysis. Russia condemned the detention as an 'orchestrated provocation' and demanded his immediate release.
+
+================================================================================
 RUN TIME UTC: 2026-05-25T17:06:45Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
