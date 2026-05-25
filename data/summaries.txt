@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-05-25T13:29:42Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a range of topics including Lionel Messi's injury scare ahead of the World Cup, the Hajj pilgrimage and the Kaaba's Kiswah, Israeli attacks in Lebanon, political tensions affecting Eid al-Adha in India's West Bengal, China-Pakistan diplomatic ties, the urgent need for a US-Iran deal, Spain's World Cup squad announcement, historical World Cup upsets, and Brazil's growing role as an oil supplier amid the Iran war.
+
+ARTICLE BREAKDOWN
+[1] Messi at the World Cup: Inter Miami injury update, substitution | Football | Al Jazeera
+Published: 2026-05-25T09:14:05Z
+URL: https://www.aljazeera.com/sports/2026/5/25/messi-at-the-world-cup-inter-miami-injury-update-substitution
+Summary: Lionel Messi requested a substitution in the 73rd minute of Inter Miami's MLS game against Philadelphia Union, raising concerns about his fitness for Argentina's World Cup title defence. He gestured to the back of his left leg and walked off the pitch, later heading to the dressing room without medical personnel. Inter Miami coach Guillermo Hoyos said it was too early to determine if Messi was injured, suggesting the substitution was precautionary due to fatigue and pitch conditions.
+
+[2] What’s inside the Kaaba and what covers it? The story of the Kiswah | Religion News | Al Jazeera
+Published: 2026-05-25T09:46:57Z
+URL: https://www.aljazeera.com/features/2026/5/25/whats-inside-the-kaaba-and-what-covers-it-the-story-of-the-kiswah
+Summary: The article explains the Kaaba, Islam's holiest site, which is draped in a black silk cloth called the Kiswah, embroidered with gold and silver thread. It details the Kaaba's dimensions, its gold door, and its modest interior with wooden pillars and marble floors. The piece also covers the historical and religious significance of the Kaaba, including its construction by Prophet Abraham and its role as the qibla for Muslims worldwide.
+
+[3] Israel kills three in attacks on Lebanon, issues more displacement orders | News | Al Jazeera
+Published: 2026-05-25T10:10:16Z
+URL: https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders
+Summary: Israeli air attacks on vehicles in southern Lebanon killed at least three people, according to Lebanon's National News Agency. The Israeli military issued forced displacement orders for residents of 10 villages, citing Hezbollah's violation of the ceasefire agreement. Israeli forces also struck multiple towns, and drones were reported hovering over Beirut. The article notes that over 3,000 people have been killed since hostilities resumed on March 2, despite a US-mediated ceasefire.
+
+[4] Cattle market empties as fear grips Eid preparations in India’s West Bengal | Religion News | Al Jazeera
+Published: 2026-05-25T11:23:26Z
+URL: https://www.aljazeera.com/news/2026/5/25/cattle-market-empties-as-fear-grips-eid-preparations-in-indias-west-bengal
+Summary: The Dhulagarh cattle market near Kolkata is deserted days before Eid al-Adha, as traders fear reprisals after the BJP won West Bengal for the first time. New Chief Minister Suvendu Adhikari ordered strict implementation of a 1950 law banning cattle slaughter without a government certificate, disrupting traditional Eid preparations. The article highlights how the political shift has created fear among sellers and buyers, impacting the ritualistic sacrifice of animals for the festival.
+
+[5] China’s Xi praises ‘unbreakable’ Pakistan ties as Sharif visits Beijing | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-25T11:23:26Z
+URL: https://www.aljazeera.com/news/2026/5/25/chinas-xi-praises-unbreakable-pakistan-ties-as-sharif-visits-beijing
+Summary: Chinese President Xi Jinping praised the 'unbreakable' friendship with Pakistan during a meeting with Prime Minister Shehbaz Sharif in Beijing. Sharif called the two countries 'iron brothers' and highlighted Pakistan's role in mediating talks to end the US-Israel war on Iran. Xi expressed appreciation for Pakistan's constructive role in Middle East peace, as both nations seek to deepen their 'all-weather' strategic partnership.
+
+[6] The world urgently needs a US-Iran deal now | US-Israel war on Iran | Al Jazeera
+Published: 2026-05-25T11:28:24Z
+URL: https://www.aljazeera.com/opinions/2026/5/25/the-world-urgently-needs-a-us-iran-deal-now
+Summary: This opinion piece argues that a US-Iran deal is urgently needed to prevent deepening global energy, food, and cost-of-living crises centered on the Strait of Hormuz. It notes that disruptions to shipping have driven up freight costs and energy prices, with severe impacts on developing economies dependent on imported fuel and food. The article warns that without a durable agreement, inflationary shocks could worsen debt crises and social instability worldwide.
+
+[7] Yamal in Spain’s World Cup squad, but no room for Real Madrid players | World Cup 2026 News | Al Jazeera
+Published: 2026-05-25T11:49:10Z
+URL: https://www.aljazeera.com/sports/2026/5/25/yamal-in-spains-world-cup-squad-but-no-room-for-real-madrid-players
+Summary: Spain's World Cup squad includes Lamine Yamal and seven other Barcelona players, but no Real Madrid players for the first time since 1950. Coach Luis de la Fuente downplayed the absence of Madrid players, emphasizing the quality of the selected squad, which also includes seven Arsenal players. Yamal and Nico Williams are nursing hamstring injuries, but De la Fuente expressed confidence they will be available for the tournament.
+
+[8] What are the biggest FIFA World Cup upsets in history? | World Cup 2026 News | Al Jazeera
+Published: 2026-05-25T11:57:24Z
+URL: https://www.aljazeera.com/sports/2026/5/25/what-are-the-biggest-fifa-world-cup-upsets-in-history
+Summary: The article lists major World Cup upsets, including the USA's 1-0 win over England in 1950, West Germany's 'Miracle of Bern' victory over Hungary in 1954, and North Korea's 1-0 win over Italy in 1966. It highlights how underdog teams have shocked football giants throughout history, such as Saudi Arabia's upset of eventual champions Argentina in 2022.
+
+[9] Could Brazilian oil emerge as one of the big winners of the Iran war? | Energy News | Al Jazeera
+Published: 2026-05-25T13:00:15Z
+URL: https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war
+Summary: China and India are increasing imports of Brazilian crude oil as disruptions in the Strait of Hormuz affect Middle Eastern supplies. Brazil's oil exports to Asia rose from 1.2 million barrels per day in 2025 to about 1.8 million bpd between January and May 2026. Analysts note that while Brazil cannot replace the Middle East as Asia's main supplier, its oil has become more attractive due to reduced exposure to Gulf shipping risks.
+
+================================================================================
 RUN TIME UTC: 2026-05-25T08:57:03Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
