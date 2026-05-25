@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-05-25T17:06:45Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "The batch covers five major stories: the WHO's warning about the escalating Ebola outbreak in the DRC and Uganda, allegations of abuse by Australian activists detained by Israel during a Gaza aid flotilla, a deadly train bombing in Pakistan's Balochistan claimed by separatists, Russia's threat of systematic strikes on Kyiv in retaliation for a Ukrainian drone attack, and Pope Leo XIV's first encyclical calling for the 'disarming' of AI to prevent domination and harm.",
+    "articles": [
+      {
+        "title": "WHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’",
+        "url": "https://www.aljazeera.com/news/2026/5/25/who-chief-says-suspected-ebola-deaths-at-220-as-epidemic-outpacing-us",
+        "published": "2026-05-25T14:32:56Z",
+        "summary": "The WHO director-general reported 220 suspected Ebola deaths, stating a delay in detection means responders are 'playing catch-up' and the epidemic is outpacing them. Uganda confirmed two more cases, bringing its total to seven, while the epicenter remains in the DRC's Ituri province. No vaccine or treatment exists for the rare Bundibugyo strain, and the WHO declared the outbreak a public health emergency of international concern last week."
+      },
+      {
+        "title": "Australian Gaza aid flotilla activists allege abuse after Israeli abduction",
+        "url": "https://www.aljazeera.com/news/2026/5/25/australian-gaza-aid-flotilla-activists-allege-abuse-after-israeli-abduction",
+        "published": "2026-05-25T14:33:35Z",
+        "summary": "Australian activists detained by Israel while attempting to deliver aid to Gaza have returned home, alleging abuse, sexual assaults, and beatings. One activist, Juliet Lamont, said she was dragged, sexually assaulted, and beaten during detention, while another reported a fractured rib. Organizers say at least 15 detainees reported sexual assault or rape, and a Malaysian official promised to take Israel to court over the alleged mistreatment."
+      },
+      {
+        "title": "Train bomb in Pakistan’s Baloch region: Why violence is on the rise",
+        "url": "https://www.aljazeera.com/news/2026/5/25/train-bomb-in-pakistans-baloch-region-why-violence-is-on-the-rise",
+        "published": "2026-05-25T15:43:21Z",
+        "summary": "At least 24 people were killed and more than 50 injured in a suicide car bomb attack on a train carrying soldiers in Quetta, Balochistan, claimed by the Balochistan Liberation Army (BLA). The attack occurred during Pakistan's PM Shehbaz Sharif's visit to China and targeted Chinese-backed infrastructure projects. The article examines the recent uptick in BLA violence, which objects to large-scale Chinese investment in the region."
+      },
+      {
+        "title": "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’",
+        "url": "https://www.aljazeera.com/news/2026/5/25/russia-warns-foreigners-to-leave-kyiv-as-it-prepares-systematic-strikes",
+        "published": "2026-05-25T16:12:52Z",
+        "summary": "Russia announced plans for 'systematic strikes' on Kyiv's defense industrial facilities, urging foreign citizens to leave the city, in response to a Ukrainian drone attack on a student dorm in Starobilsk that killed at least 18. Ukraine denied responsibility for the dorm strike, saying it targeted a drone command unit. Ukraine's foreign minister urged allies not to give in to 'Russian blackmail,' while foreign diplomats visited a damaged Kyiv neighborhood."
+      },
+      {
+        "title": "Pope says AI must be ‘disarmed’ to prevent domination, exclusion, and death",
+        "url": "https://www.aljazeera.com/news/2026/5/25/pope-says-ai-must-be-disarmed-to-prevent-domination-exclusion-and-death",
+        "published": "2026-05-25T16:26:46Z",
+        "summary": "Pope Leo XIV, in his first encyclical titled 'Magnifica Humanitas,' called for the 'disarming' of AI to prevent domination, exclusion, and death, warning against a race for dominance driven by geopolitical or commercial interests. He insisted AI data ownership must not be left solely in private hands and urged robust legal frameworks and independent oversight. The encyclical also warned against entrusting lethal decisions to AI-directed weaponry."
+      }
+    ]
+  },
+  {
     "time": "2026-05-25T13:29:42Z",
     "window_hours": 6,
     "article_count": 9,
