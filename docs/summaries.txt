@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-05-25T08:57:03Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+A batch of six Al Jazeera articles covers a San Antonio Spurs NBA playoff win, Kimi Antonelli's fourth straight F1 victory, Singapore's strong GDP growth amid AI demand and Iran war fallout, US-Iran deal negotiations with conflicting signals, and the anticipated SpaceX IPO.
+
+ARTICLE BREAKDOWN
+[1] Wembanyama scores 33 as Spurs rip Thunder to level NBA playoffs
+Published: 2026-05-25T05:45:31Z
+URL: https://www.aljazeera.com/sports/2026/5/25/wembanyama-scores-33-as-spurs-rip-thunder-to-level-nba-playoffs
+Summary: Victor Wembanyama scored 33 points to lead the San Antonio Spurs to a 103-82 rout of the Oklahoma City Thunder, leveling the NBA Western Conference Finals at 2-2. The Spurs' defensive effort forced 17 turnovers and 11 steals, holding the Thunder to their lowest playoff score. Game Five is set for Tuesday in Oklahoma City.
+
+[2] Mercedes teen Antonelli wins Canadian GP for fourth straight F1 victory
+Published: 2026-05-25T06:30:37Z
+URL: https://www.aljazeera.com/sports/2026/5/25/mercedes-teen-antonelli-wins-canadian-gp-for-fourth-straight-f1-victory
+Summary: Kimi Antonelli, 19, won the Canadian Grand Prix for his fourth consecutive Formula 1 victory, finishing over 10 seconds ahead of Ferrari's Lewis Hamilton. The race featured a thrilling battle with Mercedes teammate George Russell, who dropped out with an engine failure. Antonelli now holds a 43-point lead in the championship over Russell.
+
+[3] Singapore’s economy beats expectations as gov’t warns of Iran war fallout
+Published: 2026-05-25T06:40:08Z
+URL: https://www.aljazeera.com/economy/2026/5/25/singapores-economy-beats-expectations-as-govt-warns-of-iran-war-fallout
+Summary: Singapore's GDP grew 6% year-on-year in the first quarter, beating the official advance estimate of 4.6%, driven by strong AI-related demand in wholesale trade, manufacturing, and finance. The Trade Ministry kept its 2026 growth outlook at 2-4% but warned of downside risks from rising energy and fertiliser prices due to the Strait of Hormuz closure. Analysts noted the GDP figures may not yet fully reflect the Middle East crisis impact.
+
+[4] Rubio says US will find ‘another way’ if Iran talks fail
+Published: 2026-05-25T07:33:05Z
+URL: https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail
+Summary: US Secretary of State Marco Rubio said the US will either secure a strong agreement with Iran or confront it 'another way', noting a 'pretty solid' proposal is on the table regarding the Strait of Hormuz. Iran's Foreign Ministry spokesman said a large portion of discussion topics have been concluded but warned an agreement is not imminent. The comments follow President Trump's move to temper expectations of a near-term deal.
+
+[5] Iran war day 87: Trump says US not in rush to sign deal, dashing optimism
+Published: 2026-05-25T07:50:18Z
+URL: https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism
+Summary: On day 87 of the US-Israel war on Iran, President Trump said the US is not in a rush to sign a deal, dashing earlier optimism, and reiterated that the US blockade would remain until an agreement is signed. A senior US official said Iran agreed 'in principle' to open the Strait of Hormuz in exchange for lifting the blockade and disposing of enriched uranium, but Iran has not confirmed. Iranian media reported disagreements remain on key issues, including frozen funds and sanctions.
+
+[6] Why the SpaceX IPO is the talk of Wall Street and beyond
+Published: 2026-05-25T08:49:27Z
+URL: https://www.aljazeera.com/news/2026/5/25/why-the-spacex-ipo-is-the-talk-of-wall-street-and-beyond
+Summary: SpaceX, founded by Elon Musk, is preparing for an initial public offering on the Nasdaq under the ticker 'SPCX', expected as early as June, aiming to raise upwards of $80bn for a valuation between $1.75 trillion and $2 trillion. The IPO is anticipated to be the largest in history and could make Musk the world's first trillionaire. The deal is being underwritten by 23 financial institutions and is seen as a landmark for the private space industry.
+
+================================================================================
 RUN TIME UTC: 2026-05-25T03:54:02Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
