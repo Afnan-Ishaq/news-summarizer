@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-05-26T03:36:21Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+The batch covers four distinct stories: the Trump administration's renewed push for a White House ballroom citing a recent shooting, Canada's PM condemning Israel's treatment of Gaza flotilla activists, US military strikes on southern Iran during peace talks in Qatar, and the impact of Nigeria's cost of living crisis on Eid al-Adha preparations.
+
+ARTICLE BREAKDOWN
+[1] Trump renews petition for White House ballroom, pointing to nearby shooting
+Published: 2026-05-25T23:34:21Z
+URL: https://www.aljazeera.com/news/2026/5/25/trump-renews-petition-for-white-house-ballroom-pointing-to-nearby-shooting
+Summary: The Trump administration has renewed its push to lift a court ruling blocking construction of a new White House ballroom, citing a recent shooting near the White House as justification. Acting Attorney General Todd Blanche argued in a court filing that the incident underscores the need for the ballroom's state-of-the-art security. The filing points to a May 24 shooting by suspect Nasire Best and an April 25 security breach at the White House Correspondents' Dinner as threats to the president. A federal judge issued a temporary injunction against construction on March 31, though work necessary for security was exempted.
+
+[2] Canada’s Mark Carney calls treatment of Gaza flotilla activists ‘appalling’
+Published: 2026-05-26T00:18:37Z
+URL: https://www.aljazeera.com/news/2026/5/26/canadas-mark-carney-calls-treatment-of-gaza-flotilla-activists-appalling
+Summary: Canadian Prime Minister Mark Carney called the Israeli government's treatment of participants in a Gaza-bound humanitarian aid flotilla 'appalling' and demanded an independent investigation. In a statement on Monday, Carney reiterated Canada's opposition to illegal Israeli settlements and settler violence but did not announce new penalties against Israel. The statement followed a video shared by Israeli Minister Itamar Ben-Gvir showing activists bound and forced to kneel, which sparked global backlash. France and Poland have banned Ben-Gvir from their territories, while Carney stopped short of similar actions.
+
+[3] US military launches strikes on southern Iran amid talks in Qatar
+Published: 2026-05-26T00:57:07Z
+URL: https://www.aljazeera.com/news/2026/5/26/us-military-launches-strikes-on-southern-iran-amid-talks-in-qatar
+Summary: The US military launched 'self-defence strikes' on targets in southern Iran, including missile launch sites and Iranian boats attempting to emplace mines, according to US Central Command. The strikes occurred as Iranian negotiators gathered in Qatar for peace talks, despite a ceasefire in place since April 8. Iranian sources reported that the Islamic Revolutionary Guard Corps had targeted a vessel at sea before the US strikes and that several IRGC personnel were killed. Al Jazeera's correspondent noted the strikes could derail negotiations, as President Trump insisted on a 'great deal' or a return to conflict.
+
+[4] Cost of living crisis reshapes Eid spending in Nigeria
+Published: 2026-05-26T02:44:21Z
+URL: https://www.aljazeera.com/news/2026/5/26/cost-of-living-crisis-reshapes-eid-spending-in-nigeria
+Summary: Rising food and transport costs in Nigeria are forcing families to scale back Eid al-Adha celebrations, with many unable to travel or afford sacrificial animals. Islamic teacher Yunus Akanji in Abuja said he will celebrate with whatever he has, as parents struggle to pay tuition fees. Nafisa Ibrahim from Ogun dropped plans to go home due to transport costs rising from 15,000 to 35,000 naira. Livestock seller Malam Ibrahim reported that customers ask prices but walk away, with a ram selling for 600,000 naira (about $438).
+
+================================================================================
 RUN TIME UTC: 2026-05-25T21:07:19Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
