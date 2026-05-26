@@ -1,5 +1,145 @@
 [
   {
+    "time": "2026-05-26T17:55:53Z",
+    "window_hours": 6,
+    "article_count": 22,
+    "overall_summary": "A batch of 22 Al Jazeera articles covers a range of topics including World Cup 2026 previews and squad announcements, Israeli military actions in Gaza and regional occupation, French Open tennis results, political developments in Senegal, Armenia, and the UK, as well as US-India critical minerals deal, AI warnings from the Pope, and Hajj pilgrimage updates.",
+    "articles": [
+      {
+        "title": "‘United’ Spain first as Barcelona top absent Real Madrid in World Cup squad",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/united-spain-first-as-barcelona-top-absent-real-madrid-in-world-cup-squad",
+        "published": "2026-05-26T12:12:42Z",
+        "summary": "Spain coach Luis de la Fuente named a World Cup squad with eight Barcelona players and no Real Madrid representatives, emphasizing national unity over club affiliations. He dismissed concerns about losing Real Madrid fan support, stating that sporting considerations alone guided his selections. Spain opens Group H against Cape Verde, with cautious optimism about injured players like Lamine Yamal."
+      },
+      {
+        "title": "Israeli air attacks kill seven Palestinians in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza",
+        "published": "2026-05-26T12:34:20Z",
+        "summary": "Israeli air strikes killed at least seven Palestinians in Gaza, including five in a drone attack on Maghazi refugee camp, according to Palestinian health authorities. The attacks occurred during Eid al-Adha, violating a ceasefire, and targeted groups confronting an alleged Israeli-backed armed group. In southern Gaza, two more were killed in Khan Younis, with over 900 Palestinians killed since the ceasefire began."
+      },
+      {
+        "title": "Senegal lawmakers elect ousted PM Sonko as new parliament speaker",
+        "url": "https://www.aljazeera.com/news/2026/5/26/senegal-lawmakers-elect-ousted-pm-sonko-as-new-parliament-speaker",
+        "published": "2026-05-26T12:44:56Z",
+        "summary": "Senegal’s parliament elected ousted Prime Minister Ousmane Sonko as speaker with 132 votes, defying President Bassirou Diomaye Faye who dismissed him on Friday. Sonko remains leader of the Pastef party, which controls 130 of 165 seats, and his new role gives him a platform to challenge Faye amid economic crisis. The opposition denounced the move as an 'institutional coup'."
+      },
+      {
+        "title": "French Open: Sabalenka storms past Bouzas Maneiro, Gauff also cruises",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/french-open-sabelenka-storms-to-opening-win-against-bouzas-maneiro",
+        "published": "2026-05-26T12:57:05Z",
+        "summary": "World number one Aryna Sabalenka defeated Spain’s Jessica Bouzas Maneiro 6-4 6-2 in 75 minutes to advance at the French Open, despite unforced errors and a heatwave. Defending champion Coco Gauff beat fellow American Taylor Townsend 6-4 6-0, breaking early and dominating the second set. Both players used ice to cool down in the Paris heat."
+      },
+      {
+        "title": "French Open: Medvedev shocked by wildcard Walton in first round",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/medvedev-shocked-by-wildcard-walton-in-french-open-first-round",
+        "published": "2026-05-26T13:13:53Z",
+        "summary": "Daniil Medvedev lost 6-2 1-6 6-1 1-6 6-4 to Australian wildcard Adam Walton in the French Open first round, marking his seventh first-round exit in ten appearances at Roland Garros. Walton, ranked 97th, secured his first win over a top-10 player after a momentum-swinging match. He will face American Zachary Svajda in the second round."
+      },
+      {
+        "title": "Report warns pro-Palestine protesters face legal crackdown: What to know",
+        "url": "https://www.aljazeera.com/news/2026/5/26/report-warns-pro-palestine-protesters-face-legal-crackdown-what-to-know",
+        "published": "2026-05-26T13:18:20Z",
+        "summary": "A new report by the Centre for Climate Crime and Justice and Defend Our Juries warns that Britain is undergoing a 'deeply troubling transformation' in protest treatment, with longer sentences and stricter bail conditions for climate and pro-Palestine activists. It highlights new laws like the Police, Crime, Sentencing and Courts Act 2022 and increased prosecutions targeting actions against Israeli arms manufacturer Elbit Systems. The report says the shift since 2019 has created a more repressive legal terrain for civil disobedience."
+      },
+      {
+        "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
+        "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show",
+        "published": "2026-05-26T13:26:40Z",
+        "summary": "Al Jazeera’s investigation found that Israeli military control in Gaza, southern Lebanon, and southern Syria extends beyond official maps, covering about 1,000 square kilometers under direct rule. In Gaza, the 'Yellow Line' ceasefire boundary is exceeded by hundreds of meters in some areas, as shown by satellite imagery and concrete markers. The report combines official maps, satellite data, and field evidence to reveal gaps between declared and actual occupation zones."
+      },
+      {
+        "title": "Norway World Cup 2026 preview: Players to watch, group matches, squad list",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/norway-world-cup-2026-preview-players-to-watch-group-matches-squad-list",
+        "published": "2026-05-26T13:54:49Z",
+        "summary": "Norway returns to the World Cup for the first time since 1998, led by superstar Erling Haaland who scored five goals in qualifying and became the fastest to 50 international goals. The squad, announced by King Harald V, also features Arsenal captain Martin Odegaard, though his injury-plagued season raises concerns about creativity. Norway aims to advance past the group stage, with Haaland’s fitness and service from midfield key to their success."
+      },
+      {
+        "title": "US Supreme court rejects NFL attempt to move racism case to arbitration",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/us-supreme-court-rejects-nfl-attempt-to-move-racism-case-to-arbitration",
+        "published": "2026-05-26T14:26:58Z",
+        "summary": "The US Supreme Court declined to hear the NFL’s appeal to move Black coach Brian Flores’ racial discrimination claims to arbitration, allowing the case to proceed in federal court. Flores, now with the Minnesota Vikings, alleges systematic discrimination against Black coaches, including sham interviews to satisfy the Rooney Rule. The lawsuit seeks changes to hiring practices, while the NFL denies the claims."
+      },
+      {
+        "title": "India, US strike critical minerals deal: What’s in it, why does it matter?",
+        "url": "https://www.aljazeera.com/economy/2026/5/26/india-us-strike-critical-minerals-deal-whats-in-it-why-does-it-matter",
+        "published": "2026-05-26T14:36:33Z",
+        "summary": "India and the US signed a framework agreement to secure critical minerals and rare earths supply chains, including mining and processing, during US Secretary of State Marco Rubio’s visit to New Delhi. The deal aims to reduce reliance on China, which controls 60% of rare earth deposits and processes 90% of global supply. A separate Quad critical minerals framework was also announced among the US, Japan, Australia, and India."
+      },
+      {
+        "title": "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
+        "url": "https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation",
+        "published": "2026-05-26T14:59:42Z",
+        "summary": "Russia urged foreigners to leave Kyiv and warned of strikes on decision-making centers and drone facilities, escalating its war on Ukraine. The threat follows a Ukrainian drone attack on a dormitory in Russian-occupied Luhansk that killed 18 people, and recent Russian strikes on Kyiv that killed four. Moscow said it informed the US of the plan, as Ukraine’s improved drone capabilities have led to more successful attacks on Russian infrastructure."
+      },
+      {
+        "title": "Hajj pilgrims gather at Mount Arafat under scorching desert sun",
+        "url": "https://www.aljazeera.com/gallery/2026/5/26/hajj-pilgrims-gather-at-mount-arafat-under-scorching-desert-sun",
+        "published": "2026-05-26T15:08:06Z",
+        "summary": "Over 1.5 million Muslims gathered at Mount Arafat for the Hajj’s most important ritual, with temperatures near 44°C (111°F). The pilgrimage proceeds under the shadow of the US-Israel war on Iran, which has reduced Iranian participation to about 30,000 from an expected 86,000. Saudi authorities urged pilgrims to stay hydrated, and after Arafat, they will move to Muzdalifah for the stoning of the devil ritual."
+      },
+      {
+        "title": "Israel is no longer ‘shooting and crying’",
+        "url": "https://www.aljazeera.com/opinions/2026/5/26/israel-is-no-longer-shooting-and-crying",
+        "published": "2026-05-26T15:10:04Z",
+        "summary": "An opinion piece argues that Israeli violence against Palestinians, including torture and sexual abuse in prisons, is now carried out with visible glee rather than remorse. It cites testimonies of guards laughing during torture and videos of soldiers committing genocidal acts with pleasure. The author says this marks a shift from a 'shooting and crying' narrative to open celebration of violence."
+      },
+      {
+        "title": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
+        "url": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond",
+        "published": "2026-05-26T15:13:18Z",
+        "summary": "Iran condemned US strikes in Hormozgan province as a 'gross violation' of the ceasefire, with the Revolutionary Guard’s Aerospace Force commander saying it is prepared for a swift response. Talks in Doha on a potential deal continue, with Iran seeking the release of $24 billion in frozen funds. US President Donald Trump warned of new attacks if talks fail, while Iran has been selectively allowing ships through the Strait of Hormuz."
+      },
+      {
+        "title": "European countries and EU summon Russian envoys over threats on Kyiv",
+        "url": "https://www.aljazeera.com/news/2026/5/26/european-countries-and-eu-summon-russian-envoys-over-threats-on-kyiv",
+        "published": "2026-05-26T15:19:22Z",
+        "summary": "Germany, the Netherlands, Norway, and the EU summoned Russian envoys after Moscow warned foreigners to leave Kyiv ahead of renewed strikes. The EU called the threat an 'unacceptable escalation' and urged Russia to engage in peace talks. Russia plans systematic strikes on Kyiv in retaliation for a Ukrainian attack on a vocational school in Luhansk that killed 21 people."
+      },
+      {
+        "title": "Scotland fans book 20 school buses for games at ‘inaccessible’ US World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/scotland-fans-book-school-bus-for-matches-at-inaccessible-world-cup",
+        "published": "2026-05-26T16:02:04Z",
+        "summary": "Scotland fans, frustrated by high train fares and inaccessible stadiums in the US, booked 20 school buses to transport nearly 1,000 supporters to matches in Foxborough, Massachusetts, at about $50 per person. The buses cost half the official $95 fare, saving over $85,000. Fans criticize the World Cup as the 'most inaccessible' ever, with expensive tickets, flights, and hotels."
+      },
+      {
+        "title": "Albert Manifold ousted as BP chair over governance and conduct concerns",
+        "url": "https://www.aljazeera.com/economy/2026/5/26/albert-manifold-ousted-as-bp-chair-over-governance-and-conduct-concerns",
+        "published": "2026-05-26T16:19:40Z",
+        "summary": "Albert Manifold was removed as BP chair after eight months due to 'serious concerns' about governance standards and conduct, though the company did not elaborate. His exit follows a wave of leadership changes, including the firing of CEO Bernard Looney and the abrupt departure of successor Murray Auchincloss. BP stock fell over 4% as interim chair Ian Tyler takes over."
+      },
+      {
+        "title": "France’s Kouame becomes youngest male Grand Slam match-winner in 17 years",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/frances-kouame-becomes-youngest-male-grand-slam-match-winner-in-17-years",
+        "published": "2026-05-26T16:21:10Z",
+        "summary": "French teenager Moise Kouame, 17, beat former US Open champion Marin Cilic 7-6(4) 6-2 6-1 at the French Open, becoming the youngest male Grand Slam match-winner in 17 years. Ranked 318th, he saved two set points in the first set and did not concede a break of serve. He will next face Paraguay’s Adolfo Daniel Vallejo."
+      },
+      {
+        "title": "What has Pope Leo warned about AI – and why that’s significant",
+        "url": "https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant",
+        "published": "2026-05-26T16:52:34Z",
+        "summary": "Pope Leo XIV, in his first encyclical titled 'Magnifica humanitas,' warned that artificial intelligence must be 'disarmed' and not left solely in private hands, calling for political involvement to slow its acceleration. He urged AI developers to consider ethical and spiritual responsibilities, and policymakers to protect workers and children. The encyclical, presented with AI experts, serves as religious guidance to the Catholic Church’s 1.4 billion members."
+      },
+      {
+        "title": "World Cup broadcast hopes boosted in India as Zee Entertainment in talks",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/world-cup-broadcast-hopes-boosted-in-india-as-zee-entertainment-in-talks",
+        "published": "2026-05-26T17:11:39Z",
+        "summary": "India’s Zee Entertainment is in talks with FIFA to stream and broadcast the 2026 World Cup, as negotiations with a Reliance-Disney joint venture stall over price. FIFA initially sought $100 million for rights but is now looking for at least $60 million, far above the $20 million offered by Reliance-Disney. India had 745 million fans following the 2022 World Cup, making it a key market."
+      },
+      {
+        "title": "Armenia signs strategic partnership deal with US as election approaches",
+        "url": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches",
+        "published": "2026-05-26T17:27:32Z",
+        "summary": "Armenia signed a strategic partnership agreement with the US, including a critical minerals framework and a transit corridor deal, as Prime Minister Nikol Pashinyan faces pro-Russia opposition in upcoming elections. The 43-km corridor, dubbed the 'Trump Route,' would connect Azerbaijan to Nakhchivan and Turkiye, with the US holding a 74% share. The deal deepens Armenia’s shift away from Russia, which has criticized the move."
+      },
+      {
+        "title": "Former Arsenal midfielder Partey named in Ghana squad ahead of World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/5/26/former-arsenal-midfielder-partey-named-in-ghana-squad-ahead-of-world-cup",
+        "published": "2026-05-26T17:45:39Z",
+        "summary": "Thomas Partey, who pleaded not guilty to seven rape charges in the UK, was named in Ghana’s preliminary 28-man World Cup squad. The 32-year-old midfielder, now at Villarreal, played in qualifying games despite the charges. Tottenham forward Mohammed Kudus will miss the tournament due to a quad injury, while Ghana is drawn in Group L with Croatia, England, and Panama."
+      }
+    ]
+  },
+  {
     "time": "2026-05-26T08:31:27Z",
     "window_hours": 6,
     "article_count": 10,
