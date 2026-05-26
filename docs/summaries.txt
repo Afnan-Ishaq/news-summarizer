@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-05-26T08:31:27Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+The batch covers a range of major stories: a sales drop for Starbucks Korea after a controversial ad campaign, ongoing US-Iran conflict with new strikes and peace talks in Qatar, a tragic exam leak in India, the Quad's waning relevance, the Knicks reaching the NBA Finals, Chinese patrols near Taiwan, Lionel Messi's injury, and a feature on Gaza's cemetery of the missing.
+
+ARTICLE BREAKDOWN
+[1] Starbucks’ Korean sales fall after backlash to ‘Tank Day’ ad campaign
+Published: 2026-05-26T04:38:39Z
+URL: https://www.aljazeera.com/economy/2026/5/26/starbucks-korean-sales-fall-after-backlash-to-tank-day-ad-campaign
+Summary: Starbucks Korea has seen a 'very significant' drop in sales after a marketing campaign that evoked the 1980 Gwangju Uprising crackdown sparked public outrage. Shinsegae Group chairman Chung Yong-jin publicly apologized, taking responsibility and asking people not to target employees. The company fired the head of Starbucks Korea and launched an internal review, while some employees refused to hand over smartphones during the investigation.
+
+[2] Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar
+Published: 2026-05-26T06:16:34Z
+URL: https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar
+Summary: US forces carried out 'self-defence' attacks in southern Iran, targeting missile launch sites and mine-laying vessels near Bandar Abbas, a strategic port near the Strait of Hormuz. Iranian media reported explosions, but state media later said the situation was under control. Meanwhile, top Iranian negotiators traveled to Qatar for talks, though Tehran cautioned that a deal is not imminent. Iran's president also ordered the restoration of internet access after an 87-day nationwide blackout.
+
+[3] Rubio says Iran deal could take days after US forces launch new attacks
+Published: 2026-05-26T06:54:15Z
+URL: https://www.aljazeera.com/news/2026/5/26/rubio-says-iran-deal-could-take-days-after-us-forces-launch-new-attacks
+Summary: US Secretary of State Marco Rubio said a potential deal to end the US-Israel war on Iran could 'take a few days' to agree, as US forces struck Iranian missile sites and mine-laying boats in southern Iran. Rubio stated that the Strait of Hormuz must be open 'one way or the other.' CENTCOM described the strikes as self-defence, and a former US diplomat said the attacks were unlikely to derail ongoing negotiations in Qatar.
+
+[4] ‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger
+Published: 2026-05-26T07:25:46Z
+URL: https://www.aljazeera.com/news/2026/5/26/come-back-my-son-indian-exam-leak-leaves-trail-of-death-despair-anger
+Summary: India's NEET medical entrance exam, taken by over 2 million aspiring doctors, was voided after allegations of a paper leak, leading to protests and at least four student suicides. The article profiles Pradeep, a 21-year-old who had scored well enough to secure a medical seat but died by suicide after the exam was cancelled. His father, Rajesh Kumar, mourns his son, holding onto his study materials and expressing despair over the shattered dream.
+
+[5] As Trump woos China, the Quad grouping drifts towards irrelevance
+Published: 2026-05-26T07:27:03Z
+URL: https://www.aljazeera.com/news/2026/5/26/as-trump-woos-china-the-quad-alliance-drifts-toward-irrelevance
+Summary: Analysts say the Quad alliance is struggling to define its purpose as the US under President Trump pivots away from Asia, shifting military focus to the Middle East and pursuing rapprochement with China. A planned leader-level Quad summit in New Delhi has not materialized, and US allies in Asia are concerned about Washington's reliability. The article notes that the current meeting of Quad foreign ministers in New Delhi is seen as a 'damage control' effort.
+
+[6] Knicks reach NBA Finals after defeating Cavaliers in Game 4
+Published: 2026-05-26T07:54:10Z
+URL: https://www.aljazeera.com/sports/2026/5/26/knicks-reach-nba-finals-after-defeating-cavaliers-in-game-4
+Summary: The New York Knicks advanced to the NBA Finals for the first time since 1999 by routing the Cleveland Cavaliers 130-93 in Game 4 of the Eastern Conference finals. Karl-Anthony Towns led with 19 points and 14 rebounds, and Jalen Brunson was named series MVP. The Knicks extended their playoff-record winning streak to 11 games, while the Cavaliers suffered their largest-ever playoff home defeat.
+
+[7] Taiwan monitors ‘unprovoked’ Chinese combat patrol near island
+Published: 2026-05-26T08:05:38Z
+URL: https://www.aljazeera.com/news/2026/5/26/taiwan-monitors-unprovoked-chinese-combat-patrol-near-island
+Summary: Taiwan reported monitoring the second Chinese 'joint combat readiness patrol' near the island in a week, detecting 29 Chinese aircraft and seven warships. Taiwan's National Security Council secretary-general accused China of being the sole source of instability in the region. The patrols come shortly after a summit between US President Trump and Chinese President Xi, where Xi warned against mishandling the Taiwan issue.
+
+[8] Miami says Messi diagnosed with hamstring fatigue ahead of Argentina camp
+Published: 2026-05-26T08:20:09Z
+URL: https://www.aljazeera.com/sports/2026/5/26/miami-says-messi-diagnosed-with-hamstring-fatigue-ahead-of-argentina-camp
+Summary: Inter Miami confirmed that Lionel Messi has been diagnosed with 'an overload associated with muscle fatigue in his left hamstring' after being subbed out of a match against the Philadelphia Union. The timeline for his return will depend on clinical and functional progress. This injury comes about a week before Argentina begins its training camp for the World Cup, where it is scheduled to play friendlies against Honduras and Iceland.
+
+[9] US strikes Iran again: What we know, and is the ceasefire over?
+Published: 2026-05-26T08:27:48Z
+URL: https://www.aljazeera.com/news/2026/5/26/us-strikes-iran-again-what-we-know-and-is-the-ceasefire-over
+Summary: The US military launched 'self-defence strikes' near the Strait of Hormuz, targeting Iranian missile sites and mine-laying boats, despite a Pakistan-mediated ceasefire in place since April 8. US Secretary of State Rubio said a deal with Iran could 'take a few days,' while President Trump warned of more attacks if talks fail. Iran's foreign ministry said progress has been made but a deal is not imminent, and there has been no official reaction from Tehran to the strikes.
+
+[10] Bodies with names: Inside Gaza’s cemetery of the missing
+Published: 2026-05-26T08:28:36Z
+URL: https://www.aljazeera.com/features/2026/5/26/bodies-with-names-inside-gazas-cemetery-of-the-missing
+Summary: The article describes Gaza's cemetery of unidentified bodies, where about 1,200 missing persons are buried, as families search for disappeared relatives. It profiles Lina al-Assi, who lost contact with her husband Jihad Tafesh on the second day of the war in October 2023 and has been unable to confirm his fate. The October 2025 ceasefire allowed for the transfer of bodies, but many are disfigured or only marked with numbers, making identification extremely difficult for grieving families.
+
+================================================================================
 RUN TIME UTC: 2026-05-26T03:36:21Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
