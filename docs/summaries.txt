@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-05-27T03:53:54Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+Four articles from Al Jazeera cover a chemical tank rupture in Washington state, a meeting between Brazil's Flavio Bolsonaro and President Trump, the return of women and children with alleged ISIL ties to Australia, and Ken Paxton's defeat of Senator John Cornyn in a Texas primary run-off.
+
+ARTICLE BREAKDOWN
+[1] Chemical tank rupture kills multiple people in US state of Washington
+Published: 2026-05-26T22:15:38Z
+URL: https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington
+Summary: A chemical tank imploded at a Nippon Dynawave Packaging facility in Longview, Washington, killing several people and critically injuring others. The tank contained 'white liquor', a chemical used in paper pulp production, and was about 60 percent full. Multiple patients with chemical burns were transported to hospitals, and authorities confirmed fatalities but did not provide exact numbers. The incident posed no immediate threat to the surrounding community.
+
+[2] Brazil’s Flavio Bolsonaro meets with Trump amid troubled presidential bid
+Published: 2026-05-27T01:18:58Z
+URL: https://www.aljazeera.com/news/2026/5/27/brazils-flavio-bolsonaro-meets-with-trump-amid-troubled-presidential-bid
+Summary: Brazilian Senator Flavio Bolsonaro shared a photo appearing to show him meeting with US President Donald Trump at the White House, as he seeks to bolster his campaign amid a scandal over seeking funds from a convicted banker. Flavio, son of former President Jair Bolsonaro, is the top contender challenging President Lula in Brazil's October election. Recent polls show Lula retaking the lead after the scandal set back Flavio's campaign. Trump has not yet shared information about the meeting on his social media.
+
+[3] Group of women and children with alleged ISIL ties returns to Australia
+Published: 2026-05-27T01:37:37Z
+URL: https://www.aljazeera.com/news/2026/5/27/group-of-women-and-children-with-alleged-isil-ties-returns-to-australia
+Summary: A group of 19 women and children with alleged links to ISIL returned to Australia from a Syrian refugee camp, landing in Sydney and Melbourne. The Australian government said it did not assist them and warned that anyone found to have engaged in criminal activity will be prosecuted. Australian Federal Police did not make arrests but said investigations are ongoing. The return sparked anger in some sections of Australian society, with a large police presence at Melbourne airport where a scuffle reportedly broke out.
+
+[4] Trump-backed Paxton topples Senator Cornyn in Texas primary run-off
+Published: 2026-05-27T03:15:08Z
+URL: https://www.aljazeera.com/news/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary-run-off
+Summary: Texas Attorney General Ken Paxton, boosted by President Donald Trump's endorsement, defeated four-term US Senator John Cornyn in the Republican Senate primary run-off, according to US media projections. Cornyn, a longtime establishment conservative, struggled to connect with Trump's base and became the latest Republican incumbent to lose after falling out of favor with Trump. Paxton, who has faced legal and ethical controversies, will now face Democratic state Representative James Talarico in a November race that could help decide control of the US Senate.
+
+================================================================================
 RUN TIME UTC: 2026-05-26T21:49:16Z
 WINDOW: Last 6 hours
 ARTICLES USED: 6
