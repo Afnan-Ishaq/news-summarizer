@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-05-27T08:38:35Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a surge in Chinese EV exports, restrictions on Muslim Eid prayers in India, Gaza's bleak Eid preparations amid war, Iran-US ceasefire tensions with new strikes, escalating Israel-Lebanon conflict, European fertiliser shortages from the Iran war, Taiwan's AI-driven but uneven economic boom, Ebola isolation measures in DRC, NBA playoff results, and an NFL player's arrest on domestic abuse charges.
+
+ARTICLE BREAKDOWN
+[1] China’s EV exports surge 40 percent in April
+Published: 2026-05-27T05:32:48Z
+URL: https://www.aljazeera.com/economy/2026/5/27/chinas-ev-exports-surge-40-percent-in-april
+Summary: China's electric vehicle exports surged 40 percent in April to 278,081 vehicles, with Asia as the top importer followed by Europe and Latin America. Brazil saw the biggest demand increase, with imports rising 221 percent. The growth continues despite US tariffs of 100 percent and EU tariffs up to 35.3 percent on Chinese EVs.
+
+[2] ‘Naturally scared’: India’s Muslims denied public spaces for Eid prayers
+Published: 2026-05-27T05:52:05Z
+URL: https://www.aljazeera.com/features/2026/5/27/naturally-scared-indias-muslims-denied-public-spaces-for-eid-prayers
+Summary: 
+
+[3] ‘No livestock but still hope’: Palestinians prepare for Eid al-Adha in Gaza
+Published: 2026-05-27T05:53:06Z
+URL: https://www.aljazeera.com/economy/2026/5/27/no-livestock-but-still-hope-palestinians-prepare-for-eid-al-adha-in-gaza
+Summary: Palestinians in Gaza are preparing for a third Eid al-Adha under war-like conditions, with no livestock for sacrifice and no pilgrims able to depart for Hajj due to Israeli restrictions. Displaced families cannot return home, and soaring prices make basic needs unaffordable. Despite the loss of her husband and several family members, 68-year-old I'tidal Hamdan still hopes to perform Hajj in the future.
+
+[4] ‘Deep suspicion’ of US lingers as Iran ponders agreement to end war
+Published: 2026-05-27T06:03:41Z
+URL: https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war
+Summary: Iranian officials express deep distrust of the US after American strikes on Hormozgan province, which they call a 'blatant violation' of the April 8 ceasefire. The IRGC says it shot down a US MQ-9 Reaper drone. Talks continue over a Memorandum of Understanding that could ease transit through the Strait of Hormuz and release frozen Iranian assets, but many in Iran's leadership fear the deal may only provide a pause before further attacks.
+
+[5] Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise
+Published: 2026-05-27T06:48:51Z
+URL: https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise
+Summary: Israeli strikes in southern Lebanon killed at least 31 people and wounded 40, as Israeli forces expanded ground operations and issued displacement orders. Iran accused the US of violating the ceasefire with strikes near the Strait of Hormuz. US Secretary of State Marco Rubio said a peace agreement with Iran remains possible, while Israeli PM Netanyahu warned of 'more to come' in Lebanon.
+
+[6] How badly is Europe affected by fertiliser shortages due to the Iran war?
+Published: 2026-05-27T06:52:44Z
+URL: https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war
+Summary: EU agriculture ministers are meeting to discuss a Fertiliser Action Plan as the war on Iran disrupts global supply chains through the Strait of Hormuz, which carries about one-third of the world's seaborne fertiliser trade. While the Middle East accounts for only 1-3 percent of EU fertiliser imports, higher global prices and rising gas costs have pushed nitrogen fertiliser prices in Europe about 70 percent above their 2024 average. The plan includes possible stockpiles, emergency support, and measures to diversify imports away from Russia and Belarus.
+
+[7] Taiwan’s economy is booming thanks to AI. Not everyone sees the benefits
+Published: 2026-05-27T07:12:35Z
+URL: https://www.aljazeera.com/news/2026/5/27/taiwans-economy-is-booming-thanks-to-ai-not-everyone-sees-the-benefits
+Summary: Taiwan's GDP grew 8.63 percent in 2025 and 13.69 percent in early 2026, driven by semiconductor and AI chip exports, with TSMC alone accounting for over 40 percent of the stock market's value. However, the semiconductor sector employs only about 300,000 of Taiwan's 11 million workers, and many Taiwanese outside tech feel left out. The Central Bank governor has warned of a 'K-shaped economy' where some sectors grow rapidly while others stagnate.
+
+[8] DRC flight suspension and Uganda border curbs isolate Ebola-hit Bunia
+Published: 2026-05-27T07:52:53Z
+URL: https://www.aljazeera.com/news/2026/5/27/drc-flight-suspension-and-uganda-border-curbs-isolate-ebola-hit-bunia
+Summary: Congolese authorities have suspended all flights to and from Bunia to contain an Ebola outbreak, with exceptions only for humanitarian, medical, and emergency flights. Uganda has also introduced travel restrictions on the border, affecting trade and movement. Residents warn the measures could cause both a health and economic disaster, as Bunia relies heavily on air travel and imports from Uganda.
+
+[9] Gilgeous-Alexander, Thunder outlast Spurs to reach brink of NBA Finals
+Published: 2026-05-27T08:17:12Z
+URL: https://www.aljazeera.com/sports/2026/5/27/gilgeous-alexander-thunder-outlast-spurs-to-reach-brink-of-nba-finals
+Summary: Shai Gilgeous-Alexander scored 32 points as the Oklahoma City Thunder defeated the San Antonio Spurs 127-114, taking a 3-2 lead in the Western Conference finals. Five Thunder players finished in double figures, while Spurs' Victor Wembanyama had a poor shooting night with 4-of-15 from the field. Oklahoma City will head to San Antonio for game six with a chance to clinch the series.
+
+[10] Packers’ Josh Jacobs arrested on domestic abuse charges
+Published: 2026-05-27T08:26:17Z
+URL: https://www.aljazeera.com/sports/2026/5/27/packers-josh-jacobs-arrested-on-domestic-abuse-charges
+Summary: Green Bay Packers running back Josh Jacobs was arrested on five charges including felony strangulation and three forms of domestic abuse. The arrest followed a disturbance complaint on Saturday. Jacobs denies the allegations through his lawyers, who say important evidence has not yet been made public. The NFL and the Packers have acknowledged the matter but are withholding further comment.
+
+================================================================================
 RUN TIME UTC: 2026-05-27T03:53:54Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
