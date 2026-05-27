@@ -1,5 +1,85 @@
 [
   {
+    "time": "2026-05-27T21:55:32Z",
+    "window_hours": 6,
+    "article_count": 12,
+    "overall_summary": "A batch of Al Jazeera articles covers conflicting US-Iran deal reports, a cave rescue in Laos, Canada's Swedish plane purchase, Iran's subsidized meat sales, EU-Russia tensions over Kyiv threats, Russian bank drone defense plans, India-Pakistan border demolitions, Trump's threat to Oman, Alabama redistricting, Ghanaian repatriation from South Africa, Matthew Perry's assistant sentencing, and market rallies on US-Iran deal hopes.",
+    "articles": [
+      {
+        "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
+        "url": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief",
+        "published": "2026-05-27T18:19:33Z",
+        "summary": "US President Trump said Iran will not receive sanctions relief despite negotiations, and reiterated that Iran must surrender its enriched uranium. Tehran has denied agreeing to give up its nuclear material. The back-and-forth highlights ongoing diplomatic impasse over Iran's nuclear program, sanctions, and control of the Strait of Hormuz."
+      },
+      {
+        "title": "Rescue teams find five of seven trapped in Laos cave",
+        "url": "https://www.aljazeera.com/news/2026/5/27/rescue-teams-find-five-of-seven-trapped-in-laos-cave",
+        "published": "2026-05-27T18:32:05Z",
+        "summary": "Rescue teams found five of seven Lao nationals alive after they were trapped for over a week in a flooded cave in Xaisomboun province. Heavy rain and a landslide blocked their exit after they entered the cave. Thai and Lao teams continue searching for two missing individuals."
+      },
+      {
+        "title": "Canada chooses Swedish early warning planes rather than US model",
+        "url": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model",
+        "published": "2026-05-27T18:44:33Z",
+        "summary": "Canada announced plans to buy Saab's GlobalEye early warning planes over Boeing's E-7 Wedgetail, as part of efforts to reduce reliance on the US. Prime Minister Carney said the planes will help protect Canada's Arctic territory. The decision is seen as a test of Canada's policy to pivot away from American military capability."
+      },
+      {
+        "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+        "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade",
+        "published": "2026-05-27T19:04:05Z",
+        "summary": "Iran is selling subsidized meat for Eid al-Adha at 7.4 million rials ($4.30) per kg, far below market rates, as US sanctions and a blockade drive inflation. Demand for red meat has dropped 50% compared to last year. Year-on-year inflation stood at over 73%, with prices of rice, chicken, and cooking oil soaring."
+      },
+      {
+        "title": "EU states summon Russian envoys over Kyiv threat",
+        "url": "https://www.aljazeera.com/news/2026/5/27/belgium-france-latest-countries-to-summon-envoys-following-russia-threats",
+        "published": "2026-05-27T19:23:17Z",
+        "summary": "Belgium and France summoned Russian ambassadors after Moscow warned foreigners to leave Kyiv ahead of planned 'systematic strikes'. Several EU capitals have expressed anger, calling the threat a violation of international law. The spat complicates EU mediation efforts, though Putin said he is open to talks."
+      },
+      {
+        "title": "Russia to task bankers with shooting down Ukrainian drones",
+        "url": "https://www.aljazeera.com/news/2026/5/27/russia-to-task-bankers-with-shooting-down-ukrainian-drones",
+        "published": "2026-05-27T19:47:26Z",
+        "summary": "Russian lawmakers passed a bill allowing trained bank employees to shoot down Ukrainian drones and install jamming systems. The legislation aims to protect Bank of Russia facilities amid increasing drone attacks on Russian infrastructure. It must still be approved by the upper house and signed by President Putin."
+      },
+      {
+        "title": "India orders demolition drive along border as Pakistan tensions simmer",
+        "url": "https://www.aljazeera.com/news/2026/5/27/india-orders-demolition-drive-along-border-as-pakistan-tensions-simmer",
+        "published": "2026-05-27T19:58:03Z",
+        "summary": "India's Home Minister Amit Shah ordered the demolition of illegal buildings within 15 km of the Pakistan border and urged action against trans-border crimes. The move follows deepened tensions after a brief war last year. Shah emphasized a zero-tolerance policy on illegal constructions and infiltration."
+      },
+      {
+        "title": "Trump appears to threaten Oman over Strait of Hormuz impasse",
+        "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse",
+        "published": "2026-05-27T20:38:11Z",
+        "summary": "President Trump threatened to use military force against Oman if it collaborates with Iran to control the Strait of Hormuz, saying 'we will have to blow them up'. The comment came after a report on a potential Iran-Oman MOU for joint strait management. Critics slammed the threat as reckless and a violation of international law."
+      },
+      {
+        "title": "Alabama pushes US Supreme Court to approve congressional map for midterms",
+        "url": "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms",
+        "published": "2026-05-27T20:40:05Z",
+        "summary": "Alabama Republicans petitioned the US Supreme Court to approve a congressional map previously ruled racially discriminatory. They argue a recent Supreme Court decision weakens the Voting Rights Act's application. The state seeks to restore the map for the 2026 midterms, consolidating most Black voters into one district."
+      },
+      {
+        "title": "Ghana welcomes first group fleeing South African anti-immigration protests",
+        "url": "https://www.aljazeera.com/news/2026/5/27/ghana-welcomes-first-group-escaping-south-african-anti-immigrant-protests",
+        "published": "2026-05-27T20:55:59Z",
+        "summary": "A plane carrying 300 Ghanaian nationals evacuated from South Africa due to anti-immigration protests landed in Accra. The repatriation is voluntary, with about 800 people indicating they want to leave. Migrants face harassment and violence amid protests blaming them for crime and unemployment."
+      },
+      {
+        "title": "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
+        "url": "https://www.aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison",
+        "published": "2026-05-27T20:57:06Z",
+        "summary": "Kenneth Iwamasa, Matthew Perry's former personal assistant, was sentenced to 41 months in prison for injecting the actor with ketamine, leading to his death. Iwamasa apologized in court, saying he regretted his illegal acts. The sentencing concludes the prosecution of five people connected to Perry's overdose death."
+      },
+      {
+        "title": "Markets rally amid hopes of US-Iran deal",
+        "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal",
+        "published": "2026-05-27T21:14:12Z",
+        "summary": "US stock markets rallied and oil prices plunged on hopes of a US-Iran ceasefire deal that would reopen the Strait of Hormuz. US crude fell 5.5% to $88.68 after Iran's state broadcaster reported a preliminary deal framework. The White House dismissed the report as a 'complete fabrication', but markets remain optimistic."
+      }
+    ]
+  },
+  {
     "time": "2026-05-27T17:57:18Z",
     "window_hours": 6,
     "article_count": 14,
