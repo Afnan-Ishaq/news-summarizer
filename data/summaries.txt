@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-05-28T21:54:48Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The batch covers a tentative US-Iran truce extension, a report on US weapons stockpile depletion post-Iran war, Israel's expansion in Gaza, a stabbing attack in Switzerland, US lawsuits over ICE license plates, EU sanctions on Israeli settlers, a US court ruling on mail-in voting, and Guatemala denying agreement to US strikes.
+
+ARTICLE BREAKDOWN
+[1] US and Iran reach tentative deal for 60-day truce extension, officials say
+Published: 2026-05-28T18:21:14Z
+URL: https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say
+Summary: The US and Iran have reached a preliminary memorandum of understanding to extend the ceasefire for 60 days and begin negotiations for a permanent end to the war, though it still requires President Trump's final approval. Details remain obscure, and it is unclear if the 60-day extension is a deadline for negotiations. The deal reportedly includes unrestricted vessel traffic in the Strait of Hormuz and a US lift of its naval blockade on Iranian ports, but Iran has denied claims of an imminent agreement.
+
+[2] Rebuilding US weapons stockpile may ‘take years’ post-Iran war
+Published: 2026-05-28T18:36:50Z
+URL: https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report
+Summary: 
+
+[3] Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip
+Published: 2026-05-28T19:03:50Z
+URL: https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip
+Summary: 
+
+[4] Three wounded in Swiss train station stabbing labelled ‘act of terror’
+Published: 2026-05-28T20:00:17Z
+URL: https://www.aljazeera.com/news/2026/5/28/three-wounded-in-swiss-train-station-stabbing-labelled-act-of-terror
+Summary: 
+
+[5] Trump administration sues states for denying ICE agents undercover plates
+Published: 2026-05-28T20:03:31Z
+URL: https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates
+Summary: 
+
+[6] EU sanctions ‘extremist’ Israeli settlers in occupied West Bank
+Published: 2026-05-28T20:31:05Z
+URL: https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank
+Summary: 
+
+[7] US judge rejects immediate block on Trump’s mail-in voting executive order
+Published: 2026-05-28T21:24:26Z
+URL: https://www.aljazeera.com/news/2026/5/28/us-judge-rejects-immediate-block-on-trumps-mail-in-voting-executive-order
+Summary: 
+
+[8] Guatemala denies agreeing to US strikes against drug traffickers
+Published: 2026-05-28T21:42:39Z
+URL: https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers
+Summary: 
+
+================================================================================
 RUN TIME UTC: 2026-05-28T18:12:59Z
 WINDOW: Last 6 hours
 ARTICLES USED: 15

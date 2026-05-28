@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-05-28T21:54:48Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "The batch covers a tentative US-Iran truce extension, a report on US weapons stockpile depletion post-Iran war, Israel's expansion in Gaza, a stabbing attack in Switzerland, US lawsuits over ICE license plates, EU sanctions on Israeli settlers, a US court ruling on mail-in voting, and Guatemala denying agreement to US strikes.",
+    "articles": [
+      {
+        "title": "US and Iran reach tentative deal for 60-day truce extension, officials say",
+        "url": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say",
+        "published": "2026-05-28T18:21:14Z",
+        "summary": "The US and Iran have reached a preliminary memorandum of understanding to extend the ceasefire for 60 days and begin negotiations for a permanent end to the war, though it still requires President Trump's final approval. Details remain obscure, and it is unclear if the 60-day extension is a deadline for negotiations. The deal reportedly includes unrestricted vessel traffic in the Strait of Hormuz and a US lift of its naval blockade on Iranian ports, but Iran has denied claims of an imminent agreement."
+      },
+      {
+        "title": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
+        "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report",
+        "published": "2026-05-28T18:36:50Z",
+        "summary": ""
+      },
+      {
+        "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
+        "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip",
+        "published": "2026-05-28T19:03:50Z",
+        "summary": ""
+      },
+      {
+        "title": "Three wounded in Swiss train station stabbing labelled ‘act of terror’",
+        "url": "https://www.aljazeera.com/news/2026/5/28/three-wounded-in-swiss-train-station-stabbing-labelled-act-of-terror",
+        "published": "2026-05-28T20:00:17Z",
+        "summary": ""
+      },
+      {
+        "title": "Trump administration sues states for denying ICE agents undercover plates",
+        "url": "https://www.aljazeera.com/news/2026/5/28/trump-administration-sues-states-for-denying-ice-agents-undercover-plates",
+        "published": "2026-05-28T20:03:31Z",
+        "summary": ""
+      },
+      {
+        "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+        "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank",
+        "published": "2026-05-28T20:31:05Z",
+        "summary": ""
+      },
+      {
+        "title": "US judge rejects immediate block on Trump’s mail-in voting executive order",
+        "url": "https://www.aljazeera.com/news/2026/5/28/us-judge-rejects-immediate-block-on-trumps-mail-in-voting-executive-order",
+        "published": "2026-05-28T21:24:26Z",
+        "summary": ""
+      },
+      {
+        "title": "Guatemala denies agreeing to US strikes against drug traffickers",
+        "url": "https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers",
+        "published": "2026-05-28T21:42:39Z",
+        "summary": ""
+      }
+    ]
+  },
+  {
     "time": "2026-05-28T18:12:59Z",
     "window_hours": 6,
     "article_count": 15,
