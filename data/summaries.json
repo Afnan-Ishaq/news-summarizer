@@ -1,5 +1,73 @@
 [
   {
+    "time": "2026-05-28T08:42:22Z",
+    "window_hours": 6,
+    "article_count": 10,
+    "overall_summary": "A batch of Al Jazeera articles covers an Ebola outbreak in DRC and Uganda prompting travel restrictions, a teenage cricket sensation in the IPL, Palestinian graduates facing a collapsed job market in the West Bank, Morocco topping Africa's industrialization index, escalating US-Iran military exchanges amid ceasefire tensions, Australia charging an alleged ISIL-linked woman repatriated from Syria, DRC's World Cup delegation complying with US Ebola protocols, South Africa naming its World Cup squad, and Neymar's injury threatening his World Cup participation.",
+    "articles": [
+      {
+        "title": "Ebola outbreak: What travel restrictions have countries imposed? | Health News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/28/ebola-outbreak-what-travel-restrictions-have-countries-imposed",
+        "published": "2026-05-28T05:25:58Z",
+        "summary": "The article details travel restrictions imposed by several countries in response to an outbreak of the rare Bundibugyo strain of Ebola in the Democratic Republic of the Congo (DRC) and Uganda. The DRC suspended flights to Bunia, Uganda halted direct flights and border crossings for four weeks, and Canada, the Bahamas, and the United States have implemented varying bans or quarantine requirements for travelers from affected areas. The World Health Organization has recorded 220 suspected deaths and 900 suspected cases in DRC since May 15."
+      },
+      {
+        "title": "Vaibhav Sooryavanshi hailed as a once-in-a-lifetime talent after IPL blitz | Cricket News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/28/vaibhav-sooryavanshi-hailed-as-a-once-in-a-lifetime-talent-after-ipl-blitz",
+        "published": "2026-05-28T06:56:48Z",
+        "summary": "The article reports on 15-year-old Rajasthan Royals opener Vaibhav Sooryavanshi, who scored 97 off 29 balls in an IPL eliminator, breaking Chris Gayle's record for most sixes in an IPL season with 65. His performance secured a 47-run win for Rajasthan, keeping their finals hopes alive. Cricket figures, including Sachin Tendulkar and Michael Vaughan, have hailed him as a generational talent, with Vaughan calling him the best T20 opener in the world."
+      },
+      {
+        "title": "Palestinian graduates in the West Bank enter a collapsed job market | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/5/28/palestinian-graduates-in-the-west-bank-enter-a-collapsed-job-market",
+        "published": "2026-05-28T07:18:00Z",
+        "summary": "The article describes how Palestinian graduates in the occupied West Bank face a collapsed job market amid war and economic decline, with nearly 40% of young diploma holders unemployed. Unemployment has more than doubled since October 2023, reaching 35.2% in early 2024, exacerbated by Israel freezing work permits for 115,000 Palestinians. Students express disillusionment, questioning the value of their degrees as military raids and road closures further disrupt their lives."
+      },
+      {
+        "title": "Morocco tops Africa’s industrialisation index for first time | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/28/morocco-tops-africas-industrialisation-index-for-first-time",
+        "published": "2026-05-28T07:19:43Z",
+        "summary": "The article reports that Morocco has ranked first in the African Development Bank's 2025 Africa Industrialisation Index, overtaking South Africa for the first time since 2010. Morocco scored 0.8415 points, narrowly ahead of South Africa's 0.8396, reflecting sustained industrial upgrading and export diversification. North Africa remains the most industrialized region, but the report notes that continent-wide industrialisation advances slowly and unevenly, with Africa accounting for less than 2% of global manufacturing output."
+      },
+      {
+        "title": "What’s happening on Iran war day 90 as US launches new strikes | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes",
+        "published": "2026-05-28T07:20:50Z",
+        "summary": "The article covers new US strikes near Iran's Bandar Abbas port, targeting military threats in the Strait of Hormuz, with Iranian media reporting no casualties or damage. The IRGC Navy fired on a US tanker accused of crossing the strait with its radar off, leading to US retaliation. US President Trump rejected sanctions relief for Iran and insisted on surrender of enriched uranium, while Kuwait intercepted hostile missiles and drones."
+      },
+      {
+        "title": "Iran and US trade attacks after Trump rejects report of Hormuz agreement | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement",
+        "published": "2026-05-28T07:32:32Z",
+        "summary": "The article reports that Iran's IRGC struck a US base in response to US attacks near Bandar Abbas, as a fragile ceasefire faces strain. The US military shot down four Iranian drones and struck a ground control station, with both sides denying the ceasefire has collapsed. Trump rejected a report of a compromise deal on the Strait of Hormuz, threatening Oman if it cooperated with Iran, and oil prices rebounded after falling over 5%."
+      },
+      {
+        "title": "Australia charges alleged ISIL-linked woman after return from Syria | ISIL/ISIS News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/28/australia-charges-alleged-isil-linked-woman-after-return-from-syria",
+        "published": "2026-05-28T07:46:41Z",
+        "summary": "The article reports that Australia has charged a 34-year-old woman with alleged ISIL links after her return from Syria, facing charges of being a member of a terrorist organization and entering a declared conflict zone. She traveled to Syria in 2013 or 2014 and was detained by Kurdish forces in 2019. The charges come as more women and children are repatriated from camps in Syria, with other returnees facing additional charges including crimes against humanity."
+      },
+      {
+        "title": "World Cup delegation compliant with US Ebola protocols, DR Congo says | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/28/world-cup-delegation-compliant-with-us-ebola-protocols-dr-congo-says",
+        "published": "2026-05-28T08:16:24Z",
+        "summary": "The article states that the DRC's football federation and FIFA have confirmed its World Cup delegation is compliant with US Ebola protocols, allowing the team to compete. The delegation canceled a training camp in Kinshasa and relocated preparations abroad, with most squad members based in Europe. The DRC, appearing in their first World Cup in 52 years, will be based in Houston and open their campaign against Portugal on June 17."
+      },
+      {
+        "title": "Bafana Bafana World Cup squad: South Africa names two uncapped players | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players",
+        "published": "2026-05-28T08:37:27Z",
+        "summary": "The article reports that South Africa has named uncapped defenders Olwethu Makhanya and Bradley Cross in its 26-man World Cup squad, with Mamelodi Sundowns and Orlando Pirates contributing eight players each. Coach Hugo Broos largely stuck with players who earned a first World Cup appearance in 16 years, including 36-year-old Themba Zwane. South Africa will face Mexico in the tournament opener on June 11, followed by matches against the Czech Republic and South Korea."
+      },
+      {
+        "title": "Neymar injury threatens Brazil forward’s World Cup as scans needed on calf | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/28/neymar-injury-forces-him-out-of-brazils-first-world-cup-training-session",
+        "published": "2026-05-28T08:39:26Z",
+        "summary": "The article reports that Brazil's record scorer Neymar missed the national team's first World Cup training session due to a right calf injury, requiring medical tests that leave his place in the squad uncertain. Neymar, who has not played for Brazil since 2023, was recalled amid scrutiny over his fitness. Manager Carlo Ancelotti has stated that reputation alone will not secure Neymar's place, and Brazil awaits the medical verdict before their World Cup opener against Morocco on June 13."
+      }
+    ]
+  },
+  {
     "time": "2026-05-28T03:39:42Z",
     "window_hours": 6,
     "article_count": 4,
