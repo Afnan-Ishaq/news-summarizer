@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-05-28T03:39:42Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+Four articles from Al Jazeera cover a range of topics: Jill Biden's account of her husband's 2024 debate performance, the US re-sanctioning UN expert Francesca Albanese, a malaria surge in Zimbabwe linked to aid cuts and climate change, and a Google employee charged with insider trading on Polymarket.
+
+ARTICLE BREAKDOWN
+[1] Jill Biden worried husband Joe was ‘having a stroke’ during 2024 US debate
+Published: 2026-05-27T23:33:28Z
+URL: https://www.aljazeera.com/news/2026/5/27/jill-biden-worried-husband-joe-was-having-a-stroke-during-2024-us-debate
+Summary: Former US First Lady Jill Biden said in an interview that she feared her husband, then-President Joe Biden, was having a stroke during the first 2024 presidential debate, describing his performance as unlike anything she had ever seen. The debate, in which Biden appeared stiff and struggled to maintain his train of thought, led to widespread criticism and ultimately ended his re-election campaign. Biden was later diagnosed with aggressive prostate cancer, and his vice president, Kamala Harris, lost the election to Donald Trump.
+
+[2] US returns Palestinian rights expert Francesca Albanese to sanctions list
+Published: 2026-05-28T00:03:18Z
+URL: https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list
+Summary: The US government has re-added UN expert Francesca Albanese to its sanctions list after a judge temporarily blocked the designation, which was initially imposed in July 2025 over her criticism of Israeli policies. A federal judge had granted an injunction in May, ruling the sanctions violated her free speech, but the Trump administration appealed and restored her to the list. The sanctions freeze her US assets and bar her from entering the country, part of a broader administration effort to target critics of Israel.
+
+[3] Aid cuts and climate change drive deadly malaria surge in Zimbabwe
+Published: 2026-05-28T02:18:55Z
+URL: https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe
+Summary: Malaria cases and deaths in Zimbabwe have surged sharply in 2026, with 65,399 cases and 174 deaths recorded from January to April, up from 36,000 cases and 85 deaths in the same period in 2025. The increase is attributed to US funding cuts under President Trump that disrupted key malaria control programmes, including those supported by USAID. A rural mother and her son who contracted malaria recovered after early treatment, but many others have died as weakened health systems struggle to respond.
+
+[4] Google employee charged with insider trading over Polymarket bets
+Published: 2026-05-28T02:25:28Z
+URL: https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets
+Summary: US authorities have charged Google software engineer Michele Spagnuolo with fraud for allegedly using confidential company information to place bets on Polymarket, winning over $1.2 million. Prosecutors say he used insider data to predict results of Google's 2025 Year in Search list, including correctly betting that musician d4vd would be the most-searched person. Spagnuolo faces charges of commodities fraud, wire fraud, and money laundering, and has been placed on leave by Google.
+
+================================================================================
 RUN TIME UTC: 2026-05-27T21:55:32Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
