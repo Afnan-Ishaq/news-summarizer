@@ -1,4 +1,88 @@
 ================================================================================
+RUN TIME UTC: 2026-05-28T18:12:59Z
+WINDOW: Last 6 hours
+ARTICLES USED: 15
+
+OVERALL SUMMARY
+The batch covers a range of topics including South African President Ramaphosa facing an impeachment probe, French Open tennis upsets, US-Iran tensions over Bandar Abbas and the Strait of Hormuz, a datura plant invasion in Iraq, the death of Yemen's former president Hadi, IOC chief Coventry's controversial comments on athlete pay, Neymar's injury ahead of the World Cup, US threats to Oman, Ebola-related travel measures for the World Cup, the DRC Ebola outbreak, rising US inflation, Latvia's new government, Israel being added to a UN blacklist, and CNN suing Perplexity over copyright.
+
+ARTICLE BREAKDOWN
+[1] South African president to face impeachment probe over ‘Farmgate’ scandal | Corruption News | Al Jazeera
+Published: 2026-05-28T13:57:49Z
+URL: https://www.aljazeera.com/news/2026/5/28/south-african-president-to-face-impeachment-probe-over-farmgate-scandal
+Summary: South Africa's parliament is launching an impeachment inquiry into President Cyril Ramaphosa over the 'Farmgate' scandal, which involves the theft of cash hidden at his farm. The Democratic Alliance (DA) said the committee will meet on Monday after a Constitutional Court ruling revived the process. Ramaphosa denies wrongdoing and is challenging the process in court, while the ANC backs him but holds only nine of 31 committee seats.
+
+[2] Teenager Kouame beats Vallejo at French Open to match 23-year Nadal record | Tennis News | Al Jazeera
+Published: 2026-05-28T14:06:26Z
+URL: https://www.aljazeera.com/sports/2026/5/28/teenager-kouame-loses-two-set-lead-to-exit-french-open-in-defeat-by-vallejo
+Summary: French teenager Moise Kouame became the youngest man since Rafael Nadal in 2003 to reach the third round of a Grand Slam, defeating Paraguay's Adolfo Daniel Vallejo in a match tie-break. Kouame, ranked 318th, came back from two sets down and won 6-3 7-5 6-3 6-2 6-6 (10-8) in front of a home crowd at Roland Garros. He is the fifth-youngest player to reach the third round at Roland Garros since 1968 and will face Chile's Alejandro Tabilo next.
+
+[3] Sinner shocked in French Open exit as Cerundolo recovers from two-sets down | Tennis News | Al Jazeera
+Published: 2026-05-28T14:18:38Z
+URL: https://www.aljazeera.com/sports/2026/5/28/sinner-shocked-in-french-open-exit-as-cerundolo-recovers-from-two-sets-down
+Summary: World number one Jannik Sinner was eliminated from the French Open in the second round by 56th-ranked Juan Manuel Cerundolo, losing 3-6 2-6 7-5 6-1 6-1. Sinner, who had won claycourt titles in Monte Carlo, Madrid, and Rome, experienced physical issues after leading 5-1 in the third set. Cerundolo took advantage of Sinner's struggles to pull off a major upset, leaving the Grand Slam without its title favourite.
+
+[4] US attacks Bandar Abbas again: Why is the port so important for Iran? | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-28T14:45:42Z
+URL: https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran
+Summary: The US carried out strikes near Bandar Abbas for the second time in less than a week, escalating tensions around the Strait of Hormuz despite a ceasefire. Bandar Abbas is strategically important as it lies on the Strait of Hormuz, a key shipping lane for global oil and gas, and is the headquarters of Iran's conventional navy and IRGC naval forces. The article explains the city's military significance and its role in Iran's confrontation with the US.
+
+[5] Poisonous invasion: What is the ‘devil’s trumpet’ harming crops in Iraq? | Agriculture News | Al Jazeera
+Published: 2026-05-28T14:53:59Z
+URL: https://www.aljazeera.com/news/2026/5/28/poisonous-invasion-what-is-the-devils-trumpet-harming-crops-in-iraq
+Summary: Iraq's Interior Ministry has warned about an invasion of datura plants, known as 'devil's trumpet,' which pose a risk to agricultural crops due to toxic chemical compounds. The plant, originally from Central America, has spread globally and is now invading Iraqi agriculture, with scientists puzzled by its ability to thrive in cold environments. Despite its toxicity, datura contains pharmaceutical compounds used in medicine.
+
+[6] Yemen’s former leader Abd-Rabbu Mansour Hadi dies in exile at 80 | Abd-Rabbu Mansour Hadi News | Al Jazeera
+Published: 2026-05-28T15:02:55Z
+URL: https://www.aljazeera.com/news/2026/5/28/abedrabbo-mansour-hadi-yemens-former-leader-passes-away-in-exile-at-80
+Summary: Yemen's former president Abd-Rabbu Mansour Hadi died at age 80 in Riyadh, Saudi Arabia, where he lived in exile. Hadi was the internationally recognized president who led a fractured government from exile after fleeing Houthi rebels in 2015, and he stepped down in 2022. The government announced three days of mourning, and Hadi is survived by his wife and six children.
+
+[7] IOC chief Coventry stirs social media storm over athlete payment comments | Olympics News | Al Jazeera
+Published: 2026-05-28T15:04:11Z
+URL: https://www.aljazeera.com/sports/2026/5/28/ioc-chief-coventry-stirs-social-media-storm-over-athlete-payment-comments
+Summary: IOC President Kirsty Coventry faced criticism from Olympians after saying athletes should not be paid prize money at the Games, stating 'I don't believe in paying athletes.' Coventry, a former Olympic medalist from Zimbabwe, emphasized the need for talent identification and support for athletes from smaller nations. Her comments drew sharp reactions on social media, especially given the recent Enhanced Games where athletes won large cash prizes.
+
+[8] Neymar set to miss Brazil World Cup opener due to calf injury | World Cup 2026 News | Al Jazeera
+Published: 2026-05-28T15:34:00Z
+URL: https://www.aljazeera.com/sports/2026/5/28/neymar-out-of-brazil-world-cup-opener-due-to-calf-injury
+Summary: Neymar has been ruled out of Brazil's upcoming friendlies and is set to miss their World Cup opener after scans revealed a grade-two calf injury. The Brazilian Football Confederation confirmed the injury, which will sideline him for two to three weeks. Neymar will miss friendlies against Panama and Egypt, and is all but ruled out of the World Cup opener against Morocco on June 13.
+
+[9] US Treasury threatens Oman with sanctions over Hormuz Strait | Donald Trump News | Al Jazeera
+Published: 2026-05-28T15:44:47Z
+URL: https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait
+Summary: US Treasury Secretary Scott Bessent warned that Washington will 'aggressively' impose sanctions on Oman if it helps Iran establish a tolling system in the Strait of Hormuz. This follows President Trump's threat to bomb Oman, a key US ally, over the strait's control. The US and Iran have been indirectly negotiating an end to the war, with control over the strait as a major point of disagreement.
+
+[10] US, Mexico, Canada announce Ebola-related travel measures for World Cup | World Cup 2026 News | Al Jazeera
+Published: 2026-05-28T15:52:01Z
+URL: https://www.aljazeera.com/sports/2026/5/28/us-mexico-canada-announce-ebola-related-travel-measures-for-world-cup
+Summary: The US, Mexico, and Canada announced aligned public health travel measures for people coming from African regions at risk from Ebola, ahead of the World Cup. The WHO declared an Ebola outbreak in the DRC a public health emergency, prompting travel restrictions. The US banned noncitizens from affected countries, Canada imposed a 90-day ban, and Mexico tightened screening measures.
+
+[11] WHO chief heads to ‘hardest hit’ Ituri as DRC’s 17th Ebola outbreak spreads | Ebola News | Al Jazeera
+Published: 2026-05-28T16:21:09Z
+URL: https://www.aljazeera.com/news/2026/5/28/who-chief-heads-to-hardest-hit-ituri-as-drcs-17th-ebola-outbreak-spreads
+Summary: WHO Director-General Tedros Adhanom Ghebreyesus is traveling to Ituri province in the DRC, the hardest-hit area in the country's 17th Ebola outbreak. The outbreak, caused by the Bundibugyo strain, has 121 confirmed cases and 17 confirmed deaths, with no approved vaccines or treatments. Tedros appealed to armed groups in eastern DRC to allow health workers to contain the outbreak.
+
+[12] US inflation surges to three-year high amid tensions with Iran | Inflation News | Al Jazeera
+Published: 2026-05-28T16:54:57Z
+URL: https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran
+Summary: US inflation jumped to a three-year high in April, with the Personal Consumption Expenditures index rising 3.8% year-over-year, driven by higher energy prices due to tensions with Iran. Petrol prices rose 5.5%, and food prices increased 0.5%. The rising inflation puts pressure on the Federal Reserve, which is expected to maintain interest rates well into 2027.
+
+[13] Latvia parliament approves new gov’t after drone dispute toppled coalition | Russia-Ukraine war News | Al Jazeera
+Published: 2026-05-28T17:00:52Z
+URL: https://www.aljazeera.com/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition
+Summary: Latvia's parliament approved a new coalition government led by centrist Andris Kulbergs after the previous government collapsed over a dispute about handling stray drones from Ukraine. The new government will lead the country until October elections, with a focus on security and a pro-EU, pro-NATO direction. Kulbergs confirmed outgoing foreign minister Baiba Braze would remain and appointed a military officer as defence minister.
+
+[14] UN ‘adds Israel to blacklist’ for conflict-related sexual violence | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-28T17:16:21Z
+URL: https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones
+Summary: The UN has added Israel to its blacklist of parties suspected of conflict-related sexual violence, prompting Israel to cut ties with UN chief Antonio Guterres. Israeli ambassador Danny Danon denounced the decision, saying it is 'outrageous' to put Israel and Hamas on the same list. The UN cited credible information about sexual violence by Israeli security forces against Palestinian detainees, but Israel says the allegations are false.
+
+[15] CNN sues Perplexity, alleging unlawful distribution of copyrighted content | Media News | Al Jazeera
+Published: 2026-05-28T17:45:08Z
+URL: https://www.aljazeera.com/economy/2026/5/28/cnn-sues-perplexity-alleging-unlawful-distribution-of-copyrighted-content
+Summary: CNN has filed a lawsuit against AI search engine Perplexity in New York federal court, alleging it unlawfully copied thousands of CNN stories, videos, and images to power its products. CNN is seeking monetary damages and a court order to block Perplexity from violating its intellectual property rights. Perplexity responded that 'you can't copyright facts,' and the lawsuit is part of a broader trend of legal battles between news publishers and AI companies.
+
+================================================================================
 RUN TIME UTC: 2026-05-28T13:53:13Z
 WINDOW: Last 6 hours
 ARTICLES USED: 16
