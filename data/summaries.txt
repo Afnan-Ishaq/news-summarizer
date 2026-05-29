@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-05-29T21:52:06Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+Recent Al Jazeera articles cover a Brazilian court ruling to preserve Fordlandia, rising Russian losses in Ukraine, the UN adding Israel and Russia to a sexual violence blacklist, Pam Bondi's testimony on Epstein files, Canada's exclusion from USMCA talks, and Poland threatening to strip Zelenskyy of a state honor.
+
+ARTICLE BREAKDOWN
+[1] ‘A landmark’: Brazil’s prosecutors hail court ruling to preserve Fordlandia
+Published: 2026-05-29T18:14:16Z
+URL: https://www.aljazeera.com/news/2026/5/29/a-landmark-brazils-prosecutors-hail-court-ruling-to-preserve-fordlandia
+Summary: Federal prosecutors in Brazil celebrated a court decision mandating the preservation of Fordlandia, a 1928 city built by Henry Ford in the Amazon rainforest. The ruling, described as a 'landmark,' requires federal, state, and local authorities to collaborate to protect the site, which has suffered from decades of neglect. Fordlandia was an attempt to break the British rubber monopoly but ultimately failed due to worker riots and Ford's loss of control.
+
+[2] Russian rate of losses in Ukraine almost triples in one year
+Published: 2026-05-29T18:28:55Z
+URL: https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year
+Summary: Russia's rate of losses in Ukraine has nearly tripled compared to last year, with Ukraine retaking about 400 square kilometers of territory. Russia's net territorial advance in 2026 has slowed to 104 square kilometers, down from 1,619 square kilometers in the same period last year. Ukraine attributes its success to mid-range drone and artillery strikes targeting Russian logistics, while Russia faces economic strain from depleted gold reserves and budget deficits.
+
+[3] Israel, Russia among new additions on UN sexual violence ‘blacklist’
+Published: 2026-05-29T19:13:31Z
+URL: https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report
+Summary: The UN placed Israel on a blacklist of countries suspected of committing sexual violence against civilians, prompting Israel to sever ties with UN Secretary-General Antonio Guterres. The report verified multiple incidents of sexual violence against Palestinians in Gaza and the West Bank, including rape and gang rape by Israeli forces. UN official Pramila Patten said Israel did not respond to requests for preventive measures, and a planned visit was suspended due to the war on Gaza.
+
+[4] Ex-US Attorney General Pam Bondi testifies in Epstein files probe
+Published: 2026-05-29T20:30:29Z
+URL: https://www.aljazeera.com/news/2026/5/29/ex-us-attorney-general-pam-bondi-testifies-in-epstein-files-probe
+Summary: Former US Attorney General Pam Bondi testified before a closed-door congressional hearing about unreleased documents tied to the Jeffrey Epstein investigation. Bondi defended the Justice Department's release of nearly three million pages of records, but acknowledged redaction errors. Critics argue that key documents remain undisclosed and that the department failed to comply fully with the Epstein Files Transparency Act.
+
+[5] Canada sidelined in USMCA renegotiations as domestic economy dips
+Published: 2026-05-29T20:41:21Z
+URL: https://www.aljazeera.com/economy/2026/5/29/canada-sidelined-in-usmca-renegotiations-as-domestic-economy-dips
+Summary: Canada was excluded from USMCA renegotiations in Mexico City, as the US proposed raising regional content requirements for vehicles to 82 percent, with 50 percent from the US. The Canadian economy contracted at an annualized rate of 0.1 percent in the first quarter, marking the second straight quarterly decline amid tariff-driven uncertainty. Canada is strengthening trade ties with China to diversify its economy.
+
+[6] Polish president threatens to strip Ukraine’s Zelenskyy of top state honour
+Published: 2026-05-29T20:56:38Z
+URL: https://www.aljazeera.com/news/2026/5/29/polish-president-threatens-to-strip-ukraines-zelenskyy-of-top-state-honour
+Summary: Polish President Karol Nawrocki threatened to strip Ukrainian President Volodymyr Zelenskyy of the Order of the White Eagle after Zelenskyy named a military unit after the Ukrainian Insurgent Army (UPA), which killed Poles in WWII. The move caused outrage in Poland, with Prime Minister Donald Tusk calling it 'worrying' for bilateral relations. Poland has been a key ally to Ukraine during Russia's war, but tensions are rising over historical grievances.
+
+================================================================================
 RUN TIME UTC: 2026-05-29T18:12:49Z
 WINDOW: Last 6 hours
 ARTICLES USED: 14
