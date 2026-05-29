@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-05-29T03:40:03Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers Colombia's upcoming presidential election amid debt and social policy challenges, protests in Ireland over Israel football fixtures, a preview of the Champions League final, tensions at a US immigrant detention centre, Iran's World Cup visa issues, US designation of Brazilian gangs as terrorist organizations, plans for a Trump banknote, and Anthropic's valuation surge.
+
+ARTICLE BREAKDOWN
+[1] Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt | Elections | Al Jazeera
+Published: 2026-05-28T21:56:47Z
+URL: https://www.aljazeera.com/economy/2026/5/28/colombias-first-left-wing-govt-has-reduced-poverty-but-has-pile-of-debt
+Summary: Colombia's first left-wing government under Gustavo Petro has reduced poverty through social programs like 'zero tuition,' but faces a net debt of 58.5% of GDP. The upcoming presidential election on May 31 features left-wing candidate Ivan Cepeda, who wants to continue Petro's policies, and far-right outsider Abelardo de la Espriella, who focuses on cutting spending and taxes. Both candidates must address the high debt while maintaining social gains.
+
+[2] Ireland and Qatar halted twice by protests against upcoming Israel fixtures | World Cup 2026 News | Al Jazeera
+Published: 2026-05-28T22:42:33Z
+URL: https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture
+Summary: A friendly match between Ireland and Qatar in Dublin was halted twice by fan protests against Ireland's upcoming UEFA Nations League fixtures against Israel. Protesters threw tennis balls with Palestinian flag images onto the field. Ireland manager Heimir Hallgrimsson has called for Israel to be banned from international football, but the FAI says both matches will go ahead.
+
+[3] PSG vs Arsenal: UEFA Champions League final – 10 things to know | Football News | Al Jazeera
+Published: 2026-05-28T22:45:46Z
+URL: https://www.aljazeera.com/sports/2026/5/28/psg-vs-arsenal-champions-league-final-teams-start-time-lineups
+Summary: The UEFA Champions League final will be played on Saturday between defending champions Paris Saint-Germain and Arsenal. PSG are heavy favourites after winning the tournament last season with a 5-0 victory over Inter Milan, while Arsenal have never won the trophy but recently ended a 22-year Premier League title drought. Key players include PSG's Desire Doue and Ousmane Dembele, and Arsenal's Declan Rice and Viktor Gyokeres.
+
+[4] Tense protests erupt outside Delaney Hall immigrant detention centre in US | Protests News | Al Jazeera
+Published: 2026-05-28T23:10:29Z
+URL: https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us
+Summary: Protests have erupted outside the Delaney Hall immigrant detention centre in New Jersey amid reports of a hunger strike by detainees. Critics, including local officials and Democratic lawmakers, have decried conditions inside the facility, alleging medical neglect and spoiled food. Six demonstrators were arrested for allegedly assaulting federal agents, while some question the charges as politically motivated.
+
+[5] Iran ambassador hits out at ‘country to the north’ in US World Cup visa row | World Cup 2026 News | Al Jazeera
+Published: 2026-05-28T23:18:19Z
+URL: https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row
+Summary: Iran's ambassador to Mexico criticized the United States for failing to provide visas for Iran's World Cup team, saying they are not competing on equal terms. The team relocated their training camp to Tijuana, Mexico, after originally planning to be based in Tucson, Arizona. Iran will play group games in Los Angeles and Seattle, and the ambassador expressed uncertainty about visa approvals.
+
+[6] US to designate two Brazilian gangs as ‘terrorist’ organisations | Donald Trump News | Al Jazeera
+Published: 2026-05-29T00:12:42Z
+URL: https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations
+Summary: The US announced it will designate two Brazilian criminal networks, Primeiro Comando da Capital and Comando Vermelho, as 'Foreign Terrorist Organizations' effective June 5. Secretary of State Marco Rubio said the measures target drug trafficking and violent narco-terrorists. The decision may impact Brazilian politics, as President Lula has tried to dissuade the designation amid concerns about foreign interference.
+
+[7] US Treasury secretary confirms plans for banknote featuring Trump’s face | Donald Trump News | Al Jazeera
+Published: 2026-05-29T02:13:18Z
+URL: https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face
+Summary: US Treasury Secretary Scott Bessent confirmed preparations for a new $250 banknote featuring President Donald Trump's face, pending legislation to allow living persons on currency. The design marks the 250th anniversary of the Declaration of Independence. Critics have likened the move to behavior of dictators, as Trump's image has also been added to federal buildings and the Kennedy Center.
+
+[8] Anthropic soars to $965bn valuation, leapfrogging OpenAI | Technology News | Al Jazeera
+Published: 2026-05-29T03:16:25Z
+URL: https://www.aljazeera.com/economy/2026/5/29/anthropic-soars-to-965bn-valuation-leapfrogging-openai
+Summary: Anthropic, maker of the Claude chatbot, raised $65bn in a funding round led by Altimeter Capital and others, achieving a $965bn valuation that surpasses OpenAI's $852bn. The company has rapidly emerged as a leading AI player, with Claude receiving over 1 million new sign-ups daily. Anthropic faces challenges including a dispute with the Trump administration over military use restrictions, and is expected to go public soon.
+
+================================================================================
 RUN TIME UTC: 2026-05-28T21:54:48Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
