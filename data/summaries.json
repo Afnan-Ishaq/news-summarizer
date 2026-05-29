@@ -1,5 +1,97 @@
 [
   {
+    "time": "2026-05-29T08:42:26Z",
+    "window_hours": 6,
+    "article_count": 14,
+    "overall_summary": "A batch of 14 Al Jazeera articles covers a Blue Origin rocket explosion, Mexico's election interference amendment, Ethiopia's upcoming vote, Senegal's World Cup travel delay, NBA playoffs, Israel's mental health crisis, Argentina's World Cup squad, US-Iran ceasefire talks, India-Pakistan diplomacy, Ireland-Qatar match protests, Netherlands World Cup preview, a Russian drone crash in Romania, SK Hynix's trillion-dollar valuation, and Gaza's dental care struggles.",
+    "articles": [
+      {
+        "title": "Blue Origin’s New Glenn rocket explodes on launchpad in Florida",
+        "url": "https://www.aljazeera.com/news/2026/5/29/blue-origins-new-glenn-rocket-explodes-on-launch-pad",
+        "published": "2026-05-29T03:52:24Z",
+        "summary": "Blue Origin's New Glenn rocket exploded on the launchpad during a hot-fire test in Florida on Thursday evening, with no injuries reported. The incident is the latest setback for Jeff Bezos's space venture as it competes with SpaceX, and Bezos said it is too early to know the root cause. The rocket was being prepared to launch 48 Amazon Leo satellites, and last month it failed a mission to deliver a communications satellite into the correct orbit."
+      },
+      {
+        "title": "Mexico backs amendment to annul election results over foreign interference",
+        "url": "https://www.aljazeera.com/news/2026/5/29/mexico-backs-amendment-to-annul-election-results-over-foreign-interference",
+        "published": "2026-05-29T05:24:37Z",
+        "summary": "Mexico's lower house approved a constitutional amendment to allow nullifying elections due to foreign interference, with 307 votes in favor. Critics say the measure could undermine electoral confidence, while the ruling Morena party defends it as a safeguard of democracy. The amendment, which requires Senate approval, defines foreign interference as illicit financing, propaganda, disinformation, and foreign government intervention."
+      },
+      {
+        "title": "Ethiopia to vote on June 1 as Abiy’s ruling party eyes landslide victory",
+        "url": "https://www.aljazeera.com/news/2026/5/29/ethiopia-to-vote-on-june-1-as-abiys-ruling-party-eyes-landslide",
+        "published": "2026-05-29T05:58:03Z",
+        "summary": "Ethiopia will hold general elections on June 1, with Prime Minister Abiy Ahmed's Prosperity Party expected to win decisively amid a fragmented opposition and violence in regions like Amhara and Oromia. Critics say the polls are a symbolic exercise to confer legitimacy on the incumbent, and Tigray has been excluded entirely from the election. More than 50 million people are registered to vote, but instability from a civil war that ended in 2022 could limit turnout."
+      },
+      {
+        "title": "Senegal deny World Cup travel delay is due to coach dispute",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/senegal-deny-world-cup-travel-delay-is-due-to-coach-dispute",
+        "published": "2026-05-29T06:11:07Z",
+        "summary": "Senegal's football federation denied reports that coach Pape Thiaw refused to travel to the US for World Cup preparations due to a contract dispute, saying logistical issues like flight permits and visas caused an eight-hour delay. Thiaw led Senegal to the 2025 AFCON title, but the victory was marred by a mid-game boycott and later stripped by CAF, with Senegal appealing to CAS. Senegal will make their fourth World Cup appearance in Group I, starting against France."
+      },
+      {
+        "title": "Wembanyama and Spurs force game seven against Thunder in NBA playoffs",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/wembanyama-and-spurs-force-game-seven-against-thunder-in-nba-playoffs",
+        "published": "2026-05-29T06:13:22Z",
+        "summary": "Victor Wembanyama scored 28 points as the San Antonio Spurs routed Oklahoma City 118-91 to force a game seven in the NBA Western Conference finals. The Spurs led throughout, with an astonishing 20-0 run in the third quarter, and the decisive game will be in Oklahoma City on Saturday. Wembanyama said the team is ready for a hostile environment, and the winner will face the New York Knicks in the NBA Finals."
+      },
+      {
+        "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+        "url": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war",
+        "published": "2026-05-29T06:39:24Z",
+        "summary": "Israel is grappling with rising trauma after over two years of war, with a survey finding about one-third of Israelis need mental health support and a 40% rise in PTSD among soldiers since September 2023. Suicides have increased sharply, with 78% of military suicides in 2024 linked to combat operations, and domestic violence has also spiked. President Isaac Herzog acknowledged a process of brutalization in Israeli society, including violence against Palestinians and Christians."
+      },
+      {
+        "title": "Messi to captain Argentina at World Cup as Scaloni plays down injury fears",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/messi-to-captain-argentina-at-world-cup-as-scaloni-plays-down-injury-fears",
+        "published": "2026-05-29T06:40:27Z",
+        "summary": "Lionel Messi will captain Argentina's World Cup defence in 2026, coach Lionel Scaloni announced, despite an injury scare from muscle fatigue in his left hamstring. Scaloni played down the seriousness, and Messi will play in his record-breaking sixth tournament. The squad includes 17 players from the 2022 title-winning team, and Argentina's first match is against Algeria on June 16."
+      },
+      {
+        "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+        "url": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal",
+        "published": "2026-05-29T07:04:00Z",
+        "summary": "The US and Iran are close to a 60-day deal to extend their fragile ceasefire and launch talks on Iran's nuclear programme, though President Trump has not yet signed off. The proposed framework would keep the Strait of Hormuz open, require Iran to remove sea mines, and lift the US naval blockade if commercial traffic resumes. Iran's World Cup team is still waiting for US visas, and Pakistan's deputy PM is set to visit Washington for talks focused on the war."
+      },
+      {
+        "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+        "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired",
+        "published": "2026-05-29T07:22:06Z",
+        "summary": "Despite Indian PM Modi's 2016 vow to isolate Pakistan, Pakistan has become a close ally of China and a trusted US partner under Trump, mediating between the US and Iran. Analysts say India's strategy backfired due to missteps, and Pakistan's diplomatic stature has grown. A US-mediated ceasefire in May 2025 ended four days of intense fighting between India and Pakistan."
+      },
+      {
+        "title": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/israel-football-dispute-to-heat-up-further-from-ireland-qatar-protests",
+        "published": "2026-05-29T07:39:09Z",
+        "summary": "Ireland's friendly win over Qatar was disrupted twice by pro-Palestinian protests, with tennis balls featuring the Palestinian flag thrown onto the pitch. Ireland midfielder Jamie McGrath warned the controversy over upcoming Nations League games against Israel could intensify. The FAI has said it will go ahead with the fixtures, despite 93% of members voting to press UEFA to suspend Israel."
+      },
+      {
+        "title": "Netherlands’ World Cup 2026 team preview: Players to watch, group, squad",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/netherlands-world-cup-2026-team-preview-players-to-watch-group-squad",
+        "published": "2026-05-29T07:48:59Z",
+        "summary": "The Netherlands, unbeaten in eight qualifiers, have an outside chance of winning their first World Cup after losing all three finals they reached. Key players include midfielder Tijjani Reijnders, defender Virgil van Dijk, and forward Cody Gakpo. The team suffered a blow when playmaker Xavi Simons was injured in April."
+      },
+      {
+        "title": "NATO states slam Russia after drone crashes in Romania",
+        "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania",
+        "published": "2026-05-29T07:50:50Z",
+        "summary": "A Russian drone crashed into an apartment building in Galati, Romania, injuring two people, prompting condemnation from Romania and NATO allies. Romania summoned the Russian ambassador and called for faster anti-drone capabilities from NATO. The incident is the latest in a series of incursions along NATO's eastern flank, raising fears of escalation."
+      },
+      {
+        "title": "South Korea’s SK Hynix enters exclusive $1 trillion club",
+        "url": "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club",
+        "published": "2026-05-29T08:04:27Z",
+        "summary": "SK Hynix became the second South Korean company to reach a $1 trillion market valuation, driven by AI demand for semiconductors. Its share price surged 240% since the start of the year, and operating profit quintupled year-on-year in the first quarter. Only 17 companies have reached this milestone, with SK Hynix being one of four non-US firms."
+      },
+      {
+        "title": "Gaza parents brave dental dilemma: Costly treatment or food on the table?",
+        "url": "https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table",
+        "published": "2026-05-29T08:13:57Z",
+        "summary": "Many Palestinians in Gaza are forgoing expensive dental treatment due to the Israeli siege, which has driven up prices and caused shortages of materials. Patients often delay treatment until infections worsen, leading to more complicated and costly procedures. Dentist Liza Hassouna says she must balance medical needs with patients' limited financial resources, as many choose extraction as a cheaper option."
+      }
+    ]
+  },
+  {
     "time": "2026-05-29T03:40:03Z",
     "window_hours": 6,
     "article_count": 8,
