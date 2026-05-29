@@ -1,4 +1,83 @@
 ================================================================================
+RUN TIME UTC: 2026-05-29T18:12:49Z
+WINDOW: Last 6 hours
+ARTICLES USED: 14
+
+OVERALL SUMMARY
+The batch covers a range of international news, including Israeli plans to expand control in Gaza drawing German concern, a feature on Syria's post-war rail system, the Quad's port development in Fiji, a deadly attack in Sudan, the dangers of the kambo ritual, a school fire in Kenya, analysis of Israel's long-term Gaza plans, the Champions League final preview, a US court blocking Trump's fund, Colombia's peace plan debate, Tajikistan's Rogun Dam project, Israeli advances in Lebanon, US-Iran deal uncertainty, and the EU releasing frozen funds for Hungary.
+
+ARTICLE BREAKDOWN
+[1] Israeli plan to extend control in Gaza provokes German concern
+Published: 2026-05-29T13:39:47Z
+URL: https://www.aljazeera.com/news/2026/5/29/israeli-plan-to-extend-control-in-gaza-provokes-german-concern
+Summary: Germany expressed concern over Israeli plans to extend military control in Gaza to 70 percent, marking a shift in Berlin's stance. The expansion violates the October ceasefire terms, which required Israel to control about half of Gaza. Critics fear permanent annexation, and the move worsens conditions for Gaza's 2.3 million people. Germany, a key ally and second-largest weapons supplier, has recently criticized Israeli actions in the West Bank and Gaza.
+
+[2] Following Syria’s broken tracks from Baniyas to Aleppo
+Published: 2026-05-29T13:55:01Z
+URL: https://www.aljazeera.com/features/longform/2026/5/29/following-syrias-broken-tracks-from-baniyas-to-aleppo
+Summary: The article describes a journey from Baniyas Refinery to Aleppo, highlighting the decay of Syria's rail system after the civil war. Workers like Hussam Hassan note increased activity since the fall of al-Assad, but the journey is grueling due to damaged tracks and looted infrastructure. The train carries 5,000 tonnes of fuel oil to the Aleppo Thermal Power Plant, a vital supply for post-war Syria.
+
+[3] QUAD to build Fiji port: A new US-China flashpoint?
+Published: 2026-05-29T13:56:29Z
+URL: https://www.aljazeera.com/features/2026/5/29/quad-to-build-fiji-port-a-new-us-china-flashpoint
+Summary: The Quad alliance announced plans to develop port infrastructure in Fiji, starting with Suva and Lautoka, as a counter to China's influence. The initiative marks the first joint Quad project in the Pacific, but specific details are scarce. Fiji had previously discussed port redevelopment with China in 2023, but those plans did not materialize. The move could become a flashpoint in US-China relations.
+
+[4] Sudan medical group says RSF-affiliated fighters kill 27 civilians
+Published: 2026-05-29T14:01:59Z
+URL: https://www.aljazeera.com/news/2026/5/29/sudan-medical-group-says-rsf-affiliated-fighters-kill-27-civilians
+Summary: A force affiliated with the Rapid Support Forces killed at least 27 civilians in North Kordofan, Sudan, during Eid al-Adha. The Sudan Doctors Network condemned the attack as a violation of international law. The attacks worsen the humanitarian crisis, with nearly 19.5 million facing severe hunger. The group called for international action to protect civilians.
+
+[5] Kambo: What is the frog poison ‘spiritual ritual’ killing detoxers?
+Published: 2026-05-29T14:35:33Z
+URL: https://www.aljazeera.com/news/2026/5/29/kambo-what-is-the-frog-poison-spiritual-ritual-killing
+Summary: The article explains the kambo ritual, which involves applying giant monkey frog secretions to burns, and its risks. Several deaths have occurred, including UK wellness coach Kristian Trend in April 2026. The practice, rooted in Amazonian tradition, is not scientifically backed and is banned in some countries. The poison contains peptides that cause vomiting and cardiovascular effects.
+
+[6] Eight girls arrested on suspicion of arson after Kenya school fire
+Published: 2026-05-29T14:40:54Z
+URL: https://www.aljazeera.com/news/2026/5/29/eight-girls-arrested-on-suspicion-of-arson-after-kenya-school-fire
+Summary: Eight students were arrested on suspicion of arson after a fire at Utumishi Girls Academy in Kenya killed 16 and injured 79. Preliminary investigations identified the girls as persons of interest. Education Minister Julius Ogamba said teachers were informed of plans but failed to act, and the school violated safety rules. The government disbanded the school board and will take disciplinary action.
+
+[7] Just what are Israel’s long-term plans for Gaza?
+Published: 2026-05-29T15:01:31Z
+URL: https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for
+Summary: Despite a ceasefire, Israel has expanded control in Gaza by 11 percent and established 32 military outposts. Prime Minister Netanyahu ordered the army to seize 70 percent of Gaza, raising fears of annexation. Experts say this violates international law, as the ICJ reaffirmed in 2024. The war has killed over 72,000 people and caused a famine, with infrastructure decimated.
+
+[8] PSG vs Arsenal: Champions League final – teams, start time, lineups
+Published: 2026-05-29T15:11:16Z
+URL: https://www.aljazeera.com/sports/2026/5/29/psg-vs-arsenal-champions-league-final-teams-start-time-lineups-kickoff
+Summary: The Champions League final between PSG and Arsenal will be held in Budapest on May 30. PSG, defending champions, reached the final after a playoff and knockout rounds, while Arsenal went undefeated in the league phase. Both teams are domestic league champions. The article provides details on their paths to the final and key match information.
+
+[9] US federal judge temporarily blocks Trump’s ‘anti-weaponisation fund’
+Published: 2026-05-29T15:28:52Z
+URL: https://www.aljazeera.com/news/2026/5/29/us-federal-judge-temporarily-blocks-trumps-anti-weaponisation-fund
+Summary: A US federal judge temporarily blocked Trump's $1.8 billion 'anti-weaponisation fund' intended to compensate victims of alleged government lawfare. The fund stemmed from a settlement over leaked tax records. The judge scheduled a June 12 hearing. Multiple lawsuits challenge the fund, arguing it is a partisan tool to reward Trump supporters.
+
+[10] Colombia’s ‘Total Peace’ plan: A failure or unfinished business for Petro?
+Published: 2026-05-29T15:29:48Z
+URL: https://www.aljazeera.com/news/longform/2026/5/29/colombias-total-peace-plan-a-failure-or-unfinished-business-for-petro
+Summary: Colombia's 'Total Peace' plan under President Gustavo Petro has not achieved lasting peace, with active fighters doubling to 27,000 and violent incidents rising. The policy is contested ahead of the May 31 presidential election, with only one leading candidate committed to continuing it. Residents in conflict zones like Caqueta face restrictions and fear. Experts say the plan has left armed groups stronger.
+
+[11] On the road to Rogun Dam, Tajikistan’s ‘greatest dream’
+Published: 2026-05-29T15:40:08Z
+URL: https://www.aljazeera.com/news/2026/5/29/on-the-road-to-rogun-dam-tajikistans-greatest-dream
+Summary: The article describes the journey to the Rogun Dam construction site in Tajikistan, a $5 billion project to address chronic energy shortages. The dam, called the 'Project of the Century,' is seen as a promise to reduce winter power deficits and potentially export surplus. The terrain is challenging, with heavy machinery and workers building the dam in a remote mountain valley.
+
+[12] Five killed in Lebanon as Israeli forces advance across key Litani River
+Published: 2026-05-29T15:59:26Z
+URL: https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river
+Summary: Israeli air strikes killed five people in southern Lebanon as forces advanced across the Litani River. The attacks occurred despite a ceasefire that began in April and was extended in May. Lebanese and Israeli delegations are holding security talks at the Pentagon. UNICEF reported that 77 children have been killed or injured in Lebanon over the past week.
+
+[13] Trump says ‘final determination’ to be made on possible Iran deal
+Published: 2026-05-29T17:10:10Z
+URL: https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal
+Summary: President Trump said he is making a 'final determination' on a deal with Iran to extend the ceasefire and reopen the Strait of Hormuz, but deep mistrust remains. Iran's foreign ministry said no final agreement has been reached, and negotiator Ghalibaf said Tehran judges by actions. White House sources indicated a tentative 60-day ceasefire extension, but Trump has not signed off.
+
+[14] EU to release billions in frozen funds for Hungary amid Magyar reforms
+Published: 2026-05-29T17:34:13Z
+URL: https://www.aljazeera.com/news/2026/5/29/eu-to-release-billions-in-frozen-funds-for-hungary-amid-magyar-reforms
+Summary: The EU will release 16.4 billion euros in frozen funds for Hungary, a win for new Prime Minister Peter Magyar. The funds were frozen under Viktor Orban due to democratic backsliding. Von der Leyen praised Magyar's reforms, including dropping ICC withdrawal plans and allowing Pride. Magyar called it a 'historic day' and said the money will rebuild Hungary.
+
+================================================================================
 RUN TIME UTC: 2026-05-29T12:47:24Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
