@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-05-30T16:05:06Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "A batch of Al Jazeera articles covers Liverpool sacking manager Arne Slot after a poor season, Egypt's urgent diplomatic efforts to salvage the Gaza ceasefire amid Israeli escalations, the divisive impact of the US-Israel war on Iran within Muslim communities in the Philippines, Israeli forces advancing to Nabatieh in southern Lebanon, a deadly truck crash killing Afghan returnees from Pakistan, the rescue of four more men from a flooded cave in Laos, and the suspension of a senior Sri Lankan monk over a child sex abuse allegation.",
+    "articles": [
+      {
+        "title": "Liverpool sack Arne Slot after disastrous Premier League title defence | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/30/liverpool-sack-manager-arne-slot-a-year-after-winning-the-premier-league",
+        "published": "2026-05-30T11:46:57Z",
+        "summary": "Liverpool have sacked manager Arne Slot after a disastrous second season, finishing fifth in the Premier League following a title win in his first season. The club cited a need for change despite Slot's significant contributions, including winning the league. Liverpool spent heavily on new signings who underwhelmed, and the team suffered 19 defeats this season, with fans turning on Slot and disharmony among players."
+      },
+      {
+        "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire | Gaza News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire",
+        "published": "2026-05-30T12:04:35Z",
+        "summary": "Egypt has launched urgent diplomatic efforts to rescue the fragile Gaza ceasefire, warning Israel that expanding its occupation and deadly air strikes threaten the peace process. Israeli Prime Minister Netanyahu ordered the military to expand control from 53% to 70% of Gaza, violating the US-brokered peace plan, while the defence minister revived a plan for Palestinian 'voluntary migration'. Egypt is coordinating with Qatar, Turkiye, and US officials to restrain Israel and return to negotiations."
+      },
+      {
+        "title": "The Iran war is dividing Muslims in the Philippines | US-Israel war on Iran | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines",
+        "published": "2026-05-30T12:49:20Z",
+        "summary": "The US-Israeli war on Iran has deepened polarisation among Muslim communities in the Philippines, particularly in the Bangsamoro Autonomous Region. Two camps have emerged: one supporting Iran's retaliation against the US and Israel, and another opposing Iran due to sectarian differences, viewing Shia as hostile. This division, exacerbated by the Abraham Accords and the October 7, 2023 attack, has threatened community cohesion and sparked debates over Palestinian solidarity."
+      },
+      {
+        "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon's biggest cities | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities",
+        "published": "2026-05-30T13:50:57Z",
+        "summary": "Israeli forces have advanced beyond the Litani River for the first time since 2006 and are on the outskirts of Nabatieh, a major city in southern Lebanon. The advance threatens to encircle the city, which is a cultural and economic hub, as Israel expands its air campaign and issues evacuation orders for villages. Hezbollah has responded with rocket attacks on northern Israel, while ongoing peace talks in Washington face strain."
+      },
+      {
+        "title": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18 | Transport News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/30/truck-carrying-afghan-returnees-from-pakistan-flips-on-highway-killing-18",
+        "published": "2026-05-30T14:11:35Z",
+        "summary": "At least 18 people, including 10 children, were killed when a cargo truck carrying Afghan returnees from Pakistan overturned on a highway in Laghman province, Afghanistan. The driver reportedly fell asleep, causing the truck to veer into a ditch. The accident highlights the dangers faced by hundreds of thousands of Afghans returning from Pakistan amid a crackdown on undocumented migrants, with many forced to travel in hazardous trucks."
+      },
+      {
+        "title": "Rescuers free four more men from flooded Laos cave, two still missing | Floods News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/30/rescuers-free-four-more-men-from-flooded-laos-cave-two-still-missing",
+        "published": "2026-05-30T14:53:35Z",
+        "summary": "Rescuers have freed four more men from a flooded cave in central Laos, bringing the total rescued to five out of seven who became trapped while searching for gold. The men were located alive on Wednesday and were able to walk and swim out as water levels dropped. Two others remain missing deeper in the cave, and rescue teams are preparing to search further despite treacherous conditions."
+      },
+      {
+        "title": "Senior Sri Lankan monk suspended over child sex abuse allegation | Crime News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation",
+        "published": "2026-05-30T15:26:35Z",
+        "summary": "Sri Lanka's Buddhist hierarchy has suspended senior monk Pallegama Hemarathana, 71, after he was accused of sexually abusing an 11-year-old girl in 2022 at a venerated temple. He was arrested on May 9 and has since been granted bail, with a court barring him from travelling abroad. The suspension is rare disciplinary action in the religiously conservative nation, where Hemarathana is the most senior monk to face such allegations."
+      }
+    ]
+  },
+  {
     "time": "2026-05-30T11:20:38Z",
     "window_hours": 6,
     "article_count": 6,
