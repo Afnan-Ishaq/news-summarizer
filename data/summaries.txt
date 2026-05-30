@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-05-30T20:58:27Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+The articles cover Colombia's upcoming presidential election, a rapidly spreading Ebola outbreak in DR Congo, ongoing Israeli attacks in Gaza, and Iran's reassertion of control over the Strait of Hormuz amid stalled US negotiations.
+
+ARTICLE BREAKDOWN
+[1] ‘Opposite visions’: What to know about Colombia’s presidential election | Elections News | Al Jazeera
+Published: 2026-05-30T16:21:52Z
+URL: https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election
+Summary: Colombia's first round of presidential voting is on May 31, 2026, with 14 candidates competing. The election is dominated by security and economic concerns, and leftist Senator Ivan Cepeda is leading two right-wing rivals in polls. President Gustavo Petro cannot run again due to term limits, and a run-off is scheduled for June 21 if no candidate wins over 50 percent.
+
+[2] Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo | Ebola News | Al Jazeera
+Published: 2026-05-30T16:44:46Z
+URL: https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo
+Summary: WHO Director-General Tedros Adhanom Ghebreyesus visited Bunia, DR Congo, as confirmed Ebola cases nearly doubled to 225 in two days. The outbreak is caused by the rare Bundibugyo virus, for which no approved vaccine or treatment exists, and has spread to Uganda. The WHO has declared a global health emergency, and MSF calls it one of the fastest-spreading Ebola outbreaks ever recorded.
+
+[3] Two killed, including Palestinian doctor, in Israeli attacks on Gaza | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-05-30T17:04:03Z
+URL: https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza
+Summary: Two Palestinians were killed in Israeli attacks in Gaza on Saturday, including Dr. Jamal Abu Aboun, head of anaesthesia at Al-Yafa Medical Hospital. Israeli artillery and drone strikes targeted areas in Deir al-Balah, Khan Younis, and Gaza City, while homes were demolished in Beit Lahiya. At least 922 Palestinians have been killed since the October 'ceasefire,' according to the Gaza Media Office.
+
+[4] Iran reasserts control over Hormuz Strait as deal with US remains elusive | US-Israel war on Iran News | Al Jazeera
+Published: 2026-05-30T19:48:13Z
+URL: https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive
+Summary: Iran's armed forces announced full authority over the Strait of Hormuz, requiring vessels to obtain permission from the IRGC Navy and warning foreign military forces against interference. The US signaled a potential deal with Iran is near, but Tehran denied any final agreement. Pentagon chief Pete Hegseth said the US is 'more than capable' of restarting war if a satisfactory deal is not reached.
+
+================================================================================
 RUN TIME UTC: 2026-05-30T16:05:06Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
