@@ -1,5 +1,37 @@
 [
   {
+    "time": "2026-05-30T03:28:29Z",
+    "window_hours": 6,
+    "article_count": 4,
+    "overall_summary": "Brazil's President Lula criticizes the US designation of Brazilian gangs as terrorists, an ICE agent is arrested for shooting a Venezuelan man during a raid, Trump plans to withdraw from the Kennedy Center after a court ruling, and Louisiana lawmakers pass a new congressional map that eliminates a majority-Black district.",
+    "articles": [
+      {
+        "title": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
+        "url": "https://www.aljazeera.com/news/2026/5/29/arbitrary-measures-lula-slams-us-terror-designation-for-brazil-gangs",
+        "published": "2026-05-29T21:54:36Z",
+        "summary": "Brazilian President Luiz Inacio Lula da Silva denounced the US decision to designate two Brazilian criminal networks as 'terrorists,' warning it could undermine local law enforcement. Lula argued that the groups' profit-driven crimes should not be conflated with ideologically motivated terrorism. The US designation, announced by Secretary of State Marco Rubio, freezes assets and could penalize those providing support, with Lula expressing concern about potential US military intervention."
+      },
+      {
+        "title": "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
+        "url": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid",
+        "published": "2026-05-29T22:52:50Z",
+        "summary": ""
+      },
+      {
+        "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
+        "url": "https://www.aljazeera.com/news/2026/5/29/trump-pledges-to-withdraw-from-kennedy-center-after-court-strikes-his-name",
+        "published": "2026-05-29T23:41:25Z",
+        "summary": "President Donald Trump announced plans to withdraw his leadership from the Kennedy Center after a federal judge ruled his name must be removed from the building. Judge Christopher Cooper sided with a lawsuit from Representative Joyce Beatty, citing a 1964 law that established the center as a living memorial to President John F. Kennedy. Trump had previously fired board members, renamed the venue, and planned a two-year closure for renovations, which the court blocked."
+      },
+      {
+        "title": "Louisiana lawmakers pass congressional map favouring Republicans",
+        "url": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans",
+        "published": "2026-05-30T00:27:54Z",
+        "summary": "Louisiana lawmakers passed a new congressional map that eliminates one of the state's two majority-Black districts, aiming to give Republicans a fifth of six US House seats. The move follows an April Supreme Court ruling that struck down the previous map as an illegal racial gerrymander. Democratic opponents argued the map racially squeezes Black voters into one district, while the Republican sponsor insisted party affiliation, not race, drove the boundaries."
+      }
+    ]
+  },
+  {
     "time": "2026-05-29T21:52:06Z",
     "window_hours": 6,
     "article_count": 6,
