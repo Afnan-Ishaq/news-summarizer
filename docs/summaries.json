@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-05-31T11:41:01Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "A batch of Al Jazeera articles covers sports, geopolitics, and regional news, including Coco Gauff's French Open exit, updates on the US-Iran war and Israel's Lebanon invasion, analysis of the Strait of Hormuz crisis, Ukrainian drone strikes on Russia, Malta's election results, and Morocco's football rise.",
+    "articles": [
+      {
+        "title": "Holder Gauff beaten by Potapova; Sabalenka solid at French Open | Tennis | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/31/holder-gauff-beaten-by-potapova-sabalenka-solid-at-french-open",
+        "published": "2026-05-31T08:26:20Z",
+        "summary": "Defending champion Coco Gauff lost to Anastasia Potapova 4-6, 7-6(1), 6-4 at the French Open, leaving Iga Swiatek and Aryna Sabalenka as top contenders. Sabalenka defeated Daria Kasatkina 6-0, 7-5 for her 100th WTA win, joining an elite list of players. Gauff cited missed opportunities in crucial moments, while Potapova expressed pride in her victory."
+      },
+      {
+        "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion",
+        "published": "2026-05-31T08:29:45Z",
+        "summary": "US President Donald Trump told Fox News he is in 'no hurry' for a deal with Iran, as US media reported he requested amendments to a preliminary agreement. Israel expanded its Lebanon invasion, capturing Beaufort Castle and issuing new displacement orders. Iran shot down a US drone and unveiled a new naval attack craft, while the US disabled a ship attempting to reach an Iranian port."
+      },
+      {
+        "title": "The strait may reopen, but global confidence may not return | Opinions | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return",
+        "published": "2026-05-31T08:30:28Z",
+        "summary": "The article argues that the Strait of Hormuz crisis is shifting from access to governance, with Iran seeking a permanent role in managing the waterway. It warns that temporary calm from a deal may not restore strategic stability, as trade routes become more politically managed. The author emphasizes that de-escalation differs from normalization, and global confidence in predictable commerce remains distant."
+      },
+      {
+        "title": "Israel issues more displacement orders in Lebanon, seizes strategic castle | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle",
+        "published": "2026-05-31T08:49:53Z",
+        "summary": "Israel ordered residents south of the Zahrani River to flee north, expanding its invasion of Lebanon and encircling Nabatieh. Israeli forces captured Beaufort Castle, a strategic hilltop fortress, which Defence Minister Israel Katz called a significant tactical victory. France rebuked Israel's actions and requested an emergency UN Security Council meeting, while Prime Minister Netanyahu signaled no intention to slow military campaigns."
+      },
+      {
+        "title": "Trump tightens terms on Iran war deal, US media say | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say",
+        "published": "2026-05-31T09:15:00Z",
+        "summary": "US media reported that President Trump toughened terms of a proposed deal to end the US-Israel war on Iran, including on nuclear material, and sent the framework back for Iranian consideration. A senior US official said it could take three days for Iran to respond, while Iran's chief negotiator stated Tehran would not agree unless its rights are secured. The new tweaks could prolong negotiations, with Trump prioritizing Iran's nuclear disarmament and reopening the Strait of Hormuz."
+      },
+      {
+        "title": "Ukrainian drone attacks hit multiple Russian targets, including refinery | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/ukrainian-drone-attacks-hit-multiple-russian-targets-including-refinery",
+        "published": "2026-05-31T10:07:15Z",
+        "summary": "Ukrainian drones struck energy and industrial targets across several Russian regions, including the Saratov oil refinery and the Lazarevo oil-pumping station in the Kirov region. Russian governors in Rostov, Voronezh, and Belgorod also reported strikes, with three civilians injured in Belgorod. Ukraine denied hitting the Zaporizhzhia nuclear plant, and President Zelenskyy announced receiving a new Iris-T air defence launcher from Germany."
+      },
+      {
+        "title": "Labour triumphs in Malta election, preliminary results show | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/labour-triumphs-in-malta-election-preliminary-results-show",
+        "published": "2026-05-31T10:48:46Z",
+        "summary": "Malta's Labour Party won an unprecedented fourth term in a snap election, with Prime Minister Robert Abela calling it a victory for national unity. Preliminary results showed a comfortable parliamentary majority, though narrower than in 2022, with 87.4% turnout. Abela campaigned on economic stability amid geopolitical crises, while the opposition Nationalist Party conceded but noted it reduced Labour's majority."
+      },
+      {
+        "title": "From AFCON to World Cup 2026: How Morocco became a football powerhouse | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/31/from-afcon-to-world-cup-2026-how-morocco-became-a-football-powerhouse",
+        "published": "2026-05-31T11:01:47Z",
+        "summary": "Morocco's football success, from AFCON champions to World Cup semifinalists, is attributed to a strategy based on good governance, financial investment, and competent human resources, initiated by King Mohammed VI in 2008. The country built thousands of local pitches and the Mohammed VI complex, producing top talent across all age groups. Morocco is now a credible contender for the 2026 World Cup, with achievements including the 2025 AFCON title and U-20 World Cup championship."
+      }
+    ]
+  },
+  {
     "time": "2026-05-31T08:14:39Z",
     "window_hours": 6,
     "article_count": 5,
