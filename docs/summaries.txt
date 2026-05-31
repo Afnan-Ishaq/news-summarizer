@@ -1,4 +1,18 @@
 ================================================================================
+RUN TIME UTC: 2026-05-31T03:55:14Z
+WINDOW: Last 6 hours
+ARTICLES USED: 1
+
+OVERALL SUMMARY
+The US Congress is advancing a provision in the 2027 defense bill that would deepen American-Israeli military integration, shifting from aid-based cooperation to intertwined defense industries. The provision, still in early stages, would require a single US official to coordinate joint research, production, and technology sharing across AI, drones, and cyber operations.
+
+ARTICLE BREAKDOWN
+[1] US Congress advances American-Israeli military integration plan
+Published: 2026-05-30T22:28:09Z
+URL: https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan
+Summary: A provision in the US House Armed Services Committee's version of the 2027 National Defense Authorization Act could significantly deepen military cooperation between the US and Israel, moving beyond aid to integrate their defense industries. Section 224 would require the US defense secretary to appoint an executive agent to coordinate joint research, weapons production, and military system integration. Critics, including former State Department official Josh Paul, argue it would give Israel unprecedented access to US technology and leverage over American defense priorities. The provision comes after the joint US-Israeli attack on Iran earlier this year and amid Israel's ongoing war on Gaza and genocide allegations at the International Court of Justice.
+
+================================================================================
 RUN TIME UTC: 2026-05-30T20:58:27Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
