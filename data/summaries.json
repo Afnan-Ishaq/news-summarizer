@@ -1,5 +1,67 @@
 [
   {
+    "time": "2026-05-31T21:00:26Z",
+    "window_hours": 6,
+    "article_count": 9,
+    "overall_summary": "The batch covers Iran restoring gas production at South Pars after Israeli attacks, Ethiopia's upcoming general election and its human rights context, a deadly explosion in Myanmar, US legislative moves to deepen military ties with Israel facing bipartisan pushback, a curfew at a New Jersey immigration detention center amid protests, and Virat Kohli leading Bengaluru to a second consecutive IPL title.",
+    "articles": [
+      {
+        "title": "Iran ⁠restores some gas production at South Pars facility | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility",
+        "published": "2026-05-31T16:38:31Z",
+        "summary": "Iran has restored gas production at three offshore platforms in the South Pars gasfield after Israeli attacks in March, according to the Pars Oil and Gas Company CEO. The platforms were not damaged, and production is being routed to other processing plants while repairs continue. The resumption is seen as symbolically and practically significant for Iran, though the country still faces a US blockade and ongoing negotiations."
+      },
+      {
+        "title": "Ethiopia’s election: Parties, coalitions and candidates explained | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained",
+        "published": "2026-05-31T16:40:22Z",
+        "summary": "Over 50 million Ethiopians are registered to vote in a general election on Monday to choose members of parliament, who will select the next prime minister. The article explains the main political parties, including the ruling Prosperity Party led by Prime Minister Abiy Ahmed, the National Movement of Amhara, and the Ethiopian Citizens for Social Justice. The election features 47 political parties and over 10,900 candidates."
+      },
+      {
+        "title": "Dozens killed in explosives depot blast in northeast Myanmar | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/dozens-killed-in-blast-at-explosives-depot-in-northeastern-myanmar",
+        "published": "2026-05-31T17:42:32Z",
+        "summary": "At least 46 people were killed and more than 70 wounded in an explosion at an explosives depot in the village of Kaung Tat in Shan State, Myanmar, near the Chinese border. The blast occurred in an area controlled by the Ta’ang National Liberation Army, which confirmed the explosion and said the stored explosives were used for mining. An investigation into the cause is under way."
+      },
+      {
+        "title": "US Congress moves to deepen military ties with Israel: Why it matters | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters",
+        "published": "2026-05-31T18:40:46Z",
+        "summary": "The US Congress is advancing a proposal in the 2027 National Defence Authorisation Act to deepen military ties with Israel, including designating an official to coordinate bilateral defence technology cooperation. Analysts say the measure would embed Israeli military interests into US national security policy, making support less a matter of political choice. Critics argue it would limit oversight and make the relationship harder to unwind."
+      },
+      {
+        "title": "US measure to deepen Israel military cooperation faces bipartisan pushback | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback",
+        "published": "2026-05-31T18:52:24Z",
+        "summary": "Democratic Congressman Ro Khanna and Republican Thomas Massie are pushing to remove Section 224 from the US defence bill, which would deepen military integration with Israel. Khanna plans to introduce an amendment in the House Armed Services Committee, while Massie warned he would oppose the bill on the floor. The provision would appoint an executive agent to oversee joint technological development, raising concerns about transparency and US independence."
+      },
+      {
+        "title": "Newark mayor imposes curfew at Delaney Hall immigration detention centre | Protests News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre",
+        "published": "2026-05-31T20:12:58Z",
+        "summary": "Newark Mayor Ras Baraka imposed a curfew around Delaney Hall immigration detention centre due to escalating tensions and protests, restricting movement within half a mile from 9pm to 6am. The facility has been a flashpoint in the debate over Trump's mass deportation drive, with detainees on hunger strike over living conditions. Governor Mikie Sherrill called for designated protest zones to reduce clashes with law enforcement."
+      },
+      {
+        "title": "Ethiopia’s election is about affirming national commitment to democracy | Elections | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2",
+        "published": "2026-05-31T20:28:26Z",
+        "summary": "Ethiopia's June 1 election, with over 57 million voters and 47 parties, is a test of democratic transition amid global democratic strain. The article notes strong economic growth and infrastructure development under the ruling party, but also highlights challenges like security issues and fragmented opposition. The ruling party has refrained from fielding candidates in some seats to encourage pluralism."
+      },
+      {
+        "title": "As Ethiopia votes, its deepening human rights crisis must be addressed | Elections | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed",
+        "published": "2026-05-31T20:28:50Z",
+        "summary": "Ethiopia's election proceeds despite ongoing internal conflicts and human rights abuses, casting doubt on its credibility. The article recounts initial reforms under Prime Minister Abiy Ahmed, including releasing political prisoners, but notes these were overshadowed by the Tigray war and Amhara conflict, with reports of war crimes and crimes against humanity. No concrete steps have been taken to ensure accountability for these violations."
+      },
+      {
+        "title": "Kohli powers Bengaluru to ‘stuff of dreams’ back-to-back IPL titles | Cricket News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/5/31/kohli-powers-bengaluru-to-stuff-of-dreams-back-to-back-ipl-titles",
+        "published": "2026-05-31T20:49:37Z",
+        "summary": "Virat Kohli's unbeaten 75 led Royal Challengers Bengaluru to their second consecutive Indian Premier League title, defeating Gujarat Titans by five wickets in Ahmedabad. Bengaluru chased down 155-8 with 12 balls to spare, with Kohli hitting the winning six. Captain Rajat Patidar joined an elite group of IPL captains to win back-to-back titles."
+      }
+    ]
+  },
+  {
     "time": "2026-05-31T16:09:18Z",
     "window_hours": 6,
     "article_count": 11,
