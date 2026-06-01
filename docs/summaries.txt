@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-06-01T10:21:13Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The batch covers a range of topics including former Fed Chair Powell's warning against politicization, ongoing US-Iran military exchanges amid ceasefire talks, a US proposal for Lebanon de-escalation, a Brazil-Panama World Cup friendly, UK entry bans on US commentators over Israel remarks, and new football rule changes for the World Cup.
+
+ARTICLE BREAKDOWN
+[1] Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks
+Published: 2026-06-01T04:51:06Z
+URL: https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks
+Summary: Former US Federal Reserve Chair Jerome Powell warned against politicizing monetary policy amid President Trump's attacks on the central bank's independence. In a speech, Powell said the Fed is undergoing a 'stress test' and that Congress wisely insulated the bank from political pressure. He argued that removing Fed officials over policy differences would undermine public trust and the Fed's credibility, which is essential for a stable economy.
+
+[2] Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles
+Published: 2026-06-01T07:40:23Z
+URL: https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles
+Summary: On day 94 of the US-Israel war on Iran, the US military struck Iranian military sites, and Iran's IRGC retaliated by targeting a US base. Kuwait's air defenses intercepted missiles and drones, while Israel deepened its offensive into southern Lebanon. Negotiations for a peace deal continue, with Trump describing Iran as eager to reach an agreement.
+
+[3] Washington proposes ‘roadmap’ for de-escalation in Lebanon: US official
+Published: 2026-06-01T08:22:11Z
+URL: https://www.aljazeera.com/news/2026/6/1/washington-proposes-roadmap-for-de-escalation-in-lebanon-us-official
+Summary: The US proposed a 'roadmap' for de-escalation in Lebanon, under which Hezbollah would halt attacks on Israel in exchange for Israel refraining from further escalation in Beirut. A US official placed responsibility on Hezbollah for the fighting, accusing it of following Iran's directives. However, Israeli Prime Minister Netanyahu ordered attacks on Beirut's southern suburbs, deepening the military push into Lebanon.
+
+[4] Vinicius brings Maracana curtain-raiser to life as Brazil rout Panama 6-2
+Published: 2026-06-01T08:39:50Z
+URL: https://www.aljazeera.com/sports/2026/6/1/vinicius-brings-maracana-curtain-raiser-to-life-as-brazil-rout-panama-6-2
+Summary: Brazil defeated Panama 6-2 in a World Cup warm-up friendly at the Maracana, with Vinicius Jr scoring a dazzling early goal and setting up another. Brazil played without Neymar due to a calf injury, but substitutes added four more goals after halftime. The US also won a warm-up match 3-2 against Senegal, with Christian Pulisic scoring and assisting.
+
+[5] Political commentators Cenk, Piker say UK bars them over Israel remarks
+Published: 2026-06-01T08:40:38Z
+URL: https://www.aljazeera.com/news/2026/6/1/political-commentators-cenk-piker-say-uk-bars-them-over-israel-remarks
+Summary: US political commentators Cenk Uygur and Hasan Piker said they were barred from entering the UK, with British authorities citing their criticism of Israel as the reason. Uygur was told he is considered a 'serious risk' due to his comments about Israel's influence on US politics, while Piker's visa was revoked. The reported restrictions follow a similar ban on rapper Ye over anti-Semitic remarks.
+
+[6] Iran’s IRGC launches retaliatory strike after US attacks
+Published: 2026-06-01T08:53:26Z
+URL: https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks
+Summary: Iran's IRGC launched a retaliatory strike on a US base after the US attacked an Iranian communications tower, with Kuwait intercepting missiles and drones. The US said it struck Iranian sites in response to the shootdown of a US drone. The attacks come as indirect negotiations continue to formalize a fragile ceasefire, with a potential MoU reportedly including unrestricted shipping through the Strait of Hormuz.
+
+[7] Which football rule changes will be implemented during the World Cup?
+Published: 2026-06-01T09:08:20Z
+URL: https://www.aljazeera.com/sports/2026/6/1/which-football-rule-changes-will-be-implemented-during-the-world-cup
+Summary: The International Football Association Board announced new rules for the 2026 World Cup, including red cards for players covering their mouths in confrontational situations and for leaving the field to protest referee decisions. Time-wasting measures include a five-second countdown for throw-ins and goal kicks, with corner kicks awarded if a goal kick is delayed. Substituted players must leave the field within 10 seconds or face a delay in the substitute entering.
+
+[8] US, Iran trade new attacks amid talks: Here’s what we know
+Published: 2026-06-01T10:13:39Z
+URL: https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know
+Summary: The US and Iran exchanged new attacks despite a ceasefire in place since April 8, with CENTCOM striking Iranian radar and drone sites and the IRGC retaliating against a US base. Kuwait intercepted missiles and drones, and a Kurdish group accused the IRGC of attacking its base in Iraq. Diplomacy for a durable peace agreement continues, but the attacks dim hopes for a final deal.
+
+================================================================================
 RUN TIME UTC: 2026-06-01T04:08:40Z
 WINDOW: Last 6 hours
 ARTICLES USED: 3
