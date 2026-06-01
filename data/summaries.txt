@@ -1,4 +1,28 @@
 ================================================================================
+RUN TIME UTC: 2026-06-01T04:08:40Z
+WINDOW: Last 6 hours
+ARTICLES USED: 3
+
+OVERALL SUMMARY
+Three Al Jazeera articles cover Colombia's presidential election run-off, Guinea's bauxite mining impact, and US export controls on AI chips for Chinese firms abroad.
+
+ARTICLE BREAKDOWN
+[1] Cepeda, de la Espriella advance in Colombia’s presidential election | Elections News | Al Jazeera
+Published: 2026-05-31T23:02:53Z
+URL: https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election
+Summary: Far-right outsider Abelardo de la Espriella and left-wing Senator Ivan Cepeda advanced to a run-off on June 21 after neither reached the 50% threshold. De la Espriella led with 43% of votes, while Cepeda had 40%, with security concerns dominating voters' priorities. Cepeda, a well-known senator, has a history of legal disputes with former President Alvaro Uribe, while de la Espriella ran an outsider campaign similar to Argentina's Javier Milei.
+
+[2] ‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth? | Mining News | Al Jazeera
+Published: 2026-06-01T01:08:05Z
+URL: https://www.aljazeera.com/features/2026/6/1/before-the-land-sustained-us-who-benefits-from-guineas-bauxite-wealth
+Summary: Guinea holds the world's largest bauxite reserves, but local communities like Bembou Silaty face contaminated water, loss of farmland, and declining agricultural productivity despite mining operations. Foreign companies from China, India, Russia, the US, and UAE exploit the ore, with 75% of exports going to China over the past decade. While some roads and jobs have improved in traditional mining areas, many villages remain without electricity and struggle to sustain themselves.
+
+[3] US says ban on AI chip shipments applies to Chinese firms outside China | Technology News | Al Jazeera
+Published: 2026-06-01T03:01:29Z
+URL: https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china
+Summary: The US Department of Commerce clarified that licensing requirements for advanced AI chip exports apply to all businesses headquartered or parented in China, even those located outside the country. The guidance came after the Trump administration scrapped Biden's Framework for Artificial Intelligence Diffusion, which had faced backlash from tech firms like Nvidia. Nvidia confirmed its sales and vetting process already aligns with the clarified rules, while critics accuse the administration of creating loopholes for Chinese companies.
+
+================================================================================
 RUN TIME UTC: 2026-05-31T21:00:26Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
