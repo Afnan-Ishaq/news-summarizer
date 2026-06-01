@@ -1,5 +1,91 @@
 [
   {
+    "time": "2026-06-01T19:55:28Z",
+    "window_hours": 6,
+    "article_count": 13,
+    "overall_summary": "A batch of Al Jazeera articles from June 1, 2026, covers diverse topics including Egypt's new monorail, India's meeting with Myanmar's military leader, Israel's invasion of Lebanon and UNIFIL's role, Iran's warnings on ceasefire talks, California's primary elections, protests in Kenya over a US Ebola quarantine facility, an international court ruling on a UK-Rwanda migration deal, Canada's World Cup prospects, Nvidia's new AI chip, a Syrian general's torture trial, Anthropic's IPO filing, and the release of former election clerk Tina Peters.",
+    "articles": [
+      {
+        "title": "Egypt’s new monorail offers a modern ride, but Cairo is still not convinced",
+        "url": "https://www.aljazeera.com/features/2026/6/1/egypts-new-monorail-offers-a-modern-ride-but-cairo-is-still-not-convinced",
+        "published": "2026-06-01T14:30:20Z",
+        "summary": "Cairo's East Nile monorail opened to passengers in May as a flagship infrastructure project, offering a clean and air-conditioned ride that saves commuters money compared to other transport options. However, some passengers find the ticket price too expensive and note the distance to stations requires additional travel, highlighting a tension between the monorail as an urban achievement and a service unaffordable to many. The driverless, electric trains aim to integrate with other transit networks to ease congestion in one of the world's most populous cities."
+      },
+      {
+        "title": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
+        "url": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi",
+        "published": "2026-06-01T14:45:17Z",
+        "summary": "Indian Prime Minister Narendra Modi met with Myanmar military government leader Min Aung Hlaing in New Delhi, with India stating that engagement is the best way forward despite criticism from Myanmar opposition groups and human rights groups who say the visit risks legitimizing the junta. Indian Foreign Secretary Vikram Misri said isolating Myanmar would be counterproductive, and the two leaders discussed trade, defense, security cooperation, and border management. The visit is Min Aung Hlaing's first to India since becoming president in April following an election critics say was designed to cement his power."
+      },
+      {
+        "title": "As Israel pushes past the Litani, Lebanese question the purpose of UNIFIL",
+        "url": "https://www.aljazeera.com/features/2026/6/1/as-israel-pushes-past-the-litani-lebanese-question-the-purpose-of-unifil",
+        "published": "2026-06-01T15:56:39Z",
+        "summary": "Israel has advanced deeper into Lebanese territory than at any point since 2000, raising questions about the effectiveness of the UNIFIL peacekeeping force, whose mandate ends in December 2026. UNIFIL has faced criticism from both Israel, for failing to disarm Hezbollah, and from Hezbollah supporters, for allegedly serving Israeli interests. The article notes that Israel intensified its war on Lebanon in March after Hezbollah fired on Israel for the first time in over a year, and has since killed thousands and displaced over 1.2 million people."
+      },
+      {
+        "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
+        "url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks",
+        "published": "2026-06-01T16:15:28Z",
+        "summary": "Iranian officials warned that Israel's escalating attacks on Lebanon and Gaza threaten to derail ongoing ceasefire negotiations with the United States, with Foreign Minister Abbas Araghchi stating that the ceasefire between Iran and the US applies to all fronts, including Lebanon. Their comments came as Israel deepened its invasion of south Lebanon and threatened to bomb Beirut, though US President Donald Trump later claimed he had received assurances that Israeli troops would not advance further. Iran also demanded a halt to Israeli attacks in Gaza, with reports that Iranian officials have suspended exchanges with US counterparts due to the continuing hostilities."
+      },
+      {
+        "title": "Who will replace Newsom? What to know about California’s primary elections",
+        "url": "https://www.aljazeera.com/news/2026/6/1/who-will-replace-newsom-what-to-know-about-californias-primary-elections",
+        "published": "2026-06-01T16:30:46Z",
+        "summary": "California's primary elections on June 2 feature a contentious gubernatorial race with 61 candidates, where the state's 'jungle primary' system could allow two Republicans to advance due to divided Democratic support. Other key races include attorney general, state treasurer, and mayor of Los Angeles, while the House of Representatives races are critical as Democrats aim to flip control in November. The primary will also be the first to use a new congressional map, part of a larger redistricting battle between Democrats and Republicans."
+      },
+      {
+        "title": "Protest outside Kenya’s planned US Ebola quarantine centre",
+        "url": "https://www.aljazeera.com/gallery/2026/6/1/protest-outside-kenyas-planned-us-ebola-quarantine-centre",
+        "published": "2026-06-01T16:42:37Z",
+        "summary": "Hundreds of young people in Nanyuki, Kenya, protested against plans to set up an Ebola quarantine centre for US citizens at Laikipia Air Base, two days after Kenya's High Court suspended the facility's establishment. The Law Society of Kenya and a constitutional watchdog argue that Kenya's fragile health system should not host foreign Ebola patients, while local leaders oppose the plan due to fears of exposure. US officials said the facility would have 50 quarantine beds for Americans exposed to Ebola, but Kenya's Health Minister said it would be for everyone."
+      },
+      {
+        "title": "International court rejects Rwanda’s claim over UK migration deal",
+        "url": "https://www.aljazeera.com/news/2026/6/1/international-court-rejects-rwandas-claim-over-uk-migration-deal",
+        "published": "2026-06-01T16:54:36Z",
+        "summary": "The Permanent Court of Arbitration in The Hague rejected Rwanda's $134 million compensation claim against the UK over a scrapped migrant deportation deal, ruling that diplomatic exchanges amounted to an agreement that payments would not be made. The deal, originally struck by former UK Prime Minister Boris Johnson in 2022, was cancelled by Prime Minister Keir Starmer in 2024 after being ruled unlawful by the UK Supreme Court. The ruling is seen as a blow to other governments seeking similar 'return hubs' to deter irregular migration."
+      },
+      {
+        "title": "Can cohosts Canada reach the knockout stages at World Cup 2026?",
+        "url": "https://www.aljazeera.com/sports/2026/6/1/canadas-world-cup-2026-team-preview-squad-players-to-watch-group-stage-matches",
+        "published": "2026-06-01T17:03:11Z",
+        "summary": "Canada, playing only their third World Cup, has high hopes for a talented squad led by coach Jesse Marsch, with captain Alphonso Davies as the key player despite a recent hamstring injury. The team has improved significantly, recently compiling a strong record against the US, and qualified for successive World Cups by winning the regional tournament. Canada will open against Bosnia and Herzegovina in Toronto on June 12."
+      },
+      {
+        "title": "Nvidia unveils new chip to bring AI directly to personal computers",
+        "url": "https://www.aljazeera.com/economy/2026/6/1/nvidia-unveils-new-chip-to-bring-ai-directly-to-personal-computers",
+        "published": "2026-06-01T17:27:38Z",
+        "summary": "Nvidia unveiled its RTX Spark superchip at its annual GTC event in Taipei, designed to bring advanced AI functions to laptops and desktop computers, with brands like Microsoft, Dell, and HP expected to debut models in fall 2026. CEO Jensen Huang said the development will 'reinvent the PC' by enabling autonomous AI agents that can understand and assist users. The chip, developed with Taiwan's MediaTek, is seen as a significant move as demand for personal AI agents grows."
+      },
+      {
+        "title": "Former general for Syria’s Assad pleads not guilty in torture trial",
+        "url": "https://www.aljazeera.com/news/2026/6/1/former-officials-from-syrias-assad-plead-not-guilty-in-torture-trial",
+        "published": "2026-06-01T17:29:52Z",
+        "summary": "Former Syrian Brigadier General Khaled al-Halabi pleaded not guilty in an Austrian court to charges of torturing opponents of ousted President Bashar al-Assad, including aggravated torture, coercion, and sexual coercion. Along with police chief Lieutenant Colonel Musab Abu Rukba, he is accused of ordering or failing to oppose mistreatment of protest movement members in Raqqa between 2011 and 2013. Al-Halabi denied that torture occurred under his command, while the prosecution said violence was used systematically with standardized methods."
+      },
+      {
+        "title": "AI giant Anthropic files for US IPO as investors bet big on AI future",
+        "url": "https://www.aljazeera.com/economy/2026/6/1/ai-giant-anthropic-files-for-us-ipo-as-investors-bet-big-on-ai-future",
+        "published": "2026-06-01T18:46:28Z",
+        "summary": "Anthropic, the AI company behind chatbot Claude, confidentially filed for an IPO in the US, setting up a major test of investor appetite for the AI sector. The company last raised $65 billion at a $965 billion valuation and reported annualized revenue of $47 billion. Anthropic's IPO comes amid a wave of blockbuster listings, including SpaceX's mega-IPO, and as both Anthropic and rival OpenAI race to go public before capital runs out."
+      },
+      {
+        "title": "Kenyans protest planned US Ebola quarantine facility",
+        "url": "https://www.aljazeera.com/news/2026/6/1/kenyans-protest-planned-us-ebola-quarantine-facility",
+        "published": "2026-06-01T19:07:47Z",
+        "summary": "Hundreds of people protested in Nanyuki, Kenya, against a planned US Ebola quarantine facility at Laikipia Air Base, days after Kenya's High Court suspended the plan. Demonstrators expressed fears that the facility could endanger public health given Kenya's fragile health system, and questioned why the facility is not being set up in the DRC, the epicenter of the outbreak. US officials said the 50-bed unit would serve asymptomatic US citizens, but Kenya's Health Minister said it would be for everyone."
+      },
+      {
+        "title": "Former election clerk Tina Peters released after Trump pressure campaign",
+        "url": "https://www.aljazeera.com/news/2026/6/1/former-election-clerk-tina-peters-released-after-trump-pressure-campaign",
+        "published": "2026-06-01T19:38:21Z",
+        "summary": "Tina Peters, a former Colorado election clerk convicted of allowing election machine tampering, was released from state prison after a pressure campaign by US President Donald Trump. Colorado's Democratic governor Jared Polis granted her clemency, calling her nine-year sentence disproportionate for a first-time non-violent offender, but critics said the decision sends a dangerous message about accountability. Peters, a Trump supporter who was part of the 2020 election denial movement, repeated unsubstantiated claims about election fraud after her release."
+      }
+    ]
+  },
+  {
     "time": "2026-06-01T10:21:13Z",
     "window_hours": 6,
     "article_count": 8,
