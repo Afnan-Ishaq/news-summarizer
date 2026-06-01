@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-06-01T22:33:01Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+Four articles from Al Jazeera cover recent political and social developments: Trump halting a controversial fund, Armenia rejecting Russian demands over EU membership, Kenyan protests against femicide, and Denmark forming a new government amid tensions over Greenland.
+
+ARTICLE BREAKDOWN
+[1] Trump halts $1.8bn ‘anti-weaponisation’ fund amid bipartisan backlash
+Published: 2026-06-01T20:07:26Z
+URL: https://www.aljazeera.com/news/2026/6/1/trump-halts-1-8bn-anti-weaponisation-fund-amid-bipartisan-backlash
+Summary: US President Donald Trump has reportedly paused his $1.8bn 'anti-weaponisation' fund following bipartisan backlash, including from fellow Republicans. The fund was part of a settlement with the IRS, intended to compensate victims of 'lawfare' and government 'weaponisation'. The announcement came after Trump met with House Speaker Mike Johnson, and Senate Majority Leader John Thune also called for the fund to be dropped. Democrats, however, argued the pause is insufficient and pledged to legislate against such funds.
+
+[2] Armenian PM rejects Russia’s demand for EU referendum as relations nosedive
+Published: 2026-06-01T20:10:05Z
+URL: https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive
+Summary: Armenian Prime Minister Nikol Pashinyan rejected a call from Russian President Vladimir Putin to hold an immediate referendum on leaving the Eurasian Economic Union (EAEU) to join the EU. The demand came amid escalating economic and diplomatic pressure from Moscow, including trade bans and the recall of Russia's ambassador. Pashinyan described ties with Russia as being in a 'transformation phase' and said a referendum would be premature. The European Union accused Moscow of trying to cripple Armenia's economy ahead of parliamentary elections on June 7.
+
+[3] Protesters call on Kenyan government to halt femicide crisis
+Published: 2026-06-01T20:13:16Z
+URL: https://www.aljazeera.com/news/2026/6/1/protesters-call-on-kenyan-government-to-halt-femicide-crisis
+Summary: Thousands of Kenyans marched in Nairobi to demand the government declare a national crisis over rising femicide and child disappearances. The protest, organized by the End Femicide movement and other groups, was fueled by the brutal murder of gospel singer Rachel Wandeto. Advocacy groups have given the government a 40-day ultimatum to act or face nationwide protests. Authorities recently announced a dedicated investigative unit in response to the pressure.
+
+[4] Denmark gets new government as Greenland crisis persists
+Published: 2026-06-01T20:56:39Z
+URL: https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists
+Summary: Denmark's Social Democratic leader Mette Frederiksen has formed a centre-left minority government, securing a third term as prime minister after more than two months of political deadlock. The new government faces an immediate foreign policy crisis with the US over Greenland, following threats from President Donald Trump to annex the territory. Frederiksen has firmly rejected any cession of sovereignty, stating it would 'signal the end of NATO'. The administration also faces challenges including a cost-of-living crisis and building up military defence capabilities.
+
+================================================================================
 RUN TIME UTC: 2026-06-01T19:55:28Z
 WINDOW: Last 6 hours
 ARTICLES USED: 13
