@@ -1,5 +1,31 @@
 [
   {
+    "time": "2026-06-02T04:02:01Z",
+    "window_hours": 6,
+    "article_count": 3,
+    "overall_summary": "Three Al Jazeera articles from the last 6 hours cover a US court ruling on transgender troops, Colombia's presidential election results, and the Pentagon barring journalists from its press office.",
+    "articles": [
+      {
+        "title": "US court upholds injunction against Trump policy banning transgender troops",
+        "url": "https://www.aljazeera.com/news/2026/6/1/us-court-upholds-injunction-against-trump-policy-banning-transgender-troops",
+        "published": "2026-06-01T23:22:10Z",
+        "summary": "A US appeals court ruled that President Trump's policy to expel transgender troops violates the Constitution, but the decision was split. One judge upheld a lower court ruling against the policy for already enlisted members, another agreed in part and extended it to those seeking to enlist, and a third dissented. The policy, based on a January 2025 executive order, was described by the majority as discriminatory and driven by a desire to harm a politically unpopular group."
+      },
+      {
+        "title": "Celebration, shock and scepticism follow Colombia’s presidential election",
+        "url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election",
+        "published": "2026-06-02T01:00:56Z",
+        "summary": "Far-right lawyer Abelardo de la Espriella beat left-wing Senator Ivan Cepeda in the first round of Colombia's presidential election, upending pollsters' predictions. De la Espriella won 43.74 percent of the vote to Cepeda's 40.90 percent, with supporters celebrating in Barranquilla. Analysts say de la Espriella's populist 'law and order' messaging resonated in interior regions where crime is a concern, while Cepeda performed better in coastal and border areas."
+      },
+      {
+        "title": "US Defense Department bars journalists from its press office",
+        "url": "https://www.aljazeera.com/economy/2026/6/2/us-defense-department-bars-journalists-from-its-press-office",
+        "published": "2026-06-02T02:13:10Z",
+        "summary": "The US Defense Department has barred journalists from its press office, re-designating it as a 'Sensitive Compartmented Information Facility' due to speechwriters' access to classified information. Media freedom advocates condemned the move as a troubling escalation in efforts to curtail independent reporting on the military. This follows earlier restrictions, including requiring escorts for journalists in the Pentagon and ending media offices there."
+      }
+    ]
+  },
+  {
     "time": "2026-06-01T22:33:01Z",
     "window_hours": 6,
     "article_count": 4,
