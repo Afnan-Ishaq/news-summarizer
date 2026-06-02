@@ -1,4 +1,63 @@
 ================================================================================
+RUN TIME UTC: 2026-06-02T09:06:41Z
+WINDOW: Last 6 hours
+ARTICLES USED: 10
+
+OVERALL SUMMARY
+The batch covers a diverse range of global news, including Alphabet's massive stock sale to fund AI, FIFA's broadcast deal with India's Zee Entertainment, updates on the Iran war and Lebanon truce, South Africa's World Cup travel issues, Russian attacks on Ukraine, Senegal's political crisis, xenophobic attacks in South Africa, a France World Cup preview, Serena Williams' tennis comeback, and Europe's prison overcrowding crisis.
+
+ARTICLE BREAKDOWN
+[1] Google parent Alphabet to sell $80bn in stock to fund AI plans | Technology News | Al Jazeera
+Published: 2026-06-02T04:10:02Z
+URL: https://www.aljazeera.com/economy/2026/6/2/google-parent-alphabet-to-sell-80bn-in-stock-to-fund-ai-plans
+Summary: Alphabet, Google's parent company, announced plans to sell $80bn in shares to fund AI infrastructure due to 'unprecedented customer demand.' The fundraising includes a $10bn stock sale to Berkshire Hathaway and $70bn from underwritten offerings and open market sales. Alphabet expects capital expenditures to reach $180-190bn this year, rising significantly in 2027, as US tech giants race to lead AI buildout.
+
+[2] India’s Zee Entertainment signs World Cup 2026 broadcast deal with FIFA | World Cup 2026 News | Al Jazeera
+Published: 2026-06-02T05:43:43Z
+URL: https://www.aljazeera.com/sports/2026/6/2/indias-zee-entertainment-signs-world-cup-2026-broadcast-deal-with-fifa
+Summary: FIFA struck a deal with India's Zee Entertainment to broadcast the World Cup in India, ending a months-long standoff. The deal covers 39 FIFA events over eight years, including the 2026 and 2030 World Cups and the 2027 Women's World Cup. Financial terms were undisclosed, but FIFA reportedly slashed its asking price to $60m. The agreement came just 10 days before the tournament kicks off, with time zone differences a concern for Indian audiences.
+
+[3] Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks | US-Israel war on Iran News | Al Jazeera
+Published: 2026-06-02T06:55:14Z
+URL: https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks
+Summary: US President Donald Trump said Hezbollah and Israel agreed to halt hostilities, aiming to prevent a wider war in Lebanon. However, Netanyahu's office said attacks on Beirut would proceed if Hezbollah continued attacks, and Iran warned it could halt negotiations if Israel's campaign in Lebanon continues. The situation remains fragile, with critics like Senator Schumer and Congresswoman Omar pushing for an end to the conflict and US military aid.
+
+[4] South Africa’s World Cup delegation departs for Mexico without coach | World Cup 2026 News | Al Jazeera
+Published: 2026-06-02T06:55:39Z
+URL: https://www.aljazeera.com/sports/2026/6/2/south-africas-world-cup-delegation-departs-for-mexico-without-coach
+Summary: South Africa's national team left for their World Cup training base in Mexico without assistant coach Helman Mkhalele, who has yet to obtain a US visa. The departure was delayed due to an administrative bungle with visas, with SAFA president blaming the US Consulate General for the denial. The team will play a friendly against Jamaica before facing Mexico in the opening match on June 11.
+
+[5] At least 12 people killed, dozens wounded in Russian attacks on Ukraine | Russia-Ukraine war News | Al Jazeera
+Published: 2026-06-02T07:07:21Z
+URL: https://www.aljazeera.com/news/2026/6/2/at-least-nine-people-killed-dozens-wounded-in-russian-attacks-on-ukraine
+Summary: Russian missile and drone strikes killed at least 12 people and wounded dozens across Ukraine, with Kyiv and Dnipropetrovsk regions hit hardest. Ukraine's air force reported 656 drones and 73 missiles launched overnight. The attacks came after President Zelenskyy warned of a major Russian assault, as US-led peace efforts remain paused due to focus on Middle East conflicts.
+
+[6] Senegal president names government, boycotted by ally-turned-rival | News | Al Jazeera
+Published: 2026-06-02T07:30:15Z
+URL: https://www.aljazeera.com/news/2026/6/2/senegal-president-names-government-boycotted-by-ally-turned-rival
+Summary: Senegal's President Bassirou Diomaye Faye announced a new government after firing Prime Minister Ousmane Sonko, who was then elected parliament speaker. Sonko said his Pastef party, which holds a parliamentary majority, will not participate in the new government due to disagreements. Faye named economist Ahmadou Al Aminou Mohamed Lo as prime minister, with a 30-minister cabinet that excludes several senior Pastef figures.
+
+[7] Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa | Protests News | Al Jazeera
+Published: 2026-06-02T07:54:37Z
+URL: https://www.aljazeera.com/news/2026/6/2/mozambique-says-5-citizens-killed-in-xenophobic-attacks-in-south-africa
+Summary: Mozambique reported that five of its citizens were killed in xenophobic attacks in South Africa over the weekend, with two others dying in a road accident while fleeing. The violence in Mossel Bay prompted 300 Mozambicans to return home, and over 500 are being repatriated. South Africa has seen recurring xenophobic violence since 2008, with tensions rising ahead of local elections.
+
+[8] France World Cup 2026 preview: Players to watch, group matches and squad | World Cup 2026 News | Al Jazeera
+Published: 2026-06-02T08:39:07Z
+URL: https://www.aljazeera.com/sports/2026/6/2/france-world-cup-2026-preview-players-to-watch-group-matches-and-squad
+Summary: France enters the 2026 World Cup as a top contender with a deep talent pool, led by Kylian Mbappe and Ballon d'Or winner Ousmane Dembele. Coach Didier Deschamps, who will step down after the tournament, aims to win a second title. Mbappe needs two goals to break Just Fontaine's record of 13 World Cup goals for France, and his form will be key to the team's success.
+
+[9] Tennis stars rejoice as Serena Williams announces competitive comeback | Tennis News | Al Jazeera
+Published: 2026-06-02T08:40:45Z
+URL: https://www.aljazeera.com/sports/2026/6/2/tennis-stars-rejoice-as-serena-williams-announces-competitive-comeback
+Summary: Serena Williams announced her competitive return to tennis after nearly four years, entering women's doubles at the Queen's Club Championships with a wildcard. The 44-year-old 23-time Grand Slam winner will reportedly play with 19-year-old Canadian Victoria Mboko. Players like Naomi Osaka and Aryna Sabalenka expressed excitement, with speculation she may also compete at Wimbledon or the US Open.
+
+[10] ‘Like mice in a cage’: Inside Europe’s prison overcrowding crisis | Prison News | Al Jazeera
+Published: 2026-06-02T08:42:32Z
+URL: https://www.aljazeera.com/news/2026/6/2/like-mice-in-a-cage-inside-europes-prison-overcrowding-crisis
+Summary: Belgium, one of Europe's richest countries, faces a severe prison overcrowding crisis with 13,733 inmates against a capacity of 11,064. Conditions have deteriorated, with detainees sleeping on mattresses on the floor and limited activities. Experts criticize common responses like building more prisons as ineffective, noting that overcrowding affects one-third of European prison administrations.
+
+================================================================================
 RUN TIME UTC: 2026-06-02T04:02:01Z
 WINDOW: Last 6 hours
 ARTICLES USED: 3
