@@ -1,4 +1,58 @@
 ================================================================================
+RUN TIME UTC: 2026-06-02T22:22:54Z
+WINDOW: Last 6 hours
+ARTICLES USED: 9
+
+OVERALL SUMMARY
+The batch covers a range of topics including Ukrainian tennis player Marta Kostyuk's criticism of Russian players at the French Open, a preview of young talents for the 2026 World Cup, Lebanon-Israel negotiations in Washington, ongoing Israeli attacks in Gaza during Eid, Spain banning a DR Congo World Cup warm-up due to Ebola fears, US primary elections, a new Paris monument for Rwanda genocide victims, the scrapping of a US anti-weaponisation fund, and analysis of US-Israel relations amid war on Iran.
+
+ARTICLE BREAKDOWN
+[1] Ukraine’s Kostyuk blasts Russia stars in French Open outburst over war | Tennis News | Al Jazeera
+Published: 2026-06-02T18:26:59Z
+URL: https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war
+Summary: Marta Kostyuk accused Russian players of hiding behind silence over the war in Ukraine after reaching her first Grand Slam semifinal at the French Open. She criticized Russian players like Mirra Andreeva for avoiding political discussion, citing Daria Kasatkina as an example of someone who spoke out. Kostyuk dedicated her victory to the Ukrainian people and said representing Ukraine is more important than winning.
+
+[2] Who are the best young players to watch at FIFA World Cup 2026? | World Cup 2026 News | Al Jazeera
+Published: 2026-06-02T19:13:11Z
+URL: https://www.aljazeera.com/sports/2026/6/2/best-young-players-to-watch-at-fifa-world-cup-2026
+Summary: The article highlights top young footballers to watch at the 2026 World Cup, noting that Cristiano Ronaldo and Lionel Messi will likely make their last appearances. It profiles Kenan Yildiz of Turkiye, Nico Paz of Argentina, and Rayan of Brazil as breakout stars. Yildiz, 21, carries Turkish hopes after a 24-year World Cup absence, while Paz is seen as a potential successor to Messi.
+
+[3] Lebanon hopes crunch talks in Washington will halt an Israeli invasion | Explainer News | Al Jazeera
+Published: 2026-06-02T19:24:47Z
+URL: https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion
+Summary: Lebanon and Israel met in Washington for negotiations aimed at ending Israel's invasion of Lebanon, which has killed 3,468 people since March 2. Lebanon seeks a total ceasefire and Israeli withdrawal, while Israel demands Hezbollah's disarmament. Analysts doubt a deal will be reached, as Israel continues attacks and Netanyahu announced resumed strikes on Beirut's suburbs.
+
+[4] Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza | Gaza News | Al Jazeera
+Published: 2026-06-02T19:26:23Z
+URL: https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza
+Summary: At least 33 Palestinians were killed during Eid al-Adha despite a ceasefire, according to the Gaza Ministry of Health. Israeli forces also attacked in the West Bank, including a settler torching a home and tear gas at a cemetery. The UN added Israeli entities to a blacklist over sexual violence, and the EU sanctioned extremist settlers, but Netanyahu signaled intent to entrench Israel's hold on Gaza.
+
+[5] Spain bans DR Congo World Cup warm-up due to Ebola fears | World Cup 2026 News | Al Jazeera
+Published: 2026-06-02T19:34:10Z
+URL: https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears
+Summary: The mayor of La Linea de la Concepcion in Spain banned a pre-World Cup friendly between DR Congo and Chile due to Ebola concerns. DR Congo, qualified for their first World Cup since 1974, had already cancelled a home training camp after an Ebola outbreak. US authorities require the team to isolate for 21 days before entering the US for the tournament.
+
+[6] What to know about Tuesday’s primaries in California, New Jersey, Montana | US Midterm Elections 2026 News | Al Jazeera
+Published: 2026-06-02T19:58:09Z
+URL: https://www.aljazeera.com/news/2026/6/2/what-to-know-about-tuesdays-primaries-in-california-new-jersey-montana
+Summary: Voters in six US states are holding primaries for the November midterm elections, with 74 House seats on the ballot. Key races include Iowa's open Senate seat, where Democrats see an opportunity to flip a Republican-held seat. In New Jersey, 12 House seats are contested, and California uses a nonpartisan top-two primary system.
+
+[7] ‘Milestone’: Macron opens Paris monument honouring Rwanda genocide victims | Genocide News | Al Jazeera
+Published: 2026-06-02T20:18:22Z
+URL: https://www.aljazeera.com/news/2026/6/2/milestone-macron-opens-paris-monument-honouring-rwanda-genocide-victims
+Summary: French President Emmanuel Macron inaugurated a monument in Paris dedicated to victims of the 1994 Rwandan genocide, calling it a reconciliation milestone. Macron has acknowledged France's failure to halt the genocide but stopped short of an apology. Rwandan President Paul Kagame praised France's efforts to accept responsibility, noting no other country has gone as far.
+
+[8] Trump administration is scrapping the $1.8bn ‘anti-weaponisation fund’ | Donald Trump News | Al Jazeera
+Published: 2026-06-02T21:44:08Z
+URL: https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund
+Summary: The Trump administration is abandoning the $1.8bn anti-weaponisation fund after backlash from Republican senators and legal setbacks. The fund, part of a settlement over Trump's tax records lawsuit, was paused by a judge. Acting Attorney General Todd Blanche confirmed the fund is not moving forward, though the DOJ's agreement to bar audits of Trump's taxes remains.
+
+[9] Trump berated Netanyahu? Analysts question US-Israel feud rumours | US-Israel war on Iran News | Al Jazeera
+Published: 2026-06-02T21:59:47Z
+URL: https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour
+Summary: Analysts question reports of a feud between Trump and Netanyahu, suggesting strategic leaks aim to influence public perceptions. Despite anonymous accounts of tense calls, US policy remains aligned with Israeli interests, including the war on Iran. Critics say Trump has failed to prioritize American interests, instead catering to Israel's expansionist goals.
+
+================================================================================
 RUN TIME UTC: 2026-06-02T18:39:29Z
 WINDOW: Last 6 hours
 ARTICLES USED: 12
