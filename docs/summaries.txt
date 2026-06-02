@@ -1,4 +1,98 @@
 ================================================================================
+RUN TIME UTC: 2026-06-02T14:04:11Z
+WINDOW: Last 6 hours
+ARTICLES USED: 17
+
+OVERALL SUMMARY
+A batch of 17 Al Jazeera articles from June 2, 2026, covers a Kenya court ordering disclosure of a US-linked Ebola facility, Somalia's political deadlock, Iran's leadership views on a US deal, Australia's anti-Semitism commission, World Cup security and squads, Iran's water crisis, refugee maternal health in CAR, social media's impact in Africa, a Trump-announced Israel-Hezbollah de-escalation, Israeli attacks on Lebanon, world leaders visiting China, a Southampton spying scandal, UK Athletics fined over a Paralympian's death, a Swiss player's travel delay, a Belgian NGO seeking arrest of an Israeli reservist, and Gaza patients stranded in Iraq.
+
+ARTICLE BREAKDOWN
+[1] High Court orders Kenya government to release details of Ebola facility
+Published: 2026-06-02T09:20:44Z
+URL: https://www.aljazeera.com/news/2026/6/2/high-court-orders-kenya-government-to-release-details-of-ebola-facility
+Summary: Kenya's High Court ordered the government to disclose details of a proposed US-linked Ebola quarantine facility after protests in Nanyuki. The court extended orders stopping the facility's establishment and barred admission of exposed individuals. The government must release agreement details, health assessments, and operational protocols. Critics argue Kenya's health infrastructure is too fragile for the facility.
+
+[2] Somalia needs a political settlement before it is too late
+Published: 2026-06-02T09:30:16Z
+URL: https://www.aljazeera.com/opinions/2026/6/2/somalia-needs-a-political-settlement-before-it-is-too-late
+Summary: 
+
+[3] How does Iran’s leadership view the emerging deal with the US?
+Published: 2026-06-02T09:59:46Z
+URL: https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2
+Summary: Iran's leadership has not closed the door on a US deal, but hawkish voices on both sides push demands that make an understanding elusive. The new Supreme Leader, Ayatollah Khamenei's son, has not been seen publicly but has stressed a future without the US and called for a 'resistance economy.' Military factions led by IRGC generals have been elevated to new heights of power amid the war.
+
+[4] Australia, don’t conflate anti-Semitism with criticism of Israel
+Published: 2026-06-02T10:02:31Z
+URL: https://www.aljazeera.com/opinions/2026/6/2/australia-dont-conflate-anti-semitism-with-criticism-of-israel
+Summary: The article argues that Australia's Royal Commission on Antisemitism risks conflating criticism of Israel with anti-Semitism by adopting the IHRA definition. It states that questioning a foreign state's behavior is not the same as attacking a people. The author contends this narrows public debate on Israel's conduct in Gaza. No other state receives such exceptional treatment as Israel, the article says.
+
+[5] World Cup: No ICE deployment; extra security for Iran games in Los Angeles
+Published: 2026-06-02T10:32:11Z
+URL: https://www.aljazeera.com/sports/2026/6/2/world-cup-no-ice-deployment-extra-security-for-iran-games-in-los-angeles
+Summary: Los Angeles County Sheriff Robert Luna said ICE will not be deployed for civil immigration enforcement at World Cup games in LA, following stadium worker protests. SoFi Stadium will host the USA's opening game and two of Iran's group-stage matches. Law enforcement will increase staffing around Iran's games due to heightened US-Iran tensions. The sheriff noted the policy is subject to change.
+
+[6] How the war has made Iran’s water crisis worse
+Published: 2026-06-02T11:13:00Z
+URL: https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse
+Summary: Iran's water crisis, already severe due to drought and mismanagement, has been worsened by US-Israeli attacks on desalination plants and water infrastructure. The country uses more than 80 percent of its renewable water supplies annually. In November 2025, Tehran's Amir Kabir Dam held only 8 percent capacity, and 19 major dams ran dry. The crisis led to protests over living conditions and inflation.
+
+[7] Refugee women in CAR face childbirth risks amid US funding cuts
+Published: 2026-06-02T11:14:18Z
+URL: https://www.aljazeera.com/gallery/2026/6/2/refugee-women-in-car-face-childbirth-risks-amid-us-funding-cuts
+Summary: Sudanese refugee women in northeastern CAR face increased risk of dying in childbirth due to US funding cuts to maternity services. The influx from Sudan's Darfur region has overwhelmed a fragile health system in Vakaga province. Reductions in US foreign assistance are forcing clinics to cut staffing and services. Aid agencies warn further cuts could close maternity wards and increase preventable deaths.
+
+[8] How social media is turning African life into content at a cost
+Published: 2026-06-02T11:19:10Z
+URL: https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost
+Summary: The article explores how social media has transformed African life, with content creators now earning a living by integrating brands into their personal lives. In urban Kenya, people spend significant time on platforms like WhatsApp, consuming a mix of information. A digital marketing specialist notes that attention is currency and algorithms constantly change to capture it. The piece reflects on the blurring of community and performance.
+
+[9] Trump says Israel, Hezbollah to stop fighting: What we know
+Published: 2026-06-02T11:21:29Z
+URL: https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know
+Summary: US President Trump announced that Israel and Hezbollah agreed to halt attacks after indirect talks, with Hezbollah stopping attacks on Israel in exchange for Israel halting strikes on Beirut. Netanyahu agreed to pull back troops but said Israel would strike Beirut if Hezbollah attacks again. Iran had made Israel's withdrawal from Lebanon a condition for ending its war with the US. The announcement is significant given previous failed ceasefires.
+
+[10] Israel kills five in attacks on Lebanon after Trump announces de-escalation
+Published: 2026-06-02T11:25:22Z
+URL: https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation
+Summary: At least five people were killed in Israeli attacks in southern Lebanon hours after Trump announced a de-escalation agreement that neither Israel nor Hezbollah has publicly accepted. The attacks included drone strikes on a motorcycle and cars. Hezbollah has not claimed responsibility for cross-border attacks since Trump's announcement but has attacked Israeli troops in southern Lebanon. The developments highlight the fragility of the reported deal.
+
+[11] Every world leader who has visited China in 2026 in one chart
+Published: 2026-06-02T11:28:02Z
+URL: https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart
+Summary: China has hosted 26 leaders from 23 countries in 2026, including British Foreign Secretary Yvette Cooper, underscoring its growing diplomatic influence. The visitors include leaders from Europe, Asia, the Middle East, Africa, North America, and Latin America. Many seek investment opportunities and market access. Chinese President Xi Jinping has stayed home to host these dignitaries rather than traveling abroad.
+
+[12] What are the FIFA World Cup 2026 squads for all 48 teams?
+Published: 2026-06-02T11:57:59Z
+URL: https://www.aljazeera.com/sports/2026/6/2/fifa-world-cup-2026-full-squads-48-teams-players
+Summary: The article lists all 48 teams' 26-man squads for the FIFA World Cup 2026, which starts in nine days in Mexico City. The tournament, hosted by the US, Canada, and Mexico, features 104 games. It may be the final appearance for icons like Lionel Messi and Cristiano Ronaldo. Young stars like Spain's Lamine Yamal and Brazil's Endrick aim to make their mark.
+
+[13] Southampton backs ‘spygate’ Eckert despite world’s most lucrative game miss
+Published: 2026-06-02T12:04:19Z
+URL: https://www.aljazeera.com/sports/2026/6/2/southampton-back-spygate-eckert-despite-worlds-most-lucrative-game-miss
+Summary: Southampton manager Tonda Eckert apologized for orchestrating a spying scandal that led to the club's expulsion from the Championship playoffs. The club was kicked out after admitting to observing a Middlesbrough training session and received a four-point deduction. Owner Dragan Solak said he would not sack Eckert. The playoff final winner, Hull City, will receive an estimated 200 million pounds ($268m).
+
+[14] UK Athletics fined over death of UAE Paralympian Abdullah Hayayei
+Published: 2026-06-02T13:21:16Z
+URL: https://www.aljazeera.com/sports/2026/6/2/uk-athletics-fined-over-death-of-uae-paralympic-athlete-abdullah-hayayei
+Summary: UK Athletics was fined 350,000 pounds ($471,000) over the 2017 death of UAE Paralympian Abdullah Hayayei, who was killed when a metal throwing cage fell on him during training in London. The organization pleaded guilty to corporate manslaughter in February. A health and safety investigation found stabilizing base plates were missing. UK Athletics expressed deep regret and said it has focused on improving safety standards.
+
+[15] World Cup delay for Switzerland’s Embolo while US reviews travel document
+Published: 2026-06-02T13:39:55Z
+URL: https://www.aljazeera.com/sports/2026/6/2/fifa-world-cup-2026-switzerland-embolo-not-travelling-to-us-travel-authorisation-under-review
+Summary: Switzerland forward Breel Embolo did not travel with the World Cup squad to the US after his ESTA travel authorization was placed under further review. The Swiss federation said it is in contact with authorities and expects Embolo to join the team later. Embolo's issue follows a Swiss court ruling linked to a 2018 altercation, for which he received a suspended fine. His conviction was upheld on appeal.
+
+[16] Belgian NGO urges India to arrest Israeli reservist over alleged war crimes
+Published: 2026-06-02T13:57:28Z
+URL: https://www.aljazeera.com/news/2026/6/2/belgian-ngo-urges-india-to-arrest-israeli-reservist-over-alleged-war-crimes
+Summary: The Hind Rajab Foundation filed a complaint urging Indian authorities to arrest Israeli reservist Eitan Gilboa, who is on holiday in Himachal Pradesh, over alleged war crimes in Gaza. The NGO submitted geolocated videos and social media posts as evidence of Gilboa's role in demolishing residential blocks. The foundation, named after a five-year-old killed in Gaza, has filed over 1,000 cases with the ICC. Gilboa documented the destruction of civilian buildings, the NGO says.
+
+[17] ‘Trapped’: Gaza patients flown to Iraq stuck in administrative limbo
+Published: 2026-06-02T14:01:23Z
+URL: https://www.aljazeera.com/features/2026/6/2/trapped-gaza-patients-flown-to-iraq-stuck-in-administrative-limbo
+Summary: Gaza patients evacuated to Iraq for medical treatment are stuck in administrative limbo, confined to a Baghdad medical center without proper documents. Hanin Muhammad, a medical companion, has been separated from her six children for nearly three years. The group of 46 Palestinians includes patients with cancer, blood disorders, and war wounds. Gaza's Health Ministry says over 20,000 patients are waiting to travel abroad for treatment.
+
+================================================================================
 RUN TIME UTC: 2026-06-02T09:06:41Z
 WINDOW: Last 6 hours
 ARTICLES USED: 10
