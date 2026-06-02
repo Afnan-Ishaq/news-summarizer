@@ -1,5 +1,85 @@
 [
   {
+    "time": "2026-06-02T18:39:29Z",
+    "window_hours": 6,
+    "article_count": 12,
+    "overall_summary": "Al Jazeera reports on a revived India-Nepal border dispute, a Taliban-Russia security MoU, arguments against Somaliland recognition, Arctic military concerns, a historic Libyan football club appointment, an El Nino warning, Canada-USMCA trade talks, a US university cadaver scandal, new US tariffs on Brazil, a French security bill after football violence, US-Iran nuclear talks, and a Norwegian ethics complaint against FIFA's Infantino.",
+    "articles": [
+      {
+        "title": "‘Encroached territory’: Why India-Nepal border dispute is heating up again | Border Disputes News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/2/encroached-territory-why-india-nepal-border-dispute-is-heating-up",
+        "published": "2026-06-02T14:36:15Z",
+        "summary": "Nepal's Prime Minister Balendra Shah has reignited a border dispute with India by claiming Nepal has also encroached on Indian territory, a departure from Nepal's usual stance. The long-running dispute involves territories like Limpiyadhura, Lipulekh, and Kalapani. Shah suggested both countries should study facts and resolve the issue amicably, and noted that Nepali lawmakers have reached out to China and the UK for assistance with historical maps."
+      },
+      {
+        "title": "Is the Taliban-Russia MoU good for Afghanistan? | Politics | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/6/2/is-the-taliban-russia-mou-good-for-afghanistan",
+        "published": "2026-06-02T14:57:47Z",
+        "summary": "The article questions the benefits of a security cooperation MoU signed by the Taliban and Russia, noting its contents remain undisclosed. It argues that agreements by a government lacking broad legitimacy face limitations, and the deal risks drawing Afghanistan into regional power rivalries. Russia appears driven by immediate security concerns like preventing extremism and narcotics, not a deep strategic partnership, and is unlikely to provide substantial economic or military support."
+      },
+      {
+        "title": "The Horn of Africa needs reconciliation, not new borders | Opinions | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/6/2/the-horn-of-africa-needs-reconciliation-not-new-borders",
+        "published": "2026-06-02T16:05:20Z",
+        "summary": "The article argues against international recognition of Somaliland, stating it would entrench division rather than deliver stability. It claims the territory is not a coherent political entity, as eastern regions like Sool and Sanaag have rejected rule from Hargeisa and aligned with Somalia's federal government. The author contends that genuine stability requires political inclusion and territorial legitimacy, which are lacking in the Somaliland secessionist project."
+      },
+      {
+        "title": "Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap? | Military News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap",
+        "published": "2026-06-02T16:13:22Z",
+        "summary": "Norwegian Defence Minister Tore Sandvik warned that Russia must not be allowed to control the Bear Gap, a strategic Arctic chokepoint, as it could enable Russia to use hypersonic missiles against NATO targets. The Bear Gap is a key maritime route for Russian naval vessels moving from Arctic bases to the North Atlantic. Russia views the area as integral to its 'Bastion Defence' strategy for protecting its ballistic missile submarines."
+      },
+      {
+        "title": "Intisar Shanib becomes first woman to head football club in Libya | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/intisar-shanib-first-woman-to-become-president-of-libyan-sports-club",
+        "published": "2026-06-02T16:26:45Z",
+        "summary": "Intisar Shanib has been appointed president of Darnes Sports Club in Derna, Libya, becoming the first woman to head a football club in the country. She was installed unopposed after all other candidates withdrew in her favour. Shanib, an MP and chairperson of the women and child affairs committee, said the task is not easy but is an honor for Libyan women, emphasizing that leadership is measured by competencies, not gender."
+      },
+      {
+        "title": "UN tells world to brace for extreme weather as El Nino looms | Climate News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms",
+        "published": "2026-06-02T16:33:18Z",
+        "summary": "The UN's World Meteorological Organization warned of an 80% chance of an El Nino event between June and August, with a 90% chance by November. UN Secretary-General Antonio Guterres said the world must treat it as an urgent climate warning, as impacts like drought, heatwaves, and hurricanes could hit harder this year. The last strong El Nino in 2023-2024 contributed to making 2024 the hottest year on record."
+      },
+      {
+        "title": "Canada seeks USMCA renewal for 16 years, sector tariff discussions | Trade War News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/6/2/canada-seeks-usmca-renewal-for-16-years-sector-tariff-discussions",
+        "published": "2026-06-02T16:51:06Z",
+        "summary": "Canada has proposed renewing the USMCA trade agreement for 16 years and seeks parallel talks on sectoral tariffs, as trade discussions with the US have been frozen since late last year. Canadian minister Dominic LeBlanc outlined the suggestions in a letter ahead of a meeting with US Trade Representative Jamieson Greer. The US has imposed tariffs on steel, aluminium, and cars that have hurt Canada's economy."
+      },
+      {
+        "title": "US university sells dead bodies to navy for Israeli military training | Education News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/longform/2026/6/2/us-university-sells-dead-bodies-to-navy-for-israeli-military-training",
+        "published": "2026-06-02T16:51:40Z",
+        "summary": "An investigation by student journalists and AJ+ reveals that the University of Southern California supplied at least 89 cadavers to the US Navy for training Israeli military surgical teams. The bodies, donated for education and research, were 'reanimated' using perfusion to simulate combat injuries. Family members of donors expressed distress, fearing their loved ones' remains were used for training related to conflicts like Israel's war on Gaza."
+      },
+      {
+        "title": "US targets Brazil with new tariffs over trade practices | International Trade News | Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices",
+        "published": "2026-06-02T17:00:15Z",
+        "summary": "The US has proposed new 25% tariffs on imports from Brazil, citing unfair trading practices including digital trade issues and illegal deforestation. The tariffs would be imposed under Section 301 of US trade policy, following an investigation that began in July. Products like beef, coffee, and rare earths would be exempt, and the new tariff would partially replace a previous 50% tariff imposed last year."
+      },
+      {
+        "title": "French PM to fast-track security bill after PSG football violence and riots | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/french-pm-to-fast-track-security-bill-after-psg-football-violence-and-riots",
+        "published": "2026-06-02T17:33:30Z",
+        "summary": "French Prime Minister Sebastien Lecornu plans to ask President Macron to call an extraordinary parliamentary session to fast-track the RIPOST security bill after violence linked to PSG's Champions League victory. The bill targets 'everyday disorder' including illegal raves, misuse of nitrous oxide, and firework mortars, and would widen police powers. More than 200 people were injured and one died in Paris after the match."
+      },
+      {
+        "title": "Iran’s supreme leader appears more active as talks continue: US’s Rubio | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio",
+        "published": "2026-06-02T17:53:14Z",
+        "summary": "US Secretary of State Marco Rubio told lawmakers that Iran's Supreme Leader Mojtaba Khamenei appears more active and engaged in negotiations, though all communications have been in writing. Rubio said talks may now include aspects of Iran's nuclear programme previously off-limits, but cautioned this does not guarantee a deal. Trump disputed reports of paused talks, saying conversations are ongoing, and reiterated demands for Iran to never develop nuclear weapons and reopen the Strait of Hormuz."
+      },
+      {
+        "title": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/norwegian-fa-supports-ethics-complaint-against-fifa-chief-infantino",
+        "published": "2026-06-02T17:56:42Z",
+        "summary": "The Norwegian Football Federation has formally backed an ethics complaint against FIFA President Gianni Infantino over a breach of political neutrality rules. The complaint, lodged by human rights organisation FairSquare, objects to Infantino presenting a 'peace prize' to US President Donald Trump. NFF president Lise Klaveness said the move has caused political friction within FIFA, but the federation submitted the letter independently."
+      }
+    ]
+  },
+  {
     "time": "2026-06-02T14:04:11Z",
     "window_hours": 6,
     "article_count": 17,
