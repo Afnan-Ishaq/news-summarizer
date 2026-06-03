@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-06-03T04:11:10Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a European monitor dismissing fraud claims in Colombia's election, Thailand's crackdown on foreign-owned shell companies, the rescheduled White House Correspondents' Dinner after a shooting, Zimbabwe's police crackdown on e-tricycles affecting rural women, a Tunisian court sentencing Ennahdha leader Rached Ghannouchi to life in prison, and Rebecca Bennett winning the New Jersey Democratic primary to face Trump ally Tom Kean.
+
+ARTICLE BREAKDOWN
+[1] European election monitor dismisses rumours of fraud in Colombia’s election
+Published: 2026-06-02T23:11:37Z
+URL: https://www.aljazeera.com/news/2026/6/2/european-election-monitor-dismisses-rumours-of-fraud-in-colombias-election
+Summary: The European Union election observation mission denied reports of fraud in Colombia's presidential election, calling it 'a lesson in democracy'. The mission found the vote 'transparent, orderly, and smooth', despite concerns about illegal armed groups and polarisation. Far-right lawyer Abelardo de la Espriella won 43.7 percent of the vote, ahead of left-wing Senator Ivan Cepeda's 40.9 percent, leading to a June 21 runoff. Outgoing President Gustavo Petro raised questions about the vote tally, accusing private firms of adding votes, but Cepeda later conceded no irregularities.
+
+[2] Thailand cracks down on foreign companies using fig leaf of local ownership
+Published: 2026-06-03T00:06:57Z
+URL: https://www.aljazeera.com/economy/2026/6/3/thailand-cracks-down-on-foreign-companies-using-fig-leaf-of-local-ownership
+Summary: Thai authorities are enforcing local ownership rules more strictly, targeting foreign businesses that use Thai 'nominees' to circumvent the Foreign Business Act. Nearly 500 businesses, including a nail salon fronting an OnlyFans operation, were linked to a single accounting firm. The government has identified 50,000 foreign-linked companies for scrutiny using AI and inspections. Legal firms report being inundated with inquiries from foreign businesses fearing asset seizures and criminal charges.
+
+[3] Trump to attend delayed White House Correspondents’ Dinner after shooting
+Published: 2026-06-03T00:11:17Z
+URL: https://www.aljazeera.com/news/2026/6/3/trump-to-attend-delayed-white-house-correspondents-dinner-after-shooting
+Summary: The White House Correspondents' Dinner, originally scheduled for April 25, was rescheduled to July 24 after a suspect rushed the security checkpoint, leading to an exchange of gunfire. President Donald Trump and his wife were evacuated, and the event was cancelled. Both the White House Correspondents' Association and Trump confirmed the new date, with Trump hinting he might deliver a speech critical of journalism. Press freedom advocates warned the dinner could give Trump a platform to attack the news media.
+
+[4] Zimbabwe’s e-tricycle crackdown puts rural women’s livelihoods at risk
+Published: 2026-06-03T01:23:03Z
+URL: https://www.aljazeera.com/news/2026/6/3/zimbabwes-e-tricycle-crackdown-puts-rural-womens-livelihoods-at-risk
+Summary: Zimbabwean police are cracking down on e-tricycles used by rural women for transport, fining them for lacking registration and licences. Annual costs of nearly $500 are unaffordable for most of the 300 women, many of whom are single mothers or widows. The e-tricycles, introduced to empower women, are vital for transporting goods and serving as makeshift ambulances. The crackdown, which began in February 2025, is crippling businesses and livelihoods in areas like Hauna and Chipinge.
+
+[5] Tunisian court sentences Ennahdha leader Rached Ghannouchi to life in prison
+Published: 2026-06-03T02:45:38Z
+URL: https://www.aljazeera.com/news/2026/6/3/tunisian-court-sentences-ennahdha-leader-rached-ghannouchi-to-life-in-prison
+Summary: A Tunisian court sentenced opposition leader Rached Ghannouchi to life in prison plus 30 years for 'forming a terrorist alliance' and other terrorism-related charges. Eleven other defendants, including Ali Laarayedh, also received life sentences, while 13 others got 10 to 48 years. The case stems from a 2022 complaint linked to the 2013 assassinations of leftist politicians Chokri Belaid and Mohamed Brahmi. Ennahdha denied the allegations, calling them politically motivated, and Ghannouchi's health has deteriorated in prison.
+
+[6] Rebecca Bennett wins New Jersey Democratic primary, to face Trump ally Kean
+Published: 2026-06-03T03:36:11Z
+URL: https://www.aljazeera.com/news/2026/6/3/rebecca-bennett-wins-new-jersey-democratic-primary-to-face-trump-ally-kean
+Summary: Rebecca Bennett, a former US Navy helicopter pilot, won the Democratic primary in New Jersey's 7th Congressional District with about 47.2 percent of the vote. She will face Republican incumbent Tom Kean Jr, backed by President Donald Trump, in November for a toss-up seat. Kean has missed over 100 House votes since March due to an undisclosed illness but ran unopposed in the primary. Bennett criticized Kean's absence and focused her campaign on economic issues like cost of living and the impact of the US-Israel war on Iran.
+
+================================================================================
 RUN TIME UTC: 2026-06-02T22:22:54Z
 WINDOW: Last 6 hours
 ARTICLES USED: 9
