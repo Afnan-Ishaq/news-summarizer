@@ -1,5 +1,43 @@
 [
   {
+    "time": "2026-06-03T22:28:14Z",
+    "window_hours": 6,
+    "article_count": 5,
+    "overall_summary": "The batch covers a political crisis in Somalia with gunfire erupting before planned protests, a US congressional exchange on Israel's nuclear status, a Gaza doctor winning a US primary election, a US House war powers resolution against Trump, and Real Madrid's potential managerial change.",
+    "articles": [
+      {
+        "title": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
+        "url": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule",
+        "published": "2026-06-03T18:45:32Z",
+        "summary": "Heavy gunfire broke out in central Mogadishu as former Prime Minister Hassan Ali Khaire accused government forces of attacking him before planned antigovernment protests. The violence occurred amid a political crisis after President Hassan Sheikh Mohamud extended his term by a year, which opposition and regional leaders rejected. Witnesses reported clashes between armed opposition forces and police, including the use of rocket-propelled grenades."
+      },
+      {
+        "title": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+        "url": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio",
+        "published": "2026-06-03T20:38:25Z",
+        "summary": ""
+      },
+      {
+        "title": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
+        "url": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress",
+        "published": "2026-06-03T21:56:47Z",
+        "summary": "Adam Hamawy, a plastic surgeon and army veteran who served in Gaza during Israel's genocidal war, won the Democratic primary for New Jersey's 12th Congressional District. If elected in November, he would become the only US Congress member with firsthand experience of the conflict in Gaza. Hamawy said his motivation to run stemmed from lawmakers' mixed responses to his testimony about the war."
+      },
+      {
+        "title": "US House of Representatives passes war powers resolution in rebuke to Trump",
+        "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump",
+        "published": "2026-06-03T22:10:58Z",
+        "summary": "The US House passed a war powers resolution to rein in President Donald Trump's authority to attack Iran without congressional approval, with four Republicans joining Democrats in a 215-208 vote. The resolution is unlikely to become law due to a likely presidential veto, but it rebukes Trump's decision to join Israel in attacking Iran on February 28 without congressional authorization. This marks the fourth such vote this year amid frustration over Trump's use of military force abroad."
+      },
+      {
+        "title": "Real Madrid will bring Mourinho back if Perez is re-elected",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/real-madrid-will-bring-mourinho-back-if-perez-is-re-elected",
+        "published": "2026-06-03T22:13:10Z",
+        "summary": "Real Madrid president Florentino Perez announced he will bring Jose Mourinho back as manager if he wins the club's presidential election on Sunday. The announcement came as Perez faces challenger Enrique Riquelme in the first contested election in 20 years. Mourinho previously managed Real Madrid from 2010 to 2013, winning one La Liga title, and would return 13 years after his departure if Perez is re-elected."
+      }
+    ]
+  },
+  {
     "time": "2026-06-03T18:44:18Z",
     "window_hours": 6,
     "article_count": 16,
