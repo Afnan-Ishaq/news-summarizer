@@ -1,5 +1,127 @@
 [
   {
+    "time": "2026-06-03T14:40:19Z",
+    "window_hours": 6,
+    "article_count": 19,
+    "overall_summary": "A series of Al Jazeera articles cover a deadly fire in New Delhi killing 21, including 18 foreign nationals; California's primary election for governor sees Democrat Xavier Becerra and Republican Steve Hilton leading; the UK seeks to thaw relations with China; and a reflection on Muhammad Ali's peace message. Other stories include escalating Gulf tensions with Iran striking Kuwait and Bahrain, Israel's military entrenchment in Gaza and southern Lebanon, World Cup previews for Morocco and the DRC, and various sports and political developments.",
+    "articles": [
+      {
+        "title": "Foreign nationals among 21 dead in fire in Indian capital | Gallery News | Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/6/3/foreign-nationals-among-21-dead-in-new-delhi-building-fire",
+        "published": "2026-06-03T08:50:19Z",
+        "summary": "At least 21 people died in a fire at a multistorey building in New Delhi's Malviya Nagar neighborhood, which housed a restaurant and a hotel. Over 40 people were rescued, and some victims were foreign nationals in India for medical treatment. The cause is under investigation, and Prime Minister Modi offered condolences."
+      },
+      {
+        "title": "Democrat and Republican go head-to-head in California governor race | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/democrat-and-republican-go-head-to-head-in-california-governor-race",
+        "published": "2026-06-03T09:08:15Z",
+        "summary": "Republican Steve Hilton and Democrat Xavier Becerra lead the primary for California governor, potentially setting up a rare Democrat-Republican showdown. Hilton, endorsed by Trump, and Becerra, a former cabinet secretary, are ahead of billionaire Tom Steyer. The winner will succeed Gavin Newsom and face challenges like affordability and homelessness."
+      },
+      {
+        "title": "UK-China ‘ice age’ thaws: Why the West needs Beijing | Energy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/uk-china-ice-age-thaws-why-the-west-needs-beijing",
+        "published": "2026-06-03T09:20:32Z",
+        "summary": "British Foreign Secretary Yvette Cooper is visiting China to revive ties after a period of strained relations, following PM Starmer's January visit. Cooper called for cooperation on global challenges like conflicts and Ebola, acknowledging disagreements but emphasizing 'candour and respect'. Analysts note Western nations increasingly need China for advanced goods and resources."
+      },
+      {
+        "title": "Remembering Muhammad Ali’s message of peace | United Nations | Al Jazeera",
+        "url": "https://www.aljazeera.com/opinions/2026/6/3/remembering-muhammad-alis-message-of-peace",
+        "published": "2026-06-03T09:30:30Z",
+        "summary": "Ten years after his death, Muhammad Ali's message of peace remains urgent amid global conflicts. The article reflects on a watercolor painting Ali gifted to the UN in 1978, symbolizing his conviction that peace requires courage. It argues his legacy challenges us to defend human rights and fight for each other."
+      },
+      {
+        "title": "Fire at New Delhi hotel kills at least 21 people, including 18 foreigners | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/fire-at-new-delhi-hotel-kills-at-least-21-people",
+        "published": "2026-06-03T09:41:46Z",
+        "summary": "A fire at a New Delhi hotel killed 21 people, including 18 foreign nationals from Bangladesh, Nigeria, Mozambique, and Liberia, many of whom were in India for medical treatment. The blaze was extinguished with eight fire engines, and over 40 were rescued. The cause is unknown, but a restaurant on the ground floor may be linked."
+      },
+      {
+        "title": "Hilton, Becerra lead California governor race: Key primary election results | US Midterm Elections 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/hilton-becerra-lead-california-governor-race-key-primary-election-results",
+        "published": "2026-06-03T09:52:13Z",
+        "summary": "California's primary sets up a likely November showdown between Democrat Xavier Becerra and Republican Steve Hilton for governor. Becerra's strong performance suggests voters may seek continuity, while Hilton focuses on housing and affordability. Strategic voting under the top-two system may have influenced results, with Democrats backing candidates with the best chance to advance."
+      },
+      {
+        "title": "US artist sues FIFA over destruction of Dallas whale mural for World Cup | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/us-artist-sues-fifa-over-destruction-of-dallas-whale-mural-for-world-cup",
+        "published": "2026-06-03T09:56:46Z",
+        "summary": "Artist Robert Wyland filed a $25m lawsuit against FIFA and others for painting over his whale mural in Dallas to promote the World Cup, violating a 1990 federal law. The mural stood for nearly three decades, and its removal caused public uproar. FIFA denies involvement, while the local organizing committee plans new artwork, preserving a portion of the mural."
+      },
+      {
+        "title": "Israel’s invasion of southern Lebanon devastates centuries of history | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history",
+        "published": "2026-06-03T10:41:06Z",
+        "summary": "Israel's military offensive in southern Lebanon threatens heritage sites like Beaufort Castle and the ancient city of Tyre. Despite a ceasefire, Israeli forces captured Beaufort Castle and advanced north of the Litani River. Lebanon's culture minister says bombings have fallen close to Tyre's ruins, putting UNESCO World Heritage Sites in serious danger."
+      },
+      {
+        "title": "Morocco World Cup 2026 preview: Players to watch, group and squad list | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/morocco-world-cup-2026-preview-players-to-watch-group-and-squad-list",
+        "published": "2026-06-03T10:44:36Z",
+        "summary": "Morocco aims to build on their historic 2022 semifinal run but faces a chaotic buildup, including a managerial departure and fallout from a controversial AFCON final. The team was awarded the AFCON title after Senegal forfeited, but the saga continues with an appeal. Key player Brahim Diaz missed a penalty in the final, and the team is dealing with diplomatic tensions."
+      },
+      {
+        "title": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again",
+        "published": "2026-06-03T11:42:59Z",
+        "summary": "Iran fired missiles at Kuwait and Bahrain, and the US struck Iran's Qeshm Island, raising fears of renewed Gulf conflict. Kuwait reported injuries and damage at its airport, with an Indian national killed. US Central Command said it intercepted projectiles aimed at Bahrain and downed Iranian drones, while Iran claimed it targeted US assets."
+      },
+      {
+        "title": "Israel is building more military posts in Gaza, satellite imagery shows | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/israel-is-building-more-military-posts-in-gaza-satellite-imagery-shows",
+        "published": "2026-06-03T12:01:53Z",
+        "summary": "Satellite imagery analyzed by Al Jazeera reveals 40 Israeli military outposts in Gaza, with eight built after the October 2025 ceasefire. The bases are strategically placed, including atop a bulldozed cemetery in Khan Younis. Israeli PM Netanyahu confirmed control of 60% of Gaza, indicating a long-term military presence despite the truce."
+      },
+      {
+        "title": "Ferrari sign Leclerc on new long-term contract before home F1 Monaco GP | Motorsports News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/ferrari-sign-leclerc-on-new-long-term-contract-ahead-of-home-f1-monaco-gp",
+        "published": "2026-06-03T12:06:10Z",
+        "summary": "Charles Leclerc signed a long-term contract extension with Ferrari ahead of the Monaco Grand Prix. The 28-year-old Monegasque driver has been with Ferrari since 2019, winning eight races. He is currently third in the championship, and Ferrari did not specify the contract's duration, stating he will continue for 'coming seasons'."
+      },
+      {
+        "title": "Does UK’s new far-right party, Restore, pose a threat to Farage’s Reform? | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/does-uks-new-far-right-party-restore-pose-a-threat-to-farages-reform",
+        "published": "2026-06-03T12:27:43Z",
+        "summary": "The new far-right party Restore Britain, led by former Reform member Rupert Lowe, is challenging Nigel Farage's Reform UK, attracting over 96,000 members and 13 councillors. Farage responded to a fatal stabbing incident to rally supporters, as Restore pushes an even more anti-immigration agenda. A by-election in Makerfield could test the far-right's strength."
+      },
+      {
+        "title": "Why is France so invested in the future of Lebanon? | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/why-is-france-so-invested-in-the-future-of-lebanon",
+        "published": "2026-06-03T13:09:35Z",
+        "summary": "France's special envoy Jean-Yves Le Drian visits Beirut as Paris seeks to reassert influence in Lebanon amid Israel's invasion and occupation. Talks will focus on aid, the future of UNIFIL, and diplomatic efforts. Analysts say France is wary of US overreach and aims to preserve its historical and strategic foothold in the country."
+      },
+      {
+        "title": "DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/dr-congo-to-offset-ebola-threat-with-behind-closed-doors-world-cup-warm-up",
+        "published": "2026-06-03T13:22:26Z",
+        "summary": "DR Congo's coach offered to play a pre-World Cup friendly against Chile behind closed doors after the Spanish mayor cancelled it over Ebola concerns. The DRC is based in Belgium due to the outbreak, and all precautionary measures are being followed. The team must isolate for 21 days before entering the US for the tournament."
+      },
+      {
+        "title": "Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay",
+        "published": "2026-06-03T13:35:06Z",
+        "summary": "Iran's World Cup squad will depart for Mexico on June 6 despite uncertainty over US visas. US Secretary of State Marco Rubio said Iranians with IRGC ties will not be allowed in the delegation. Iran's last warm-up game against Mali will be behind closed doors, and the team faces visa issues amid ongoing US-Iran tensions."
+      },
+      {
+        "title": "Israel detains Palestine international women’s football player | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player",
+        "published": "2026-06-03T13:41:51Z",
+        "summary": "Israeli authorities detained Palestinian women's national team player Rand Halawani, extending her detention until Friday. Former player Natalie Abu Diyeh and three other women were also arrested, accused of 'promoting terrorist activities'. The Palestinian Football Association condemned the arrests as part of a pattern of targeting Palestinian athletes."
+      },
+      {
+        "title": "Lamine Yamal and Nico Williams set to be fit for Spain’s World Cup opener | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/lamine-yamal-and-nico-williams-set-to-be-fit-for-spains-world-cup-opener",
+        "published": "2026-06-03T14:17:55Z",
+        "summary": "Spain coach Luis de la Fuente said forwards Lamine Yamal and Nico Williams should be fit for the World Cup opener against Cape Verde on June 15, despite hamstring injuries. Both will miss the friendly against Iraq but are progressing as expected. Spain is considered a favorite, and de la Fuente noted many teams have a realistic chance of winning."
+      },
+      {
+        "title": "‘Doesn’t seem qualified’: Who is Bill Pulte, acting US intelligence chief? | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/3/doesnt-seem-qualified-who-is-bill-pulte-acting-us-intelligence-chief",
+        "published": "2026-06-03T14:24:51Z",
+        "summary": "President Trump appointed Bill Pulte as acting director of national intelligence, replacing Tulsi Gabbard. Pulte, a businessman and federal housing regulator, has faced criticism from lawmakers who question his qualifications. He has pursued prosecutions of Trump's political enemies, leading to accusations of partisanship, and will retain his other roles."
+      }
+    ]
+  },
+  {
     "time": "2026-06-03T04:11:10Z",
     "window_hours": 6,
     "article_count": 6,
