@@ -1,4 +1,23 @@
 ================================================================================
+RUN TIME UTC: 2026-06-04T04:04:28Z
+WINDOW: Last 6 hours
+ARTICLES USED: 2
+
+OVERALL SUMMARY
+Two articles from Al Jazeera cover a feature on women returning to school in northern Nigeria and SpaceX's historic IPO targeting a $1.77 trillion valuation.
+
+ARTICLE BREAKDOWN
+[1] Nigeria’s second-chance schools: women balancing study and survival
+Published: 2026-06-04T01:16:26Z
+URL: https://www.aljazeera.com/features/2026/6/4/nigerias-second-chance-schools-women-balancing-study-and-survival
+Summary: The article highlights women in northern Nigeria returning to school through the Women Centre for Continuing Education (WCCE) in Sokoto, balancing childcare and duties. It notes that many girls drop out due to cultural practices or poverty, with UNICEF reporting over half of girls in the region not attending school. The centre offers free education and a condensed curriculum, but experts caution that physical attendance requirements may still exclude some women.
+
+[2] Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO
+Published: 2026-06-04T02:38:51Z
+URL: https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo
+Summary: SpaceX is targeting a valuation of nearly $1.77 trillion in its IPO, planning to sell 555.6 million shares at $135 each to raise about $75 billion. This would make it the largest stock market debut in history, surpassing Saudi Aramco's 2019 IPO. Despite reporting net losses, Elon Musk will retain over 82% voting control through a dual-class stock structure, and the fixed share price before the investor roadshow reflects his confidence.
+
+================================================================================
 RUN TIME UTC: 2026-06-03T22:28:14Z
 WINDOW: Last 6 hours
 ARTICLES USED: 5
