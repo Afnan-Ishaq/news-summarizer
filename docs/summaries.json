@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-06-04T21:41:45Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "A batch of Al Jazeera articles covers global events including Saudi-Russia energy talks, anti-migrant protests in Libya, Russian strikes in Ukraine, Liverpool's new manager appointment, a historic French Open final, a US bill to restrict arms to Israel, and US support for Bolivia's government amid protests.",
+    "articles": [
+      {
+        "title": "Saudi energy minister calls for ‘stable energy sector’ during Russia visit | Oil and Gas News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/4/saudi-energy-minister-call-for-stable-energy-sector-on-russia-visit",
+        "published": "2026-06-04T18:30:49Z",
+        "summary": "Saudi Energy Minister Prince Abdulaziz bin Salman met his Russian counterpart in St Petersburg, calling for stability in global energy markets amid OPEC+ disruptions from wars in Iran and Ukraine. Russian Deputy Prime Minister Alexander Novak acknowledged uncertainty in demand and noted a decline in Russian oil production due to unplanned refinery maintenance, linked to Ukrainian attacks. The closure of the Strait of Hormuz and UAE's exit from OPEC have complicated output agreements."
+      },
+      {
+        "title": "Hundreds protest in Libya outside UN agency against undocumented migrants | Migration News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/4/hundreds-protest-in-libya-outside-un-agency-against-undocumented-migrants",
+        "published": "2026-06-04T18:52:34Z",
+        "summary": "Hundreds of Libyans protested outside the UNHCR headquarters in Tripoli, accusing the UN of settling undocumented migrants in the country, a claim the agency rejected. The UN mission UNSMIL warned against misleading information and hate speech, stating it is not resettling migrants but working on solutions outside Libya. Libya hosts about 900,000 migrants, many Sudanese refugees, amid ongoing social and economic tensions."
+      },
+      {
+        "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022 | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine",
+        "published": "2026-06-04T18:59:43Z",
+        "summary": "At least 12 people were killed in Russian strikes across Ukraine, as President Zelenskyy commemorated 707 children killed since the war began. Attacks hit multiple regions, including Donetsk (5 killed), Kharkiv (3 killed), Sumy (2 killed), Dnipropetrovsk (1 killed), and Kherson (1 killed), with extensive damage to civilian infrastructure. Ukrainian authorities reported destroyed residential buildings, medical facilities, and vehicles."
+      },
+      {
+        "title": "Liverpool appoint Spaniard Iraola as new manager in place of Slot | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/4/liverpool-appoint-spaniard-iraola-as-new-manager-in-place-of-slot",
+        "published": "2026-06-04T19:01:41Z",
+        "summary": "Liverpool appointed Andoni Iraola as their new manager after sacking Arne Slot following a poor Premier League title defense. Iraola, who left Bournemouth after a sixth-place finish and Europa League qualification, signed a reported two-year deal. He is expected to bring an attacking, high-pressing style similar to former manager Jurgen Klopp, contrasting with Slot's controlled approach."
+      },
+      {
+        "title": "History-making qualifier Chwalinska sets up Andreeva French Open final | Tennis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/4/qualifier-chwalinska-sets-up-andreeva-french-open-final",
+        "published": "2026-06-04T19:16:54Z",
+        "summary": "Poland's Maja Chwalinska became the second qualifier in the Open Era to reach a Grand Slam singles final, beating Russia's Diana Shnaider 7-6, 6-4 at the French Open. She will face Russian teenager Mirra Andreeva, who defeated Marta Kostyuk 6-1, 6-3 in the semifinals. Chwalinska's ranking could rise to 14th if she wins, and she has earned at least 1.4 million euros."
+      },
+      {
+        "title": "Block the bombs: Support grows for US bill to restrict arms for Israel | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel",
+        "published": "2026-06-04T19:43:14Z",
+        "summary": "The Block the Bombs Act, which would impose a partial arms embargo on Israel, has gained 73 co-sponsors in the US House one year after its introduction, up from 21. Advocates call this historic progress, though it remains far from a majority. The bill has been blocked by Republican leadership, but supporters argue it reflects shifting public opinion against unconditional aid to Israel."
+      },
+      {
+        "title": "US defence secretary compares Bolivia protests to government ‘overthrow’ | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/4/us-defence-secretary-compares-bolivia-protests-to-government-overthrow",
+        "published": "2026-06-04T21:01:12Z",
+        "summary": "US Defence Secretary Pete Hegseth characterized anti-government protests in Bolivia as an attempted coup against President Rodrigo Paz, linking protesters to 'narco-terrorists'. The Trump administration has supported Paz, who took office in October 2025 after defeating the left-wing Movement for Socialism. The US has expanded its role in Latin America through initiatives like the Americas Counter Cartel Coalition, which Paz attended."
+      }
+    ]
+  },
+  {
     "time": "2026-06-04T17:46:10Z",
     "window_hours": 6,
     "article_count": 18,
