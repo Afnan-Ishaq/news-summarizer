@@ -1,4 +1,78 @@
 ================================================================================
+RUN TIME UTC: 2026-06-04T08:48:52Z
+WINDOW: Last 6 hours
+ARTICLES USED: 13
+
+OVERALL SUMMARY
+The batch covers Indonesia's rupiah hitting a record low due to energy shocks from the Iran war, FIFA's last-minute ban on reusable bottles at World Cup stadiums, a student-led scandal over India's CBSE exam system, fast-tracked Ebola vaccine research amid an outbreak in East Africa, an opinion piece criticizing a Gaza reconstruction plan as coercive, an analysis of enduring Middle Eastern realities despite the US-Israel war on Iran, a day 97 update on the Iran war including stalled talks and a Lebanon ceasefire, Indonesia's arrest of officials in a corruption crackdown, a conditional ceasefire between Israel and Lebanon, Aryna Sabalenka's emotional French Open exit, the Knicks' NBA Finals upset over the Spurs, China banning New Zealand lawmakers over a Taiwan visit, and key dates for the 2026 World Cup.
+
+ARTICLE BREAKDOWN
+[1] Indonesia’s rupiah falls to record low against US dollar | Business and Economy | Al Jazeera
+Published: 2026-06-04T04:40:06Z
+URL: https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar
+Summary: Indonesia's rupiah hit a record low of 18,028 against the US dollar, breaching the psychological 18,000 threshold due to surging energy costs from the US-Israel war on Iran. The energy shock has strained Southeast Asian economies, particularly Indonesia, a net oil importer, narrowing its trade surplus and fueling capital outflows. The central bank has hiked rates and tightened dollar purchase rules but struggles to reverse the depreciation.
+
+[2] World Cup 2026: FIFA bans fans from bringing reusable bottles to stadiums | World Cup 2026 News | Al Jazeera
+Published: 2026-06-04T06:01:31Z
+URL: https://www.aljazeera.com/sports/2026/6/4/world-cup-2026-fifa-bans-fans-reusable-bottles-stadiums-venues-football
+Summary: FIFA has banned reusable water bottles from 2026 World Cup stadiums due to safety concerns, reversing a previous policy that allowed empty, transparent plastic bottles. The ban, effective from Tuesday, also covers other containers to prevent injury risks if thrown. FIFA says hydration stations and cooling measures will be in place, but fans worry about coping with heat at venues where temperatures may reach 28°C.
+
+[3] How India’s CBSE exam scandal set off student outrage against PM Modi | Education News | Al Jazeera
+Published: 2026-06-04T06:14:39Z
+URL: https://www.aljazeera.com/news/2026/6/4/how-indias-cbse-exam-scandal-set-off-student-outrage-against-pm-modi
+Summary: India's CBSE exam scandal has sparked student outrage against Prime Minister Modi's government after a rushed digitized evaluation system led to blurry scans, technical glitches, and disputed results. Over 1.7 million students are affected, with many questioning their scores and calling for Education Minister Dharmendra Pradhan to resign. The system was implemented by a Hyderabad-based company that had faced similar controversies earlier.
+
+[4] What are the Ebola vaccines under research, and when will they be ready? | Ebola News | Al Jazeera
+Published: 2026-06-04T06:22:24Z
+URL: https://www.aljazeera.com/news/2026/6/4/what-are-the-ebola-vaccines-under-research-and-when-will-they-be-ready
+Summary: East Africa is facing a rapidly spreading Ebola epidemic caused by a rare strain, with 321 confirmed cases in the DRC and 15 in Uganda as of June 2. Three vaccines are being fast-tracked for trials, but no approved vaccine exists for this strain yet. Experts warn the outbreak could rival severe past epidemics, with conflict and funding cuts hampering the response.
+
+[5] Gaza is being offered coercion, not reconstruction | Gaza | Al Jazeera
+Published: 2026-06-04T06:46:59Z
+URL: https://www.aljazeera.com/opinions/2026/6/4/gaza-is-being-offered-coercion-not-reconstruction
+Summary: An opinion piece argues that Nickolay Mladenov's 15-point framework for Gaza is coercive, not a genuine reconstruction plan, as it ties rebuilding to 14 preconditions including Hamas disarmament and security restructuring. The author says reconstruction is weaponized as leverage to engineer a new Palestinian political order aligned with Israel and the US, ignoring the context of occupation and siege that led to armed resistance.
+
+[6] What the US-Israel war on Iran will not change in the Middle East | US-Israel war on Iran | Al Jazeera
+Published: 2026-06-04T06:55:11Z
+URL: https://www.aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east
+Summary: An analysis argues that despite the US-Israel war on Iran redrawing alliances, enduring realities like geography, the Palestinian issue, and political identity will remain unchanged. The Middle East has historically absorbed shocks and reconstituted itself, and no military force can alter strategic chokepoints like the Strait of Hormuz or the Suez Canal. The Palestinian cause will persist regardless of the fate of the 'axis of resistance.'
+
+[7] Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon | US-Israel war on Iran News | Al Jazeera
+Published: 2026-06-04T07:01:19Z
+URL: https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon
+Summary: On day 97 of the Iran war, Iran's foreign minister said talks with the US have made no progress but channels remain open, while defending attacks on Gulf nations as self-defense. Israel carried out drone attacks on Lebanon after agreeing to renew a ceasefire, which requires Hezbollah to cease fire and withdraw from southern Lebanon. Kuwait reported one death and over 60 injuries from Iranian strikes, and the US House voted to require congressional authorization for military action against Iran.
+
+[8] Indonesia arrests officials in crackdown on corruption | Corruption News | Al Jazeera
+Published: 2026-06-04T07:09:35Z
+URL: https://www.aljazeera.com/news/2026/6/4/indonesia-arrests-officials-in-crackdown-on-corruption
+Summary: Indonesia's deputy minister for immigration affairs, Silmy Karim, was arrested after 10 hours of questioning over alleged irregularities in immigration document administration from 2023 to 2024. The KPK identified seven other suspects in the case. This follows the arrest of the former head of an agency overseeing President Prabowo's free-meals programme on corruption charges.
+
+[9] Israel and Lebanon agree to conditional ceasefire | News | Al Jazeera
+Published: 2026-06-04T07:37:33Z
+URL: https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire
+Summary: Israel and Lebanon agreed to a conditional ceasefire through US-brokered talks in Washington, requiring a complete cessation of fire by Hezbollah and the removal of its operatives from southern Lebanon. The deal builds on a previous ceasefire extension from May, but Hezbollah was not part of the negotiations, leaving implementation uncertain. Both sides will meet again on June 22 for further talks.
+
+[10] Sabalenka ‘mentally off track’ as French Open exit made her want to ‘quit’ | Tennis News | Al Jazeera
+Published: 2026-06-04T08:00:21Z
+URL: https://www.aljazeera.com/sports/2026/6/4/sabalenka-mentally-off-track-as-french-open-exit-made-her-want-to-quit
+Summary: World number one Aryna Sabalenka lost to Diana Shnaider in the French Open quarterfinals after wasting a set and two breaks lead, saying she wanted to 'quit tennis right now.' Sabalenka lost 12 of the last 13 games in a 3-6, 7-5, 6-0 defeat, reminiscent of her collapse in last year's final. Shnaider will face Maja Chwalinska in the semifinals.
+
+[11] Brunson scores 30 as Knicks upset Spurs in NBA Finals opener | Basketball News | Al Jazeera
+Published: 2026-06-04T08:12:02Z
+URL: https://www.aljazeera.com/sports/2026/6/4/brunson-scores-30-as-knicks-upset-spurs-in-nba-finals-opener
+Summary: Jalen Brunson scored 30 points, including 13 in the fourth quarter, as the New York Knicks overcame a 14-point deficit to beat the San Antonio Spurs 105-95 in game one of the NBA Finals. The Knicks closed the game with 11 straight points and committed no turnovers in the final period. Victor Wembanyama had 26 points and 12 rebounds for the Spurs but shot poorly. Game two is Friday in San Antonio.
+
+[12] China bans four New Zealand lawmakers over visit to Taiwan | Politics News | Al Jazeera
+Published: 2026-06-04T08:29:29Z
+URL: https://www.aljazeera.com/news/2026/6/4/china-bans-four-new-zealand-lawmakers-over-visit-to-taiwan
+Summary: China banned four New Zealand lawmakers for a year after they visited Taiwan in May, calling it interference in internal affairs and warning that crossing the 'red line' on Taiwan will have consequences. New Zealand's foreign minister expressed surprise, noting lawmakers have visited Taiwan for decades without issue. Taiwan condemned the ban, saying parliamentary diplomacy is normal among democratic nations.
+
+[13] World Cup 2026: What are the key dates from the opening match to the final? | Football News | Al Jazeera
+Published: 2026-06-04T08:38:21Z
+URL: https://www.aljazeera.com/sports/2026/6/4/world-cup-2026-what-are-the-key-dates-from-the-opening-match-to-the-final
+Summary: The article outlines key dates for the 2026 World Cup, which runs from June 11 to July 19 across the US, Canada, and Mexico. The opening match is Mexico vs South Africa on June 11, with notable games including Argentina's title defense on June 16 and Portugal's Cristiano Ronaldo's sixth World Cup appearance on June 17. The tournament features 48 teams and 39 days of matches.
+
+================================================================================
 RUN TIME UTC: 2026-06-04T04:04:28Z
 WINDOW: Last 6 hours
 ARTICLES USED: 2
