@@ -1,4 +1,78 @@
 ================================================================================
+RUN TIME UTC: 2026-06-04T12:44:45Z
+WINDOW: Last 6 hours
+ARTICLES USED: 13
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles covers a range of topics including Bangladesh's election to the UNGA presidency, a Nepali guide found alive on Everest, Germany's UNSC seat loss, US House votes on the Iran war, racism in Ireland, Meta's criticism of Australia's news payment plan, Israel's Ben-Gvir and settlement expansion, Venezuela's acting president's visit to India, monsoon arrival in India, World Cup 2026 previews, and a legal threat from Man City to Real Madrid.
+
+ARTICLE BREAKDOWN
+[1] Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?
+Published: 2026-06-04T08:50:04Z
+URL: https://www.aljazeera.com/news/2026/6/4/who-is-khalilur-rahman-bangladesh-fm-who-beat-cyprus-to-unga-presidency
+Summary: Bangladeshi Foreign Minister Khalilur Rahman has been elected as the 81st president of the UN General Assembly, defeating Cyprus's Ambassador Andreas Kakouris in a contested vote. Rahman, a career diplomat who joined Bangladesh's foreign service in 1979, has held senior UN positions and became foreign minister in February after the BNP won elections. His presidency will coincide with the selection of UN Secretary-General Antonio Guterres's successor.
+
+[2] Nepali Mount Everest guide found alive after being missing for six days
+Published: 2026-06-04T09:28:59Z
+URL: https://www.aljazeera.com/news/2026/6/4/nepali-mount-everest-guide-found-alive-after-being-missing-for-six-days
+Summary: Nepali Sherpa guide Dawa Sherpa, missing on Mount Everest for six days, was found alive crawling alone to base camp by a clearing crew. He was rescued and flown to a hospital in Kathmandu, where his wife and daughter had already begun funeral rituals. Dawa was last seen descending the mountain on May 29, and his client, a Polish climber, had reached base camp safely.
+
+[3] Did Germany lose its UNSC seat because of support for Israel?
+Published: 2026-06-04T09:47:00Z
+URL: https://www.aljazeera.com/news/2026/6/4/did-germany-lose-its-unsc-seat-because-of-support-for-israel
+Summary: Germany failed to secure a temporary UN Security Council seat, losing to Austria and Portugal, with Foreign Minister Johann Wadephul suggesting that Berlin's support for Israel may have cost votes. Germany's bid won 104 votes, 23 short of the required two-thirds majority, marking the first time it has failed to win a rotating seat in decades. Wadephul also cited Germany's stance on Ukraine as a factor, noting that Russia worked to generate opposition.
+
+[4] US House votes to end Trump’s Iran war: Does it matter?
+Published: 2026-06-04T09:49:24Z
+URL: https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter
+Summary: The US House of Representatives voted to invoke the War Powers Act to halt President Trump's war on Iran, marking the first successful effort by lawmakers to force an end to the conflict. The vote is largely symbolic due to Trump's veto power and Republican dominance, but it represents a significant reprimand. Democrats have argued that Congress holds the right to declare war, while the Trump administration maintains that military operations do not require congressional approval.
+
+[5] Ireland’s Black community opens up about racism after ‘George Floyd moment’
+Published: 2026-06-04T10:15:17Z
+URL: https://www.aljazeera.com/news/2026/6/4/irelands-black-community-opens-up-about-racism-after-george-floyd-moment
+Summary: In the wake of Yves Sakila's death after a violent restraint by security guards, Ireland's Black community is speaking out about racism. Sakila, a 35-year-old Irish national from the DRC, died on May 15, and the incident has been dubbed Ireland's 'George Floyd moment.' Members of minority communities describe a sense of denial about racism in Ireland, with one Black Irish woman reporting multiple racial insults in two weeks.
+
+[6] ‘Grossly unfair’: Meta slams Australia’s bid to make platforms pay for news
+Published: 2026-06-04T10:56:33Z
+URL: https://www.aljazeera.com/economy/2026/6/4/grossly-unfair-meta-slams-australias-bid-to-make-platforms-pay-for-news
+Summary: Meta has criticized Australia's News Bargaining Incentive (NBI) as 'poorly designed' and 'grossly unfair,' arguing it insulates publishers from competition and violates free trade commitments. The NBI would impose a 2.25 percent levy on social media and search platforms' Australian revenues if they do not pay for news content. The Australian government estimates the scheme would generate 200 million to 250 million Australian dollars for local media outlets.
+
+[7] Itamar Ben-Gvir: The face of Israel’s hard right — or the face of Israel?
+Published: 2026-06-04T10:58:59Z
+URL: https://www.aljazeera.com/news/2026/6/4/itamar-ben-gvir-the-face-of-israels-hard-right-or-the-face-of
+Summary: Israel's National Security Minister Itamar Ben-Gvir has drawn global outrage for actions such as harassing activists and opposing a US ceasefire deal with Iran. While some Israeli officials claim Ben-Gvir is 'not the face of Israel,' analysts argue he represents an increasingly dominant section of Israeli society. Ben-Gvir has exerted control over police and prison forces since 2022, and critics say he acts with the help of other politicians and civil servants who share his beliefs.
+
+[8] Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?
+Published: 2026-06-04T11:04:16Z
+URL: https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows
+Summary: Venezuelan acting President Delcy Rodriguez, a devotee of Indian guru Sathya Sai Baba, is visiting India to boost energy ties, including oil supply. Sathya Sai Baba, born in 1926, was a spiritual leader with a global following who advocated for peace and nonviolence. He faced allegations of sexual abuse, which were noted by Britain's parliament and the BBC, but was never charged.
+
+[9] Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests
+Published: 2026-06-04T11:10:33Z
+URL: https://www.aljazeera.com/news/2026/6/4/monsoon-rain-reaches-kerala-3-days-late-but-on-time-to-save-indian-harvests
+Summary: Monsoon rains have arrived in India's Kerala state three days late, according to the Meteorological Department, but are still critical for the country's $4 trillion economy. The monsoon delivers about 70 percent of the rainfall needed for agriculture, including crops like cotton, rice, and corn. Concerns were heightened last month when the Meteorological Department warned of a potential El Nino-weakened monsoon, which could be the driest in 11 years.
+
+[10] Quiz: World Cup 2026 – player and team records, key statistics
+Published: 2026-06-04T11:18:35Z
+URL: https://www.aljazeera.com/sports/2026/6/4/quiz-world-cup-2026-player-and-team-records-key-statistics
+Summary: This article presents a 10-question quiz to test football knowledge ahead of the FIFA World Cup 2026, which begins on June 11. The quiz covers player and team records and key statistics. Readers are directed to Al Jazeera's dedicated World Cup 2026 page for news, match build-up, and live text commentary.
+
+[11] Man City threatens legal action against Real Madrid following Haaland claim
+Published: 2026-06-04T11:57:24Z
+URL: https://www.aljazeera.com/sports/2026/6/4/man-city-threaten-legal-action-against-real-madrid-following-haaland-claim
+Summary: Manchester City is considering legal action after Real Madrid presidential candidate Enrique Riquelme claimed he would sign Erling Haaland if elected. City denied the claims, stating there is no contractual clause enabling such a move, and Haaland's father and agent also rejected the suggestion. Riquelme also said he would try to sign City's Rodri, amid Real Madrid's first contested presidential election in two decades.
+
+[12] Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank
+Published: 2026-06-04T12:06:17Z
+URL: https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank
+Summary: Far-right Israeli Finance Minister Bezalel Smotrich announced the approval of 2,162 new Jewish homes in the occupied West Bank, including a new illegal settlement near Jerusalem. Smotrich said the homes would 'strengthen our hold on the land,' while Palestinian President Mahmoud Abbas's office condemned the decision. The settlement expansion is illegal under international law, and Smotrich has been sanctioned by several countries for inciting violence against Palestinians.
+
+[13] Who are the World Cup Golden Boot favourites? Mbappe, Ronaldo, Messi, Kane?
+Published: 2026-06-04T12:13:20Z
+URL: https://www.aljazeera.com/sports/2026/6/4/who-are-the-world-cup-golden-boot-favourites-mbappe-ronaldo-messi-kane
+Summary: This article profiles contenders for the World Cup 2026 Golden Boot, including Kylian Mbappe, Harry Kane, and James Rodriguez, who are all seeking to win the award for a second time. Kane comes off a remarkable season at Bayern Munich with 61 goals, while Mbappe aims to become the first player to win the Golden Boot more than once. Erling Haaland is also mentioned as a contender despite having no previous World Cup appearances.
+
+================================================================================
 RUN TIME UTC: 2026-06-04T08:48:52Z
 WINDOW: Last 6 hours
 ARTICLES USED: 13
