@@ -1,4 +1,103 @@
 ================================================================================
+RUN TIME UTC: 2026-06-04T17:46:10Z
+WINDOW: Last 6 hours
+ARTICLES USED: 18
+
+OVERALL SUMMARY
+A batch of 18 Al Jazeera articles covers a wide range of global events, including North Korea's nuclear expansion, Turkey-Indonesia bilateral talks, a US screwworm case, political violence in Somalia, an ancient matrilineal society discovery in Turkey, a rights group lawsuit over South African arms exports, protests over a US Ebola facility in Kenya, Iranian footballers' World Cup challenges amid war, protests in Albania against a Kushner-linked resort, a new Lebanon truce, US glyphosate activism, Trump's criticism of Republicans over an Iran war resolution, a UK review on NHS political badges, a French Open tennis match, World Cup players' final tournaments, an Israeli Supreme Court ruling on Red Cross visits, John Bolton's plea deal, and a longform on disappearances in Ecuador.
+
+ARTICLE BREAKDOWN
+[1] N Korea’s Kim Jong Un calls for ‘exponential’ expansion of nuclear arsenal | Nuclear Energy News | Al Jazeera
+Published: 2026-06-04T12:50:09Z
+URL: https://www.aljazeera.com/news/2026/6/4/n-koreas-kim-jong-un-calls-for-exponential-expansion-of-nuclear-arsenal
+Summary: North Korean leader Kim Jong Un has called for an 'exponential' expansion of the country's nuclear arsenal, citing worsening security threats and long-term confrontation with 'most ferocious enemies.' During a visit to a new facility producing nuclear bomb fuels, Kim said production capacity for weapons-grade material has more than doubled in five years. Analysts suggest the visit aims to reinforce North Korea's stance that denuclearization is not an option ahead of potential diplomatic engagement, possibly with China.
+
+[2] What do Turkiye and Indonesia want from bilateral talks? | Politics News | Al Jazeera
+Published: 2026-06-04T12:59:38Z
+URL: https://www.aljazeera.com/news/2026/6/4/what-do-turkiye-and-indonesia-want-from-bilateral-talks
+Summary: Turkish Foreign Minister Hakan Fidan visited Indonesia to deepen cooperation in defense, energy, and emerging technologies, aiming to reach a $10 billion bilateral trade target agreed in April 2025. Meetings with Indonesian President Prabowo Subianto focused on joint defense projects, including armored vehicles and drones, as well as energy, transport, AI, and halal sectors. Trade between the two countries increased from $2.1 billion in 2023 to nearly $2.4 billion in 2024.
+
+[3] First US screwworm case in 60 years: Should America be worried? | Health News | Al Jazeera
+Published: 2026-06-04T13:05:11Z
+URL: https://www.aljazeera.com/news/2026/6/4/first-us-screwworm-case-in-60-years-should-america-be-worried
+Summary: The New World screwworm, a flesh-eating parasite, has been detected in a Texas calf, marking the first US case in 60 years. The USDA announced the finding, and experts believe the parasite traveled from Central America through Mexico, evading biological barriers. An outbreak could heavily impact the livestock industry, with potential losses of $1.8 billion to the Texas economy, and humans can also be infected, though it is rare.
+
+[4] Fighting in Somalia’s capital as anger over election delay erupts | Politics News | Al Jazeera
+Published: 2026-06-04T13:08:00Z
+URL: https://www.aljazeera.com/news/2026/6/4/fighting-in-somalias-capital-as-anger-over-election-delay-erupts
+Summary: Violence erupted in Mogadishu as government forces and opposition-allied militias exchanged fire before planned protests against President Hassan Sheikh Mohamud's term extension and election delay. Gunshots and explosions were heard in several neighborhoods, with residents fleeing their homes. Fighting subsided by Thursday morning as the government and opposition began talks, though no official casualty reports have been released.
+
+[5] Archaeologists find ancient matrilineal society in Turkiye’s Catalhoyuk | History | Al Jazeera
+Published: 2026-06-04T13:13:26Z
+URL: https://www.aljazeera.com/features/2026/6/4/archaeologists-find-ancient-matrilineal-society-in-turkiyes-catalhoyuk
+Summary: A recent genomics study published in Science reveals that the Neolithic settlement of Catalhoyuk, occupied from about 7000 to 6000 BC, was a matrilineal society where women remained in their homes while males moved away upon adulthood. The study estimated that 70 to 100% of female offspring stayed connected to buildings, contrasting with other European Neolithic communities. Catalhoyuk, a UNESCO World Heritage Site, shows no evidence of organized violence or wealth-based hierarchy.
+
+[6] Rights group sues South African government over US arms exports | News | Al Jazeera
+Published: 2026-06-04T13:23:17Z
+URL: https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports
+Summary: The Southern Africa Litigation Centre (SALC) has filed a court case seeking to suspend arms export permits to the United States, arguing that the National Conventional Arms Control Committee may have failed to apply legal standards properly. SALC contends the exports could contribute to human rights violations or undermine international peace and security. The case, believed to be the first challenging arms exports to a UN Security Council permanent member, has not yet been scheduled for a hearing.
+
+[7] Why is a US Ebola facility in Kenya sparking protests? | Ebola News | Al Jazeera
+Published: 2026-06-04T13:51:55Z
+URL: https://www.aljazeera.com/news/2026/6/4/why-is-a-us-ebola-facility-in-kenya-sparking-protests
+Summary: A US Ebola quarantine station being built on a Kenyan military base has sparked protests, with hundreds demonstrating in Nanyuki town, resulting in two deaths. The facility will house Americans exposed to Ebola amid an outbreak of the rare Bundibugyo strain in the DRC and Uganda, for which no approved vaccines or treatments exist. Kenyans and healthcare workers fear importing the disease, with the Kenya Medical Practitioners Union stating, 'If it is too dangerous for America, it is too dangerous for Kenya.'
+
+[8] Iran footballers describe how war with US-Israel affects their World Cup | World Cup 2026 News | Al Jazeera
+Published: 2026-06-04T14:13:24Z
+URL: https://www.aljazeera.com/sports/2026/6/4/iran-footballers-describe-how-war-with-us-israel-affects-their-world-cup
+Summary: Iranian footballers Saeid Ezatolahi and Mohammad Ghorbani describe how the US-Israel war on Iran, which began on February 28, has thrown their World Cup preparations into chaos, with all matches scheduled in the US. The team has spent over two weeks in Turkiye for training and visa processing, and their training base was moved from Arizona to Tijuana, Mexico. Ezatolahi noted the difficulty of following news from home while preparing, and Ghorbani emphasized the responsibility to represent Iran positively.
+
+[9] Thousands protest in Albania against coastal resort linked to Jared Kushner | Protests News | Al Jazeera
+Published: 2026-06-04T14:55:30Z
+URL: https://www.aljazeera.com/news/2026/6/4/thousands-protest-kushner-linked-coastal-resort-project-in-albania
+Summary: Thousands of Albanians protested in Tirana against a coastal tourism complex planned by a company linked to Jared Kushner, involving hotels on Sazan island and the protected Vjosa-Narta wetland. Protesters demanded the government block the project, citing environmental damage and corruption, while the special prosecutor's office opened an investigation into land title funds. Prime Minister Edi Rama defended the project, and a previous protest in Zvernec saw private security guards injure several activists.
+
+[10] Lebanon’s latest truce: What is different from the April agreement? | Israel attacks Lebanon News | Al Jazeera
+Published: 2026-06-04T14:58:15Z
+URL: https://www.aljazeera.com/news/2026/6/4/lebanons-latest-truce-what-is-different-from-the-april-agreement
+Summary: Israel and Lebanon have agreed to a new US-mediated ceasefire, but its prospects appear uncertain as Israel's defense minister insists operations will continue and Hezbollah leader Naim Qassem dismissed the deal as 'surrender and defeat.' The agreement calls for a complete cessation of Hezbollah fire and evacuation of fighters south of the Litani River, with pilot zones for Lebanese Armed Forces control. Critics note the April truce failed to halt Israeli attacks or occupation, and Hezbollah was not party to the talks.
+
+[11] MAHA moms test their influence in US glyphosate fight | Health News | Al Jazeera
+Published: 2026-06-04T15:36:41Z
+URL: https://www.aljazeera.com/economy/2026/6/4/maha-moms-test-their-influence-in-us-glyphosate-fight
+Summary: MAHA (Make America Healthy Again) activists, including influencers and grassroots organizers, are testing their political influence in the fight against glyphosate, the key ingredient in Bayer's Roundup. Despite supporting Robert F. Kennedy Jr.'s presidential run and Trump's health agenda, they were dismayed when the Trump administration backed Bayer at the Supreme Court in the Monsanto Company v Durnell case. The activists seek to influence decisions in Congress, the White House, courts, and the ballot box on health issues, though they represent a narrow demographic of mostly white, wealthy, and well-educated women.
+
+[12] ‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war | Donald Trump News | Al Jazeera
+Published: 2026-06-04T15:41:15Z
+URL: https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war
+Summary: President Donald Trump condemned Republicans who voted for a war powers resolution to limit his ability to wage war with Iran, calling them 'unpatriotic' and 'grandstanders.' The House passed the resolution 215-208, with four Republicans joining Democrats, though it is largely symbolic and unlikely to pass the Republican-controlled Senate. Trump dismissed the vote as 'meaningless' and criticized the lawmakers amid ongoing negotiations with Iran.
+
+[13] Pro-Palestinian badges should not be worn by NHS staff, UK review suggests | Health News | Al Jazeera
+Published: 2026-06-04T15:48:36Z
+URL: https://www.aljazeera.com/news/2026/6/4/pro-palestinian-badges-should-not-be-worn-by-nhs-staff-uk-review-suggests
+Summary: A UK government review into anti-Semitism in the NHS recommends barring staff from wearing political badges, including pro-Palestinian or pro-Israel badges, on uniforms. The government's adviser on anti-Semitism, John Mann, argued that political messaging in healthcare settings could deter patients from using the NHS. Health Minister James Murray accepted the recommendations, stating that racism and discrimination betray the NHS's values.
+
+[14] Russia’s Andreeva beats Ukraine’s Kostyuk in no-handshake French Open semi | Tennis News | Al Jazeera
+Published: 2026-06-04T15:58:13Z
+URL: https://www.aljazeera.com/sports/2026/6/4/russias-andreeva-beats-ukraines-kostyuk-in-no-handshake-french-open-semi
+Summary: Russian teenager Mirra Andreeva reached her first Grand Slam final by defeating Ukraine's Marta Kostyuk 6-1, 6-3 at the French Open, with no post-match handshake. Kostyuk walked off quickly, waving to the crowd, and the players had separate photos taken before the match. Andreeva will face compatriot Diana Shnaider or Polish qualifier Maja Chwalinska in the final.
+
+[15] Ronaldo, Messi at World Cup: Who else is playing their final tournament? | World Cup 2026 News | Al Jazeera
+Published: 2026-06-04T15:58:22Z
+URL: https://www.aljazeera.com/sports/2026/6/4/ronaldo-messi-at-world-cup-who-else-is-playing-their-final-tournament
+Summary: The 2026 World Cup could be the final tournament for several football legends, including Cristiano Ronaldo (41) and Lionel Messi (38), both heading to their record sixth finals. Other players potentially making their last appearance include Croatia's Luka Modric (40) and Brazil's Neymar (34), whose place in the squad is not guaranteed after a two-and-a-half-year hiatus. The article highlights these players' careers and the significance of the tournament for them.
+
+[16] Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-06-04T16:38:30Z
+URL: https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules
+Summary: Israel's Supreme Court unanimously rejected a government policy banning Red Cross visits to Palestinian detainees, ruling it contravened Israeli and international law. The ban, in place since the Hamas-led attack in October 2023, was the first time in 50 years that Israel prevented such visits. The ICRC welcomed the decision, and the ruling comes amid growing concerns over ill-treatment of Palestinian detainees.
+
+[17] Trump official-turned-foe John Bolton accepts plea deal in documents case | Donald Trump News | Al Jazeera
+Published: 2026-06-04T17:04:47Z
+URL: https://www.aljazeera.com/news/2026/6/4/trump-official-turned-foe-john-bolton-accepts-plea-deal-in-documents-case
+Summary: John Bolton, former national security adviser to President Trump and now a prominent critic, is set to accept a plea deal for one count of illegal retention of sensitive national security documents, agreeing to pay a fine of over $2 million. Bolton was indicted in October under the Espionage Act for allegedly mishandling classified information, including sending 'diary-like entries' to relatives. He had pleaded not guilty initially, and the deal comes amid his ongoing criticism of Trump's handling of the Iran war.
+
+[18] Ecuador’s disappeared: Inside one family’s search for answers | Human Rights News | Al Jazeera
+Published: 2026-06-04T17:11:06Z
+URL: https://www.aljazeera.com/news/longform/2026/6/4/ecuadors-disappeared-inside-one-familys-search-for-answers
+Summary: An Al Jazeera Fault Lines investigation examines the claim that 51 people have been forcibly disappeared during Ecuadorian military operations since early 2024, amid rising violence from drug cartels. The acting attorney general confirmed 34 preliminary investigations are underway, but families argue progress is slow. The article focuses on the case of Jonathan Villon, missing since December 2024, with video evidence showing his detention by soldiers, though the military has not responded to requests.
+
+================================================================================
 RUN TIME UTC: 2026-06-04T12:44:45Z
 WINDOW: Last 6 hours
 ARTICLES USED: 13
