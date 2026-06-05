@@ -1,4 +1,33 @@
 ================================================================================
+RUN TIME UTC: 2026-06-05T03:50:44Z
+WINDOW: Last 6 hours
+ARTICLES USED: 4
+
+OVERALL SUMMARY
+The batch covers four distinct stories: a US Senate 'vote-a-rama' on immigration funding and Trump's settlement fund, a World Cup friendly where Ivory Coast beat France, a failed Democratic attempt to block deeper US-Israel military cooperation, and escalating clashes in Mogadishu over Somalia's political crisis and election tensions.
+
+ARTICLE BREAKDOWN
+[1] Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’
+Published: 2026-06-04T22:57:15Z
+URL: https://www.aljazeera.com/news/2026/6/4/democrats-force-vote-on-trumps-1-8bn-settlement-fund-in-vote-a-rama
+Summary: Republicans in the US Senate are pushing a $70bn immigration-enforcement bill, but Democrats forced a 'vote-a-rama' with amendments on controversial issues, including Trump's proposed $1.776bn 'anti-weaponisation' fund. Senate Republicans rejected a Democratic measure to permanently block the fund, and a Republican alternative to redirect the funds was also rejected. The fund, part of an IRS settlement, has drawn bipartisan criticism as a potential slush fund, and further votes on related issues like Trump's tax immunity are expected.
+
+[2] Ivory Coast beats France in World Cup warning to one of the favourites
+Published: 2026-06-04T23:00:36Z
+URL: https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites
+Summary: Ivory Coast defeated France 2-1 in a World Cup warm-up friendly, with Manchester United's Amad Diallo scoring the winner. France fielded an experimental side and made many substitutions, but coach Didier Deschamps admitted losing control in the second half and called the result a useful reminder against complacency. France opens its World Cup campaign against Senegal on June 16.
+
+[3] Democrat fails to block US measure to deepen Israel military cooperation
+Published: 2026-06-04T23:28:13Z
+URL: https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation
+Summary: A Democratic effort by Congressman Ro Khanna to remove Section 224 from the US defence budget, which would deepen US-Israel military integration, failed in a voice vote in the House Armed Services Committee. Khanna argued the provision rewards Israeli Prime Minister Netanyahu and undermines US policy autonomy. Critics worry the measure could make military aid more opaque and entrench Israeli technology in the US defence supply chain.
+
+[4] Why Mogadishu clashes are deepening Somalia’s political crisis again
+Published: 2026-06-05T01:12:02Z
+URL: https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again
+Summary: Heavy gunfire erupted in Mogadishu between government and opposition forces amid tensions over planned protests against President Hassan Sheikh Mohamud's term extension. The clashes, near the homes of opposition leaders, forced hundreds of families to flee and shut down major roads and markets. The violence shattered a period of improving security and highlighted the country's ongoing political crisis, with no direct elections held since the 1960s.
+
+================================================================================
 RUN TIME UTC: 2026-06-04T21:41:45Z
 WINDOW: Last 6 hours
 ARTICLES USED: 7
