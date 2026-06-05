@@ -1,4 +1,43 @@
 ================================================================================
+RUN TIME UTC: 2026-06-05T08:43:19Z
+WINDOW: Last 6 hours
+ARTICLES USED: 6
+
+OVERALL SUMMARY
+The batch covers a diverse range of stories: a feature on Lyari's boxing scene challenging Bollywood stereotypes, updates on the Iran war with ceasefire doubts and continued Lebanon fighting, Iraq's World Cup qualification journey, protests in Albania over a Kushner-linked resort, Xi Jinping's planned visit to North Korea, and the death of author Marjane Satrapi.
+
+ARTICLE BREAKDOWN
+[1] Pakistan’s Lyari defies Bollywood’s gangland label to rise as boxing haven
+Published: 2026-06-05T05:20:13Z
+URL: https://www.aljazeera.com/news/2026/6/5/pakistans-lyari-defies-bollywoods-gangland-label-to-rise-as-boxing-haven
+Summary: The article profiles Lyari, a densely populated Karachi neighborhood often depicted as a gangland in Bollywood films like 'Dhurandhar,' but highlights its rich culture, football passion, and emerging rap scene. It focuses on boxing coach Younus Qambrani, who teaches girls to box at his Pak-Shaheen club, challenging stereotypes. While acknowledging Lyari's past gang violence, the piece emphasizes the community's resilience and identity beyond crime.
+
+[2] Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues
+Published: 2026-06-05T06:01:07Z
+URL: https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues
+Summary: The article reports that Israel continues strikes in Lebanon despite a US-brokered ceasefire, with Lebanon's death toll exceeding 3,500 since March. Hezbollah leader Naim Qassem dismissed the ceasefire as a 'farce' and warned of more attacks on northern Israel. Iran adviser Mohsen Rezaei said the draft deal still has 'ambiguities,' while US President Trump claimed Washington can access Iran's uranium without an agreement, raising questions about the need for continued talks.
+
+[3] ‘We are fighters’: Iraq aim to shock rivals at 2026 World Cup
+Published: 2026-06-05T07:07:03Z
+URL: https://www.aljazeera.com/sports/2026/6/5/we-are-fighters-iraq-aim-to-shock-rivals-at-2026-world-cup
+Summary: The article covers Iraq's arduous journey to qualify for the 2026 World Cup, their first since 1986, including a 21-match campaign and a difficult trip to Mexico for a playoff. Coach Graham Arnold and forward Ali Al-Hamadi, who scored the winning goal against Bolivia, discuss the team's resilience and the emotional significance of qualifying after decades of conflict. Al-Hamadi, born in Iraq and raised in the UK, highlights his cultural connection to Iraq despite living abroad.
+
+[4] Kushner Island? Why a planned resort has provoked protests in Albania
+Published: 2026-06-05T07:14:43Z
+URL: https://www.aljazeera.com/news/2026/6/5/why-the-kushners-plan-to-build-an-albanian-resort-has-sparked-protests
+Summary: The article details a luxury resort project linked to Jared Kushner and Ivanka Trump on Albania's Sazan island and the Vjosa-Narta delta, which has sparked protests over environmental concerns. Ivanka Trump described discovering the island while swimming, but critics and environmentalists oppose the development in a protected wildlife reserve. The government has granted 'strategic investor' status to a firm linked to Kushner's fund, with the investment valued at $1.6 billion, while protesters rally against the bulldozing of beaches.
+
+[5] China’s Xi headed to North Korea in bid to shore up ties
+Published: 2026-06-05T07:32:01Z
+URL: https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties
+Summary: The article reports that Chinese President Xi Jinping will visit North Korea on June 8-9, his first trip there in seven years, following an invitation from Kim Jong Un. The visit aims to strengthen ties as Pyongyang has grown closer to Russia, supplying troops and weapons for the Ukraine war. Beijing remains North Korea's largest trading partner, providing up to 95 percent of its trade, and the visit comes amid Xi's recent meetings with Putin and Trump, with concerns over North Korea's nuclear expansion.
+
+[6] French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’
+Published: 2026-06-05T08:28:09Z
+URL: https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness
+Summary: The article announces the death of French-Iranian author and filmmaker Marjane Satrapi at age 56, best known for her autobiographical graphic novel 'Persepolis,' which she adapted into an Oscar-nominated film. Her family stated she died of 'sadness' over a year after her husband's death. Satrapi's work, born from her experiences of Iran's Islamic revolution and the Iran-Iraq war, earned her international acclaim, and French President Macron paid tribute to her as a leading figure in French culture.
+
+================================================================================
 RUN TIME UTC: 2026-06-05T03:50:44Z
 WINDOW: Last 6 hours
 ARTICLES USED: 4
