@@ -1,5 +1,151 @@
 [
   {
+    "time": "2026-06-05T17:19:46Z",
+    "window_hours": 6,
+    "article_count": 23,
+    "overall_summary": "A batch of 23 Al Jazeera articles from June 5, 2026, covers a wide range of topics including World Cup 2026 previews and visa issues, UK tensions after a murder, a drone explosion in Romania, US naval blockade impacts on Iran, Peru's election, football controversies, ongoing conflicts in Lebanon and Gaza, ISS leaks, Ebola outbreak, inflation in Iran, US visa changes in Africa, Ireland's travel ban on Israeli ministers, French Open updates, US Senate funding bill, Ukraine war developments, and Somalia unrest.",
+    "articles": [
+      {
+        "title": "Mexico World Cup 2026 preview: Players to watch, group matches and squad | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/5/mexico-world-cup-2026-preview-players-to-watch-group-matches-and-squad",
+        "published": "2026-06-05T13:05:43Z",
+        "summary": "Mexico, known as El Tri, has lost in the last 16 in seven consecutive World Cups and hopes to break the 'Curse of El Quinto Partido' in 2026, partly due to home advantage. Coach Javier Aguirre, in his third World Cup stint, is optimistic, and the team relies on a quick passing game with key players like Raul Jimenez, Alvaro Fidalgo, and Edson Alvarez. Mexico's only quarterfinal appearances were when they hosted in 1970 and 1986."
+      },
+      {
+        "title": "Nazi salutes, Sikhs abused: Tensions grip UK after Henry Nowak’s murder | Race Issues News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/nowak-murder-tensions",
+        "published": "2026-06-05T13:06:42Z",
+        "summary": ""
+      },
+      {
+        "title": "Drone explosion in Romanian port spurs Ukraine war spillover fears | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears",
+        "published": "2026-06-05T13:09:44Z",
+        "summary": "A maritime drone exploded in Romania's Constanta port, with Kyiv later saying it was a Ukrainian drone knocked off course by Russian electronic interference. This is the second security incident this week on the Romanian coast, following a Russian mine detonation. European Commission President Ursula von der Leyen warned the incident is a 'direct consequence' of the Russia-Ukraine war, and Romania has asked NATO for help bolstering air defenses."
+      },
+      {
+        "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues",
+        "published": "2026-06-05T13:18:18Z",
+        "summary": "Iran's crude oil exports fell to their lowest level in at least six years in May due to a US naval blockade, dropping from close to 2 million barrels per day to below 300,000 bpd. The blockade, part of President Trump's effort to pressure Iran, has sharply reduced exports, particularly to China. Analysts say the financial cost is raising questions about how long Iran can sustain the war."
+      },
+      {
+        "title": "Fujimori vs Sanchez: What to know about Peru’s presidential run-off election | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election",
+        "published": "2026-06-05T13:25:24Z",
+        "summary": "Peru's presidential run-off on Sunday pits right-wing candidate Keiko Fujimori against left-wing Congress member Roberto Sanchez, following a tumultuous first round with long lines and accusations of fraud. Sanchez narrowly secured second place, and prosecutors have filed charges against him for falsifying campaign finance disclosures, which he denies. The election is the latest in a decade of political instability in Peru."
+      },
+      {
+        "title": "Iran footballers hand passports to US embassy for World Cup visa approval | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-hand-passports-to-us-embassy-for-world-cup-visa-approval",
+        "published": "2026-06-05T13:27:46Z",
+        "summary": "Iran's football squad has handed their passports to the US embassy in Turkiye for visa approval, as their participation in the 2026 World Cup remains uncertain amid US-Iran tensions. The team is due to fly to Mexico, which has issued visas, and all three of their group matches are in the US. The head of the football federation expressed optimism that all visas will be issued."
+      },
+      {
+        "title": "Celtic fans oppose Keane as potential manager after Israel role | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/5/celtic-fans-oppose-potential-keane-appointment-after-israel-role",
+        "published": "2026-06-05T13:36:01Z",
+        "summary": "Celtic's interest in appointing Robbie Keane as manager has angered pro-Palestinian fans due to his previous role with Israeli side Maccabi Tel Aviv during the Gaza conflict. A statement from 'Celtic Fans for the Liberation of Palestine' said hiring Keane would be 'deeply divisive,' and graffiti opposing the appointment has appeared outside the stadium. Keane guided Maccabi to a league and cup double before resigning in 2024."
+      },
+      {
+        "title": "Israel maintains attacks despite US-brokered deal with Lebanon | Israel attacks Lebanon News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/israel-maintains-attacks-despite-us-brokered-deal-with-lebanon",
+        "published": "2026-06-05T13:43:41Z",
+        "summary": "Israel continued attacks on southern Lebanon on Friday, killing at least five people, despite a new US-brokered ceasefire agreement announced on Thursday. Hezbollah rejected the deal and launched at least eight attacks against Israeli military positions. The Israeli military also issued new forced displacement orders for several towns and villages."
+      },
+      {
+        "title": "FIFA cancels World Cup tickets for about 60 fans who got them for free | World Cup 2026 News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/5/fifa-cancels-world-cup-tickets-to-about-60-fans-who-got-them-for-free-due-t",
+        "published": "2026-06-05T13:48:56Z",
+        "summary": "FIFA cancelled World Cup tickets for about 60 fans who mistakenly got them for free due to a website error. The affected fans have been invited to complete payment for the correct amount. This is the latest glitch in a controversial ticketing program that is being investigated by attorneys general of New York and New Jersey."
+      },
+      {
+        "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue",
+        "published": "2026-06-05T14:12:50Z",
+        "summary": "Despite ceasefires in Gaza, Iran, and Lebanon, attacks continue, raising questions about their enforceability. Experts explain that ceasefires are political agreements rather than strongly enforceable legal instruments, and violations often have few immediate consequences. The US, as the principal broker, has faced little pressure for allowing repeated breaches."
+      },
+      {
+        "title": "Are the US and Iran closer to war or to a deal? | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal",
+        "published": "2026-06-05T14:33:19Z",
+        "summary": "While the US and Iran continue peace talks, both sides signal readiness to use force, with recent attacks on each other's assets and infrastructure. Iran warned that US bases in the region are legitimate targets, and the US has struck Iranian radar and drone sites. The article analyzes whether renewed war or peace is more likely."
+      },
+      {
+        "title": "NASA tells ISS astronauts to ready for possible evacuation amid leak repair | Space News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/nasa-tells-iss-astronauts-to-ready-for-possible-evacuation-amid-leak-repair",
+        "published": "2026-06-05T14:39:37Z",
+        "summary": "NASA briefly ordered four astronauts on the ISS to prepare for possible evacuation as Roscosmos attempted to repair worsening air leaks in the Zvezda service module tunnel. The repairs were later paused, and NASA instructed the crew to return to normal operations. Roscosmos said it detected two leaks, with one sealed and work ongoing on the second."
+      },
+      {
+        "title": "WHO, Africa CDC unveil $518m Ebola plan as Uganda death toll rises | Ebola News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/who-africa-cdc-unveil-518m-ebola-plan-as-uganda-death-toll-rises",
+        "published": "2026-06-05T14:52:36Z",
+        "summary": "The WHO and Africa CDC announced a $518m plan to combat the Ebola outbreak in the DRC and Uganda, which has infected at least 381 people in the DRC and 19 in Uganda. The plan covers emergency coordination, surveillance, and clinical care. There is no approved vaccine for the rare Bundibugyo strain, though three vaccines are being fast-tracked for trials."
+      },
+      {
+        "title": "Barcelona teenager Lamine Yamal wins La Liga Player of the Season award | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/5/barcelona-teenager-lamine-yamal-wins-la-liga-player-of-season-award",
+        "published": "2026-06-05T15:05:25Z",
+        "summary": "Barcelona winger Lamine Yamal, 18, won La Liga's Player of the Season award after helping the club retain the domestic title, scoring 16 goals and providing 11 assists. He became the first player to win the league's Player of the Month award three times in one season. Yamal is expected to be fit for Spain at the World Cup."
+      },
+      {
+        "title": "At least 49 people die of thirst after truck breakdown in Niger desert | Migration News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/at-least-49-people-die-of-thirst-after-truck-breakdown-in-niger-desert",
+        "published": "2026-06-05T15:17:14Z",
+        "summary": "At least 49 people died of thirst in the Sahara desert in northern Niger after their truck broke down, leaving them stranded. Two people survived by walking more than 50km to a water source and then to a town to alert authorities. The group was returning from Mali to celebrate Eid al-Adha."
+      },
+      {
+        "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii",
+        "published": "2026-06-05T15:28:49Z",
+        "summary": "Iran's inflation has hit its highest level since World War II, with prices for staples like rice and cooking oil more than doubling. The war with the US is not the only factor driving prices, and fixed-income earners are living below the poverty line. The article describes the impact on daily life, with residents struggling to afford basic goods."
+      },
+      {
+        "title": "Man City chair Al Mubarak will ‘say everything’ after verdict on finances | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/5/man-city-chair-al-mubarak-will-say-everything-after-verdict-on-finances",
+        "published": "2026-06-05T15:39:39Z",
+        "summary": "Manchester City chairman Khaldoon Al Mubarak plans to speak openly about the club's battle with the Premier League after a verdict on their 115 alleged financial breaches is delivered. City have denied wrongdoing, and the case is yet to conclude. Al Mubarak also said owner Sheikh Mansour has no intention of selling the club, which he values at around $10bn."
+      },
+      {
+        "title": "Why Washington is reducing visa processing across Africa | News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/why-washington-is-reducing-visa-processing-across-africa",
+        "published": "2026-06-05T16:10:30Z",
+        "summary": "The US plans to centralize visa processing across Africa, reducing the number of locations handling applications from about 50 to roughly 20. Routine visa interviews would be moved to regional hubs, requiring applicants to travel further. The plan does not change who can get a visa but is seen as part of the Trump administration's security-first foreign policy."
+      },
+      {
+        "title": "Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich | Israel-Palestine conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/ireland-imposes-travel-ban-on-israeli-ministers-ben-gvir-and-smotrich",
+        "published": "2026-06-05T16:10:55Z",
+        "summary": "Ireland has barred Israeli ministers Itamar Ben-Gvir and Bezalel Smotrich from entering the country, citing their conduct and support for policies that would displace Palestinians. Prime Minister Micheal Martin said their behavior justifies EU sanctions. Both ministers have faced bans from other European countries."
+      },
+      {
+        "title": "Zverev cruises past Mensik to reach second French Open final | Tennis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/5/zverev-cruises-past-mensik-to-reach-second-french-open-final",
+        "published": "2026-06-05T16:28:33Z",
+        "summary": "Alexander Zverev defeated Jakub Mensik in four sets to reach his second French Open final, where he will face either Flavio Cobolli or Matteo Arnaldi. Zverev, who has lost three previous Grand Slam finals, is aiming for his first major title. He has dealt well with the pressure of being the tournament favorite after early exits of top seeds."
+      },
+      {
+        "title": "US Senate passes $70bn ICE funding bill: What comes next? | Donald Trump News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/us-senate-passes-70bn-ice-funding-bill-what-comes-next",
+        "published": "2026-06-05T16:40:37Z",
+        "summary": "The US Senate passed a $70bn funding bill for ICE and CBP, a key Trump initiative, after a marathon vote-a-rama. The bill now heads to the House, where its passage is considered likely. Democrats opposed the funding, and the standoff led to a 76-day Department of Homeland Security shutdown."
+      },
+      {
+        "title": "Ballistics Putin’s ‘last argument’ as Ukraine brings his army to standstill | Russia-Ukraine war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/ballistics-putins-last-argument-as-ukraine-brings-his-army-to-standstill",
+        "published": "2026-06-05T16:52:11Z",
+        "summary": "Ukraine has brought the Russian army to a standstill by impeding supply lines and striking deep inside Russia. President Zelenskyy acknowledged Russia's advantage in ballistic missiles, which he called Putin's 'last argument,' and called for the US to allow Ukraine to produce Patriot interceptors under license. Russia fired a large cocktail of drones and missiles into Ukraine on June 2, killing 23 people."
+      },
+      {
+        "title": "Somalia declares order restored after two days of fighting in Mogadishu | Conflict News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/5/somalia-declares-order-restored-after-two-days-of-fighting-in-mogadishu",
+        "published": "2026-06-05T17:03:11Z",
+        "summary": "Fighting between government forces and opposition fighters in Mogadishu has eased, with the government declaring order restored. The violence, which killed at least 13 people and wounded 189, stemmed from a dispute over President Hassan Sheikh Mohamud's term extension. The opposition rejected the president's rule and vowed to fight on."
+      }
+    ]
+  },
+  {
     "time": "2026-06-05T12:38:26Z",
     "window_hours": 6,
     "article_count": 12,
