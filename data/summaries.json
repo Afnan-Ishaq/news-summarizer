@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-06-06T21:05:33Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The batch covers a Russian teenager winning the French Open, an analysis of sub-Saharan African World Cup chances, the unpopularity of the US-Israel war on Iran after 100 days, a rare islandwide blackout in Jamaica, the rise of Peru's Keiko Fujimori in her fourth presidential bid, a US doctor recovering from Ebola in Germany as DRC cases surge, and a deadly drone strike on a market in central Sudan.",
+    "articles": [
+      {
+        "title": "Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam | Tennis News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/6/russian-teenager-mirra-andreeva-wins-french-open-to-claim-first-grand-slam",
+        "published": "2026-06-06T16:35:01Z",
+        "summary": "Russian teenager Mirra Andreeva, ranked eighth, defeated 114th-ranked Polish qualifier Maja Chwalinska 6-3, 6-2 in the French Open final on Saturday. Andreeva became the youngest women's singles champion since Monica Seles in 1992. She thanked herself during the trophy presentation and drew applause for speaking French. Andreeva has played under neutral status due to the war with Ukraine."
+      },
+      {
+        "title": "Which sub-Saharan Africa sides have best World Cup chance? Senegal, Ghana? | Football News | Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/6/world-cup-2026-can-sub-saharan-africa-outdo-noisy-neighbours-from-north",
+        "published": "2026-06-06T16:38:29Z",
+        "summary": "The article analyzes the chances of sub-Saharan African nations at the 2026 World Cup, following Morocco's historic semifinal run in 2022. Senegal is highlighted as a strong contender, driven by a sense of injustice after being stripped of the AFCON title. The team boasts depth and star power, including Sadio Mane, and will face France in their opening Group I match on June 16."
+      },
+      {
+        "title": "100 days into the war on Iran, Trump fails to rally US support | US-Israel war on Iran News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
+        "published": "2026-06-06T17:04:38Z",
+        "summary": "Sunday marks 100 days since the US and Israel launched a war against Iran, which remains overwhelmingly unpopular among the US public. A University of Maryland poll found only 16 percent of voters think the US is winning, and a majority of Republicans now view the war as detrimental to US interests. The lack of support could hurt President Trump and Republicans in the November midterm elections."
+      },
+      {
+        "title": "‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout | Energy News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/6/unacceptable-situation-minister-cries-foul-as-jamaica-suffers-blackout",
+        "published": "2026-06-06T18:42:28Z",
+        "summary": "Jamaica experienced a rare islandwide power outage starting at 9pm local time on Friday, affecting 2.8 million people. Energy Minister Daryl Vaz called the situation 'unacceptable' and demanded a full report from the Jamaica Public Service Company (JPS) within 24 hours. Power was restored to most customers by Saturday morning, but the blackout raised concerns about grid resilience during hurricane season."
+      },
+      {
+        "title": "From first lady to president? Inside the rise of Peru’s Keiko Fujimori | Elections News | Al Jazeera",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/6/from-first-lady-to-president-inside-the-rise-of-perus-keiko-fujimori",
+        "published": "2026-06-06T18:51:53Z",
+        "summary": "Keiko Fujimori, who became her father's first lady at age 19, is now in her fourth bid for Peru's presidency. She faces leftist rival Roberto Sanchez in a tight run-off election on Sunday, with polls showing them neck and neck. Despite commanding the country's most powerful party, Fujimori has struggled to connect with rural and Indigenous communities and has lost three previous run-offs."
+      },
+      {
+        "title": "US doctor recovers from Ebola in Germany as DRC cases surge to 488 | Ebola News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/6/us-doctor-recovers-from-ebola-in-germany-as-drc-cases-surge-to-488",
+        "published": "2026-06-06T20:01:29Z",
+        "summary": "A US doctor, identified as Peter Stafford, recovered from the Bundibugyo strain of Ebola after treatment at Berlin's Charite hospital. He was flown from Uganda to Germany on May 20 after contracting the virus while operating on a patient in eastern DRC. The DRC reported 488 total cases and 86 deaths, while Uganda has 19 cases. The WHO has declared an international public health emergency."
+      },
+      {
+        "title": "Rights group says drone strike kills 11 in central Sudan market | Sudan war News | Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market",
+        "published": "2026-06-06T20:54:09Z",
+        "summary": "A drone strike on a market in Abu Zaeima, North Kordofan, killed at least 11 people and wounded dozens, according to Emergency Lawyers. The attack followed similar drone strikes in the area, and no side has claimed responsibility. Drone warfare has escalated in Sudan's conflict, with the UN reporting at least 880 civilian drone strike deaths between January and April."
+      }
+    ]
+  },
+  {
     "time": "2026-06-06T16:05:55Z",
     "window_hours": 6,
     "article_count": 10,
