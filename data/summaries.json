@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-06-06T03:33:17Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "A batch of Al Jazeera articles from the last 6 hours covers a single story about rising arrests of critics in Ghana under President Mahama, sparking debate over free speech and democratic backsliding.",
+    "articles": [
+      {
+        "title": "Arrests of critics in Ghana provokes alarm over free speech under Mahama",
+        "url": "https://www.aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama",
+        "published": "2026-06-06T02:01:27Z",
+        "summary": "Ghana has recorded 14 arrests linked to false news and offensive speech in less than 16 months, nearly double the number under the previous administration's eight-year tenure, according to the Media Foundation for West Africa. The arrests have sparked debate over whether authorities are enforcing existing laws in a digital environment or moving toward a more restrictive approach to public speech. President John Mahama, who warned against using state power to intimidate dissent while in opposition in 2022, now faces criticism from opposition leaders who say the arrests amount to state-sponsored persecution. A senior ruling party official dismissed the allegations, arguing that the opposition intentionally sponsors people to insult the president and then cries persecution when the law catches up."
+      }
+    ]
+  },
+  {
     "time": "2026-06-05T21:26:22Z",
     "window_hours": 6,
     "article_count": 12,
