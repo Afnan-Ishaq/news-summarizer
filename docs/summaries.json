@@ -1,5 +1,73 @@
 [
   {
+    "time": "2026-06-06T16:05:55Z",
+    "window_hours": 6,
+    "article_count": 10,
+    "overall_summary": "The batch covers a range of events including escalating Russia-Ukraine drone attacks, a US-Iran World Cup visa dispute, a preview of Spain's World Cup team, a halted cave rescue in Laos, a profile of Argentina's President Milei, Pope Leo XIV's visit to Spain, criticism of NGO inefficiency in Afghanistan, an Israeli strike on a Gaza wedding, a Gen Z protest movement in India, and Israeli attacks in Lebanon killing high-ranking soldiers.",
+    "articles": [
+      {
+        "title": "Russia says hundreds of Ukrainian drones downed as economic forum ends",
+        "url": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends",
+        "published": "2026-06-06T11:59:15Z",
+        "summary": "Russia's defence ministry reported that 376 Ukrainian drones were shot down overnight over 16 regions, including St Petersburg and Crimea, as the St Petersburg International Economic Forum concluded. Residents of St Petersburg were advised to stay indoors after a large-scale drone attack targeted the city. Ukrainian President Zelenskyy stated the drones struck a naval base and oil depot, and reiterated a call for direct talks with Putin, who dismissed the proposal."
+      },
+      {
+        "title": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
+        "url": "https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts",
+        "published": "2026-06-06T12:01:32Z",
+        "summary": "Iran has accused the United States of denying visas to a 'large' number of key World Cup squad staff, including the football federation chief, as the team prepares to travel to Mexico for the 2026 World Cup. The US envoy to Turkiye confirmed that players received their visas late Friday, but Iran's embassy in Turkiye condemned the denials as discriminatory. Iran's football federation said it would take the matter to FIFA, citing a violation of international sports laws."
+      },
+      {
+        "title": "Spain at World Cup 2026: Players to watch, group matches and squad",
+        "url": "https://www.aljazeera.com/sports/2026/6/6/spains-world-cup-2026-team-preview-players-to-watch-group-matches-squad",
+        "published": "2026-06-06T12:07:24Z",
+        "summary": "Spain enters the 2026 World Cup as reigning European champions, boasting a young and talented squad led by Lamine Yamal, and is considered a top contender. The team has gone 28 games unbeaten in normal time since March 2024, though they lost on penalties in the 2025 Nations League final. Despite their talent, Spain has not progressed beyond the last 16 in the World Cup since winning in 2010, and Yamal's fitness after a long season is a concern."
+      },
+      {
+        "title": "Rescuers stop search for last two men lost in Laos cave",
+        "url": "https://www.aljazeera.com/news/2026/6/6/rescuers-stop-search-for-last-two-men-lost-in-laos-cave",
+        "published": "2026-06-06T12:34:08Z",
+        "summary": "Search and rescue teams in Laos have halted the search for two men stranded in a semi-submerged cave due to safety risks from unstable cave entrances and rising rainwater. The men were part of a group of seven who got trapped on May 20 while hunting for bats and gold; five were rescued earlier. Rescuers will continue pumping water outside the cave, and food has been placed at points in case the missing men find their way out."
+      },
+      {
+        "title": "Argentina’s ‘Madman’: Inside the world of Javier Milei",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/6/argentinas-madman-inside-the-world-of-javier-milei",
+        "published": "2026-06-06T13:21:31Z",
+        "summary": "The article profiles Argentine President Javier Milei, known for his eccentric persona and 'shock therapy' economic policies, tracing his rise from a radical economist cosplaying as 'General Ancap' to the presidency. It describes his difficult childhood with an abusive father, his close relationship with his sister Karina, and his reputation for mood swings and autocratic governance. Milei's administration has faced mixed economic results and corruption scandals, including one involving his sister."
+      },
+      {
+        "title": "Pope calls for end to polarisation during visit to Spain",
+        "url": "https://www.aljazeera.com/news/2026/6/6/pope-calls-for-end-to-polarisation-during-visit-to-spain",
+        "published": "2026-06-06T13:26:59Z",
+        "summary": "Pope Leo XIV, on the first day of a week-long visit to Spain, urged people to stop using divisive rhetoric and blamed technology for exaggerating prejudices. He cited Spain's history of peaceful cohabitation between religions as an example and called for a 'culture of encounter' over confrontation. The visit has drawn large crowds in Madrid, and the pope acknowledged that many might prefer a concurrent Bad Bunny concert over his events."
+      },
+      {
+        "title": "What Afghanistan’s rotten apples tell us about its non-profit sector",
+        "url": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector",
+        "published": "2026-06-06T14:16:56Z",
+        "summary": "The article criticizes the inefficiency of NGOs in Afghanistan, citing examples like poorly designed storage houses and failed seed projects that yielded minimal benefits for farmers. It notes that despite a collapse in humanitarian funding since the Taliban takeover, waste and lack of accountability persist. The piece references historical corruption, with estimates that $26bn to $29bn in US funds were lost to embezzlement or wasteful spending between 2001 and 2021."
+      },
+      {
+        "title": "Israeli strike kills at least six people during wedding in Gaza",
+        "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza",
+        "published": "2026-06-06T14:38:50Z",
+        "summary": "An Israeli strike on a tent camp in Gaza City killed at least six people and injured 15 during a wedding, with shrapnel hitting a nearby displacement site. Al Jazeera's reporter described the scene turning from a happy occasion to a bloody one. The attack occurred amid continued Israeli violations of the ceasefire, and Hamas condemned it as part of an 'escalation of its war of extermination against civilians.'"
+      },
+      {
+        "title": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+        "url": "https://www.aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital",
+        "published": "2026-06-06T15:27:47Z",
+        "summary": "India's Gen Z 'Cockroach' movement, sparked by a chief justice's comment equating youth to cockroaches, staged its first protest in New Delhi demanding the education minister's resignation over exam paper leaks and discrepancies. The satirical Cockroach Janata Party, founded by Abhijeet Dipke, has gained over 22 million Instagram followers. Students like Saurav Kushwaha traveled to the capital, expressing anger at the government's indifference and hoping to force a resignation for the first time in Modi's 12 years in power."
+      },
+      {
+        "title": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+        "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers",
+        "published": "2026-06-06T15:30:53Z",
+        "summary": "Israeli strikes in southern Lebanon killed 10 people, including a brigadier general, a captain, and a soldier from the Lebanese army, as well as six others in a separate air strike. The Israeli army said the attack was in an 'active combat zone' and is under investigation. Lebanese officials condemned the strikes as a violation of sovereignty, and Hezbollah accused the Lebanese government of surrender, while Al Jazeera noted that over 50 Lebanese soldiers have been killed since the conflict began on March 2."
+      }
+    ]
+  },
+  {
     "time": "2026-06-06T11:27:12Z",
     "window_hours": 6,
     "article_count": 8,
