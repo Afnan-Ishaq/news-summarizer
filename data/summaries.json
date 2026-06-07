@@ -1,5 +1,55 @@
 [
   {
+    "time": "2026-06-07T21:13:15Z",
+    "window_hours": 6,
+    "article_count": 7,
+    "overall_summary": "The batch covers a range of international news: US President Trump refuses to unfreeze Iranian assets before a ceasefire deal, Bolivia passes a law allowing military force against protesters, Danish footballer Christian Eriksen collapses during a friendly match, Alexander Zverev wins his first Grand Slam at the French Open, a lawsuit seeks to block a UFC match at the White House, Italy recovers bodies after a migrant boat capsizes off Malta, and Iran fires missiles at Israel following a Beirut attack.",
+    "articles": [
+      {
+        "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+        "url": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached",
+        "published": "2026-06-07T16:49:44Z",
+        "summary": "US President Donald Trump stated he will not unfreeze billions of dollars in Iranian assets until a lasting ceasefire deal is reached to end the US-Israel war with Iran. Iranian officials have indicated that releasing the funds would build trust needed for a deal, but Trump insisted any unfreezing comes after an agreement. Trump also threatened renewed strikes if no deal is reached, while an Iranian adviser described negotiations as being at a deadlock."
+      },
+      {
+        "title": "Bolivia’s legislature passes law allowing use of troops against protesters",
+        "url": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters",
+        "published": "2026-06-07T17:13:18Z",
+        "summary": "Bolivia's legislature passed a law granting President Rodrigo Paz authority to use the military to clear roadblocks set up by anti-government protesters. The law allows soldiers to use force and grants them a 'presumption of legality' in conflict situations. The protests, led by farmers, miners, and transportation unions, are driven by rising inflation, low wages, and the abolition of fuel subsidies."
+      },
+      {
+        "title": "Denmark’s Christian Eriksen collapses on football pitch during friendly",
+        "url": "https://www.aljazeera.com/sports/2026/6/7/denmarks-christian-eriksen-collapses-during-world-cup-warm-up-match",
+        "published": "2026-06-07T18:29:09Z",
+        "summary": "Danish footballer Christian Eriksen collapsed during a friendly match against Ukraine but regained consciousness and was able to walk to an ambulance. The match was called off, and team doctor Morten Boesen said Eriksen's pacemaker appeared to work as intended, though he will undergo further hospital examination. This is the second time Eriksen has collapsed during a match, following a cardiac arrest in 2021."
+      },
+      {
+        "title": "Alexander Zverev wins French Open to claim first Grand Slam title",
+        "url": "https://www.aljazeera.com/sports/2026/6/7/alexander-zverev-wins-french-open-to-claim-first-grand-slam-title",
+        "published": "2026-06-07T18:38:06Z",
+        "summary": "Alexander Zverev won his first Grand Slam title by defeating Italy's Flavio Cobolli in a five-set French Open final, becoming the first German man to win a major since Boris Becker in 1996. Zverev, who had previously lost three Grand Slam finals, overcame 54 unforced errors to secure the victory. Cobolli, bidding to become the first Italian man to win the French Open in 50 years, acknowledged his sadness at being close to victory."
+      },
+      {
+        "title": "Lawsuit seeks to stop Trump’s planned White House UFC match",
+        "url": "https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match",
+        "published": "2026-06-07T18:53:20Z",
+        "summary": "A lawsuit filed by two Virginia residents seeks to stop President Donald Trump from hosting a UFC match at the White House on his 80th birthday, arguing it violates National Park Service regulations and lacks proper authorization. The White House dismissed the lawsuit as baseless, stating the event is similar to other White House events. Crews are erecting a fighting cage on the South Lawn, with attendance invite-only and monitored."
+      },
+      {
+        "title": "Italy recovers 10 bodies as boat with nearly 60 on board capsizes off Malta",
+        "url": "https://www.aljazeera.com/news/2026/6/7/malta-latest",
+        "published": "2026-06-07T19:17:38Z",
+        "summary": "The Italian coastguard recovered 10 bodies after a boat carrying nearly 60 refugees and migrants capsized near Malta, with 48 people rescued by a fishing boat. The incident is part of a series of deadly boat wrecks in the Mediterranean this year, with at least 990 deaths reported by the IOM. The deaths come as EU politicians agreed on rules to deport rejected asylum seekers to third countries, and protests occurred in Libya against the UN refugee agency."
+      },
+      {
+        "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+        "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines",
+        "published": "2026-06-07T21:08:59Z",
+        "summary": "Iran launched a barrage of missiles toward Israel, targeting the Ramat David airbase, in response to an Israeli attack on Beirut that Iran said crossed all red lines. The Israeli army reported intercepting all missiles, and Iran's IRGC called the operation a warning against further aggression. US President Donald Trump said he would urge Israeli Prime Minister Netanyahu not to retaliate, warning that further strikes could jeopardize a potential deal with Iran."
+      }
+    ]
+  },
+  {
     "time": "2026-06-07T16:17:51Z",
     "window_hours": 6,
     "article_count": 19,
