@@ -1,4 +1,108 @@
 ================================================================================
+RUN TIME UTC: 2026-06-07T16:17:51Z
+WINDOW: Last 6 hours
+ARTICLES USED: 19
+
+OVERALL SUMMARY
+A batch of Al Jazeera articles from the last 6 hours covers Pope Leo's visit to Madrid, FIFA's water bottle policy reversal, World Cup 2026 statistics, a Russian drone attack near Chornobyl, the economic impact of the Iran war on Americans, Pentagon concerns over Israeli spying, Marc Marquez's 100th win, the Iran war's effects on daily life, an Israeli prison ship account, Gaza ceasefire talks, Boko Haram hostage rescue, Peru's presidential runoff, a Yemen medical center, Iran's World Cup visa row, a Tehran teacher's wartime routine, ageing football stars, Kimi Antonelli's Monaco GP win, and US voter authenticity.
+
+ARTICLE BREAKDOWN
+[1] Giant crowds greet Pope Leo at public mass in Madrid, Spain | Religion News | Al Jazeera
+Published: 2026-06-07T12:00:16Z
+URL: https://www.aljazeera.com/news/2026/6/7/giant-crowds-greet-pope-leo-at-public-mass-in-madrid-spain
+Summary: About 1.2 million people gathered in Madrid's Cibeles Square on Sunday for Pope Leo XIV's public mass, the largest event of his weeklong visit to Spain. The pontiff praised Madrid as a welcoming and inclusive city, and urged leaders to stop dividing electorates. His visit also includes stops in Barcelona and the Canary Islands, where he will meet migrants and refugees.
+
+[2] FIFA U-turns on water bottle policy in US, Canada stadiums after backlash | World Cup 2026 | Al Jazeera
+Published: 2026-06-07T12:04:33Z
+URL: https://www.aljazeera.com/sports/2026/6/7/fifa-u-turns-on-water-bottle-policy-in-us-canada-stadiums-after-backlash
+Summary: FIFA reversed its ban on reusable water bottles at World Cup stadiums in the US and Canada after backlash, now allowing fans to bring one factory-sealed disposable 20-ounce water bottle. The initial policy change had drawn criticism from New York Mayor Zohran Mamdani and others concerned about hydration and heat risks. FIFA noted that hydration stations and cooling tents would be available, but the updated policy did not address stadiums in Mexico.
+
+[3] World Cup 2026 in numbers: Key statistical goals, titles and age records | World Cup 2026 News | Al Jazeera
+Published: 2026-06-07T12:33:24Z
+URL: https://www.aljazeera.com/sports/2026/6/7/world-cup-2026-in-numbers-key-statistical-goals-titles-and-age-records
+Summary: The 2026 World Cup is the largest ever, with three host nations, 104 matches, and a 48-team format. Brazil leads with five World Cup wins, while Germany's Miroslav Klose holds the record for most goals (16). The article also lists top scorers at single tournaments, including Just Fontaine's 13 goals in 1958.
+
+[4] Russian drone attack damages site near Chornobyl nuclear plant | Russia-Ukraine war News | Al Jazeera
+Published: 2026-06-07T12:47:23Z
+URL: https://www.aljazeera.com/news/2026/6/7/russian-drone-strike-damages-site-near-chornobyl-nuclear-plant
+Summary: A Russian drone attack damaged a spent nuclear fuel storage facility near the Chornobyl plant, according to Ukraine's President Zelenskyy. The IAEA confirmed the strike, but no radiation spike was detected, and no spent fuel was stored there at the time. Elsewhere, Russian attacks killed at least four people in Ukraine, as world leaders gathered in the UK to discuss pressuring Moscow.
+
+[5] 100 days into Iran war, Americans face higher prices | US-Israel war on Iran News | Al Jazeera
+Published: 2026-06-07T13:25:04Z
+URL: https://www.aljazeera.com/economy/2026/6/7/100-days-into-iran-war-americans-face-higher-prices
+Summary: A hundred days into the US-Israel war on Iran, American households have spent an average of $750 more on expenses, mainly on energy, according to Moody's Analytics. Gas prices surged to $4.22 per gallon, and inflation rose to 3.8%, hitting middle- and lower-income households hardest. A CBS News poll found 66% of Americans disapprove of Trump's handling of the conflict.
+
+[6] Why has the Pentagon raised the risk of Israeli spying to the highest level? | Explainer News | Al Jazeera
+Published: 2026-06-07T13:47:19Z
+URL: https://www.aljazeera.com/news/2026/6/7/why-has-the-pentagon-raised-the-risk-of-israeli-spying-to-the-highest-level
+Summary: The Pentagon's Defense Intelligence Agency has raised the espionage threat level from Israel to 'critical,' the highest category, according to media reports. The upgrade is based on intensified Israeli efforts to collect information on US officials involved in Iran negotiations, as Washington and Tel Aviv diverge on the war. Incidents include alleged surveillance of US personnel and software installed on phones.
+
+[7] Marc Marquez hits 100 career wins with Hungarian MotoGP victory | Motorsports News | Al Jazeera
+Published: 2026-06-07T14:12:16Z
+URL: https://www.aljazeera.com/sports/2026/6/7/marc-marquez-hits-100-career-wins-with-hungarian-motogp-victory
+Summary: Marc Marquez claimed his 100th career win across all classes at the Hungarian Grand Prix, his first victory of the season after shoulder and foot surgery. The seven-time MotoGP champion beat KTM's Pedro Acosta, with teammate Francesco Bagnaia finishing third. The race also saw a multi-rider crash involving Aprilia riders, but no fractures were reported.
+
+[8] Missiles and negotiations: Iran 100 days into the war with US and Israel | US-Israel war on Iran | Al Jazeera
+Published: 2026-06-07T14:14:29Z
+URL: https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel
+Summary: Iran remains defiant 100 days into the US-Israel war, with daily life disrupted by protests, bombardment, and internet shutdowns. Tehran's streets are filled with checkpoints and pro-government rallies, while institutions like parliament and universities remain closed or limited. New Supreme Leader Mojtaba Khamenei has not been seen publicly since taking over after his father's assassination.
+
+[9] Fifty-two hours on an Israeli prison ship | Crimes Against Humanity | Al Jazeera
+Published: 2026-06-07T14:14:50Z
+URL: https://www.aljazeera.com/features/2026/6/7/fifty-two-hours-on-an-israeli-prison-ship
+Summary: A flotilla activist recounts his 52-hour detention after Israeli forces intercepted a Gaza-bound solidarity mission in international waters. He describes being taken at gunpoint, beaten, and processed in a repurposed shipping container on the Israeli military landing craft Nahshon. The operation detained 428 activists from over 45 countries.
+
+[10] Israel kills nine in Gaza as Egypt hosts renewed 'ceasefire' talks | Israel-Palestine conflict News | Al Jazeera
+Published: 2026-06-07T14:31:33Z
+URL: https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo
+Summary: Israeli forces killed at least nine people in Gaza on Sunday, including five in a strike on a police post, as Egypt hosted ceasefire talks with Hamas and other factions. Major fighting has paused since October 2025, but a second phase of the ceasefire remains stalled over disagreements on Hamas disarmament and Israeli withdrawal. Since October, about 947 Palestinians have been killed in continued attacks.
+
+[11] Army frees 360 people abducted by Boko Haram in Nigeria's Borno State | Boko Haram News | Al Jazeera
+Published: 2026-06-07T14:39:53Z
+URL: https://www.aljazeera.com/news/2026/6/7/army-frees-360-abductees-after-clashes-with-boko-haram-in-nigerias-borno
+Summary: The Nigerian army rescued 360 people abducted by Boko Haram from the Mandara mountains in Borno State, though two infants died from harsh conditions. The operation involved intelligence gathering and psychological tactics, with some fighters fleeing or surrendering. Boko Haram had demanded millions of naira in ransom for the captives.
+
+[12] Peru polls open in Keiko Fujimori, Roberto Sanchez presidential run-off | Elections News | Al Jazeera
+Published: 2026-06-07T14:48:04Z
+URL: https://www.aljazeera.com/news/2026/6/7/peru-polls-open-in-keiko-fujimori-roberto-sanchez-presidential-runoff
+Summary: Polls opened in Peru's presidential run-off between right-wing Keiko Fujimori and leftist Roberto Sanchez, following a first round marred by logistical issues and fraud allegations. Fujimori, a former first lady, runs on a tough-on-crime platform, while Sanchez styles himself after former leftist President Pedro Castillo. The election is closely watched amid voter disillusionment and political turmoil.
+
+[13] The Taiz transplant team looking to begin a medical revolution in Yemen | Health News | Al Jazeera
+Published: 2026-06-07T14:56:35Z
+URL: https://www.aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future
+Summary: The Cardiac and Vascular Diseases and Kidney Transplant Center in Taiz, Yemen, has performed hundreds of lifesaving surgeries, including 164 kidney transplants and 1,450 open-heart surgeries since 2021. A recent medical camp treated 110 children for free, with international support. The center recently conducted its first three liver transplants, aiming to establish a sustainable program.
+
+[14] Iran's World Cup squad lands in Mexico amid US visa row | World Cup 2026 News | Al Jazeera
+Published: 2026-06-07T15:20:11Z
+URL: https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row
+Summary: Iran's World Cup squad arrived in Tijuana, Mexico, after the US denied visas to 15 administrative and management staff, though players received theirs. The team moved its base camp from Arizona to Mexico due to visa uncertainty. Iran's ambassador said the team must enter and leave US soil on the same day as matches, contradicting earlier statements.
+
+[15] From online class to Revolution Square: A Tehran teacher's routine amid war | US-Israel war on Iran | Al Jazeera
+Published: 2026-06-07T15:44:21Z
+URL: https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war
+Summary: A Tehran teacher, Mehran, navigates a wartime routine of weak internet for online classes, soaring medicine prices, and crowded public buses. His family struggles with limited bandwidth and cramped space, while essential medicines are scarce and costly. The war has disrupted daily life, with schools closed and the economy under pressure.
+
+[16] Ronaldo, other ageing stars push limits to make history at World Cup 2026 | World Cup 2026 News | Al Jazeera
+Published: 2026-06-07T15:51:50Z
+URL: https://www.aljazeera.com/sports/2026/6/7/ageing-stars-push-boundaries-at-the-2026-world-cup-career-longevity
+Summary: Several ageing football stars, including Cristiano Ronaldo (41) and Lionel Messi (39), are competing in the 2026 World Cup, pushing career longevity limits. Experts say sport science, culture, and motivation are key factors, though recovery takes longer with age. US captain Tim Ream, 38, is the oldest outfield player in a US World Cup squad.
+
+[17] Kimi Antonelli wins delayed Monaco Grand Prix to extend F1 lead | Motorsports News | Al Jazeera
+Published: 2026-06-07T15:58:59Z
+URL: https://www.aljazeera.com/sports/2026/6/7/kimi-antonelli-wins-delayed-monaco-grand-prix-to-extend-f1-lead
+Summary: Kimi Antonelli won a chaotic Monaco Grand Prix, his fifth consecutive victory, after a red flag due to a crumbling track surface. The 19-year-old Italian led from pole and remained unfazed during the restart, becoming the youngest winner of the race. Lewis Hamilton finished second, moving to second in the standings.
+
+[18] Authenticity is what American voters want | US Midterm Elections 2026 | Al Jazeera
+Published: 2026-06-07T16:03:48Z
+URL: https://www.aljazeera.com/opinions/2026/6/7/authenticity-is-what-american-voters-want
+Summary: The article argues that US Democratic primary results show voters favor authenticity over establishment politics, citing candidates Graham Platner and Adam Hamawy who speak plainly about Palestine. Both won their primaries despite party establishment opposition. The piece suggests that voters are seeking politicians willing to tell the truth on issues like Gaza.
+
+[19] People flood Madrid streets to see Pope Leo's flower-carpeted procession | Religion News | Al Jazeera
+Published: 2026-06-07T16:03:53Z
+URL: https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession
+Summary: Pope Leo XIV held a Mass for 1.2 million people in Madrid on Corpus Domini, featuring a procession over flower carpets made from 30,000 flowers. The pontiff urged unity and praised Spain's religious devotion. The event marked the first papal visit to Spain in 15 years.
+
+================================================================================
 RUN TIME UTC: 2026-06-07T11:48:28Z
 WINDOW: Last 6 hours
 ARTICLES USED: 11
