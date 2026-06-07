@@ -1,4 +1,68 @@
 ================================================================================
+RUN TIME UTC: 2026-06-07T11:48:28Z
+WINDOW: Last 6 hours
+ARTICLES USED: 11
+
+OVERALL SUMMARY
+The batch covers the 100-day mark of the US-Israel war on Iran, including diplomatic efforts, analyses of the conflict's impact, and regional reactions. It also includes news about the upcoming World Cup 2026, elections in Kosovo and Armenia, a shooting attack in Israel, and a tragic incident in Gaza during Eid.
+
+ARTICLE BREAKDOWN
+[1] Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader
+Published: 2026-06-07T08:45:01Z
+URL: https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader
+Summary: Pakistan's Interior Minister Mohsin Naqvi traveled to Tehran to deliver a 'special letter' from Pakistan's army chief and prime minister to Iran's Supreme Leader Mojtaba Khamenei, as part of diplomatic efforts to end the 100-day US-Israeli war on Iran. The visit comes amid renewed tensions in the Gulf, with the US Central Command reporting it shot down Iranian drones and struck Iranian radar sites, drawing condemnation from Gulf nations like Bahrain and Kuwait. Negotiations for a deal to end the war continue but remain elusive, with key sticking points including the unfreezing of Iranian assets.
+
+[2] Iran after 100 days of war: The triumph of survival
+Published: 2026-06-07T08:52:20Z
+URL: https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival
+Summary: This opinion piece argues that after 100 days of war, Iran views its ability to preserve its governing system amid a US-Israeli regime-change campaign as a clear victory. The war has killed over 3,400 Iranian citizens and severely damaged Iran's military and nuclear capabilities, but Iran's adversaries have also suffered significant losses, including damage to US bases and the closure of the Strait of Hormuz. The author suggests the most enduring effect of the war may be the uncertainty introduced into the regional security architecture.
+
+[3] The accomplishments of 100 days of war on Iran are undeniable
+Published: 2026-06-07T08:55:20Z
+URL: https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable
+Summary: This opinion piece argues that the US-Israel war on Iran has achieved significant successes, including the destruction of Iran's ballistic missile programme, navy, and nuclear sites at Fordow, Natanz, and Isfahan. The author contends that the killing of former Supreme Leader Ali Khamenei on the first day of the war was a major blow, and that while regime change has not yet materialized, it is a process that takes time. The piece concludes that the question is whether Washington has the fortitude to see the campaign through.
+
+[4] Who are the best star players to watch at World Cup 2026?
+Published: 2026-06-07T09:07:33Z
+URL: https://www.aljazeera.com/sports/2026/6/7/who-are-the-best-star-players-to-watch-at-fifa-world-cup-2026
+Summary: The article previews the FIFA World Cup 2026, which kicks off on June 11, by highlighting top players to watch, including Lionel Messi, Lamine Yamal, Kylian Mbappe, and Erling Haaland. Messi returns for a joint-record sixth appearance as Argentina defends its title, while Yamal, at 18, aims to build on his Euro 2024 success. Mbappe seeks to win the World Cup after a runner-up finish in 2022, and Haaland makes his World Cup debut after a prolific qualifying campaign.
+
+[5] How the hosts are preparing for an Ebola outbreak during World Cup 2026
+Published: 2026-06-07T09:33:07Z
+URL: https://www.aljazeera.com/sports/2026/6/7/how-the-hosts-are-preparing-for-an-ebola-outbreak-during-world-cup-2026
+Summary: The US, Mexico, and Canada have announced travel restrictions and enhanced screening measures to prevent the spread of an Ebola outbreak in East Africa during the World Cup. The outbreak of the Bundibugyo strain, first declared in the DRC on May 15, has infected at least 488 people and caused 86 deaths, with the WHO declaring it a public health emergency. The US has banned noncitizens who traveled to affected countries, while Canada has imposed a temporary ban on residents from those nations and a 21-day quarantine for others.
+
+[6] Hundred days of the US-Israel war on Iran
+Published: 2026-06-07T09:34:16Z
+URL: https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on
+Summary: This photo gallery documents the 100th day of the US-Israel war on Iran, describing a conflict that has settled into a grinding deadlock despite a Pakistan-brokered ceasefire. The war has killed at least 3,468 people in Iran and 3,593 in Lebanon, with Israel expanding its offensive there. The gallery features images of devastated neighborhoods, funerals, and other scenes illustrating the human cost of the conflict.
+
+[7] How have countries around the world responded to the US-Israel war on Iran?
+Published: 2026-06-07T09:35:31Z
+URL: https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran
+Summary: The article examines global responses to the 100-day US-Israel war on Iran, noting that European allies did not condemn the attacks but declined to get involved, while Gulf countries condemned Iranian attacks on their territories. Russia and China pushed back against the war, and countries affected by rising oil prices have called for a diplomatic solution, with Pakistan mediating talks. The piece details the evolving positions of Gulf states like Oman, which was dragged into the conflict when Iranian drones struck its ports.
+
+[8] Kosovo votes again amid political deadlock, seeking EU and NATO progress
+Published: 2026-06-07T09:39:09Z
+URL: https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress
+Summary: Kosovo held its third parliamentary election in 18 months to resolve a political impasse that has left the country without a functioning government and delayed EU and NATO integration. Prime Minister Albin Kurti's Vetevendosje party holds a majority, but broader consensus is needed to elect a president, with opposition parties accusing Kurti of seeking to control all institutions. The prolonged crisis has hurt Kosovo's economy, and analysts do not expect major changes in the election outcome.
+
+[9] An Eid celebration on a Gaza rooftop turns into a ‘horror movie’
+Published: 2026-06-07T10:17:59Z
+URL: https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie
+Summary: During an Eid al-Adha celebration on a Gaza City rooftop, a missile strike killed seven people, including two children, and injured 18 others. Widad Al-Husari fell through a hole caused by the missile while holding her three-year-old son, clinging to metal rods until rescued. The article describes the experiences of survivors, including a woman whose granddaughter was killed and another whose leg was amputated, highlighting the ongoing violence in Gaza.
+
+[10] One killed, five wounded in shooting attack in Israel: Medics
+Published: 2026-06-07T11:14:34Z
+URL: https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics
+Summary: A shooting attack in central Israel killed one man and wounded five others, with Israeli police killing a suspect described as a Palestinian citizen of Israel from Tayibe. The attack occurred at a gas station near Kochav Yair, with the shooter continuing to nearby towns before being killed. Hamas commended the attack but did not claim responsibility, and Israeli Prime Minister Benjamin Netanyahu's office held a situational assessment.
+
+[11] Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure
+Published: 2026-06-07T11:42:01Z
+URL: https://www.aljazeera.com/news/2026/6/7/armenians-vote-in-election-testing-move-towards-west-amid-russian-backlash
+Summary: Armenia held a parliamentary election seen as a test of Prime Minister Nikol Pashinyan's efforts to forge a peace deal with Azerbaijan and pivot towards Europe, away from Russia. Pashinyan's Civil Contract party faces opposition from pro-Moscow parties, with security and identity as top issues. Pashinyan framed the vote as a choice between lasting peace or a return to war, while Russian officials have made threats comparing Armenia's path to Ukraine's.
+
+================================================================================
 RUN TIME UTC: 2026-06-07T08:23:08Z
 WINDOW: Last 6 hours
 ARTICLES USED: 8
