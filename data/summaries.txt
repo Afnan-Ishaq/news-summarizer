@@ -1,4 +1,53 @@
 ================================================================================
+RUN TIME UTC: 2026-06-07T08:23:08Z
+WINDOW: Last 6 hours
+ARTICLES USED: 8
+
+OVERALL SUMMARY
+The batch covers a mix of topics: Kenyan graduates turning to AI farming, Xi Jinping's rare visit to North Korea, a detailed look at US-Iran war dynamics and peace attempts, a 100-day war data analysis, F1 qualifying results, ongoing US-Iran hostilities, Messi's injury ahead of the World Cup, and Lebanon's army chief visiting Pakistan amid Israeli attacks.
+
+ARTICLE BREAKDOWN
+[1] Kenyan graduates turn to AI tools for farming as jobs dry up
+Published: 2026-06-07T04:14:27Z
+URL: https://www.aljazeera.com/economy/2026/6/7/kenyan-graduates-turn-to-ai-tools-for-farming-as-jobs-dry-up
+Summary: The article profiles Kenyan graduates like Chepkorir Rotich who, unable to find formal employment, have turned to agriculture using AI tools and social media to market produce and share knowledge. Rotich uses platforms like YouTube and social media to reach young farmers, challenging the notion that the average African farmer is 60. A lecturer at the University of Nairobi advocates for youth to embrace agriculture with technology, noting a new training centre in Murang'a University.
+
+[2] Why is Chinese President Xi Jinping visiting North Korea now?
+Published: 2026-06-07T04:30:44Z
+URL: https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now
+Summary: 
+
+[3] How many times were the US and Iran on the verge of a deal?
+Published: 2026-06-07T04:51:02Z
+URL: https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal
+Summary: 
+
+[4] By the numbers: 100 days of the US-Israel war on Iran
+Published: 2026-06-07T05:30:52Z
+URL: https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran
+Summary: 
+
+[5] Teenager Antonelli snatches Monaco pole with ‘magic lap’ for Mercedes
+Published: 2026-06-07T06:31:07Z
+URL: https://www.aljazeera.com/sports/2026/6/7/teenager-antonelli-snatches-monaco-pole-with-magic-lap-for-mercedes
+Summary: 
+
+[6] Iran war day 100: US, Iran trade attacks again, raising tensions
+Published: 2026-06-07T07:33:38Z
+URL: https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions
+Summary: 
+
+[7] Messi sits out Argentina’s pre-World Cup friendly due to hamstring strain
+Published: 2026-06-07T07:47:37Z
+URL: https://www.aljazeera.com/sports/2026/6/7/messi-sits-out-argentinas-pre-world-cup-friendly-due-to-hamstring-strain
+Summary: 
+
+[8] Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel
+Published: 2026-06-07T07:59:02Z
+URL: https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel
+Summary: 
+
+================================================================================
 RUN TIME UTC: 2026-06-07T03:59:39Z
 WINDOW: Last 6 hours
 ARTICLES USED: 1

@@ -1,5 +1,61 @@
 [
   {
+    "time": "2026-06-07T08:23:08Z",
+    "window_hours": 6,
+    "article_count": 8,
+    "overall_summary": "The batch covers a mix of topics: Kenyan graduates turning to AI farming, Xi Jinping's rare visit to North Korea, a detailed look at US-Iran war dynamics and peace attempts, a 100-day war data analysis, F1 qualifying results, ongoing US-Iran hostilities, Messi's injury ahead of the World Cup, and Lebanon's army chief visiting Pakistan amid Israeli attacks.",
+    "articles": [
+      {
+        "title": "Kenyan graduates turn to AI tools for farming as jobs dry up",
+        "url": "https://www.aljazeera.com/economy/2026/6/7/kenyan-graduates-turn-to-ai-tools-for-farming-as-jobs-dry-up",
+        "published": "2026-06-07T04:14:27Z",
+        "summary": "The article profiles Kenyan graduates like Chepkorir Rotich who, unable to find formal employment, have turned to agriculture using AI tools and social media to market produce and share knowledge. Rotich uses platforms like YouTube and social media to reach young farmers, challenging the notion that the average African farmer is 60. A lecturer at the University of Nairobi advocates for youth to embrace agriculture with technology, noting a new training centre in Murang'a University."
+      },
+      {
+        "title": "Why is Chinese President Xi Jinping visiting North Korea now?",
+        "url": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now",
+        "published": "2026-06-07T04:30:44Z",
+        "summary": ""
+      },
+      {
+        "title": "How many times were the US and Iran on the verge of a deal?",
+        "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal",
+        "published": "2026-06-07T04:51:02Z",
+        "summary": ""
+      },
+      {
+        "title": "By the numbers: 100 days of the US-Israel war on Iran",
+        "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran",
+        "published": "2026-06-07T05:30:52Z",
+        "summary": ""
+      },
+      {
+        "title": "Teenager Antonelli snatches Monaco pole with ‘magic lap’ for Mercedes",
+        "url": "https://www.aljazeera.com/sports/2026/6/7/teenager-antonelli-snatches-monaco-pole-with-magic-lap-for-mercedes",
+        "published": "2026-06-07T06:31:07Z",
+        "summary": ""
+      },
+      {
+        "title": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+        "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions",
+        "published": "2026-06-07T07:33:38Z",
+        "summary": ""
+      },
+      {
+        "title": "Messi sits out Argentina’s pre-World Cup friendly due to hamstring strain",
+        "url": "https://www.aljazeera.com/sports/2026/6/7/messi-sits-out-argentinas-pre-world-cup-friendly-due-to-hamstring-strain",
+        "published": "2026-06-07T07:47:37Z",
+        "summary": ""
+      },
+      {
+        "title": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
+        "url": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel",
+        "published": "2026-06-07T07:59:02Z",
+        "summary": ""
+      }
+    ]
+  },
+  {
     "time": "2026-06-07T03:59:39Z",
     "window_hours": 6,
     "article_count": 1,
