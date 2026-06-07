@@ -1,5 +1,19 @@
 [
   {
+    "time": "2026-06-07T03:59:39Z",
+    "window_hours": 6,
+    "article_count": 1,
+    "overall_summary": "President Donald Trump pardoned former Republican Congressman Stephen Buyer, who was convicted of insider trading and served 22 months in prison. The pardon, dated Thursday and released Friday night, cites Buyer's military and political service, while Buyer claims the prosecution was politically motivated.",
+    "articles": [
+      {
+        "title": "Trump pardons former US Congress member accused of insider trading",
+        "url": "https://www.aljazeera.com/news/2026/6/6/trump-pardons-former-us-congress-member-accused-of-insider-trading",
+        "published": "2026-06-06T23:58:08Z",
+        "summary": "President Donald Trump pardoned Stephen Buyer, a former Republican congressman from Indiana, who was sentenced to 22 months in prison in 2023 for insider trading involving the T-Mobile-Sprint merger and Navigant acquisition. The pardon, dated Thursday and released Friday night, grants a full and unconditional pardon, with Trump citing Buyer's service as a judge advocate general and in the House. Buyer maintains his innocence and called the prosecution politically motivated, while letters from former and current Republican lawmakers supported the pardon, alleging he was targeted by the 'deep state'."
+      }
+    ]
+  },
+  {
     "time": "2026-06-06T21:05:33Z",
     "window_hours": 6,
     "article_count": 7,
